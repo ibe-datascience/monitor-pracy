@@ -8,13 +8,14 @@
   "continent": "north_america",
   "currency": "CRC"
  },
- "generated_at": "2026-09-30T20:37:00+00:00",
+ "generated_at": "2026-09-30T21:02:48+00:00",
  "coverage": {
   "first_month": "2025-07",
   "last_month": "2026-08",
   "collecting_since": "2026-07-31",
   "complete_from": "2026-08",
   "index_base_month": "2026-08",
+  "volume_sources": null,
   "note_pl": "Zbieranie trwa od 31.07.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
  },
  "headline": {
@@ -393,11 +394,6 @@
     },
     {
      "name": "Belén",
-     "n": 1,
-     "share": 0.023
-    },
-    {
-     "name": "Costa Rica",
      "n": 1,
      "share": 0.023
     },
@@ -947,11 +943,6 @@
      "share": 0.021
     },
     {
-     "name": "Costa Rica",
-     "n": 3,
-     "share": 0.021
-    },
-    {
      "name": "San Pedro",
      "n": 3,
      "share": 0.021
@@ -988,6 +979,11 @@
     },
     {
      "name": "Aguacaliente o San Francisco",
+     "n": 1,
+     "share": 0.007
+    },
+    {
+     "name": "Cartago",
      "n": 1,
      "share": 0.007
     }
@@ -1078,11 +1074,6 @@
      "share": 0.025
     },
     {
-     "name": "Costa Rica",
-     "n": 3,
-     "share": 0.019
-    },
-    {
      "name": "Grecia",
      "n": 3,
      "share": 0.019
@@ -1109,6 +1100,11 @@
     },
     {
      "name": "La Asunción",
+     "n": 2,
+     "share": 0.013
+    },
+    {
+     "name": "San Francisco",
      "n": 2,
      "share": 0.013
     }
@@ -1175,11 +1171,6 @@
      "share": 0.18
     },
     {
-     "name": "Costa Rica",
-     "n": 51,
-     "share": 0.107
-    },
-    {
      "name": "Alajuela",
      "n": 26,
      "share": 0.055
@@ -1236,6 +1227,11 @@
     },
     {
      "name": "Liberia",
+     "n": 4,
+     "share": 0.008
+    },
+    {
+     "name": "Nacascolo",
      "n": 4,
      "share": 0.008
     }
@@ -1302,11 +1298,6 @@
      "share": 0.119
     },
     {
-     "name": "Costa Rica",
-     "n": 130,
-     "share": 0.083
-    },
-    {
      "name": "Alajuela",
      "n": 129,
      "share": 0.083
@@ -1363,6 +1354,11 @@
     },
     {
      "name": "Nacascolo",
+     "n": 14,
+     "share": 0.009
+    },
+    {
+     "name": "Puntarenas",
      "n": 14,
      "share": 0.009
     }
@@ -1495,11 +1491,6 @@
      "share": 0.102
     },
     {
-     "name": "Costa Rica",
-     "n": 363,
-     "share": 0.054
-    },
-    {
      "name": "Cartago",
      "n": 248,
      "share": 0.037
@@ -1553,6 +1544,11 @@
      "name": "Puntarenas",
      "n": 52,
      "share": 0.008
+    },
+    {
+     "name": "San Carlos",
+     "n": 50,
+     "share": 0.007
     }
    ],
    "top_titles": [
@@ -1683,11 +1679,6 @@
      "share": 0.101
     },
     {
-     "name": "Costa Rica",
-     "n": 467,
-     "share": 0.053
-    },
-    {
      "name": "Cartago",
      "n": 342,
      "share": 0.039
@@ -1741,6 +1732,11 @@
      "name": "San Rafael",
      "n": 62,
      "share": 0.007
+    },
+    {
+     "name": "Tibás",
+     "n": 55,
+     "share": 0.006
     }
    ],
    "top_titles": [
@@ -2153,8 +2149,8 @@
     },
     {
      "name": "Cartago",
-     "n": 4,
-     "share": 0.012
+     "n": 5,
+     "share": 0.015
     },
     {
      "name": "Catedral",
@@ -2167,17 +2163,17 @@
      "share": 0.012
     },
     {
-     "name": "Costa Rica",
-     "n": 3,
-     "share": 0.009
-    },
-    {
      "name": "Escazú",
      "n": 3,
      "share": 0.009
     },
     {
      "name": "Extranjero",
+     "n": 3,
+     "share": 0.009
+    },
+    {
+     "name": "San Pedro",
      "n": 3,
      "share": 0.009
     }
@@ -2241,11 +2237,6 @@
      "share": 0.133
     },
     {
-     "name": "Costa Rica",
-     "n": 184,
-     "share": 0.084
-    },
-    {
      "name": "Alajuela",
      "n": 159,
      "share": 0.072
@@ -2296,12 +2287,17 @@
      "share": 0.009
     },
     {
+     "name": "Nacascolo",
+     "n": 18,
+     "share": 0.008
+    },
+    {
      "name": "San Carlos",
      "n": 15,
      "share": 0.007
     },
     {
-     "name": "Nacascolo",
+     "name": "Puntarenas",
      "n": 14,
      "share": 0.006
     }
@@ -2431,11 +2427,6 @@
      "share": 0.101
     },
     {
-     "name": "Costa Rica",
-     "n": 830,
-     "share": 0.053
-    },
-    {
      "name": "Cartago",
      "n": 590,
      "share": 0.038
@@ -2489,6 +2480,11 @@
      "name": "Santo Domingo",
      "n": 78,
      "share": 0.005
+    },
+    {
+     "name": "Tibás",
+     "n": 55,
+     "share": 0.004
     }
    ],
    "top_titles": [

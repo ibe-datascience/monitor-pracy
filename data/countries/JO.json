@@ -8,13 +8,14 @@
   "continent": "mena",
   "currency": "JOD"
  },
- "generated_at": "2026-09-30T20:37:00+00:00",
+ "generated_at": "2026-09-30T21:02:48+00:00",
  "coverage": {
   "first_month": "2026-08",
   "last_month": "2026-08",
   "collecting_since": "2026-08-04",
   "complete_from": "2026-08",
   "index_base_month": "2026-08",
+  "volume_sources": null,
   "note_pl": "Zbieranie trwa od 04.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
  },
  "headline": {
@@ -72,11 +73,6 @@
     }
    ],
    "top_cities": [
-    {
-     "name": "Jordan",
-     "n": 3596,
-     "share": 0.498
-    },
     {
      "name": "Amman",
      "n": 3366,
@@ -270,11 +266,6 @@
    ],
    "top_cities": [
     {
-     "name": "Jordan",
-     "n": 3596,
-     "share": 0.498
-    },
-    {
      "name": "Amman",
      "n": 3366,
      "share": 0.466
@@ -467,9 +458,9 @@
    "id": "cities",
    "icon": "map",
    "title_pl": "15 miast z ogłoszeniami",
-   "text_pl": "Najwięcej w: Jordan (50%), Amman (47%), Aqaba (3%).",
+   "text_pl": "Najwięcej w: Amman (47%), Aqaba (3%), Irbid (0%).",
    "title_en": "15 cities with postings",
-   "text_en": "Most in: Jordan (50%), Amman (47%), Aqaba (3%)."
+   "text_en": "Most in: Amman (47%), Aqaba (3%), Irbid (0%)."
   }
  ],
  "commentary": {

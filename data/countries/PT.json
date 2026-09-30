@@ -8,13 +8,14 @@
   "continent": "europe",
   "currency": "EUR"
  },
- "generated_at": "2026-09-30T20:37:00+00:00",
+ "generated_at": "2026-09-30T21:02:48+00:00",
  "coverage": {
   "first_month": "2025-09",
   "last_month": "2026-08",
   "collecting_since": "2026-08-01",
   "complete_from": "2026-08",
   "index_base_month": "2026-08",
+  "volume_sources": null,
   "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
  },
  "headline": {
@@ -1230,11 +1231,6 @@
      "share": 0.013
     },
     {
-     "name": "Portugal",
-     "n": 142,
-     "share": 0.013
-    },
-    {
      "name": "Alemanha",
      "n": 139,
      "share": 0.012
@@ -1253,6 +1249,11 @@
      "name": "Áustria",
      "n": 105,
      "share": 0.009
+    },
+    {
+     "name": "Viana do Castelo",
+     "n": 96,
+     "share": 0.008
     }
    ],
    "top_titles": [
@@ -1408,11 +1409,6 @@
      "share": 0.018
     },
     {
-     "name": "Portugal",
-     "n": 772,
-     "share": 0.016
-    },
-    {
      "name": "Vila Nova de Gaia",
      "n": 650,
      "share": 0.014
@@ -1440,6 +1436,11 @@
     {
      "name": "Maia",
      "n": 497,
+     "share": 0.01
+    },
+    {
+     "name": "Cascais",
+     "n": 455,
      "share": 0.01
     }
    ],
@@ -1571,11 +1572,6 @@
      "share": 0.046
     },
     {
-     "name": "Portugal",
-     "n": 2625,
-     "share": 0.041
-    },
-    {
      "name": "Aveiro",
      "n": 1859,
      "share": 0.029
@@ -1629,6 +1625,11 @@
      "name": "Maia",
      "n": 496,
      "share": 0.008
+    },
+    {
+     "name": "Albufeira",
+     "n": 442,
+     "share": 0.007
     }
    ],
    "top_titles": [
@@ -2184,14 +2185,14 @@
      "share": 0.007
     },
     {
-     "name": "Portugal",
-     "n": 142,
-     "share": 0.007
-    },
-    {
      "name": "Alemanha",
      "n": 139,
      "share": 0.007
+    },
+    {
+     "name": "Portimão",
+     "n": 109,
+     "share": 0.005
     }
    ],
    "top_titles": [
@@ -2324,11 +2325,6 @@
      "share": 0.031
     },
     {
-     "name": "Portugal",
-     "n": 3397,
-     "share": 0.031
-    },
-    {
      "name": "Faro",
      "n": 2301,
      "share": 0.021
@@ -2376,6 +2372,11 @@
     {
      "name": "Viseu",
      "n": 585,
+     "share": 0.005
+    },
+    {
+     "name": "Oeiras",
+     "n": 532,
      "share": 0.005
     }
    ],
@@ -2506,10 +2507,10 @@
   {
    "id": "mover",
    "icon": "city",
-   "title_pl": "Największa zmiana: Portugal +240,0%",
-   "text_pl": "2 625 ogłoszeń wobec 772 miesiąc wcześniej.",
-   "title_en": "Biggest move: Portugal +240.0%",
-   "text_en": "2,625 postings vs 772 a month earlier."
+   "title_pl": "Największa zmiana: Lisboa +78,8%",
+   "text_pl": "20 733 ogłoszeń wobec 11 593 miesiąc wcześniej.",
+   "title_en": "Biggest move: Lisboa +78.8%",
+   "text_en": "20,733 postings vs 11,593 a month earlier."
   },
   {
    "id": "salary",

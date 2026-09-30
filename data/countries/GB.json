@@ -8,13 +8,14 @@
   "continent": "europe",
   "currency": "GBP"
  },
- "generated_at": "2026-09-30T20:37:00+00:00",
+ "generated_at": "2026-09-30T21:02:48+00:00",
  "coverage": {
   "first_month": "2025-10",
   "last_month": "2026-08",
   "collecting_since": "2026-08-01",
   "complete_from": "2026-08",
   "index_base_month": "2026-08",
+  "volume_sources": null,
   "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
  },
  "headline": {
@@ -967,11 +968,6 @@
      "share": 0.012
     },
     {
-     "name": "United Kingdom",
-     "n": 346,
-     "share": 0.011
-    },
-    {
      "name": "Remote",
      "n": 332,
      "share": 0.01
@@ -1004,6 +1000,11 @@
     {
      "name": "Southampton",
      "n": 210,
+     "share": 0.006
+    },
+    {
+     "name": "Sheffield",
+     "n": 202,
      "share": 0.006
     }
    ],
@@ -1089,11 +1090,6 @@
      "share": 0.013
     },
     {
-     "name": "United Kingdom",
-     "n": 864,
-     "share": 0.011
-    },
-    {
      "name": "Edinburgh",
      "n": 785,
      "share": 0.01
@@ -1132,6 +1128,11 @@
      "name": "Reading",
      "n": 429,
      "share": 0.006
+    },
+    {
+     "name": "Leicester",
+     "n": 407,
+     "share": 0.005
     }
    ],
    "top_titles": [
@@ -1282,11 +1283,6 @@
      "share": 0.011
     },
     {
-     "name": "United Kingdom",
-     "n": 4420,
-     "share": 0.011
-    },
-    {
      "name": "Belfast",
      "n": 3955,
      "share": 0.01
@@ -1320,6 +1316,11 @@
      "name": "Leicester",
      "n": 2716,
      "share": 0.007
+    },
+    {
+     "name": "Remote",
+     "n": 2315,
+     "share": 0.006
     }
    ],
    "top_titles": [
@@ -1450,11 +1451,6 @@
      "share": 0.017
     },
     {
-     "name": "United Kingdom",
-     "n": 12560,
-     "share": 0.016
-    },
-    {
      "name": "Glasgow",
      "n": 12181,
      "share": 0.016
@@ -1507,6 +1503,11 @@
     {
      "name": "Leicester",
      "n": 4198,
+     "share": 0.005
+    },
+    {
+     "name": "Aberdeen",
+     "n": 4040,
      "share": 0.005
     }
    ],
@@ -1920,11 +1921,6 @@
      "share": 0.01
     },
     {
-     "name": "United Kingdom",
-     "n": 1210,
-     "share": 0.01
-    },
-    {
      "name": "Belfast",
      "n": 942,
      "share": 0.007
@@ -1952,6 +1948,11 @@
     {
      "name": "Aberdeen",
      "n": 440,
+     "share": 0.003
+    },
+    {
+     "name": "Leicester",
+     "n": 407,
      "share": 0.003
     }
    ],
@@ -2085,11 +2086,6 @@
      "share": 0.015
     },
     {
-     "name": "United Kingdom",
-     "n": 16980,
-     "share": 0.014
-    },
-    {
      "name": "Edinburgh",
      "n": 15906,
      "share": 0.013
@@ -2138,6 +2134,11 @@
      "name": "Leicester",
      "n": 6914,
      "share": 0.006
+    },
+    {
+     "name": "Aberdeen",
+     "n": 4040,
+     "share": 0.003
     }
    ],
    "top_titles": [
@@ -2267,10 +2268,10 @@
   {
    "id": "mover",
    "icon": "city",
-   "title_pl": "Największa zmiana: United Kingdom +184,2%",
-   "text_pl": "12 560 ogłoszeń wobec 4 420 miesiąc wcześniej.",
-   "title_en": "Biggest move: United Kingdom +184.2%",
-   "text_en": "12,560 postings vs 4,420 a month earlier."
+   "title_pl": "Największa zmiana: Edinburgh +143,5%",
+   "text_pl": "11 276 ogłoszeń wobec 4 630 miesiąc wcześniej.",
+   "title_en": "Biggest move: Edinburgh +143.5%",
+   "text_en": "11,276 postings vs 4,630 a month earlier."
   },
   {
    "id": "salary",

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-30T20:37:00+00:00",
+ "generated_at": "2026-09-30T21:02:48+00:00",
  "default_country": "PL",
  "continents": [
   {
@@ -734,8 +734,8 @@
    "continent": "europe",
    "currency": "PLN",
    "latest_month": "2026-08",
-   "postings_latest": 314218,
-   "mom_pct": null,
+   "postings_latest": 60723,
+   "mom_pct": -10.3,
    "salary_median": 5373,
    "sources": 4,
    "data_quality": "ok"

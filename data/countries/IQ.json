@@ -8,13 +8,14 @@
   "continent": "mena",
   "currency": "IQD"
  },
- "generated_at": "2026-09-30T20:37:00+00:00",
+ "generated_at": "2026-09-30T21:02:48+00:00",
  "coverage": {
   "first_month": "2026-08",
   "last_month": "2026-08",
   "collecting_since": "2026-08-04",
   "complete_from": "2026-08",
   "index_base_month": "2026-08",
+  "volume_sources": null,
   "note_pl": "Zbieranie trwa od 04.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
  },
  "headline": {
@@ -72,11 +73,6 @@
     }
    ],
    "top_cities": [
-    {
-     "name": "Iraq",
-     "n": 1443,
-     "share": 0.75
-    },
     {
      "name": "Baghdad",
      "n": 196,
@@ -145,6 +141,11 @@
     {
      "name": "القليوبية",
      "n": 2,
+     "share": 0.001
+    },
+    {
+     "name": "Abu Dhabi",
+     "n": 1,
      "share": 0.001
     }
    ],
@@ -270,11 +271,6 @@
    ],
    "top_cities": [
     {
-     "name": "Iraq",
-     "n": 1443,
-     "share": 0.75
-    },
-    {
      "name": "Baghdad",
      "n": 196,
      "share": 0.102
@@ -342,6 +338,11 @@
     {
      "name": "القليوبية",
      "n": 2,
+     "share": 0.001
+    },
+    {
+     "name": "Abu Dhabi",
+     "n": 1,
      "share": 0.001
     }
    ],
@@ -467,9 +468,9 @@
    "id": "cities",
    "icon": "map",
    "title_pl": "26 miast z ogłoszeniami",
-   "text_pl": "Najwięcej w: Iraq (75%), Baghdad (10%), Basra (8%).",
+   "text_pl": "Najwięcej w: Baghdad (10%), Basra (8%), Erbil (2%).",
    "title_en": "26 cities with postings",
-   "text_en": "Most in: Iraq (75%), Baghdad (10%), Basra (8%)."
+   "text_en": "Most in: Baghdad (10%), Basra (8%), Erbil (2%)."
   }
  ],
  "commentary": {

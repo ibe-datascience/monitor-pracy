@@ -8,13 +8,14 @@
   "continent": "south_america",
   "currency": "CLP"
  },
- "generated_at": "2026-09-30T20:37:00+00:00",
+ "generated_at": "2026-09-30T21:02:48+00:00",
  "coverage": {
   "first_month": "2026-05",
   "last_month": "2026-08",
   "collecting_since": "2026-08-01",
   "complete_from": "2026-08",
   "index_base_month": "2026-08",
+  "volume_sources": null,
   "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
  },
  "headline": {
@@ -593,11 +594,6 @@
      "share": 0.283
     },
     {
-     "name": "Chile",
-     "n": 32624,
-     "share": 0.073
-    },
-    {
      "name": "Región Metropolitana",
      "n": 31801,
      "share": 0.071
@@ -661,6 +657,11 @@
      "name": "Santiago de Chile",
      "n": 5624,
      "share": 0.013
+    },
+    {
+     "name": "San Bernardo",
+     "n": 4992,
+     "share": 0.011
     }
    ],
    "top_titles": [
@@ -992,11 +993,6 @@
      "share": 0.063
     },
     {
-     "name": "Chile",
-     "n": 32624,
-     "share": 0.06
-    },
-    {
      "name": "Antofagasta",
      "n": 29061,
      "share": 0.053
@@ -1050,6 +1046,11 @@
      "name": "Copiapó",
      "n": 8724,
      "share": 0.016
+    },
+    {
+     "name": "San Bernardo",
+     "n": 6787,
+     "share": 0.012
     },
     {
      "name": "Iquique",
@@ -1217,9 +1218,9 @@
    "id": "cities",
    "icon": "map",
    "title_pl": "491 miast z ogłoszeniami",
-   "text_pl": "Najwięcej w: Santiago (28%), Chile (7%), Región Metropolitana (7%).",
+   "text_pl": "Najwięcej w: Santiago (28%), Región Metropolitana (7%), Antofagasta (5%).",
    "title_en": "491 cities with postings",
-   "text_en": "Most in: Santiago (28%), Chile (7%), Región Metropolitana (7%)."
+   "text_en": "Most in: Santiago (28%), Región Metropolitana (7%), Antofagasta (5%)."
   }
  ],
  "commentary": null,

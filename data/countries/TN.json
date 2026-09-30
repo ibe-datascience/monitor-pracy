@@ -8,13 +8,14 @@
   "continent": "mena",
   "currency": "TND"
  },
- "generated_at": "2026-09-30T20:37:00+00:00",
+ "generated_at": "2026-09-30T21:02:48+00:00",
  "coverage": {
   "first_month": "2026-08",
   "last_month": "2026-08",
   "collecting_since": "2026-08-04",
   "complete_from": "2026-08",
   "index_base_month": "2026-08",
+  "volume_sources": null,
   "note_pl": "Zbieranie trwa od 04.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
  },
  "headline": {
@@ -76,11 +77,6 @@
      "name": "Tunis",
      "n": 923,
      "share": 0.564
-    },
-    {
-     "name": "Tunisia",
-     "n": 693,
-     "share": 0.424
     },
     {
      "name": "Susa",
@@ -240,11 +236,6 @@
      "share": 0.564
     },
     {
-     "name": "Tunisia",
-     "n": 693,
-     "share": 0.424
-    },
-    {
      "name": "Susa",
      "n": 10,
      "share": 0.006
@@ -397,9 +388,9 @@
    "id": "cities",
    "icon": "map",
    "title_pl": "8 miast z ogłoszeniami",
-   "text_pl": "Najwięcej w: Tunis (56%), Tunisia (42%), Susa (1%).",
+   "text_pl": "Najwięcej w: Tunis (56%), Susa (1%), Susse (0%).",
    "title_en": "8 cities with postings",
-   "text_en": "Most in: Tunis (56%), Tunisia (42%), Susa (1%)."
+   "text_en": "Most in: Tunis (56%), Susa (1%), Susse (0%)."
   }
  ],
  "commentary": null,

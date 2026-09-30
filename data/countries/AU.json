@@ -8,13 +8,14 @@
   "continent": "asia_pacific",
   "currency": "AUD"
  },
- "generated_at": "2026-09-30T20:37:00+00:00",
+ "generated_at": "2026-09-30T21:02:48+00:00",
  "coverage": {
   "first_month": "2026-02",
   "last_month": "2026-08",
   "collecting_since": "2026-08-01",
   "complete_from": "2026-08",
   "index_base_month": "2026-08",
+  "volume_sources": null,
   "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
  },
  "headline": {
@@ -483,11 +484,6 @@
      "share": 0.013
     },
     {
-     "name": "Australia",
-     "n": 131,
-     "share": 0.011
-    },
-    {
      "name": "Victoria",
      "n": 104,
      "share": 0.009
@@ -520,6 +516,11 @@
     {
      "name": "Mackay",
      "n": 60,
+     "share": 0.005
+    },
+    {
+     "name": "Gold Coast",
+     "n": 57,
      "share": 0.005
     }
    ],
@@ -605,11 +606,6 @@
      "share": 0.014
     },
     {
-     "name": "Australia",
-     "n": 382,
-     "share": 0.013
-    },
-    {
      "name": "Queensland",
      "n": 368,
      "share": 0.013
@@ -648,6 +644,11 @@
      "name": "Hobart",
      "n": 139,
      "share": 0.005
+    },
+    {
+     "name": "South Australia",
+     "n": 118,
+     "share": 0.004
     }
    ],
    "top_titles": [
@@ -798,11 +799,6 @@
      "share": 0.011
     },
     {
-     "name": "Australia",
-     "n": 1618,
-     "share": 0.011
-    },
-    {
      "name": "Victoria",
      "n": 1431,
      "share": 0.009
@@ -835,6 +831,11 @@
     {
      "name": "Melbourne CBD, VIC",
      "n": 669,
+     "share": 0.004
+    },
+    {
+     "name": "Gold Coast",
+     "n": 605,
      "share": 0.004
     }
    ],
@@ -986,11 +987,6 @@
      "share": 0.012
     },
     {
-     "name": "Australia",
-     "n": 3303,
-     "share": 0.012
-    },
-    {
      "name": "Canberra 2600, ACT",
      "n": 3047,
      "share": 0.011
@@ -1024,6 +1020,11 @@
      "name": "Hobart",
      "n": 1308,
      "share": 0.005
+    },
+    {
+     "name": "Gold Coast",
+     "n": 1170,
+     "share": 0.004
     }
    ],
    "top_titles": [
@@ -1323,11 +1324,6 @@
      "share": 0.012
     },
     {
-     "name": "Australia",
-     "n": 513,
-     "share": 0.011
-    },
-    {
      "name": "Darwin",
      "n": 360,
      "share": 0.008
@@ -1345,6 +1341,11 @@
     {
      "name": "Australian Capital Territory",
      "n": 206,
+     "share": 0.004
+    },
+    {
+     "name": "South Australia",
+     "n": 176,
      "share": 0.004
     },
     {
@@ -1498,11 +1499,6 @@
      "share": 0.012
     },
     {
-     "name": "Australia",
-     "n": 4921,
-     "share": 0.011
-    },
-    {
      "name": "Canberra 2600, ACT",
      "n": 4270,
      "share": 0.01
@@ -1536,6 +1532,11 @@
      "name": "Hobart",
      "n": 2038,
      "share": 0.005
+    },
+    {
+     "name": "Gold Coast",
+     "n": 1775,
+     "share": 0.004
     }
    ],
    "top_titles": [

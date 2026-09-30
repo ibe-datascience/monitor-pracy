@@ -8,13 +8,14 @@
   "continent": "mena",
   "currency": "AED"
  },
- "generated_at": "2026-09-30T20:37:00+00:00",
+ "generated_at": "2026-09-30T21:02:48+00:00",
  "coverage": {
   "first_month": "2026-08",
   "last_month": "2026-08",
   "collecting_since": "2026-08-05",
   "complete_from": "2026-08",
   "index_base_month": "2026-08",
+  "volume_sources": null,
   "note_pl": "Zbieranie trwa od 05.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
  },
  "headline": {
@@ -133,11 +134,6 @@
      "share": 0.003
     },
     {
-     "name": "United Arab Emirates",
-     "n": 111,
-     "share": 0.003
-    },
-    {
      "name": "United Arab Emirates (UAE)",
      "n": 66,
      "share": 0.002
@@ -145,6 +141,11 @@
     {
      "name": "Ajman Emirate",
      "n": 57,
+     "share": 0.001
+    },
+    {
+     "name": "Remote",
+     "n": 52,
      "share": 0.001
     }
    ],
@@ -330,11 +331,6 @@
      "share": 0.003
     },
     {
-     "name": "United Arab Emirates",
-     "n": 111,
-     "share": 0.003
-    },
-    {
      "name": "United Arab Emirates (UAE)",
      "n": 66,
      "share": 0.002
@@ -342,6 +338,11 @@
     {
      "name": "Ajman Emirate",
      "n": 57,
+     "share": 0.001
+    },
+    {
+     "name": "Remote",
+     "n": 52,
      "share": 0.001
     }
    ],

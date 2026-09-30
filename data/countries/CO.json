@@ -8,13 +8,14 @@
   "continent": "south_america",
   "currency": "COP"
  },
- "generated_at": "2026-09-30T20:37:00+00:00",
+ "generated_at": "2026-09-30T21:02:48+00:00",
  "coverage": {
   "first_month": "2026-05",
   "last_month": "2026-08",
   "collecting_since": "2026-08-01",
   "complete_from": "2026-08",
   "index_base_month": "2026-08",
+  "volume_sources": null,
   "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
  },
  "headline": {
@@ -125,11 +126,6 @@
      "share": 0.015
     },
     {
-     "name": "Colombia",
-     "n": 104,
-     "share": 0.013
-    },
-    {
      "name": "Desde casa",
      "n": 101,
      "share": 0.012
@@ -158,6 +154,11 @@
      "name": "Funza, Cundinamarca",
      "n": 72,
      "share": 0.009
+    },
+    {
+     "name": "Barranquilla",
+     "n": 51,
+     "share": 0.006
     }
    ],
    "top_titles": [],
@@ -272,11 +273,6 @@
      "share": 0.008
     },
     {
-     "name": "Colombia",
-     "n": 226,
-     "share": 0.008
-    },
-    {
      "name": "Manizales, Caldas",
      "n": 218,
      "share": 0.008
@@ -285,6 +281,11 @@
      "name": "Yumbo, Valle del Cauca",
      "n": 184,
      "share": 0.007
+    },
+    {
+     "name": "Villavicencio, Meta",
+     "n": 172,
+     "share": 0.006
     }
    ],
    "top_titles": [
@@ -593,11 +594,6 @@
      "share": 0.251
     },
     {
-     "name": "Colombia",
-     "n": 83153,
-     "share": 0.117
-    },
-    {
      "name": "Medellín",
      "n": 64245,
      "share": 0.09
@@ -660,6 +656,11 @@
     {
      "name": "Rionegro",
      "n": 5558,
+     "share": 0.008
+    },
+    {
+     "name": "Ibagué",
+     "n": 5466,
      "share": 0.008
     }
    ],
@@ -852,11 +853,6 @@
      "share": 0.011
     },
     {
-     "name": "Colombia",
-     "n": 330,
-     "share": 0.009
-    },
-    {
      "name": "Rionegro, Antioquia",
      "n": 305,
      "share": 0.009
@@ -869,6 +865,11 @@
     {
      "name": "Yumbo, Valle del Cauca",
      "n": 184,
+     "share": 0.005
+    },
+    {
+     "name": "Villavicencio, Meta",
+     "n": 172,
      "share": 0.005
     }
    ],
@@ -992,11 +993,6 @@
      "share": 0.112
     },
     {
-     "name": "Colombia",
-     "n": 83153,
-     "share": 0.098
-    },
-    {
      "name": "Medellín",
      "n": 69522,
      "share": 0.082
@@ -1055,6 +1051,11 @@
      "name": "Rionegro",
      "n": 5558,
      "share": 0.007
+    },
+    {
+     "name": "Ibagué",
+     "n": 5466,
+     "share": 0.006
     }
    ],
    "top_titles": [
@@ -1217,9 +1218,9 @@
    "id": "cities",
    "icon": "map",
    "title_pl": "1 843 miasta z ogłoszeniami",
-   "text_pl": "Najwięcej w: Bogotá DC (25%), Colombia (12%), Medellín (9%).",
+   "text_pl": "Najwięcej w: Bogotá DC (25%), Medellín (9%), Bogotá, D.C. (8%).",
    "title_en": "1,843 cities with postings",
-   "text_en": "Most in: Bogotá DC (25%), Colombia (12%), Medellín (9%)."
+   "text_en": "Most in: Bogotá DC (25%), Medellín (9%), Bogotá, D.C. (8%)."
   }
  ],
  "commentary": null,

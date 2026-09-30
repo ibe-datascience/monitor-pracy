@@ -8,13 +8,14 @@
   "continent": "north_america",
   "currency": "USD"
  },
- "generated_at": "2026-09-30T20:37:00+00:00",
+ "generated_at": "2026-09-30T21:02:48+00:00",
  "coverage": {
   "first_month": "2026-03",
   "last_month": "2026-08",
   "collecting_since": "2026-08-01",
   "complete_from": "2026-08",
   "index_base_month": "2026-08",
+  "volume_sources": null,
   "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
  },
  "headline": {
@@ -357,11 +358,6 @@
      "share": 0.022
     },
     {
-     "name": "Canada",
-     "n": 818,
-     "share": 0.021
-    },
-    {
      "name": "Edmonton",
      "n": 805,
      "share": 0.021
@@ -399,6 +395,11 @@
     {
      "name": "Burnaby",
      "n": 325,
+     "share": 0.008
+    },
+    {
+     "name": "Saskatoon",
+     "n": 316,
      "share": 0.008
     }
    ],
@@ -504,11 +505,6 @@
      "share": 0.015
     },
     {
-     "name": "Canada",
-     "n": 898,
-     "share": 0.013
-    },
-    {
      "name": "Montréal, QC",
      "n": 816,
      "share": 0.012
@@ -526,6 +522,11 @@
     {
      "name": "Burnaby",
      "n": 630,
+     "share": 0.009
+    },
+    {
+     "name": "Markham",
+     "n": 623,
      "share": 0.009
     }
    ],
@@ -1202,11 +1203,6 @@
      "share": 0.014
     },
     {
-     "name": "Canada",
-     "n": 1716,
-     "share": 0.013
-    },
-    {
      "name": "Montréal, QC",
      "n": 1598,
      "share": 0.013
@@ -1229,6 +1225,11 @@
     {
      "name": "Montreal",
      "n": 634,
+     "share": 0.005
+    },
+    {
+     "name": "Markham",
+     "n": 623,
      "share": 0.005
     }
    ],

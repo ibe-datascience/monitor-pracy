@@ -8,13 +8,14 @@
   "continent": "europe",
   "currency": "EUR"
  },
- "generated_at": "2026-09-30T20:37:00+00:00",
+ "generated_at": "2026-09-30T21:02:48+00:00",
  "coverage": {
   "first_month": "2025-09",
   "last_month": "2026-08",
   "collecting_since": "2026-08-03",
   "complete_from": "2026-08",
   "index_base_month": "2026-08",
+  "volume_sources": null,
   "note_pl": "Zbieranie trwa od 03.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
  },
  "headline": {
@@ -72,11 +73,6 @@
     }
    ],
    "top_cities": [
-    {
-     "name": "Luxembourg",
-     "n": 7,
-     "share": 0.074
-    },
     {
      "name": "Contern",
      "n": 4,
@@ -178,11 +174,6 @@
      "share": 0.132
     },
     {
-     "name": "Luxembourg",
-     "n": 6,
-     "share": 0.088
-    },
-    {
      "name": "Luxembourg City",
      "n": 6,
      "share": 0.088
@@ -246,6 +237,11 @@
      "name": "Koerich",
      "n": 1,
      "share": 0.015
+    },
+    {
+     "name": "Weiswampach",
+     "n": 1,
+     "share": 0.015
     }
    ],
    "top_titles": [],
@@ -287,11 +283,6 @@
     }
    ],
    "top_cities": [
-    {
-     "name": "Luxembourg",
-     "n": 16,
-     "share": 0.174
-    },
     {
      "name": "Ettelbruck",
      "n": 6,
@@ -361,6 +352,11 @@
      "name": "Ehsh-sjur-Al'zet",
      "n": 1,
      "share": 0.011
+    },
+    {
+     "name": "Luxembourg City",
+     "n": 1,
+     "share": 0.011
     }
    ],
    "top_titles": [],
@@ -402,11 +398,6 @@
     }
    ],
    "top_cities": [
-    {
-     "name": "Luxembourg",
-     "n": 12,
-     "share": 0.179
-    },
     {
      "name": "Roost",
      "n": 6,
@@ -518,11 +509,6 @@
    ],
    "top_cities": [
     {
-     "name": "Luxembourg",
-     "n": 13,
-     "share": 0.143
-    },
-    {
      "name": "Luxembourg City",
      "n": 6,
      "share": 0.066
@@ -591,6 +577,11 @@
      "name": "Bettembourg",
      "n": 1,
      "share": 0.011
+    },
+    {
+     "name": "Clervaux",
+     "n": 1,
+     "share": 0.011
     }
    ],
    "top_titles": [],
@@ -632,11 +623,6 @@
     }
    ],
    "top_cities": [
-    {
-     "name": "Luxembourg",
-     "n": 30,
-     "share": 0.142
-    },
     {
      "name": "Ehsh-sjur-Al'zet",
      "n": 6,
@@ -706,6 +692,11 @@
      "name": "Strassen",
      "n": 2,
      "share": 0.009
+    },
+    {
+     "name": "Bascharage",
+     "n": 1,
+     "share": 0.005
     }
    ],
    "top_titles": [],
@@ -747,11 +738,6 @@
     }
    ],
    "top_cities": [
-    {
-     "name": "Luxembourg",
-     "n": 57,
-     "share": 0.211
-    },
     {
      "name": "Capellen",
      "n": 21,
@@ -821,6 +807,11 @@
      "name": "Heinerscheid",
      "n": 3,
      "share": 0.011
+    },
+    {
+     "name": "Maerel",
+     "n": 3,
+     "share": 0.011
     }
    ],
    "top_titles": [],
@@ -862,11 +853,6 @@
     }
    ],
    "top_cities": [
-    {
-     "name": "Luxembourg",
-     "n": 66,
-     "share": 0.199
-    },
     {
      "name": "Luxembourg City",
      "n": 15,
@@ -936,6 +922,11 @@
      "name": "Vil'c",
      "n": 3,
      "share": 0.009
+    },
+    {
+     "name": "Bascharage",
+     "n": 2,
+     "share": 0.006
     }
    ],
    "top_titles": [],
@@ -983,11 +974,6 @@
     }
    ],
    "top_cities": [
-    {
-     "name": "Luxembourg",
-     "n": 100,
-     "share": 0.102
-    },
     {
      "name": "Luxemburg",
      "n": 62,
@@ -1057,6 +1043,11 @@
      "name": "Schieren",
      "n": 15,
      "share": 0.015
+    },
+    {
+     "name": "Bissen",
+     "n": 14,
+     "share": 0.014
     }
    ],
    "top_titles": [],
@@ -1104,11 +1095,6 @@
     }
    ],
    "top_cities": [
-    {
-     "name": "Luxembourg",
-     "n": 250,
-     "share": 0.139
-    },
     {
      "name": "Esch an der Alzette",
      "n": 104,
@@ -1178,6 +1164,11 @@
      "name": "Bartringen",
      "n": 23,
      "share": 0.013
+    },
+    {
+     "name": "Mersch",
+     "n": 21,
+     "share": 0.012
     }
    ],
    "top_titles": [
@@ -1292,11 +1283,6 @@
      "share": 0.111
     },
     {
-     "name": "Luxembourg",
-     "n": 451,
-     "share": 0.102
-    },
-    {
      "name": "Esch an der Alzette",
      "n": 310,
      "share": 0.07
@@ -1359,6 +1345,11 @@
     {
      "name": "Differdingen",
      "n": 46,
+     "share": 0.01
+    },
+    {
+     "name": "Mersch",
+     "n": 43,
      "share": 0.01
     }
    ],
@@ -1474,11 +1465,6 @@
      "share": 0.427
     },
     {
-     "name": "Luxembourg",
-     "n": 411,
-     "share": 0.059
-    },
-    {
      "name": "Esch an der Alzette",
      "n": 203,
      "share": 0.029
@@ -1542,6 +1528,11 @@
      "name": "Mamer",
      "n": 55,
      "share": 0.008
+    },
+    {
+     "name": "Bertrange",
+     "n": 50,
+     "share": 0.007
     }
    ],
    "top_titles": [
@@ -1666,11 +1657,6 @@
    ],
    "top_cities": [
     {
-     "name": "Luxembourg",
-     "n": 7,
-     "share": 0.074
-    },
-    {
      "name": "Contern",
      "n": 4,
      "share": 0.043
@@ -1763,11 +1749,6 @@
    ],
    "top_cities": [
     {
-     "name": "Luxembourg",
-     "n": 34,
-     "share": 0.15
-    },
-    {
      "name": "Kehlen",
      "n": 9,
      "share": 0.04
@@ -1778,12 +1759,12 @@
      "share": 0.04
     },
     {
-     "name": "Bertrange",
-     "n": 7,
-     "share": 0.031
+     "name": "Luxembourg City",
+     "n": 8,
+     "share": 0.035
     },
     {
-     "name": "Luxembourg City",
+     "name": "Bertrange",
      "n": 7,
      "share": 0.031
     },
@@ -1836,6 +1817,11 @@
      "name": "Bissen",
      "n": 2,
      "share": 0.009
+    },
+    {
+     "name": "Capellen",
+     "n": 2,
+     "share": 0.009
     }
    ],
    "top_titles": [],
@@ -1874,11 +1860,6 @@
     }
    ],
    "top_cities": [
-    {
-     "name": "Luxembourg",
-     "n": 100,
-     "share": 0.175
-    },
     {
      "name": "Luxembourg City",
      "n": 27,
@@ -1948,6 +1929,11 @@
      "name": "Wecker",
      "n": 5,
      "share": 0.009
+    },
+    {
+     "name": "Differdange",
+     "n": 4,
+     "share": 0.007
     }
    ],
    "top_titles": [],
@@ -1992,11 +1978,6 @@
     }
    ],
    "top_cities": [
-    {
-     "name": "Luxembourg",
-     "n": 416,
-     "share": 0.134
-    },
     {
      "name": "Luxemburg",
      "n": 163,
@@ -2046,6 +2027,11 @@
      "name": "Senningerberg",
      "n": 47,
      "share": 0.015
+    },
+    {
+     "name": "Mersch",
+     "n": 41,
+     "share": 0.013
     },
     {
      "name": "Livingen",
@@ -2177,11 +2163,6 @@
      "share": 0.305
     },
     {
-     "name": "Luxembourg",
-     "n": 862,
-     "share": 0.075
-    },
-    {
      "name": "Esch an der Alzette",
      "n": 513,
      "share": 0.045
@@ -2225,6 +2206,11 @@
      "name": "Ehsh-sjur-Al'zet",
      "n": 125,
      "share": 0.011
+    },
+    {
+     "name": "Bertrange",
+     "n": 112,
+     "share": 0.01
     },
     {
      "name": "Mamer",
@@ -2396,9 +2382,9 @@
    "id": "cities",
    "icon": "map",
    "title_pl": "257 miast z ogłoszeniami",
-   "text_pl": "Najwięcej w: Luxemburg (43%), Luxembourg (6%), Esch an der Alzette (3%).",
+   "text_pl": "Najwięcej w: Luxemburg (43%), Esch an der Alzette (3%), Leudelingen (2%).",
    "title_en": "257 cities with postings",
-   "text_en": "Most in: Luxemburg (43%), Luxembourg (6%), Esch an der Alzette (3%)."
+   "text_en": "Most in: Luxemburg (43%), Esch an der Alzette (3%), Leudelingen (2%)."
   }
  ],
  "commentary": null,

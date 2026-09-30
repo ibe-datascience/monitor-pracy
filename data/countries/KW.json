@@ -8,13 +8,14 @@
   "continent": "mena",
   "currency": "KWD"
  },
- "generated_at": "2026-09-30T20:37:00+00:00",
+ "generated_at": "2026-09-30T21:02:48+00:00",
  "coverage": {
   "first_month": "2026-08",
   "last_month": "2026-08",
   "collecting_since": "2026-08-04",
   "complete_from": "2026-08",
   "index_base_month": "2026-08",
+  "volume_sources": null,
   "note_pl": "Zbieranie trwa od 04.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
  },
  "headline": {
@@ -78,11 +79,6 @@
      "share": 0.518
     },
     {
-     "name": "Kuwait",
-     "n": 1953,
-     "share": 0.42
-    },
-    {
      "name": "Al Ahmadi",
      "n": 83,
      "share": 0.018
@@ -144,6 +140,11 @@
     },
     {
      "name": "United Arab Emirates (UAE)",
+     "n": 2,
+     "share": 0.0
+    },
+    {
+     "name": "الاحمدي",
      "n": 2,
      "share": 0.0
     }
@@ -275,11 +276,6 @@
      "share": 0.518
     },
     {
-     "name": "Kuwait",
-     "n": 1953,
-     "share": 0.42
-    },
-    {
      "name": "Al Ahmadi",
      "n": 83,
      "share": 0.018
@@ -341,6 +337,11 @@
     },
     {
      "name": "United Arab Emirates (UAE)",
+     "n": 2,
+     "share": 0.0
+    },
+    {
+     "name": "الاحمدي",
      "n": 2,
      "share": 0.0
     }
@@ -467,9 +468,9 @@
    "id": "cities",
    "icon": "map",
    "title_pl": "22 miasta z ogłoszeniami",
-   "text_pl": "Najwięcej w: Capital Governorate (Kuwait) (52%), Kuwait (42%), Al Ahmadi (2%).",
+   "text_pl": "Najwięcej w: Capital Governorate (Kuwait) (52%), Al Ahmadi (2%), Al Jahra (1%).",
    "title_en": "22 cities with postings",
-   "text_en": "Most in: Capital Governorate (Kuwait) (52%), Kuwait (42%), Al Ahmadi (2%)."
+   "text_en": "Most in: Capital Governorate (Kuwait) (52%), Al Ahmadi (2%), Al Jahra (1%)."
   }
  ],
  "commentary": null,

@@ -8,13 +8,14 @@
   "continent": "europe",
   "currency": "EUR"
  },
- "generated_at": "2026-09-30T20:37:00+00:00",
+ "generated_at": "2026-09-30T21:02:48+00:00",
  "coverage": {
   "first_month": "2026-02",
   "last_month": "2026-08",
   "collecting_since": "2026-08-01",
   "complete_from": "2026-08",
   "index_base_month": "2026-08",
+  "volume_sources": null,
   "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
  },
  "headline": {
@@ -503,11 +504,6 @@
      "share": 0.011
     },
     {
-     "name": "Ireland",
-     "n": 38,
-     "share": 0.011
-    },
-    {
      "name": "Dundalk",
      "n": 37,
      "share": 0.01
@@ -520,6 +516,11 @@
     {
      "name": "Swords",
      "n": 35,
+     "share": 0.01
+    },
+    {
+     "name": "Sligo",
+     "n": 34,
      "share": 0.01
     }
    ],
@@ -625,11 +626,6 @@
      "share": 0.012
     },
     {
-     "name": "Ireland",
-     "n": 69,
-     "share": 0.009
-    },
-    {
      "name": "Wexford",
      "n": 68,
      "share": 0.009
@@ -647,6 +643,11 @@
     {
      "name": "Athlone",
      "n": 55,
+     "share": 0.007
+    },
+    {
+     "name": "Leixlip",
+     "n": 52,
      "share": 0.007
     }
    ],
@@ -971,11 +972,6 @@
      "share": 0.039
     },
     {
-     "name": "Ireland",
-     "n": 1627,
-     "share": 0.027
-    },
-    {
      "name": "Waterford",
      "n": 903,
      "share": 0.015
@@ -1023,6 +1019,11 @@
     {
      "name": "Wexford",
      "n": 398,
+     "share": 0.007
+    },
+    {
+     "name": "Naas",
+     "n": 393,
      "share": 0.007
     }
    ],
@@ -1328,13 +1329,13 @@
      "share": 0.011
     },
     {
-     "name": "Swords",
-     "n": 108,
-     "share": 0.009
+     "name": "Sligo",
+     "n": 121,
+     "share": 0.01
     },
     {
-     "name": "Ireland",
-     "n": 107,
+     "name": "Swords",
+     "n": 108,
      "share": 0.009
     },
     {
@@ -1343,9 +1344,9 @@
      "share": 0.009
     },
     {
-     "name": "Sligo",
-     "n": 87,
-     "share": 0.007
+     "name": "Leixlip",
+     "n": 69,
+     "share": 0.006
     },
     {
      "name": "Athlone",
@@ -1483,11 +1484,6 @@
      "share": 0.04
     },
     {
-     "name": "Ireland",
-     "n": 1627,
-     "share": 0.017
-    },
-    {
      "name": "Dublin 15",
      "n": 1529,
      "share": 0.016
@@ -1535,6 +1531,11 @@
     {
      "name": "Wexford",
      "n": 398,
+     "share": 0.004
+    },
+    {
+     "name": "Naas",
+     "n": 393,
      "share": 0.004
     }
    ],

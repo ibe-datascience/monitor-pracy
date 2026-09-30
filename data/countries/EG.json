@@ -8,13 +8,14 @@
   "continent": "mena",
   "currency": "EGP"
  },
- "generated_at": "2026-09-30T20:37:00+00:00",
+ "generated_at": "2026-09-30T21:02:48+00:00",
  "coverage": {
   "first_month": "2026-08",
   "last_month": "2026-08",
   "collecting_since": "2026-08-05",
   "complete_from": "2026-08",
   "index_base_month": "2026-08",
+  "volume_sources": null,
   "note_pl": "Zbieranie trwa od 05.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
  },
  "headline": {
@@ -76,11 +77,6 @@
      "name": "Cairo",
      "n": 22385,
      "share": 0.542
-    },
-    {
-     "name": "Egypt",
-     "n": 5865,
-     "share": 0.142
     },
     {
      "name": "Giza",
@@ -145,6 +141,11 @@
     {
      "name": "Beheira",
      "n": 91,
+     "share": 0.002
+    },
+    {
+     "name": "Domiat",
+     "n": 90,
      "share": 0.002
     }
    ],
@@ -275,11 +276,6 @@
      "share": 0.542
     },
     {
-     "name": "Egypt",
-     "n": 5865,
-     "share": 0.142
-    },
-    {
      "name": "Giza",
      "n": 5854,
      "share": 0.142
@@ -342,6 +338,11 @@
     {
      "name": "Beheira",
      "n": 91,
+     "share": 0.002
+    },
+    {
+     "name": "Domiat",
+     "n": 90,
      "share": 0.002
     }
    ],
@@ -467,9 +468,9 @@
    "id": "cities",
    "icon": "map",
    "title_pl": "65 miast z ogłoszeniami",
-   "text_pl": "Najwięcej w: Cairo (54%), Egypt (14%), Giza (14%).",
+   "text_pl": "Najwięcej w: Cairo (54%), Giza (14%), Alexandria (4%).",
    "title_en": "65 cities with postings",
-   "text_en": "Most in: Cairo (54%), Egypt (14%), Giza (14%)."
+   "text_en": "Most in: Cairo (54%), Giza (14%), Alexandria (4%)."
   }
  ],
  "commentary": null,

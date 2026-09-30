@@ -8,13 +8,14 @@
   "continent": "europe",
   "currency": "ISK"
  },
- "generated_at": "2026-09-30T20:37:00+00:00",
+ "generated_at": "2026-09-30T21:02:48+00:00",
  "coverage": {
   "first_month": "2026-05",
   "last_month": "2026-08",
   "collecting_since": "2026-08-03",
   "complete_from": "2026-08",
   "index_base_month": "2026-08",
+  "volume_sources": null,
   "note_pl": "Zbieranie trwa od 03.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
  },
  "headline": {
@@ -72,11 +73,6 @@
     }
    ],
    "top_cities": [
-    {
-     "name": "Iceland",
-     "n": 4,
-     "share": 0.364
-    },
     {
      "name": "Reykjavík",
      "n": 4,
@@ -141,11 +137,6 @@
      "name": "Reykjavík",
      "n": 10,
      "share": 0.357
-    },
-    {
-     "name": "Iceland",
-     "n": 8,
-     "share": 0.286
     },
     {
      "name": "Garðabær",
@@ -274,11 +265,6 @@
    ],
    "top_cities": [
     {
-     "name": "Iceland",
-     "n": 55,
-     "share": 0.41
-    },
-    {
      "name": "Reykjavík",
      "n": 44,
      "share": 0.328
@@ -345,6 +331,11 @@
     },
     {
      "name": "Poland - Akureyri",
+     "n": 1,
+     "share": 0.007
+    },
+    {
+     "name": "Seltjarnarnes",
      "n": 1,
      "share": 0.007
     }
@@ -450,11 +441,6 @@
    ],
    "top_cities": [
     {
-     "name": "Iceland",
-     "n": 105,
-     "share": 0.447
-    },
-    {
      "name": "Reykjavík",
      "n": 81,
      "share": 0.345
@@ -521,6 +507,11 @@
     },
     {
      "name": "Lisboa - Reykjavík",
+     "n": 1,
+     "share": 0.004
+    },
+    {
+     "name": "Poland - Akranes",
      "n": 1,
      "share": 0.004
     }
@@ -650,11 +641,6 @@
      "name": "Reykjavík",
      "n": 14,
      "share": 0.359
-    },
-    {
-     "name": "Iceland",
-     "n": 12,
-     "share": 0.308
     },
     {
      "name": "Garðabær",
@@ -790,11 +776,6 @@
    ],
    "top_cities": [
     {
-     "name": "Iceland",
-     "n": 160,
-     "share": 0.434
-    },
-    {
      "name": "Reykjavík",
      "n": 125,
      "share": 0.339
@@ -861,6 +842,11 @@
     },
     {
      "name": "Hang Tuah Jaya",
+     "n": 1,
+     "share": 0.003
+    },
+    {
+     "name": "Iceland - Amata",
      "n": 1,
      "share": 0.003
     }
@@ -970,10 +956,10 @@
   {
    "id": "mover",
    "icon": "city",
-   "title_pl": "Największa zmiana: Iceland +90,9%",
-   "text_pl": "105 ogłoszeń wobec 55 miesiąc wcześniej.",
-   "title_en": "Biggest move: Iceland +90.9%",
-   "text_en": "105 postings vs 55 a month earlier."
+   "title_pl": "Największa zmiana: Reykjavík +84,1%",
+   "text_pl": "81 ogłoszeń wobec 44 miesiąc wcześniej.",
+   "title_en": "Biggest move: Reykjavík +84.1%",
+   "text_en": "81 postings vs 44 a month earlier."
   },
   {
    "id": "remote",
@@ -995,9 +981,9 @@
    "id": "cities",
    "icon": "map",
    "title_pl": "18 miast z ogłoszeniami",
-   "text_pl": "Najwięcej w: Iceland (45%), Reykjavík (34%), Poland - Iceland (6%).",
+   "text_pl": "Najwięcej w: Reykjavík (34%), Poland - Iceland (6%), Akranes (3%).",
    "title_en": "18 cities with postings",
-   "text_en": "Most in: Iceland (45%), Reykjavík (34%), Poland - Iceland (6%)."
+   "text_en": "Most in: Reykjavík (34%), Poland - Iceland (6%), Akranes (3%)."
   }
  ],
  "commentary": null,

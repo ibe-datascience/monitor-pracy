@@ -8,13 +8,14 @@
   "continent": "europe",
   "currency": "EUR"
  },
- "generated_at": "2026-09-30T20:37:00+00:00",
+ "generated_at": "2026-09-30T21:02:48+00:00",
  "coverage": {
   "first_month": "2026-05",
   "last_month": "2026-08",
   "collecting_since": "2026-08-01",
   "complete_from": "2026-08",
   "index_base_month": "2026-08",
+  "volume_sources": null,
   "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
  },
  "headline": {
@@ -628,11 +629,6 @@
      "share": 0.007
     },
     {
-     "name": "France",
-     "n": 7443,
-     "share": 0.007
-    },
-    {
      "name": "Nice",
      "n": 7226,
      "share": 0.006
@@ -661,6 +657,11 @@
      "name": "Angers",
      "n": 4136,
      "share": 0.004
+    },
+    {
+     "name": "Grenoble",
+     "n": 3840,
+     "share": 0.003
     }
    ],
    "top_titles": [
@@ -1042,13 +1043,13 @@
      "share": 0.005
     },
     {
-     "name": "France",
-     "n": 7443,
+     "name": "Dijon",
+     "n": 6669,
      "share": 0.004
     },
     {
-     "name": "Dijon",
-     "n": 6669,
+     "name": "Grenoble",
+     "n": 6282,
      "share": 0.004
     },
     {

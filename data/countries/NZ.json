@@ -8,13 +8,14 @@
   "continent": "asia_pacific",
   "currency": "NZD"
  },
- "generated_at": "2026-09-30T20:37:00+00:00",
+ "generated_at": "2026-09-30T21:02:48+00:00",
  "coverage": {
   "first_month": "2026-04",
   "last_month": "2026-08",
   "collecting_since": "2026-08-01",
   "complete_from": "2026-08",
   "index_base_month": "2026-08",
+  "volume_sources": null,
   "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
  },
  "headline": {
@@ -561,11 +562,6 @@
      "share": 0.021
     },
     {
-     "name": "New Zealand",
-     "n": 372,
-     "share": 0.017
-    },
-    {
      "name": "Bay of Plenty",
      "n": 346,
      "share": 0.016
@@ -594,6 +590,11 @@
      "name": "Tauranga",
      "n": 238,
      "share": 0.011
+    },
+    {
+     "name": "Dunedin",
+     "n": 220,
+     "share": 0.01
     }
    ],
    "top_titles": [
@@ -729,11 +730,6 @@
      "share": 0.044
     },
     {
-     "name": "New Zealand",
-     "n": 1640,
-     "share": 0.04
-    },
-    {
      "name": "Wellington City",
      "n": 1162,
      "share": 0.028
@@ -781,6 +777,11 @@
     {
      "name": "Queenstown",
      "n": 386,
+     "share": 0.009
+    },
+    {
+     "name": "Hawke's Bay",
+     "n": 359,
      "share": 0.009
     }
    ],
@@ -1123,11 +1124,6 @@
      "share": 0.043
     },
     {
-     "name": "New Zealand",
-     "n": 2012,
-     "share": 0.032
-    },
-    {
      "name": "Wellington City",
      "n": 1678,
      "share": 0.027
@@ -1163,6 +1159,11 @@
      "share": 0.012
     },
     {
+     "name": "Dunedin",
+     "n": 642,
+     "share": 0.01
+    },
+    {
      "name": "Queenstown",
      "n": 631,
      "share": 0.01
@@ -1173,9 +1174,9 @@
      "share": 0.01
     },
     {
-     "name": "Dunedin",
-     "n": 422,
-     "share": 0.007
+     "name": "Hawke's Bay",
+     "n": 359,
+     "share": 0.006
     }
    ],
    "top_titles": [
@@ -1305,10 +1306,10 @@
   {
    "id": "mover",
    "icon": "city",
-   "title_pl": "Największa zmiana: New Zealand +340,9%",
-   "text_pl": "1 640 ogłoszeń wobec 372 miesiąc wcześniej.",
-   "title_en": "Biggest move: New Zealand +340.9%",
-   "text_en": "1,640 postings vs 372 a month earlier."
+   "title_pl": "Największa zmiana: Otago +178,2%",
+   "text_pl": "946 ogłoszeń wobec 340 miesiąc wcześniej.",
+   "title_en": "Biggest move: Otago +178.2%",
+   "text_en": "946 postings vs 340 a month earlier."
   },
   {
    "id": "salary",

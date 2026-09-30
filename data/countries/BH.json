@@ -8,13 +8,14 @@
   "continent": "mena",
   "currency": "BHD"
  },
- "generated_at": "2026-09-30T20:37:00+00:00",
+ "generated_at": "2026-09-30T21:02:48+00:00",
  "coverage": {
   "first_month": "2026-08",
   "last_month": "2026-08",
   "collecting_since": "2026-08-04",
   "complete_from": "2026-08",
   "index_base_month": "2026-08",
+  "volume_sources": null,
   "note_pl": "Zbieranie trwa od 04.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
  },
  "headline": {
@@ -72,11 +73,6 @@
     }
    ],
    "top_cities": [
-    {
-     "name": "Bahrain",
-     "n": 1548,
-     "share": 0.606
-    },
     {
      "name": "Manama",
      "n": 887,
@@ -144,6 +140,11 @@
     },
     {
      "name": "Ar Rifa",
+     "n": 1,
+     "share": 0.0
+    },
+    {
+     "name": "BahrainUnited Arab Emirates",
      "n": 1,
      "share": 0.0
     }
@@ -270,11 +271,6 @@
    ],
    "top_cities": [
     {
-     "name": "Bahrain",
-     "n": 1548,
-     "share": 0.606
-    },
-    {
      "name": "Manama",
      "n": 887,
      "share": 0.347
@@ -341,6 +337,11 @@
     },
     {
      "name": "Ar Rifa",
+     "n": 1,
+     "share": 0.0
+    },
+    {
+     "name": "BahrainUnited Arab Emirates",
      "n": 1,
      "share": 0.0
     }
@@ -467,9 +468,9 @@
    "id": "cities",
    "icon": "map",
    "title_pl": "24 miasta z ogłoszeniami",
-   "text_pl": "Najwięcej w: Bahrain (61%), Manama (35%), Mu&amp;#7717;&amp;#257;fa&amp;#7827;at al-&amp;#703;&amp;#256;&amp;#7779;imah (1%).",
+   "text_pl": "Najwięcej w: Manama (35%), Mu&amp;#7717;&amp;#257;fa&amp;#7827;at al-&amp;#703;&amp;#256;&amp;#7779;imah (1%), Muharraq government (1%).",
    "title_en": "24 cities with postings",
-   "text_en": "Most in: Bahrain (61%), Manama (35%), Mu&amp;#7717;&amp;#257;fa&amp;#7827;at al-&amp;#703;&amp;#256;&amp;#7779;imah (1%)."
+   "text_en": "Most in: Manama (35%), Mu&amp;#7717;&amp;#257;fa&amp;#7827;at al-&amp;#703;&amp;#256;&amp;#7779;imah (1%), Muharraq government (1%)."
   }
  ],
  "commentary": null,

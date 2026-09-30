@@ -8,13 +8,14 @@
   "continent": "mena",
   "currency": "YER"
  },
- "generated_at": "2026-09-30T20:37:00+00:00",
+ "generated_at": "2026-09-30T21:02:48+00:00",
  "coverage": {
   "first_month": "2026-08",
   "last_month": "2026-08",
   "collecting_since": "2026-08-04",
   "complete_from": "2026-08",
   "index_base_month": "2026-08",
+  "volume_sources": null,
   "note_pl": "Zbieranie trwa od 04.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
  },
  "headline": {
@@ -72,11 +73,6 @@
     }
    ],
    "top_cities": [
-    {
-     "name": "Yemen",
-     "n": 197,
-     "share": 0.908
-    },
     {
      "name": "Adan",
      "n": 10,
@@ -225,11 +221,6 @@
    ],
    "top_cities": [
     {
-     "name": "Yemen",
-     "n": 197,
-     "share": 0.908
-    },
-    {
      "name": "Adan",
      "n": 10,
      "share": 0.046
@@ -377,9 +368,9 @@
    "id": "cities",
    "icon": "map",
    "title_pl": "6 miast z ogłoszeniami",
-   "text_pl": "Najwięcej w: Yemen (91%), Adan (5%), sanaa (3%).",
+   "text_pl": "Najwięcej w: Adan (5%), sanaa (3%), Hadhramaut (1%).",
    "title_en": "6 cities with postings",
-   "text_en": "Most in: Yemen (91%), Adan (5%), sanaa (3%)."
+   "text_en": "Most in: Adan (5%), sanaa (3%), Hadhramaut (1%)."
   }
  ],
  "commentary": null,
