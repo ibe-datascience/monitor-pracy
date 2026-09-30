@@ -8,31 +8,31 @@
   "continent": "europe",
   "currency": "EUR"
  },
- "generated_at": "2026-09-30T16:14:03+00:00",
+ "generated_at": "2026-09-30T20:37:00+00:00",
  "coverage": {
   "first_month": "2026-05",
   "last_month": "2026-08",
   "collecting_since": "2026-08-01",
   "complete_from": "2026-08",
   "index_base_month": "2026-08",
-  "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: miesiąc jeszcze trwa."
+  "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
  },
  "headline": {
   "month": "2026-08",
-  "postings_new": 12106,
-  "postings_raw": 14706,
+  "postings_new": 12116,
+  "postings_raw": 14716,
   "mom_pct": null,
   "yoy_pct": null,
   "postings_active_end": 18423,
   "salary_median": 1473,
   "salary_currency": "EUR",
-  "salary_share": 0.624,
+  "salary_share": 0.623,
   "remote_share": 0.021,
   "sources": 2,
   "top_source": {
    "code": "jooble.sk",
    "service": "Jooble",
-   "share": 0.756
+   "share": 0.755
   }
  },
  "monthly": [
@@ -342,8 +342,8 @@
   {
    "period": "2026-07",
    "partial": false,
-   "postings_new": 10715,
-   "postings_raw": 12296,
+   "postings_new": 10721,
+   "postings_raw": 12302,
    "postings_active_end": null,
    "postings_closed": null,
    "index": 88.5,
@@ -353,8 +353,8 @@
     "median": 1570,
     "p25": 1300,
     "p75": 1900,
-    "mean": 1657,
-    "n": 1204,
+    "mean": 1658,
+    "n": 1207,
     "share": 0.701,
     "currency": "EUR"
    },
@@ -377,14 +377,14 @@
      "code": "careerjet.sk",
      "service": "Careerjet",
      "kind": "aggregator",
-     "n": 2318
+     "n": 2324
     }
    ],
    "top_cities": [
     {
      "name": "Bratislava",
-     "n": 2404,
-     "share": 0.196
+     "n": 2405,
+     "share": 0.195
     },
     {
      "name": "Nemecko",
@@ -418,7 +418,7 @@
     },
     {
      "name": "Slovensko",
-     "n": 277,
+     "n": 279,
      "share": 0.023
     },
     {
@@ -443,7 +443,7 @@
     },
     {
      "name": "Prešov",
-     "n": 241,
+     "n": 242,
      "share": 0.02
     },
     {
@@ -524,8 +524,8 @@
   {
    "period": "2026-08",
    "partial": false,
-   "postings_new": 12106,
-   "postings_raw": 14706,
+   "postings_new": 12116,
+   "postings_raw": 14716,
    "postings_active_end": 18423,
    "postings_closed": 9758,
    "index": 100.0,
@@ -533,11 +533,11 @@
    "yoy_pct": null,
    "salary": {
     "median": 1473,
-    "p25": 1193,
+    "p25": 1194,
     "p75": 1800,
-    "mean": 1565,
-    "n": 1751,
-    "share": 0.624,
+    "mean": 1566,
+    "n": 1752,
+    "share": 0.623,
     "currency": "EUR"
    },
    "remote_share": 0.021,
@@ -559,18 +559,18 @@
      "code": "careerjet.sk",
      "service": "Careerjet",
      "kind": "aggregator",
-     "n": 3592
+     "n": 3602
     }
    ],
    "top_cities": [
     {
      "name": "Bratislava",
-     "n": 2808,
+     "n": 2813,
      "share": 0.191
     },
     {
      "name": "Slovensko",
-     "n": 848,
+     "n": 851,
      "share": 0.058
     },
     {
@@ -635,7 +635,7 @@
     },
     {
      "name": "Banská Bystrica",
-     "n": 200,
+     "n": 201,
      "share": 0.014
     }
    ],
@@ -702,6 +702,28 @@
     }
    ],
    "regions": []
+  }
+ ],
+ "weekly": [
+  {
+   "week": "2026-08-03",
+   "postings_new": 3376,
+   "postings_raw": 3759
+  },
+  {
+   "week": "2026-08-10",
+   "postings_new": 3033,
+   "postings_raw": 3495
+  },
+  {
+   "week": "2026-08-17",
+   "postings_new": 2419,
+   "postings_raw": 2798
+  },
+  {
+   "week": "2026-08-24",
+   "postings_new": 2067,
+   "postings_raw": 2569
   }
  ],
  "quarterly": [
@@ -887,16 +909,16 @@
   {
    "period": "2026-Q3",
    "partial": true,
-   "postings_new": 22821,
-   "postings_raw": 27002,
+   "postings_new": 22837,
+   "postings_raw": 27018,
    "qoq_pct": null,
    "yoy_pct": null,
    "salary": {
     "median": 1513,
     "p25": 1237,
     "p75": 1841,
-    "mean": 1602,
-    "n": 2955,
+    "mean": 1604,
+    "n": 2959,
     "share": 0.659,
     "currency": "EUR"
    },
@@ -919,13 +941,13 @@
      "code": "careerjet.sk",
      "service": "Careerjet",
      "kind": "aggregator",
-     "n": 5910
+     "n": 5926
     }
    ],
    "top_cities": [
     {
      "name": "Bratislava",
-     "n": 5212,
+     "n": 5218,
      "share": 0.193
     },
     {
@@ -950,7 +972,7 @@
     },
     {
      "name": "Slovensko",
-     "n": 1125,
+     "n": 1130,
      "share": 0.042
     },
     {
@@ -985,7 +1007,7 @@
     },
     {
      "name": "Prešov",
-     "n": 464,
+     "n": 465,
      "share": 0.017
     },
     {
@@ -995,7 +1017,7 @@
     },
     {
      "name": "Banská Bystrica",
-     "n": 409,
+     "n": 410,
      "share": 0.015
     }
    ],
@@ -1072,7 +1094,7 @@
    "url": "https://sk.jooble.org",
    "collecting_since": "2026-08-01",
    "offers_total": 23874,
-   "share_latest": 0.756,
+   "share_latest": 0.755,
    "salary_coverage": 0.692,
    "description_coverage": 1.0
   },
@@ -1082,19 +1104,19 @@
    "kind": "aggregator",
    "url": "https://www.careerjet.sk",
    "collecting_since": "2026-08-03",
-   "offers_total": 7798,
-   "share_latest": 0.244,
-   "salary_coverage": 0.507,
+   "offers_total": 9217,
+   "share_latest": 0.245,
+   "salary_coverage": 0.504,
    "description_coverage": 1.0
   }
  ],
  "quality": {
   "field_coverage": {
-   "salary_any": 0.647,
+   "salary_any": 0.64,
    "city": 1.0,
-   "company": 0.903,
+   "company": 0.897,
    "employment_type": 0.0,
-   "remote": 0.754,
+   "remote": 0.721,
    "posted_at": 1.0
   },
   "dedup": {
@@ -1107,26 +1129,26 @@
   {
    "id": "volume",
    "icon": "trend",
-   "title_pl": "Sierpień: 12 106 ogłoszeń",
-   "text_pl": "12 106 nowych ogłoszeń - najwięcej od początku zbierania.",
-   "title_en": "August: 12,106 postings",
-   "text_en": "12,106 new postings - the most since collection began."
+   "title_pl": "Sierpień: 12 116 ogłoszeń",
+   "text_pl": "12 116 nowych ogłoszeń - najwięcej od początku zbierania.",
+   "title_en": "August: 12,116 postings",
+   "text_en": "12,116 new postings - the most since collection began."
   },
   {
    "id": "mover",
    "icon": "city",
-   "title_pl": "Największa zmiana: Slovensko +206,1%",
-   "text_pl": "848 ogłoszeń wobec 277 miesiąc wcześniej.",
-   "title_en": "Biggest move: Slovensko +206.1%",
-   "text_en": "848 postings vs 277 a month earlier."
+   "title_pl": "Największa zmiana: Slovensko +205,0%",
+   "text_pl": "851 ogłoszeń wobec 279 miesiąc wcześniej.",
+   "title_en": "Biggest move: Slovensko +205.0%",
+   "text_en": "851 postings vs 279 a month earlier."
   },
   {
    "id": "salary",
    "icon": "salary",
    "title_pl": "Mediana wynagrodzenia: 1 473 EUR",
-   "text_pl": "Połowa ofert z podaną stawką mieści się między 1 193 a 1 800 EUR miesięcznie; stawkę podaje 62% ogłoszeń.",
+   "text_pl": "Połowa ofert z podaną stawką mieści się między 1 194 a 1 800 EUR miesięcznie; stawkę podaje 62% ogłoszeń.",
    "title_en": "Median pay: 1,473 EUR",
-   "text_en": "Half of the postings with stated pay fall between 1,193 and 1,800 EUR per month; 62% of postings state pay."
+   "text_en": "Half of the postings with stated pay fall between 1,194 and 1,800 EUR per month; 62% of postings state pay."
   },
   {
    "id": "remote",
@@ -1140,9 +1162,9 @@
    "id": "source",
    "icon": "source",
    "title_pl": "Największy serwis: Jooble (76%)",
-   "text_pl": "Dane z 2 serwisów; Jooble dostarcza 11 114 z 14 706 ogłoszeń przed zdjęciem powtórek.",
+   "text_pl": "Dane z 2 serwisów; Jooble dostarcza 11 114 z 14 716 ogłoszeń przed zdjęciem powtórek.",
    "title_en": "Largest source: Jooble (76%)",
-   "text_en": "Data from 2 sources; Jooble provides 11,114 of 14,706 postings before de-duplication."
+   "text_en": "Data from 2 sources; Jooble provides 11,114 of 14,716 postings before de-duplication."
   },
   {
    "id": "cities",

@@ -8,22 +8,22 @@
   "continent": "europe",
   "currency": "EUR"
  },
- "generated_at": "2026-09-30T16:14:03+00:00",
+ "generated_at": "2026-09-30T20:37:00+00:00",
  "coverage": {
   "first_month": "2026-05",
   "last_month": "2026-08",
   "collecting_since": "2026-08-03",
-  "complete_from": "2026-09",
+  "complete_from": "2026-08",
   "index_base_month": "2026-08",
-  "note_pl": "Zbieranie trwa od 03.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: miesiąc jeszcze trwa."
+  "note_pl": "Zbieranie trwa od 03.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
  },
  "headline": {
   "month": "2026-08",
-  "postings_new": 5987,
-  "postings_raw": 5987,
+  "postings_new": 6005,
+  "postings_raw": 6005,
   "mom_pct": null,
   "yoy_pct": null,
-  "postings_active_end": null,
+  "postings_active_end": 9697,
   "salary_median": null,
   "salary_currency": "EUR",
   "salary_share": 0.0,
@@ -330,11 +330,11 @@
   {
    "period": "2026-07",
    "partial": false,
-   "postings_new": 3173,
-   "postings_raw": 3173,
+   "postings_new": 3190,
+   "postings_raw": 3190,
    "postings_active_end": null,
    "postings_closed": null,
-   "index": 53.0,
+   "index": 53.1,
    "mom_pct": null,
    "yoy_pct": null,
    "salary": {
@@ -359,18 +359,18 @@
      "code": "careerjet.lt",
      "service": "Careerjet",
      "kind": "aggregator",
-     "n": 3173
+     "n": 3190
     }
    ],
    "top_cities": [
     {
      "name": "Vilnius",
-     "n": 1276,
-     "share": 0.402
+     "n": 1292,
+     "share": 0.405
     },
     {
      "name": "Kaunas",
-     "n": 457,
+     "n": 458,
      "share": 0.144
     },
     {
@@ -426,12 +426,12 @@
     {
      "name": "Gargždai",
      "n": 27,
-     "share": 0.009
+     "share": 0.008
     },
     {
      "name": "Tauragė",
      "n": 27,
-     "share": 0.009
+     "share": 0.008
     },
     {
      "name": "Plungė",
@@ -506,9 +506,9 @@
   {
    "period": "2026-08",
    "partial": false,
-   "postings_new": 5987,
-   "postings_raw": 5987,
-   "postings_active_end": null,
+   "postings_new": 6005,
+   "postings_raw": 6005,
+   "postings_active_end": 9697,
    "postings_closed": null,
    "index": 100.0,
    "mom_pct": null,
@@ -535,23 +535,23 @@
      "code": "careerjet.lt",
      "service": "Careerjet",
      "kind": "aggregator",
-     "n": 5987
+     "n": 6005
     }
    ],
    "top_cities": [
     {
      "name": "Vilnius",
-     "n": 2053,
-     "share": 0.343
+     "n": 2064,
+     "share": 0.344
     },
     {
      "name": "Kaunas",
-     "n": 1030,
+     "n": 1032,
      "share": 0.172
     },
     {
      "name": "Klaipėda",
-     "n": 444,
+     "n": 446,
      "share": 0.074
     },
     {
@@ -561,7 +561,7 @@
     },
     {
      "name": "Panevėžys",
-     "n": 224,
+     "n": 225,
      "share": 0.037
     },
     {
@@ -582,7 +582,7 @@
     {
      "name": "Alytus",
      "n": 87,
-     "share": 0.015
+     "share": 0.014
     },
     {
      "name": "Utena",
@@ -678,6 +678,28 @@
     }
    ],
    "regions": []
+  }
+ ],
+ "weekly": [
+  {
+   "week": "2026-08-03",
+   "postings_new": 1520,
+   "postings_raw": 1520
+  },
+  {
+   "week": "2026-08-10",
+   "postings_new": 1359,
+   "postings_raw": 1359
+  },
+  {
+   "week": "2026-08-17",
+   "postings_new": 1284,
+   "postings_raw": 1284
+  },
+  {
+   "week": "2026-08-24",
+   "postings_new": 1216,
+   "postings_raw": 1216
   }
  ],
  "quarterly": [
@@ -857,8 +879,8 @@
   {
    "period": "2026-Q3",
    "partial": true,
-   "postings_new": 9160,
-   "postings_raw": 9160,
+   "postings_new": 9195,
+   "postings_raw": 9195,
    "qoq_pct": null,
    "yoy_pct": null,
    "salary": {
@@ -883,23 +905,23 @@
      "code": "careerjet.lt",
      "service": "Careerjet",
      "kind": "aggregator",
-     "n": 9160
+     "n": 9195
     }
    ],
    "top_cities": [
     {
      "name": "Vilnius",
-     "n": 3329,
-     "share": 0.363
+     "n": 3356,
+     "share": 0.365
     },
     {
      "name": "Kaunas",
-     "n": 1487,
+     "n": 1490,
      "share": 0.162
     },
     {
      "name": "Klaipėda",
-     "n": 666,
+     "n": 668,
      "share": 0.073
     },
     {
@@ -909,7 +931,7 @@
     },
     {
      "name": "Panevėžys",
-     "n": 370,
+     "n": 371,
      "share": 0.04
     },
     {
@@ -1035,7 +1057,7 @@
    "kind": "aggregator",
    "url": "https://www.careerjet.lt",
    "collecting_since": "2026-08-03",
-   "offers_total": 10946,
+   "offers_total": 12878,
    "share_latest": 1.0,
    "salary_coverage": 0.0,
    "description_coverage": 1.0
@@ -1045,7 +1067,7 @@
   "field_coverage": {
    "salary_any": 0.0,
    "city": 1.0,
-   "company": 0.904,
+   "company": 0.862,
    "employment_type": 0.0,
    "remote": 0.0,
    "posted_at": 1.0
@@ -1060,10 +1082,10 @@
   {
    "id": "volume",
    "icon": "trend",
-   "title_pl": "Sierpień: 5 987 ogłoszeń",
-   "text_pl": "5 987 nowych ogłoszeń (miesiąc wcześniej: 3 173).",
-   "title_en": "August: 5,987 postings",
-   "text_en": "5,987 new postings (a month earlier: 3,173)."
+   "title_pl": "Sierpień: 6 005 ogłoszeń",
+   "text_pl": "6 005 nowych ogłoszeń - najwięcej od początku zbierania.",
+   "title_en": "August: 6,005 postings",
+   "text_en": "6,005 new postings - the most since collection began."
   },
   {
    "id": "mover",
@@ -1085,9 +1107,9 @@
    "id": "source",
    "icon": "source",
    "title_pl": "Największy serwis: Careerjet (100%)",
-   "text_pl": "Dane z 1 serwisu; Careerjet dostarcza 5 987 z 5 987 ogłoszeń przed zdjęciem powtórek.",
+   "text_pl": "Dane z 1 serwisu; Careerjet dostarcza 6 005 z 6 005 ogłoszeń przed zdjęciem powtórek.",
    "title_en": "Largest source: Careerjet (100%)",
-   "text_en": "Data from 1 source; Careerjet provides 5,987 of 5,987 postings before de-duplication."
+   "text_en": "Data from 1 source; Careerjet provides 6,005 of 6,005 postings before de-duplication."
   },
   {
    "id": "cities",

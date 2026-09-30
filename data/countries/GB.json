@@ -8,14 +8,14 @@
   "continent": "europe",
   "currency": "GBP"
  },
- "generated_at": "2026-09-30T16:14:03+00:00",
+ "generated_at": "2026-09-30T20:37:00+00:00",
  "coverage": {
   "first_month": "2025-10",
   "last_month": "2026-08",
   "collecting_since": "2026-08-01",
   "complete_from": "2026-08",
   "index_base_month": "2026-08",
-  "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: miesiąc jeszcze trwa."
+  "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
  },
  "headline": {
   "month": "2026-08",
@@ -1573,6 +1573,28 @@
     }
    ],
    "regions": []
+  }
+ ],
+ "weekly": [
+  {
+   "week": "2026-08-03",
+   "postings_new": 167459,
+   "postings_raw": 194331
+  },
+  {
+   "week": "2026-08-10",
+   "postings_new": 157730,
+   "postings_raw": 182990
+  },
+  {
+   "week": "2026-08-17",
+   "postings_new": 156296,
+   "postings_raw": 180120
+  },
+  {
+   "week": "2026-08-24",
+   "postings_new": 147811,
+   "postings_raw": 168456
   }
  ],
  "quarterly": [

@@ -8,14 +8,14 @@
   "continent": "mena",
   "currency": "USD"
  },
- "generated_at": "2026-09-30T16:14:03+00:00",
+ "generated_at": "2026-09-30T20:37:00+00:00",
  "coverage": {
   "first_month": "2026-08",
   "last_month": "2026-08",
   "collecting_since": "2026-08-04",
-  "complete_from": "2026-09",
+  "complete_from": "2026-08",
   "index_base_month": "2026-08",
-  "note_pl": "Zbieranie trwa od 04.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: miesiąc jeszcze trwa."
+  "note_pl": "Zbieranie trwa od 04.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
  },
  "headline": {
   "month": "2026-08",
@@ -23,7 +23,7 @@
   "postings_raw": 9460,
   "mom_pct": null,
   "yoy_pct": null,
-  "postings_active_end": null,
+  "postings_active_end": 7652,
   "salary_median": null,
   "salary_currency": "USD",
   "salary_share": 0.125,
@@ -41,8 +41,8 @@
    "partial": false,
    "postings_new": 6505,
    "postings_raw": 9460,
-   "postings_active_end": null,
-   "postings_closed": null,
+   "postings_active_end": 7652,
+   "postings_closed": 1797,
    "index": 100.0,
    "mom_pct": null,
    "yoy_pct": null,
@@ -211,6 +211,28 @@
     }
    ],
    "regions": []
+  }
+ ],
+ "weekly": [
+  {
+   "week": "2026-08-03",
+   "postings_new": 3808,
+   "postings_raw": 5501
+  },
+  {
+   "week": "2026-08-10",
+   "postings_new": 2320,
+   "postings_raw": 2844
+  },
+  {
+   "week": "2026-08-17",
+   "postings_new": 442,
+   "postings_raw": 528
+  },
+  {
+   "week": "2026-08-24",
+   "postings_new": 399,
+   "postings_raw": 453
   }
  ],
  "quarterly": [
@@ -395,20 +417,20 @@
    "kind": "aggregator",
    "url": "https://lebanon.tanqeeb.com",
    "collecting_since": "2026-08-04",
-   "offers_total": 10070,
+   "offers_total": 11696,
    "share_latest": 1.0,
-   "salary_coverage": 0.125,
+   "salary_coverage": 0.117,
    "description_coverage": 0.996
   }
  ],
  "quality": {
   "field_coverage": {
-   "salary_any": 0.125,
+   "salary_any": 0.117,
    "city": 1.0,
    "company": 1.0,
-   "employment_type": 0.091,
+   "employment_type": 0.217,
    "remote": 1.0,
-   "posted_at": 0.233
+   "posted_at": 0.206
   },
   "dedup": {
    "within_source_rule_pl": "Ta sama oferta w tym samym serwisie liczona raz (klucz: adres URL lub identyfikator ogłoszenia).",

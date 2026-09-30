@@ -8,23 +8,23 @@
   "continent": "europe",
   "currency": "EUR"
  },
- "generated_at": "2026-09-30T16:14:03+00:00",
+ "generated_at": "2026-09-30T20:37:00+00:00",
  "coverage": {
   "first_month": "2025-09",
   "last_month": "2026-08",
   "collecting_since": "2026-08-01",
   "complete_from": "2026-08",
   "index_base_month": "2026-08",
-  "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: miesiąc jeszcze trwa."
+  "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
  },
  "headline": {
   "month": "2026-08",
-  "postings_new": 49886,
-  "postings_raw": 63254,
+  "postings_new": 49907,
+  "postings_raw": 63275,
   "mom_pct": null,
   "yoy_pct": null,
   "postings_active_end": 97074,
-  "salary_median": 1026,
+  "salary_median": 1030,
   "salary_currency": "EUR",
   "salary_share": 0.126,
   "remote_share": 0.021,
@@ -32,7 +32,7 @@
   "top_source": {
    "code": "careerjet.pt",
    "service": "Careerjet",
-   "share": 0.4
+   "share": 0.401
   }
  },
  "monthly": [
@@ -1011,7 +1011,7 @@
    "postings_raw": 5901,
    "postings_active_end": null,
    "postings_closed": null,
-   "index": 10.2,
+   "index": 10.1,
    "mom_pct": null,
    "yoy_pct": null,
    "salary": {
@@ -1322,8 +1322,8 @@
   {
    "period": "2026-07",
    "partial": false,
-   "postings_new": 41730,
-   "postings_raw": 47657,
+   "postings_new": 41753,
+   "postings_raw": 47686,
    "postings_active_end": null,
    "postings_closed": null,
    "index": 83.7,
@@ -1357,7 +1357,7 @@
      "code": "careerjet.pt",
      "service": "Careerjet",
      "kind": "aggregator",
-     "n": 17363
+     "n": 17392
     },
     {
      "code": "indeed.pt",
@@ -1369,17 +1369,17 @@
    "top_cities": [
     {
      "name": "Lisboa",
-     "n": 11586,
+     "n": 11593,
      "share": 0.243
     },
     {
      "name": "Porto",
-     "n": 5922,
+     "n": 5925,
      "share": 0.124
     },
     {
      "name": "Braga",
-     "n": 2523,
+     "n": 2525,
      "share": 0.053
     },
     {
@@ -1389,12 +1389,12 @@
     },
     {
      "name": "Coimbra",
-     "n": 1172,
+     "n": 1174,
      "share": 0.025
     },
     {
      "name": "Faro",
-     "n": 1104,
+     "n": 1105,
      "share": 0.023
     },
     {
@@ -1409,7 +1409,7 @@
     },
     {
      "name": "Portugal",
-     "n": 769,
+     "n": 772,
      "share": 0.016
     },
     {
@@ -1419,7 +1419,7 @@
     },
     {
      "name": "Sintra",
-     "n": 633,
+     "n": 634,
      "share": 0.013
     },
     {
@@ -1510,19 +1510,19 @@
   {
    "period": "2026-08",
    "partial": false,
-   "postings_new": 49886,
-   "postings_raw": 63254,
+   "postings_new": 49907,
+   "postings_raw": 63275,
    "postings_active_end": 97074,
    "postings_closed": 41387,
    "index": 100.0,
    "mom_pct": null,
    "yoy_pct": null,
    "salary": {
-    "median": 1026,
+    "median": 1030,
     "p25": 920,
     "p75": 1400,
-    "mean": 1351,
-    "n": 4647,
+    "mean": 1353,
+    "n": 4655,
     "share": 0.126,
     "currency": "EUR"
    },
@@ -1539,7 +1539,7 @@
      "code": "careerjet.pt",
      "service": "Careerjet",
      "kind": "aggregator",
-     "n": 25328
+     "n": 25349
     },
     {
      "code": "jooble.pt",
@@ -1557,12 +1557,12 @@
    "top_cities": [
     {
      "name": "Lisboa",
-     "n": 20727,
+     "n": 20733,
      "share": 0.328
     },
     {
      "name": "Porto",
-     "n": 7681,
+     "n": 7684,
      "share": 0.121
     },
     {
@@ -1572,12 +1572,12 @@
     },
     {
      "name": "Portugal",
-     "n": 2622,
+     "n": 2625,
      "share": 0.041
     },
     {
      "name": "Aveiro",
-     "n": 1858,
+     "n": 1859,
      "share": 0.029
     },
     {
@@ -1602,12 +1602,12 @@
     },
     {
      "name": "Setúbal",
-     "n": 707,
+     "n": 708,
      "share": 0.011
     },
     {
      "name": "Castelo Branco",
-     "n": 699,
+     "n": 700,
      "share": 0.011
     },
     {
@@ -1694,6 +1694,28 @@
     }
    ],
    "regions": []
+  }
+ ],
+ "weekly": [
+  {
+   "week": "2026-08-03",
+   "postings_new": 12834,
+   "postings_raw": 15372
+  },
+  {
+   "week": "2026-08-10",
+   "postings_new": 11251,
+   "postings_raw": 13343
+  },
+  {
+   "week": "2026-08-17",
+   "postings_new": 12757,
+   "postings_raw": 14882
+  },
+  {
+   "week": "2026-08-24",
+   "postings_new": 11061,
+   "postings_raw": 13358
   }
  ],
  "quarterly": [
@@ -2239,16 +2261,16 @@
   {
    "period": "2026-Q3",
    "partial": true,
-   "postings_new": 91616,
-   "postings_raw": 110911,
+   "postings_new": 91660,
+   "postings_raw": 110961,
    "qoq_pct": null,
    "yoy_pct": null,
    "salary": {
-    "median": 1074,
+    "median": 1077,
     "p25": 923,
     "p75": 1478,
-    "mean": 1430,
-    "n": 7608,
+    "mean": 1431,
+    "n": 7616,
     "share": 0.136,
     "currency": "EUR"
    },
@@ -2271,7 +2293,7 @@
      "code": "careerjet.pt",
      "service": "Careerjet",
      "kind": "aggregator",
-     "n": 42691
+     "n": 42741
     },
     {
      "code": "indeed.pt",
@@ -2283,37 +2305,37 @@
    "top_cities": [
     {
      "name": "Lisboa",
-     "n": 32313,
+     "n": 32326,
      "share": 0.291
     },
     {
      "name": "Porto",
-     "n": 13603,
+     "n": 13609,
      "share": 0.123
     },
     {
      "name": "Braga",
-     "n": 5433,
+     "n": 5435,
      "share": 0.049
     },
     {
      "name": "Aveiro",
-     "n": 3458,
+     "n": 3459,
      "share": 0.031
     },
     {
      "name": "Portugal",
-     "n": 3391,
+     "n": 3397,
      "share": 0.031
     },
     {
      "name": "Faro",
-     "n": 2300,
+     "n": 2301,
      "share": 0.021
     },
     {
      "name": "Coimbra",
-     "n": 2136,
+     "n": 2138,
      "share": 0.019
     },
     {
@@ -2323,7 +2345,7 @@
     },
     {
      "name": "Setúbal",
-     "n": 1561,
+     "n": 1562,
      "share": 0.014
     },
     {
@@ -2333,7 +2355,7 @@
     },
     {
      "name": "Sintra",
-     "n": 1319,
+     "n": 1320,
      "share": 0.012
     },
     {
@@ -2348,7 +2370,7 @@
     },
     {
      "name": "Castelo Branco",
-     "n": 699,
+     "n": 700,
      "share": 0.006
     },
     {
@@ -2440,9 +2462,9 @@
    "kind": "aggregator",
    "url": "https://www.careerjet.pt",
    "collecting_since": "2026-08-03",
-   "offers_total": 50788,
-   "share_latest": 0.4,
-   "salary_coverage": 0.194,
+   "offers_total": 59408,
+   "share_latest": 0.401,
+   "salary_coverage": 0.197,
    "description_coverage": 1.0
   },
   {
@@ -2459,11 +2481,11 @@
  ],
  "quality": {
   "field_coverage": {
-   "salary_any": 0.128,
+   "salary_any": 0.133,
    "city": 0.998,
-   "company": 0.918,
-   "employment_type": 0.192,
-   "remote": 0.671,
+   "company": 0.917,
+   "employment_type": 0.182,
+   "remote": 0.635,
    "posted_at": 1.0
   },
   "dedup": {
@@ -2476,42 +2498,42 @@
   {
    "id": "volume",
    "icon": "trend",
-   "title_pl": "Sierpień: 49 886 ogłoszeń",
-   "text_pl": "49 886 nowych ogłoszeń - najwięcej od początku zbierania.",
-   "title_en": "August: 49,886 postings",
-   "text_en": "49,886 new postings - the most since collection began."
+   "title_pl": "Sierpień: 49 907 ogłoszeń",
+   "text_pl": "49 907 nowych ogłoszeń - najwięcej od początku zbierania.",
+   "title_en": "August: 49,907 postings",
+   "text_en": "49,907 new postings - the most since collection began."
   },
   {
    "id": "mover",
    "icon": "city",
-   "title_pl": "Największa zmiana: Portugal +241,0%",
-   "text_pl": "2 622 ogłoszeń wobec 769 miesiąc wcześniej.",
-   "title_en": "Biggest move: Portugal +241.0%",
-   "text_en": "2,622 postings vs 769 a month earlier."
+   "title_pl": "Największa zmiana: Portugal +240,0%",
+   "text_pl": "2 625 ogłoszeń wobec 772 miesiąc wcześniej.",
+   "title_en": "Biggest move: Portugal +240.0%",
+   "text_en": "2,625 postings vs 772 a month earlier."
   },
   {
    "id": "salary",
    "icon": "salary",
-   "title_pl": "Mediana wynagrodzenia: 1 026 EUR",
+   "title_pl": "Mediana wynagrodzenia: 1 030 EUR",
    "text_pl": "Połowa ofert z podaną stawką mieści się między 920 a 1 400 EUR miesięcznie; stawkę podaje 13% ogłoszeń.",
-   "title_en": "Median pay: 1,026 EUR",
+   "title_en": "Median pay: 1,030 EUR",
    "text_en": "Half of the postings with stated pay fall between 920 and 1,400 EUR per month; 13% of postings state pay."
   },
   {
    "id": "remote",
    "icon": "remote",
    "title_pl": "Praca zdalna: 2,1% ogłoszeń",
-   "text_pl": "1 328 ogłoszeń oznaczonych jako praca zdalna (+0,3 pkt proc. m/m).",
+   "text_pl": "1 329 ogłoszeń oznaczonych jako praca zdalna (+0,3 pkt proc. m/m).",
    "title_en": "Remote work: 2.1% of postings",
-   "text_en": "1,328 postings flagged as remote (+0.3 pp m/m)."
+   "text_en": "1,329 postings flagged as remote (+0.3 pp m/m)."
   },
   {
    "id": "source",
    "icon": "source",
    "title_pl": "Największy serwis: Careerjet (40%)",
-   "text_pl": "Dane z 3 serwisów; Careerjet dostarcza 25 328 z 63 254 ogłoszeń przed zdjęciem powtórek.",
+   "text_pl": "Dane z 3 serwisów; Careerjet dostarcza 25 349 z 63 275 ogłoszeń przed zdjęciem powtórek.",
    "title_en": "Largest source: Careerjet (40%)",
-   "text_en": "Data from 3 sources; Careerjet provides 25,328 of 63,254 postings before de-duplication."
+   "text_en": "Data from 3 sources; Careerjet provides 25,349 of 63,275 postings before de-duplication."
   },
   {
    "id": "cities",

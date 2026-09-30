@@ -8,22 +8,22 @@
   "continent": "europe",
   "currency": "EUR"
  },
- "generated_at": "2026-09-30T16:14:03+00:00",
+ "generated_at": "2026-09-30T20:37:00+00:00",
  "coverage": {
   "first_month": "2026-06",
   "last_month": "2026-08",
   "collecting_since": "2026-08-03",
-  "complete_from": "2026-09",
+  "complete_from": "2026-08",
   "index_base_month": "2026-08",
-  "note_pl": "Zbieranie trwa od 03.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: miesiąc jeszcze trwa."
+  "note_pl": "Zbieranie trwa od 03.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
  },
  "headline": {
   "month": "2026-08",
-  "postings_new": 10577,
-  "postings_raw": 10577,
+  "postings_new": 10586,
+  "postings_raw": 10586,
   "mom_pct": null,
   "yoy_pct": null,
-  "postings_active_end": null,
+  "postings_active_end": 13367,
   "salary_median": null,
   "salary_currency": "EUR",
   "salary_share": 0.0,
@@ -215,8 +215,8 @@
   {
    "period": "2026-07",
    "partial": false,
-   "postings_new": 2326,
-   "postings_raw": 2326,
+   "postings_new": 2327,
+   "postings_raw": 2327,
    "postings_active_end": null,
    "postings_closed": null,
    "index": 22.0,
@@ -244,7 +244,7 @@
      "code": "careerjet.lv",
      "service": "Careerjet",
      "kind": "aggregator",
-     "n": 2326
+     "n": 2327
     }
    ],
    "top_cities": [
@@ -276,7 +276,7 @@
     {
      "name": "Valmiera",
      "n": 57,
-     "share": 0.025
+     "share": 0.024
     },
     {
      "name": "Ogre",
@@ -391,9 +391,9 @@
   {
    "period": "2026-08",
    "partial": false,
-   "postings_new": 10577,
-   "postings_raw": 10577,
-   "postings_active_end": null,
+   "postings_new": 10586,
+   "postings_raw": 10586,
+   "postings_active_end": 13367,
    "postings_closed": null,
    "index": 100.0,
    "mom_pct": null,
@@ -420,7 +420,7 @@
      "code": "careerjet.lv",
      "service": "Careerjet",
      "kind": "aggregator",
-     "n": 10577
+     "n": 10586
     }
    ],
    "top_cities": [
@@ -431,12 +431,12 @@
     },
     {
      "name": "Jelgava",
-     "n": 343,
+     "n": 344,
      "share": 0.032
     },
     {
      "name": "Daugavpils",
-     "n": 232,
+     "n": 233,
      "share": 0.022
     },
     {
@@ -563,6 +563,28 @@
     }
    ],
    "regions": []
+  }
+ ],
+ "weekly": [
+  {
+   "week": "2026-08-03",
+   "postings_new": 2905,
+   "postings_raw": 2905
+  },
+  {
+   "week": "2026-08-10",
+   "postings_new": 2586,
+   "postings_raw": 2586
+  },
+  {
+   "week": "2026-08-17",
+   "postings_new": 2275,
+   "postings_raw": 2275
+  },
+  {
+   "week": "2026-08-24",
+   "postings_new": 1921,
+   "postings_raw": 1921
   }
  ],
  "quarterly": [
@@ -742,8 +764,8 @@
   {
    "period": "2026-Q3",
    "partial": true,
-   "postings_new": 12903,
-   "postings_raw": 12903,
+   "postings_new": 12913,
+   "postings_raw": 12913,
    "qoq_pct": null,
    "yoy_pct": null,
    "salary": {
@@ -768,23 +790,23 @@
      "code": "careerjet.lv",
      "service": "Careerjet",
      "kind": "aggregator",
-     "n": 12903
+     "n": 12913
     }
    ],
    "top_cities": [
     {
      "name": "Rīga",
      "n": 3454,
-     "share": 0.268
+     "share": 0.267
     },
     {
      "name": "Jelgava",
-     "n": 451,
+     "n": 452,
      "share": 0.035
     },
     {
      "name": "Daugavpils",
-     "n": 322,
+     "n": 323,
      "share": 0.025
     },
     {
@@ -920,7 +942,7 @@
    "kind": "aggregator",
    "url": "https://www.careerjet.lv",
    "collecting_since": "2026-08-03",
-   "offers_total": 15421,
+   "offers_total": 17096,
    "share_latest": 1.0,
    "salary_coverage": 0.0,
    "description_coverage": 1.0
@@ -930,7 +952,7 @@
   "field_coverage": {
    "salary_any": 0.0,
    "city": 1.0,
-   "company": 0.903,
+   "company": 0.902,
    "employment_type": 0.0,
    "remote": 0.0,
    "posted_at": 1.0
@@ -945,10 +967,10 @@
   {
    "id": "volume",
    "icon": "trend",
-   "title_pl": "Sierpień: 10 577 ogłoszeń",
-   "text_pl": "10 577 nowych ogłoszeń (miesiąc wcześniej: 2 326).",
-   "title_en": "August: 10,577 postings",
-   "text_en": "10,577 new postings (a month earlier: 2,326)."
+   "title_pl": "Sierpień: 10 586 ogłoszeń",
+   "text_pl": "10 586 nowych ogłoszeń - najwięcej od początku zbierania.",
+   "title_en": "August: 10,586 postings",
+   "text_en": "10,586 new postings - the most since collection began."
   },
   {
    "id": "mover",
@@ -970,9 +992,9 @@
    "id": "source",
    "icon": "source",
    "title_pl": "Największy serwis: Careerjet (100%)",
-   "text_pl": "Dane z 1 serwisu; Careerjet dostarcza 10 577 z 10 577 ogłoszeń przed zdjęciem powtórek.",
+   "text_pl": "Dane z 1 serwisu; Careerjet dostarcza 10 586 z 10 586 ogłoszeń przed zdjęciem powtórek.",
    "title_en": "Largest source: Careerjet (100%)",
-   "text_en": "Data from 1 source; Careerjet provides 10,577 of 10,577 postings before de-duplication."
+   "text_en": "Data from 1 source; Careerjet provides 10,586 of 10,586 postings before de-duplication."
   },
   {
    "id": "cities",

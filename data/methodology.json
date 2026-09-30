@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-09-30T16:14:03+00:00",
+ "generated_at": "2026-09-30T20:37:00+00:00",
  "totals": {
-  "offers_total": 29810552,
+  "offers_total": 30764419,
   "countries": 56,
   "sources": 134,
-  "collecting_since": "2023-01-01"
+  "collecting_since": "2026-08-01"
  },
- "aggregated_at": "2026-09-30T14:08:39.433581+00:00",
+ "aggregated_at": "2026-09-30T20:12:18.913318+00:00",
  "sources": [
   {
    "code": "tanqeeb.ae",
@@ -25,7 +25,7 @@
    "country": "AT",
    "url": "https://www.careerjet.at",
    "collecting_since": "2026-08-03",
-   "offers_total": 32539,
+   "offers_total": 37581,
    "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
   },
   {
@@ -45,7 +45,7 @@
    "country": "AT",
    "url": "https://at.jooble.org",
    "collecting_since": "2026-08-01",
-   "offers_total": 134353,
+   "offers_total": 146085,
    "fetch_via_pl": "przepustka Cloudflare: przeglądarka rozwiązuje challenge raz, dalej szybki klient"
   },
   {
@@ -55,7 +55,7 @@
    "country": "AU",
    "url": "https://www.careerjet.com.au",
    "collecting_since": "2026-08-03",
-   "offers_total": 102778,
+   "offers_total": 123500,
    "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
   },
   {
@@ -85,7 +85,7 @@
    "country": "BE",
    "url": "https://www.careerjet.be",
    "collecting_since": "2026-08-03",
-   "offers_total": 80369,
+   "offers_total": 108182,
    "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
   },
   {
@@ -145,7 +145,7 @@
    "country": "CA",
    "url": "https://ca.jooble.org",
    "collecting_since": "2026-08-01",
-   "offers_total": 333385,
+   "offers_total": 374689,
    "fetch_via_pl": "przepustka Cloudflare: przeglądarka rozwiązuje challenge raz, dalej szybki klient"
   },
   {
@@ -155,7 +155,7 @@
    "country": "CH",
    "url": "https://www.careerjet.ch",
    "collecting_since": "2026-08-03",
-   "offers_total": 148646,
+   "offers_total": 148983,
    "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
   },
   {
@@ -205,7 +205,7 @@
    "country": "CL",
    "url": "https://cl.jooble.org",
    "collecting_since": "2026-08-01",
-   "offers_total": 184892,
+   "offers_total": 205061,
    "fetch_via_pl": "przepustka Cloudflare: przeglądarka rozwiązuje challenge raz, dalej szybki klient"
   },
   {
@@ -235,7 +235,7 @@
    "country": "CO",
    "url": "https://co.jooble.org",
    "collecting_since": "2026-08-01",
-   "offers_total": 283826,
+   "offers_total": 328050,
    "fetch_via_pl": "przepustka Cloudflare: przeglądarka rozwiązuje challenge raz, dalej szybki klient"
   },
   {
@@ -245,7 +245,7 @@
    "country": "CR",
    "url": "https://www.opcionempleo.co.cr",
    "collecting_since": "2026-08-03",
-   "offers_total": 8256,
+   "offers_total": 10269,
    "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
   },
   {
@@ -275,7 +275,7 @@
    "country": "CZ",
    "url": "https://www.careerjet.cz",
    "collecting_since": "2026-08-03",
-   "offers_total": 106500,
+   "offers_total": 124206,
    "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
   },
   {
@@ -335,7 +335,7 @@
    "country": "DK",
    "url": "https://www.careerjet.dk",
    "collecting_since": "2026-08-03",
-   "offers_total": 43133,
+   "offers_total": 50632,
    "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
   },
   {
@@ -375,7 +375,7 @@
    "country": "EE",
    "url": "https://www.careerjet.ee",
    "collecting_since": "2026-08-03",
-   "offers_total": 13553,
+   "offers_total": 16295,
    "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
   },
   {
@@ -385,7 +385,7 @@
    "country": "EG",
    "url": "https://egypt.tanqeeb.com",
    "collecting_since": "2026-08-05",
-   "offers_total": 46506,
+   "offers_total": 59581,
    "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
   },
   {
@@ -395,7 +395,7 @@
    "country": "ES",
    "url": "https://www.opcionempleo.com",
    "collecting_since": "2026-08-03",
-   "offers_total": 81025,
+   "offers_total": 98739,
    "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
   },
   {
@@ -425,7 +425,7 @@
    "country": "FI",
    "url": "https://www.careerjet.fi",
    "collecting_since": "2026-08-03",
-   "offers_total": 41936,
+   "offers_total": 50532,
    "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
   },
   {
@@ -515,7 +515,7 @@
    "country": "GR",
    "url": "https://www.careerjet.gr",
    "collecting_since": "2026-08-03",
-   "offers_total": 42889,
+   "offers_total": 53165,
    "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
   },
   {
@@ -545,7 +545,7 @@
    "country": "HU",
    "url": "https://www.careerjet.hu",
    "collecting_since": "2026-08-03",
-   "offers_total": 24506,
+   "offers_total": 28977,
    "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
   },
   {
@@ -575,7 +575,7 @@
    "country": "IE",
    "url": "https://www.careerjet.ie",
    "collecting_since": "2026-08-03",
-   "offers_total": 41491,
+   "offers_total": 49496,
    "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
   },
   {
@@ -605,7 +605,7 @@
    "country": "IL",
    "url": "https://www.careerjet.co.il",
    "collecting_since": "2026-08-03",
-   "offers_total": 9414,
+   "offers_total": 11145,
    "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
   },
   {
@@ -635,7 +635,7 @@
    "country": "IS",
    "url": "https://www.careerjet.com",
    "collecting_since": "2026-08-03",
-   "offers_total": 442,
+   "offers_total": 538,
    "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
   },
   {
@@ -715,7 +715,7 @@
    "country": "KR",
    "url": "https://www.careerjet.co.kr",
    "collecting_since": "2026-08-03",
-   "offers_total": 17502,
+   "offers_total": 19962,
    "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
   },
   {
@@ -755,7 +755,7 @@
    "country": "LB",
    "url": "https://lebanon.tanqeeb.com",
    "collecting_since": "2026-08-04",
-   "offers_total": 10070,
+   "offers_total": 11696,
    "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
   },
   {
@@ -765,7 +765,7 @@
    "country": "LT",
    "url": "https://www.careerjet.lt",
    "collecting_since": "2026-08-03",
-   "offers_total": 10946,
+   "offers_total": 12878,
    "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
   },
   {
@@ -775,7 +775,7 @@
    "country": "LU",
    "url": "https://www.careerjet.lu",
    "collecting_since": "2026-08-03",
-   "offers_total": 9512,
+   "offers_total": 11059,
    "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
   },
   {
@@ -795,7 +795,7 @@
    "country": "LV",
    "url": "https://www.careerjet.lv",
    "collecting_since": "2026-08-03",
-   "offers_total": 15421,
+   "offers_total": 17096,
    "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
   },
   {
@@ -885,7 +885,7 @@
    "country": "NO",
    "url": "https://www.careerjet.no",
    "collecting_since": "2026-08-03",
-   "offers_total": 40263,
+   "offers_total": 51189,
    "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
   },
   {
@@ -915,7 +915,7 @@
    "country": "NZ",
    "url": "https://www.careerjet.co.nz",
    "collecting_since": "2026-08-03",
-   "offers_total": 18984,
+   "offers_total": 22708,
    "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
   },
   {
@@ -984,8 +984,8 @@
    "kind": "portal",
    "country": "PL",
    "url": "https://www.pracuj.pl",
-   "collecting_since": null,
-   "offers_total": 0,
+   "collecting_since": "2026-01-01",
+   "offers_total": 583684,
    "fetch_via_pl": "przepustka Cloudflare: przeglądarka rozwiązuje challenge raz, dalej szybki klient"
   },
   {
@@ -1005,7 +1005,7 @@
    "country": "PT",
    "url": "https://www.careerjet.pt",
    "collecting_since": "2026-08-03",
-   "offers_total": 50788,
+   "offers_total": 59408,
    "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
   },
   {
@@ -1035,7 +1035,7 @@
    "country": "QA",
    "url": "https://qatar.tanqeeb.com",
    "collecting_since": "2026-08-04",
-   "offers_total": 18301,
+   "offers_total": 23261,
    "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
   },
   {
@@ -1045,7 +1045,7 @@
    "country": "SA",
    "url": "https://www.careerjet.com.sa",
    "collecting_since": "2023-03-07",
-   "offers_total": 33243,
+   "offers_total": 36749,
    "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
   },
   {
@@ -1065,7 +1065,7 @@
    "country": "SA",
    "url": "https://sa.jooble.org",
    "collecting_since": "2025-06-16",
-   "offers_total": 35768,
+   "offers_total": 37000,
    "fetch_via_pl": "przepustka Cloudflare: przeglądarka rozwiązuje challenge raz, dalej szybki klient"
   },
   {
@@ -1135,7 +1135,7 @@
    "country": "SA",
    "url": "https://www.naukrigulf.com",
    "collecting_since": "2026-07-31",
-   "offers_total": 12949,
+   "offers_total": 15509,
    "fetch_via_pl": "klient podszywający się pod przeglądarkę (odcisk TLS Chrome)"
   },
   {
@@ -1205,7 +1205,7 @@
    "country": "SE",
    "url": "https://www.careerjet.se",
    "collecting_since": "2026-08-03",
-   "offers_total": 102689,
+   "offers_total": 126167,
    "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
   },
   {
@@ -1225,7 +1225,7 @@
    "country": "SE",
    "url": "https://se.jooble.org",
    "collecting_since": "2026-08-01",
-   "offers_total": 115308,
+   "offers_total": 143114,
    "fetch_via_pl": "przepustka Cloudflare: przeglądarka rozwiązuje challenge raz, dalej szybki klient"
   },
   {
@@ -1235,7 +1235,7 @@
    "country": "SI",
    "url": "https://www.careerjet.si",
    "collecting_since": "2026-08-03",
-   "offers_total": 18713,
+   "offers_total": 22589,
    "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
   },
   {
@@ -1245,7 +1245,7 @@
    "country": "SK",
    "url": "https://www.careerjet.sk",
    "collecting_since": "2026-08-03",
-   "offers_total": 7798,
+   "offers_total": 9217,
    "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
   },
   {
@@ -1285,7 +1285,7 @@
    "country": "TR",
    "url": "https://www.careerjet.com.tr",
    "collecting_since": "2026-08-03",
-   "offers_total": 46015,
+   "offers_total": 49584,
    "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
   },
   {

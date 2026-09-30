@@ -8,19 +8,19 @@
   "continent": "asia_pacific",
   "currency": "AUD"
  },
- "generated_at": "2026-09-30T16:14:03+00:00",
+ "generated_at": "2026-09-30T20:37:00+00:00",
  "coverage": {
   "first_month": "2026-02",
   "last_month": "2026-08",
   "collecting_since": "2026-08-01",
   "complete_from": "2026-08",
   "index_base_month": "2026-08",
-  "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: miesiąc jeszcze trwa."
+  "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
  },
  "headline": {
   "month": "2026-08",
-  "postings_new": 222993,
-  "postings_raw": 284566,
+  "postings_new": 223058,
+  "postings_raw": 284632,
   "mom_pct": null,
   "yoy_pct": null,
   "postings_active_end": 274033,
@@ -717,19 +717,19 @@
   {
    "period": "2026-07",
    "partial": false,
-   "postings_new": 130286,
-   "postings_raw": 150967,
+   "postings_new": 130321,
+   "postings_raw": 151002,
    "postings_active_end": null,
    "postings_closed": null,
    "index": 58.4,
    "mom_pct": null,
    "yoy_pct": null,
    "salary": {
-    "median": 7958,
+    "median": 7957,
     "p25": 6667,
     "p75": 10417,
     "mean": 8783,
-    "n": 7756,
+    "n": 7757,
     "share": 0.149,
     "currency": "AUD"
    },
@@ -758,23 +758,23 @@
      "code": "careerjet.au",
      "service": "Careerjet",
      "kind": "aggregator",
-     "n": 26934
+     "n": 26969
     }
    ],
    "top_cities": [
     {
      "name": "Sydney",
-     "n": 16639,
+     "n": 16643,
      "share": 0.11
     },
     {
      "name": "Melbourne",
-     "n": 11716,
+     "n": 11719,
      "share": 0.078
     },
     {
      "name": "Brisbane",
-     "n": 7742,
+     "n": 7743,
      "share": 0.051
     },
     {
@@ -784,7 +784,7 @@
     },
     {
      "name": "Adelaide",
-     "n": 3245,
+     "n": 3246,
      "share": 0.021
     },
     {
@@ -794,22 +794,22 @@
     },
     {
      "name": "Queensland",
-     "n": 1695,
+     "n": 1702,
      "share": 0.011
     },
     {
      "name": "Australia",
-     "n": 1612,
+     "n": 1618,
      "share": 0.011
     },
     {
      "name": "Victoria",
-     "n": 1430,
+     "n": 1431,
      "share": 0.009
     },
     {
      "name": "Canberra",
-     "n": 1325,
+     "n": 1327,
      "share": 0.009
     },
     {
@@ -819,7 +819,7 @@
     },
     {
      "name": "Darwin",
-     "n": 1140,
+     "n": 1141,
      "share": 0.008
     },
     {
@@ -905,8 +905,8 @@
   {
    "period": "2026-08",
    "partial": false,
-   "postings_new": 222993,
-   "postings_raw": 284566,
+   "postings_new": 223058,
+   "postings_raw": 284632,
    "postings_active_end": 274033,
    "postings_closed": 197132,
    "index": 100.0,
@@ -917,7 +917,7 @@
     "p25": 6562,
     "p75": 10295,
     "mean": 8599,
-    "n": 15752,
+    "n": 15761,
     "share": 0.154,
     "currency": "AUD"
    },
@@ -946,33 +946,33 @@
      "code": "careerjet.au",
      "service": "Careerjet",
      "kind": "aggregator",
-     "n": 57216
+     "n": 57282
     }
    ],
    "top_cities": [
     {
      "name": "Sydney",
-     "n": 32374,
+     "n": 32386,
      "share": 0.114
     },
     {
      "name": "Melbourne",
-     "n": 24539,
+     "n": 24550,
      "share": 0.086
     },
     {
      "name": "Brisbane",
-     "n": 15105,
+     "n": 15108,
      "share": 0.053
     },
     {
      "name": "Perth",
-     "n": 11413,
+     "n": 11417,
      "share": 0.04
     },
     {
      "name": "Adelaide",
-     "n": 6110,
+     "n": 6111,
      "share": 0.021
     },
     {
@@ -987,7 +987,7 @@
     },
     {
      "name": "Australia",
-     "n": 3298,
+     "n": 3303,
      "share": 0.012
     },
     {
@@ -997,12 +997,12 @@
     },
     {
      "name": "Victoria",
-     "n": 2611,
+     "n": 2612,
      "share": 0.009
     },
     {
      "name": "Canberra",
-     "n": 2374,
+     "n": 2375,
      "share": 0.008
     },
     {
@@ -1012,7 +1012,7 @@
     },
     {
      "name": "Western Australia",
-     "n": 1581,
+     "n": 1582,
      "share": 0.006
     },
     {
@@ -1037,7 +1037,7 @@
     },
     {
      "title": "project manager",
-     "n": 806
+     "n": 808
     },
     {
      "title": "team member",
@@ -1089,6 +1089,28 @@
     }
    ],
    "regions": []
+  }
+ ],
+ "weekly": [
+  {
+   "week": "2026-08-03",
+   "postings_new": 50917,
+   "postings_raw": 61231
+  },
+  {
+   "week": "2026-08-10",
+   "postings_new": 65866,
+   "postings_raw": 78522
+  },
+  {
+   "week": "2026-08-17",
+   "postings_new": 51669,
+   "postings_raw": 64082
+  },
+  {
+   "week": "2026-08-24",
+   "postings_new": 53316,
+   "postings_raw": 65043
   }
  ],
  "quarterly": [
@@ -1398,8 +1420,8 @@
   {
    "period": "2026-Q3",
    "partial": true,
-   "postings_new": 353279,
-   "postings_raw": 435533,
+   "postings_new": 353379,
+   "postings_raw": 435634,
    "qoq_pct": null,
    "yoy_pct": null,
    "salary": {
@@ -1407,7 +1429,7 @@
     "p25": 6597,
     "p75": 10335,
     "mean": 8660,
-    "n": 23508,
+    "n": 23518,
     "share": 0.152,
     "currency": "AUD"
    },
@@ -1436,33 +1458,33 @@
      "code": "careerjet.au",
      "service": "Careerjet",
      "kind": "aggregator",
-     "n": 84150
+     "n": 84251
     }
    ],
    "top_cities": [
     {
      "name": "Sydney",
-     "n": 49013,
+     "n": 49029,
      "share": 0.113
     },
     {
      "name": "Melbourne",
-     "n": 36255,
+     "n": 36269,
      "share": 0.083
     },
     {
      "name": "Brisbane",
-     "n": 22847,
+     "n": 22851,
      "share": 0.052
     },
     {
      "name": "Perth",
-     "n": 17580,
+     "n": 17584,
      "share": 0.04
     },
     {
      "name": "Adelaide",
-     "n": 9355,
+     "n": 9357,
      "share": 0.021
     },
     {
@@ -1472,12 +1494,12 @@
     },
     {
      "name": "Queensland",
-     "n": 5249,
+     "n": 5256,
      "share": 0.012
     },
     {
      "name": "Australia",
-     "n": 4910,
+     "n": 4921,
      "share": 0.011
     },
     {
@@ -1487,22 +1509,22 @@
     },
     {
      "name": "Victoria",
-     "n": 4041,
+     "n": 4043,
      "share": 0.009
     },
     {
      "name": "Canberra",
-     "n": 3699,
+     "n": 3702,
      "share": 0.008
     },
     {
      "name": "Darwin",
-     "n": 3117,
+     "n": 3118,
      "share": 0.007
     },
     {
      "name": "Western Australia",
-     "n": 2452,
+     "n": 2453,
      "share": 0.006
     },
     {
@@ -1527,7 +1549,7 @@
     },
     {
      "title": "project manager",
-     "n": 1175
+     "n": 1177
     },
     {
      "title": "chef",
@@ -1610,19 +1632,19 @@
    "kind": "aggregator",
    "url": "https://www.careerjet.com.au",
    "collecting_since": "2026-08-03",
-   "offers_total": 102778,
+   "offers_total": 123500,
    "share_latest": 0.201,
-   "salary_coverage": 0.278,
+   "salary_coverage": 0.279,
    "description_coverage": 1.0
   }
  ],
  "quality": {
   "field_coverage": {
-   "salary_any": 0.141,
-   "city": 0.976,
+   "salary_any": 0.146,
+   "city": 0.977,
    "company": 0.974,
-   "employment_type": 0.299,
-   "remote": 0.82,
+   "employment_type": 0.289,
+   "remote": 0.792,
    "posted_at": 1.0
   },
   "dedup": {
@@ -1635,10 +1657,10 @@
   {
    "id": "volume",
    "icon": "trend",
-   "title_pl": "Sierpień: 222 993 ogłoszeń",
-   "text_pl": "222 993 nowych ogłoszeń - najwięcej od początku zbierania.",
-   "title_en": "August: 222,993 postings",
-   "text_en": "222,993 new postings - the most since collection began."
+   "title_pl": "Sierpień: 223 058 ogłoszeń",
+   "text_pl": "223 058 nowych ogłoszeń - najwięcej od początku zbierania.",
+   "title_en": "August: 223,058 postings",
+   "text_en": "223,058 new postings - the most since collection began."
   },
   {
    "id": "mover",
@@ -1660,17 +1682,17 @@
    "id": "remote",
    "icon": "remote",
    "title_pl": "Praca zdalna: 1,4% ogłoszeń",
-   "text_pl": "3 984 ogłoszeń oznaczonych jako praca zdalna (-0,1 pkt proc. m/m).",
+   "text_pl": "3 985 ogłoszeń oznaczonych jako praca zdalna (-0,1 pkt proc. m/m).",
    "title_en": "Remote work: 1.4% of postings",
-   "text_en": "3,984 postings flagged as remote (-0.1 pp m/m)."
+   "text_en": "3,985 postings flagged as remote (-0.1 pp m/m)."
   },
   {
    "id": "source",
    "icon": "source",
    "title_pl": "Największy serwis: Jooble (41%)",
-   "text_pl": "Dane z 3 serwisów; Jooble dostarcza 117 531 z 284 566 ogłoszeń przed zdjęciem powtórek.",
+   "text_pl": "Dane z 3 serwisów; Jooble dostarcza 117 531 z 284 632 ogłoszeń przed zdjęciem powtórek.",
    "title_en": "Largest source: Jooble (41%)",
-   "text_en": "Data from 3 sources; Jooble provides 117,531 of 284,566 postings before de-duplication."
+   "text_en": "Data from 3 sources; Jooble provides 117,531 of 284,632 postings before de-duplication."
   },
   {
    "id": "cities",

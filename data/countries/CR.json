@@ -8,19 +8,19 @@
   "continent": "north_america",
   "currency": "CRC"
  },
- "generated_at": "2026-09-30T16:14:03+00:00",
+ "generated_at": "2026-09-30T20:37:00+00:00",
  "coverage": {
   "first_month": "2025-07",
   "last_month": "2026-08",
   "collecting_since": "2026-07-31",
   "complete_from": "2026-08",
   "index_base_month": "2026-08",
-  "note_pl": "Zbieranie trwa od 31.07.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: miesiąc jeszcze trwa."
+  "note_pl": "Zbieranie trwa od 31.07.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
  },
  "headline": {
   "month": "2026-08",
-  "postings_new": 7265,
-  "postings_raw": 8835,
+  "postings_new": 7269,
+  "postings_raw": 8839,
   "mom_pct": null,
   "yoy_pct": null,
   "postings_active_end": 13115,
@@ -32,7 +32,7 @@
   "top_source": {
    "code": "careerjet.cr",
    "service": "Careerjet",
-   "share": 0.473
+   "share": 0.474
   }
  },
  "monthly": [
@@ -1434,8 +1434,8 @@
   {
    "period": "2026-07",
    "partial": false,
-   "postings_new": 5790,
-   "postings_raw": 6706,
+   "postings_new": 5797,
+   "postings_raw": 6713,
    "postings_active_end": null,
    "postings_closed": null,
    "index": 79.7,
@@ -1445,8 +1445,8 @@
     "median": 450000,
     "p25": 412421,
     "p75": 525000,
-    "mean": 469174,
-    "n": 148,
+    "mean": 468844,
+    "n": 149,
     "share": 0.045,
     "currency": "CRC"
    },
@@ -1456,14 +1456,14 @@
     "part_time": 0.002,
     "contract": 0.009,
     "other": 0.003,
-    "unknown": 0.849
+    "unknown": 0.85
    },
    "by_source": [
     {
      "code": "careerjet.cr",
      "service": "Careerjet",
      "kind": "aggregator",
-     "n": 3031
+     "n": 3038
     },
     {
      "code": "jooble.cr",
@@ -1486,13 +1486,13 @@
     },
     {
      "name": "Heredia",
-     "n": 866,
+     "n": 869,
      "share": 0.129
     },
     {
      "name": "Alajuela",
      "n": 688,
-     "share": 0.103
+     "share": 0.102
     },
     {
      "name": "Costa Rica",
@@ -1622,8 +1622,8 @@
   {
    "period": "2026-08",
    "partial": false,
-   "postings_new": 7265,
-   "postings_raw": 8835,
+   "postings_new": 7269,
+   "postings_raw": 8839,
    "postings_active_end": 13115,
    "postings_closed": 5260,
    "index": 100.0,
@@ -1644,14 +1644,14 @@
     "part_time": 0.004,
     "contract": 0.011,
     "other": 0.002,
-    "unknown": 0.819
+    "unknown": 0.82
    },
    "by_source": [
     {
      "code": "careerjet.cr",
      "service": "Careerjet",
      "kind": "aggregator",
-     "n": 4182
+     "n": 4186
     },
     {
      "code": "jooble.cr",
@@ -1669,7 +1669,7 @@
    "top_cities": [
     {
      "name": "San José",
-     "n": 2616,
+     "n": 2617,
      "share": 0.296
     },
     {
@@ -1679,12 +1679,12 @@
     },
     {
      "name": "Alajuela",
-     "n": 887,
-     "share": 0.1
+     "n": 889,
+     "share": 0.101
     },
     {
      "name": "Costa Rica",
-     "n": 466,
+     "n": 467,
      "share": 0.053
     },
     {
@@ -1806,6 +1806,28 @@
     }
    ],
    "regions": []
+  }
+ ],
+ "weekly": [
+  {
+   "week": "2026-08-03",
+   "postings_new": 1974,
+   "postings_raw": 2311
+  },
+  {
+   "week": "2026-08-10",
+   "postings_new": 1711,
+   "postings_raw": 2021
+  },
+  {
+   "week": "2026-08-17",
+   "postings_new": 1685,
+   "postings_raw": 2029
+  },
+  {
+   "week": "2026-08-24",
+   "postings_new": 1621,
+   "postings_raw": 1910
   }
  ],
  "quarterly": [
@@ -2351,16 +2373,16 @@
   {
    "period": "2026-Q3",
    "partial": true,
-   "postings_new": 13055,
-   "postings_raw": 15541,
+   "postings_new": 13066,
+   "postings_raw": 15552,
    "qoq_pct": null,
    "yoy_pct": null,
    "salary": {
     "median": 450000,
-    "p25": 415889,
-    "p75": 511821,
-    "mean": 465906,
-    "n": 313,
+    "p25": 415878,
+    "p75": 511863,
+    "mean": 465760,
+    "n": 314,
     "share": 0.043,
     "currency": "CRC"
    },
@@ -2370,14 +2392,14 @@
     "part_time": 0.003,
     "contract": 0.01,
     "other": 0.002,
-    "unknown": 0.832
+    "unknown": 0.833
    },
    "by_source": [
     {
      "code": "careerjet.cr",
      "service": "Careerjet",
      "kind": "aggregator",
-     "n": 7213
+     "n": 7224
     },
     {
      "code": "jooble.cr",
@@ -2395,22 +2417,22 @@
    "top_cities": [
     {
      "name": "San José",
-     "n": 4581,
+     "n": 4582,
      "share": 0.295
     },
     {
      "name": "Heredia",
-     "n": 2065,
+     "n": 2068,
      "share": 0.133
     },
     {
      "name": "Alajuela",
-     "n": 1575,
+     "n": 1577,
      "share": 0.101
     },
     {
      "name": "Costa Rica",
-     "n": 829,
+     "n": 830,
      "share": 0.053
     },
     {
@@ -2541,9 +2563,9 @@
    "kind": "aggregator",
    "url": "https://www.opcionempleo.co.cr",
    "collecting_since": "2026-08-03",
-   "offers_total": 8256,
-   "share_latest": 0.473,
-   "salary_coverage": 0.061,
+   "offers_total": 10269,
+   "share_latest": 0.474,
+   "salary_coverage": 0.067,
    "description_coverage": 1.0
   },
   {
@@ -2571,11 +2593,11 @@
  ],
  "quality": {
   "field_coverage": {
-   "salary_any": 0.051,
-   "city": 0.952,
-   "company": 0.911,
-   "employment_type": 0.205,
-   "remote": 0.595,
+   "salary_any": 0.055,
+   "city": 0.956,
+   "company": 0.904,
+   "employment_type": 0.186,
+   "remote": 0.541,
    "posted_at": 1.0
   },
   "dedup": {
@@ -2588,10 +2610,10 @@
   {
    "id": "volume",
    "icon": "trend",
-   "title_pl": "Sierpień: 7 265 ogłoszeń",
-   "text_pl": "7 265 nowych ogłoszeń - najwięcej od początku zbierania.",
-   "title_en": "August: 7,265 postings",
-   "text_en": "7,265 new postings - the most since collection began."
+   "title_pl": "Sierpień: 7 269 ogłoszeń",
+   "text_pl": "7 269 nowych ogłoszeń - najwięcej od początku zbierania.",
+   "title_en": "August: 7,269 postings",
+   "text_en": "7,269 new postings - the most since collection began."
   },
   {
    "id": "mover",
@@ -2621,9 +2643,9 @@
    "id": "source",
    "icon": "source",
    "title_pl": "Największy serwis: Careerjet (47%)",
-   "text_pl": "Dane z 3 serwisów; Careerjet dostarcza 4 182 z 8 835 ogłoszeń przed zdjęciem powtórek.",
+   "text_pl": "Dane z 3 serwisów; Careerjet dostarcza 4 186 z 8 839 ogłoszeń przed zdjęciem powtórek.",
    "title_en": "Largest source: Careerjet (47%)",
-   "text_en": "Data from 3 sources; Careerjet provides 4,182 of 8,835 postings before de-duplication."
+   "text_en": "Data from 3 sources; Careerjet provides 4,186 of 8,839 postings before de-duplication."
   },
   {
    "id": "cities",

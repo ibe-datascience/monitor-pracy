@@ -8,39 +8,39 @@
   "continent": "south_america",
   "currency": "CLP"
  },
- "generated_at": "2026-09-30T16:14:03+00:00",
+ "generated_at": "2026-09-30T20:37:00+00:00",
  "coverage": {
   "first_month": "2026-05",
   "last_month": "2026-08",
   "collecting_since": "2026-08-01",
   "complete_from": "2026-08",
   "index_base_month": "2026-08",
-  "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: miesiąc jeszcze trwa."
+  "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
  },
  "headline": {
   "month": "2026-08",
-  "postings_new": 411078,
-  "postings_raw": 446366,
+  "postings_new": 411426,
+  "postings_raw": 447080,
   "mom_pct": null,
   "yoy_pct": null,
-  "postings_active_end": 494419,
+  "postings_active_end": 495587,
   "salary_median": 585090,
   "salary_currency": "CLP",
-  "salary_share": 0.084,
+  "salary_share": 0.085,
   "remote_share": 0.0,
   "sources": 3,
   "top_source": {
    "code": "careerjet.cl",
    "service": "Careerjet",
-   "share": 0.809
+   "share": 0.807
   }
  },
  "monthly": [
   {
    "period": "2026-05",
    "partial": false,
-   "postings_new": 10561,
-   "postings_raw": 13021,
+   "postings_new": 10563,
+   "postings_raw": 13024,
    "postings_active_end": null,
    "postings_closed": null,
    "index": 2.6,
@@ -68,7 +68,7 @@
      "code": "jooble.cl",
      "service": "Jooble",
      "kind": "aggregator",
-     "n": 11487
+     "n": 11490
     },
     {
      "code": "careerjet.cl",
@@ -166,8 +166,8 @@
   {
    "period": "2026-06",
    "partial": false,
-   "postings_new": 35756,
-   "postings_raw": 43753,
+   "postings_new": 35763,
+   "postings_raw": 43773,
    "postings_active_end": null,
    "postings_closed": null,
    "index": 8.7,
@@ -195,7 +195,7 @@
      "code": "jooble.cl",
      "service": "Jooble",
      "kind": "aggregator",
-     "n": 37959
+     "n": 37979
     },
     {
      "code": "indeed.cl",
@@ -213,12 +213,12 @@
    "top_cities": [
     {
      "name": "Santiago",
-     "n": 13570,
+     "n": 13573,
      "share": 0.31
     },
     {
      "name": "Antofagasta",
-     "n": 2817,
+     "n": 2818,
      "share": 0.064
     },
     {
@@ -228,27 +228,27 @@
     },
     {
      "name": "Pudahuel",
-     "n": 1213,
+     "n": 1214,
      "share": 0.028
     },
     {
      "name": "Las Condes",
-     "n": 1193,
+     "n": 1194,
      "share": 0.027
     },
     {
      "name": "Valparaíso",
-     "n": 1048,
+     "n": 1049,
      "share": 0.024
     },
     {
      "name": "Providencia",
-     "n": 1007,
+     "n": 1009,
      "share": 0.023
     },
     {
      "name": "Calama",
-     "n": 1006,
+     "n": 1007,
      "share": 0.023
     },
     {
@@ -263,7 +263,7 @@
     },
     {
      "name": "Quilicura",
-     "n": 818,
+     "n": 821,
      "share": 0.019
     },
     {
@@ -354,8 +354,8 @@
   {
    "period": "2026-07",
    "partial": false,
-   "postings_new": 75364,
-   "postings_raw": 99419,
+   "postings_new": 75407,
+   "postings_raw": 99527,
    "postings_active_end": null,
    "postings_closed": null,
    "index": 18.3,
@@ -372,18 +372,18 @@
    },
    "remote_share": 0.0,
    "employment": {
-    "full_time": 0.035,
+    "full_time": 0.034,
     "part_time": 0.012,
     "contract": 0.016,
     "other": 0.001,
-    "unknown": 0.936
+    "unknown": 0.937
    },
    "by_source": [
     {
      "code": "jooble.cl",
      "service": "Jooble",
      "kind": "aggregator",
-     "n": 57963
+     "n": 58071
     },
     {
      "code": "careerjet.cl",
@@ -401,22 +401,22 @@
    "top_cities": [
     {
      "name": "Santiago",
-     "n": 25430,
+     "n": 25455,
      "share": 0.256
     },
     {
      "name": "Antofagasta",
-     "n": 6170,
+     "n": 6178,
      "share": 0.062
     },
     {
      "name": "Santiago de Chile",
      "n": 3431,
-     "share": 0.035
+     "share": 0.034
     },
     {
      "name": "Las Condes",
-     "n": 3360,
+     "n": 3362,
      "share": 0.034
     },
     {
@@ -431,42 +431,42 @@
     },
     {
      "name": "Pudahuel",
-     "n": 2697,
+     "n": 2698,
      "share": 0.027
     },
     {
      "name": "Valparaíso",
-     "n": 2520,
+     "n": 2527,
      "share": 0.025
     },
     {
      "name": "Calama",
-     "n": 2460,
+     "n": 2471,
      "share": 0.025
     },
     {
      "name": "Quilicura",
-     "n": 2319,
+     "n": 2320,
      "share": 0.023
     },
     {
      "name": "Puerto Montt",
-     "n": 1895,
+     "n": 1897,
      "share": 0.019
     },
     {
      "name": "Concepción",
-     "n": 1819,
+     "n": 1823,
      "share": 0.018
     },
     {
      "name": "San Bernardo",
-     "n": 1794,
+     "n": 1795,
      "share": 0.018
     },
     {
      "name": "Copiapó",
-     "n": 1615,
+     "n": 1618,
      "share": 0.016
     },
     {
@@ -478,7 +478,7 @@
    "top_titles": [
     {
      "title": "prevencionista de riesgos",
-     "n": 219
+     "n": 220
     },
     {
      "title": "auxiliar de aseo",
@@ -542,10 +542,10 @@
   {
    "period": "2026-08",
    "partial": false,
-   "postings_new": 411078,
-   "postings_raw": 446366,
-   "postings_active_end": 494419,
-   "postings_closed": 87332,
+   "postings_new": 411426,
+   "postings_raw": 447080,
+   "postings_active_end": 495587,
+   "postings_closed": 86164,
    "index": 100.0,
    "mom_pct": null,
    "yoy_pct": null,
@@ -555,7 +555,7 @@
     "p75": 700000,
     "mean": 570976,
     "n": 15573,
-    "share": 0.084,
+    "share": 0.085,
     "currency": "CLP"
    },
    "remote_share": 0.0,
@@ -577,7 +577,7 @@
      "code": "jooble.cl",
      "service": "Jooble",
      "kind": "aggregator",
-     "n": 65790
+     "n": 66504
     },
     {
      "code": "indeed.cl",
@@ -589,7 +589,7 @@
    "top_cities": [
     {
      "name": "Santiago",
-     "n": 126405,
+     "n": 126546,
      "share": 0.283
     },
     {
@@ -599,62 +599,62 @@
     },
     {
      "name": "Región Metropolitana",
-     "n": 31774,
+     "n": 31801,
      "share": 0.071
     },
     {
      "name": "Antofagasta",
-     "n": 22835,
+     "n": 22883,
      "share": 0.051
     },
     {
      "name": "Valparaíso",
-     "n": 11298,
+     "n": 11311,
      "share": 0.025
     },
     {
      "name": "Calama",
-     "n": 9400,
+     "n": 9414,
      "share": 0.021
     },
     {
      "name": "Concepción",
-     "n": 9054,
+     "n": 9071,
      "share": 0.02
     },
     {
      "name": "Puerto Montt",
-     "n": 8422,
+     "n": 8450,
      "share": 0.019
     },
     {
      "name": "Las Condes",
-     "n": 8153,
+     "n": 8179,
      "share": 0.018
     },
     {
      "name": "Providencia",
-     "n": 7841,
+     "n": 7873,
      "share": 0.018
     },
     {
      "name": "Rancagua",
-     "n": 7421,
+     "n": 7436,
      "share": 0.017
     },
     {
      "name": "Copiapó",
-     "n": 7100,
+     "n": 7106,
      "share": 0.016
     },
     {
      "name": "Pudahuel",
-     "n": 6950,
+     "n": 6978,
      "share": 0.016
     },
     {
      "name": "Iquique",
-     "n": 6104,
+     "n": 6116,
      "share": 0.014
     },
     {
@@ -666,7 +666,7 @@
    "top_titles": [
     {
      "title": "prevencionista de riesgos",
-     "n": 237
+     "n": 238
     },
     {
      "title": "analista contable",
@@ -702,7 +702,7 @@
     },
     {
      "title": "asistente comercial",
-     "n": 94
+     "n": 95
     },
     {
      "title": "ayudante de cocina (santiago)",
@@ -710,7 +710,7 @@
     },
     {
      "title": "guardia de seguridad",
-     "n": 83
+     "n": 84
     },
     {
      "title": "recepcionista",
@@ -728,12 +728,34 @@
    "regions": []
   }
  ],
+ "weekly": [
+  {
+   "week": "2026-08-03",
+   "postings_new": 140767,
+   "postings_raw": 147670
+  },
+  {
+   "week": "2026-08-10",
+   "postings_new": 109836,
+   "postings_raw": 116987
+  },
+  {
+   "week": "2026-08-17",
+   "postings_new": 80445,
+   "postings_raw": 86968
+  },
+  {
+   "week": "2026-08-24",
+   "postings_new": 70787,
+   "postings_raw": 77359
+  }
+ ],
  "quarterly": [
   {
    "period": "2026-Q2",
    "partial": true,
-   "postings_new": 46317,
-   "postings_raw": 56774,
+   "postings_new": 46326,
+   "postings_raw": 56797,
    "qoq_pct": null,
    "yoy_pct": null,
    "salary": {
@@ -758,7 +780,7 @@
      "code": "jooble.cl",
      "service": "Jooble",
      "kind": "aggregator",
-     "n": 49446
+     "n": 49469
     },
     {
      "code": "indeed.cl",
@@ -776,12 +798,12 @@
    "top_cities": [
     {
      "name": "Santiago",
-     "n": 19447,
-     "share": 0.343
+     "n": 19450,
+     "share": 0.342
     },
     {
      "name": "Antofagasta",
-     "n": 3580,
+     "n": 3581,
      "share": 0.063
     },
     {
@@ -791,12 +813,12 @@
     },
     {
      "name": "Calama",
-     "n": 1437,
+     "n": 1438,
      "share": 0.025
     },
     {
      "name": "Valparaíso",
-     "n": 1362,
+     "n": 1363,
      "share": 0.024
     },
     {
@@ -806,12 +828,12 @@
     },
     {
      "name": "Pudahuel",
-     "n": 1213,
+     "n": 1214,
      "share": 0.021
     },
     {
      "name": "Las Condes",
-     "n": 1193,
+     "n": 1194,
      "share": 0.021
     },
     {
@@ -821,7 +843,7 @@
     },
     {
      "name": "Providencia",
-     "n": 1147,
+     "n": 1149,
      "share": 0.02
     },
     {
@@ -841,7 +863,7 @@
     },
     {
      "name": "Quilicura",
-     "n": 818,
+     "n": 821,
      "share": 0.014
     },
     {
@@ -917,8 +939,8 @@
   {
    "period": "2026-Q3",
    "partial": true,
-   "postings_new": 486442,
-   "postings_raw": 545785,
+   "postings_new": 486833,
+   "postings_raw": 546607,
    "qoq_pct": null,
    "yoy_pct": null,
    "salary": {
@@ -949,7 +971,7 @@
      "code": "jooble.cl",
      "service": "Jooble",
      "kind": "aggregator",
-     "n": 123753
+     "n": 124575
     },
     {
      "code": "indeed.cl",
@@ -961,12 +983,12 @@
    "top_cities": [
     {
      "name": "Santiago",
-     "n": 151835,
+     "n": 152001,
      "share": 0.278
     },
     {
      "name": "Región Metropolitana",
-     "n": 34555,
+     "n": 34582,
      "share": 0.063
     },
     {
@@ -976,42 +998,42 @@
     },
     {
      "name": "Antofagasta",
-     "n": 29005,
+     "n": 29061,
      "share": 0.053
     },
     {
      "name": "Valparaíso",
-     "n": 13818,
+     "n": 13838,
      "share": 0.025
     },
     {
      "name": "Calama",
-     "n": 11860,
+     "n": 11885,
      "share": 0.022
     },
     {
      "name": "Las Condes",
-     "n": 11513,
+     "n": 11541,
      "share": 0.021
     },
     {
      "name": "Concepción",
-     "n": 10873,
+     "n": 10894,
      "share": 0.02
     },
     {
      "name": "Providencia",
-     "n": 10609,
+     "n": 10641,
      "share": 0.019
     },
     {
      "name": "Puerto Montt",
-     "n": 10317,
+     "n": 10347,
      "share": 0.019
     },
     {
      "name": "Pudahuel",
-     "n": 9647,
+     "n": 9676,
      "share": 0.018
     },
     {
@@ -1021,24 +1043,24 @@
     },
     {
      "name": "Rancagua",
-     "n": 8930,
+     "n": 8945,
      "share": 0.016
     },
     {
      "name": "Copiapó",
-     "n": 8715,
+     "n": 8724,
      "share": 0.016
     },
     {
      "name": "Iquique",
-     "n": 6104,
+     "n": 6116,
      "share": 0.011
     }
    ],
    "top_titles": [
     {
      "title": "prevencionista de riesgos",
-     "n": 456
+     "n": 458
     },
     {
      "title": "auxiliar de aseo",
@@ -1058,7 +1080,7 @@
     },
     {
      "title": "guardia de seguridad",
-     "n": 174
+     "n": 175
     },
     {
      "title": "asistente contable",
@@ -1066,7 +1088,7 @@
     },
     {
      "title": "asistente comercial",
-     "n": 161
+     "n": 162
     },
     {
      "title": "analista contable (santiago)",
@@ -1108,7 +1130,7 @@
    "url": "https://www.opcionempleo.cl",
    "collecting_since": "2026-08-03",
    "offers_total": 487571,
-   "share_latest": 0.809,
+   "share_latest": 0.807,
    "salary_coverage": 0.044,
    "description_coverage": 1.0
   },
@@ -1118,9 +1140,9 @@
    "kind": "aggregator",
    "url": "https://cl.jooble.org",
    "collecting_since": "2026-08-01",
-   "offers_total": 184892,
-   "share_latest": 0.147,
-   "salary_coverage": 0.375,
+   "offers_total": 205061,
+   "share_latest": 0.149,
+   "salary_coverage": 0.374,
    "description_coverage": 1.0
   },
   {
@@ -1137,16 +1159,16 @@
  ],
  "quality": {
   "field_coverage": {
-   "salary_any": 0.127,
+   "salary_any": 0.133,
    "city": 0.999,
-   "company": 0.908,
-   "employment_type": 0.04,
-   "remote": 0.319,
+   "company": 0.909,
+   "employment_type": 0.039,
+   "remote": 0.338,
    "posted_at": 1.0
   },
   "dedup": {
    "within_source_rule_pl": "Ta sama oferta w tym samym serwisie liczona raz (klucz: adres URL lub identyfikator ogłoszenia).",
-   "cross_source_estimate": 0.079,
+   "cross_source_estimate": 0.08,
    "cross_source_note_pl": "Szacunkowy odsetek ogłoszeń widocznych w więcej niż jednym serwisie (ten sam tytuł, firma i miasto w tym samym miesiącu). Wskaźniki liczymy po zdjęciu tych powtórek."
   }
  },
@@ -1154,18 +1176,18 @@
   {
    "id": "volume",
    "icon": "trend",
-   "title_pl": "Sierpień: 411 078 ogłoszeń",
-   "text_pl": "411 078 nowych ogłoszeń - najwięcej od początku zbierania.",
-   "title_en": "August: 411,078 postings",
-   "text_en": "411,078 new postings - the most since collection began."
+   "title_pl": "Sierpień: 411 426 ogłoszeń",
+   "text_pl": "411 426 nowych ogłoszeń - najwięcej od początku zbierania.",
+   "title_en": "August: 411,426 postings",
+   "text_en": "411,426 new postings - the most since collection began."
   },
   {
    "id": "mover",
    "icon": "city",
-   "title_pl": "Największa zmiana: Región Metropolitana +1042,5%",
-   "text_pl": "31 774 ogłoszeń wobec 2 781 miesiąc wcześniej.",
-   "title_en": "Biggest move: Región Metropolitana +1042.5%",
-   "text_en": "31,774 postings vs 2,781 a month earlier."
+   "title_pl": "Największa zmiana: Región Metropolitana +1043,5%",
+   "text_pl": "31 801 ogłoszeń wobec 2 781 miesiąc wcześniej.",
+   "title_en": "Biggest move: Región Metropolitana +1043.5%",
+   "text_en": "31,801 postings vs 2,781 a month earlier."
   },
   {
    "id": "salary",
@@ -1187,9 +1209,9 @@
    "id": "source",
    "icon": "source",
    "title_pl": "Największy serwis: Careerjet (81%)",
-   "text_pl": "Dane z 3 serwisów; Careerjet dostarcza 360 938 z 446 366 ogłoszeń przed zdjęciem powtórek.",
+   "text_pl": "Dane z 3 serwisów; Careerjet dostarcza 360 938 z 447 080 ogłoszeń przed zdjęciem powtórek.",
    "title_en": "Largest source: Careerjet (81%)",
-   "text_en": "Data from 3 sources; Careerjet provides 360,938 of 446,366 postings before de-duplication."
+   "text_en": "Data from 3 sources; Careerjet provides 360,938 of 447,080 postings before de-duplication."
   },
   {
    "id": "cities",

@@ -8,19 +8,19 @@
   "continent": "europe",
   "currency": "HUF"
  },
- "generated_at": "2026-09-30T16:14:03+00:00",
+ "generated_at": "2026-09-30T20:37:00+00:00",
  "coverage": {
   "first_month": "2025-12",
   "last_month": "2026-08",
   "collecting_since": "2026-08-01",
   "complete_from": "2026-08",
   "index_base_month": "2026-08",
-  "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: miesiąc jeszcze trwa."
+  "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
  },
  "headline": {
   "month": "2026-08",
-  "postings_new": 28965,
-  "postings_raw": 34337,
+  "postings_new": 28972,
+  "postings_raw": 34345,
   "mom_pct": null,
   "yoy_pct": null,
   "postings_active_end": 51678,
@@ -959,8 +959,8 @@
   {
    "period": "2026-07",
    "partial": false,
-   "postings_new": 25545,
-   "postings_raw": 28578,
+   "postings_new": 25555,
+   "postings_raw": 28590,
    "postings_active_end": null,
    "postings_closed": null,
    "index": 88.2,
@@ -969,9 +969,9 @@
    "salary": {
     "median": 433000,
     "p25": 373200,
-    "p75": 532000,
-    "mean": 455788,
-    "n": 1561,
+    "p75": 531650,
+    "mean": 455759,
+    "n": 1563,
     "share": 0.114,
     "currency": "HUF"
    },
@@ -994,7 +994,7 @@
      "code": "careerjet.hu",
      "service": "Careerjet",
      "kind": "aggregator",
-     "n": 8775
+     "n": 8787
     },
     {
      "code": "indeed.hu",
@@ -1006,7 +1006,7 @@
    "top_cities": [
     {
      "name": "Budapest",
-     "n": 8072,
+     "n": 8073,
      "share": 0.282
     },
     {
@@ -1026,7 +1026,7 @@
     },
     {
      "name": "Kecskemét",
-     "n": 634,
+     "n": 636,
      "share": 0.022
     },
     {
@@ -1041,7 +1041,7 @@
     },
     {
      "name": "Szeged",
-     "n": 442,
+     "n": 443,
      "share": 0.015
     },
     {
@@ -1087,7 +1087,7 @@
     },
     {
      "title": "gépkezelő",
-     "n": 176
+     "n": 177
     },
     {
      "title": "tanító",
@@ -1147,8 +1147,8 @@
   {
    "period": "2026-08",
    "partial": false,
-   "postings_new": 28965,
-   "postings_raw": 34337,
+   "postings_new": 28972,
+   "postings_raw": 34345,
    "postings_active_end": 51678,
    "postings_closed": 26936,
    "index": 100.0,
@@ -1158,8 +1158,8 @@
     "median": 412525,
     "p25": 363993,
     "p75": 500000,
-    "mean": 433554,
-    "n": 1850,
+    "mean": 433724,
+    "n": 1851,
     "share": 0.1,
     "currency": "HUF"
    },
@@ -1182,7 +1182,7 @@
      "code": "careerjet.hu",
      "service": "Careerjet",
      "kind": "aggregator",
-     "n": 11364
+     "n": 11372
     },
     {
      "code": "indeed.hu",
@@ -1194,8 +1194,8 @@
    "top_cities": [
     {
      "name": "Budapest",
-     "n": 10525,
-     "share": 0.307
+     "n": 10526,
+     "share": 0.306
     },
     {
      "name": "Debrecen",
@@ -1204,7 +1204,7 @@
     },
     {
      "name": "Magyarország",
-     "n": 807,
+     "n": 808,
      "share": 0.024
     },
     {
@@ -1214,7 +1214,7 @@
     },
     {
      "name": "Kecskemét",
-     "n": 690,
+     "n": 692,
      "share": 0.02
     },
     {
@@ -1254,7 +1254,7 @@
     },
     {
      "name": "Tatabánya",
-     "n": 371,
+     "n": 372,
      "share": 0.011
     },
     {
@@ -1331,6 +1331,28 @@
     }
    ],
    "regions": []
+  }
+ ],
+ "weekly": [
+  {
+   "week": "2026-08-03",
+   "postings_new": 8392,
+   "postings_raw": 9272
+  },
+  {
+   "week": "2026-08-10",
+   "postings_new": 7500,
+   "postings_raw": 8306
+  },
+  {
+   "week": "2026-08-17",
+   "postings_new": 5695,
+   "postings_raw": 6207
+  },
+  {
+   "week": "2026-08-24",
+   "postings_new": 6527,
+   "postings_raw": 7160
   }
  ],
  "quarterly": [
@@ -1758,16 +1780,16 @@
   {
    "period": "2026-Q3",
    "partial": true,
-   "postings_new": 54510,
-   "postings_raw": 62915,
+   "postings_new": 54527,
+   "postings_raw": 62935,
    "qoq_pct": null,
    "yoy_pct": null,
    "salary": {
-    "median": 421895,
-    "p25": 368206,
-    "p75": 514644,
-    "mean": 443729,
-    "n": 3411,
+    "median": 421899,
+    "p25": 368208,
+    "p75": 514490,
+    "mean": 443812,
+    "n": 3414,
     "share": 0.106,
     "currency": "HUF"
    },
@@ -1790,7 +1812,7 @@
      "code": "careerjet.hu",
      "service": "Careerjet",
      "kind": "aggregator",
-     "n": 20139
+     "n": 20159
     },
     {
      "code": "indeed.hu",
@@ -1802,7 +1824,7 @@
    "top_cities": [
     {
      "name": "Budapest",
-     "n": 18597,
+     "n": 18599,
      "share": 0.296
     },
     {
@@ -1822,12 +1844,12 @@
     },
     {
      "name": "Kecskemét",
-     "n": 1324,
+     "n": 1328,
      "share": 0.021
     },
     {
      "name": "Magyarország",
-     "n": 1204,
+     "n": 1205,
      "share": 0.019
     },
     {
@@ -1842,7 +1864,7 @@
     },
     {
      "name": "Szeged",
-     "n": 954,
+     "n": 955,
      "share": 0.015
     },
     {
@@ -1862,7 +1884,7 @@
     },
     {
      "name": "Tatabánya",
-     "n": 761,
+     "n": 762,
      "share": 0.012
     },
     {
@@ -1879,7 +1901,7 @@
    "top_titles": [
     {
      "title": "gépkezelő",
-     "n": 322
+     "n": 323
     },
     {
      "title": "raktáros",
@@ -1954,6 +1976,17 @@
    "description_coverage": 1.0
   },
   {
+   "code": "careerjet.hu",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "url": "https://www.careerjet.hu",
+   "collecting_since": "2026-08-03",
+   "offers_total": 28977,
+   "share_latest": 0.331,
+   "salary_coverage": 0.17,
+   "description_coverage": 1.0
+  },
+  {
    "code": "indeed.hu",
    "service": "Indeed",
    "kind": "aggregator",
@@ -1963,26 +1996,15 @@
    "share_latest": 0.227,
    "salary_coverage": 0.0,
    "description_coverage": 1.0
-  },
-  {
-   "code": "careerjet.hu",
-   "service": "Careerjet",
-   "kind": "aggregator",
-   "url": "https://www.careerjet.hu",
-   "collecting_since": "2026-08-03",
-   "offers_total": 24506,
-   "share_latest": 0.331,
-   "salary_coverage": 0.167,
-   "description_coverage": 1.0
   }
  ],
  "quality": {
   "field_coverage": {
-   "salary_any": 0.102,
+   "salary_any": 0.106,
    "city": 0.992,
-   "company": 0.919,
-   "employment_type": 0.206,
-   "remote": 0.718,
+   "company": 0.917,
+   "employment_type": 0.196,
+   "remote": 0.683,
    "posted_at": 1.0
   },
   "dedup": {
@@ -1995,18 +2017,18 @@
   {
    "id": "volume",
    "icon": "trend",
-   "title_pl": "Sierpień: 28 965 ogłoszeń",
-   "text_pl": "28 965 nowych ogłoszeń - najwięcej od początku zbierania.",
-   "title_en": "August: 28,965 postings",
-   "text_en": "28,965 new postings - the most since collection began."
+   "title_pl": "Sierpień: 28 972 ogłoszeń",
+   "text_pl": "28 972 nowych ogłoszeń - najwięcej od początku zbierania.",
+   "title_en": "August: 28,972 postings",
+   "text_en": "28,972 new postings - the most since collection began."
   },
   {
    "id": "mover",
    "icon": "city",
-   "title_pl": "Największa zmiana: Magyarország +103,3%",
-   "text_pl": "807 ogłoszeń wobec 397 miesiąc wcześniej.",
-   "title_en": "Biggest move: Magyarország +103.3%",
-   "text_en": "807 postings vs 397 a month earlier."
+   "title_pl": "Największa zmiana: Magyarország +103,5%",
+   "text_pl": "808 ogłoszeń wobec 397 miesiąc wcześniej.",
+   "title_en": "Biggest move: Magyarország +103.5%",
+   "text_en": "808 postings vs 397 a month earlier."
   },
   {
    "id": "salary",
@@ -2028,9 +2050,9 @@
    "id": "source",
    "icon": "source",
    "title_pl": "Największy serwis: Jooble (44%)",
-   "text_pl": "Dane z 3 serwisów; Jooble dostarcza 15 170 z 34 337 ogłoszeń przed zdjęciem powtórek.",
+   "text_pl": "Dane z 3 serwisów; Jooble dostarcza 15 170 z 34 345 ogłoszeń przed zdjęciem powtórek.",
    "title_en": "Largest source: Jooble (44%)",
-   "text_en": "Data from 3 sources; Jooble provides 15,170 of 34,337 postings before de-duplication."
+   "text_en": "Data from 3 sources; Jooble provides 15,170 of 34,345 postings before de-duplication."
   },
   {
    "id": "cities",

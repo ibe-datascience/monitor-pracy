@@ -8,42 +8,42 @@
   "continent": "europe",
   "currency": "PLN"
  },
- "generated_at": "2026-09-30T16:14:03+00:00",
+ "generated_at": "2026-09-30T20:37:00+00:00",
  "coverage": {
-  "first_month": "2026-03",
+  "first_month": "2026-01",
   "last_month": "2026-08",
-  "collecting_since": "2026-08-01",
+  "collecting_since": "2026-01-01",
   "complete_from": "2026-08",
   "index_base_month": "2026-08",
-  "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: miesiąc jeszcze trwa."
+  "note_pl": "Zbieranie trwa od 01.01.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
  },
  "headline": {
   "month": "2026-08",
-  "postings_new": 276495,
-  "postings_raw": 326814,
+  "postings_new": 314218,
+  "postings_raw": 387537,
   "mom_pct": null,
   "yoy_pct": null,
-  "postings_active_end": 539860,
+  "postings_active_end": 539910,
   "salary_median": 5373,
   "salary_currency": "PLN",
-  "salary_share": 0.463,
-  "remote_share": 0.021,
-  "sources": 3,
+  "salary_share": 0.391,
+  "remote_share": 0.018,
+  "sources": 4,
   "top_source": {
    "code": "jooble.pl",
    "service": "Jooble",
-   "share": 0.705
+   "share": 0.594
   }
  },
  "monthly": [
   {
-   "period": "2026-03",
+   "period": "2026-01",
    "partial": false,
-   "postings_new": 3514,
-   "postings_raw": 3633,
+   "postings_new": 61867,
+   "postings_raw": 64070,
    "postings_active_end": null,
    "postings_closed": null,
-   "index": 1.3,
+   "index": 19.7,
    "mom_pct": null,
    "yoy_pct": null,
    "salary": {
@@ -52,18 +52,472 @@
     "p75": null,
     "mean": null,
     "n": null,
-    "share": 0.165,
+    "share": 0.003,
     "currency": "PLN"
    },
-   "remote_share": 0.092,
+   "remote_share": 0.003,
    "employment": {
-    "full_time": 0.419,
-    "part_time": 0.014,
-    "contract": 0.076,
-    "other": 0.015,
-    "unknown": 0.477
+    "full_time": 0.013,
+    "part_time": 0.0,
+    "contract": 0.002,
+    "other": 0.001,
+    "unknown": 0.984
    },
    "by_source": [
+    {
+     "code": "pl.pracuj",
+     "service": "Pracuj.pl",
+     "kind": "portal",
+     "n": 62268
+    },
+    {
+     "code": "indeed.pl",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 1472
+    },
+    {
+     "code": "jooble.pl",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 330
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Warszawa",
+     "n": 12031,
+     "share": 0.188
+    },
+    {
+     "name": "Wrocław",
+     "n": 3581,
+     "share": 0.056
+    },
+    {
+     "name": "Kraków",
+     "n": 3547,
+     "share": 0.055
+    },
+    {
+     "name": "Poznań",
+     "n": 3064,
+     "share": 0.048
+    },
+    {
+     "name": "Gdańsk",
+     "n": 2633,
+     "share": 0.041
+    },
+    {
+     "name": "Łódź",
+     "n": 2300,
+     "share": 0.036
+    },
+    {
+     "name": "Katowice",
+     "n": 1992,
+     "share": 0.031
+    },
+    {
+     "name": "Szczecin",
+     "n": 1266,
+     "share": 0.02
+    },
+    {
+     "name": "Lublin",
+     "n": 1173,
+     "share": 0.018
+    },
+    {
+     "name": "Bydgoszcz",
+     "n": 1127,
+     "share": 0.018
+    },
+    {
+     "name": "Rzeszów",
+     "n": 905,
+     "share": 0.014
+    },
+    {
+     "name": "Białystok",
+     "n": 808,
+     "share": 0.013
+    },
+    {
+     "name": "Gdynia",
+     "n": 767,
+     "share": 0.012
+    },
+    {
+     "name": "Toruń",
+     "n": 681,
+     "share": 0.011
+    },
+    {
+     "name": "Opole",
+     "n": 659,
+     "share": 0.01
+    }
+   ],
+   "top_titles": [],
+   "regions": [
+    {
+     "code": "PL-MZ",
+     "name": "mazowieckie",
+     "n": 14885,
+     "share": 0.232
+    },
+    {
+     "code": "PL-SL",
+     "name": "śląskie",
+     "n": 5881,
+     "share": 0.092
+    },
+    {
+     "code": "PL-DS",
+     "name": "dolnośląskie",
+     "n": 5178,
+     "share": 0.081
+    },
+    {
+     "code": "PL-WP",
+     "name": "wielkopolskie",
+     "n": 4882,
+     "share": 0.076
+    },
+    {
+     "code": "PL-MA",
+     "name": "małopolskie",
+     "n": 4797,
+     "share": 0.075
+    },
+    {
+     "code": "PL-PM",
+     "name": "pomorskie",
+     "n": 4418,
+     "share": 0.069
+    },
+    {
+     "code": "PL-LD",
+     "name": "łódzkie",
+     "n": 3442,
+     "share": 0.054
+    },
+    {
+     "code": "PL-KP",
+     "name": "kujawsko-pomorskie",
+     "n": 2422,
+     "share": 0.038
+    },
+    {
+     "code": "PL-ZP",
+     "name": "zachodniopomorskie",
+     "n": 2019,
+     "share": 0.032
+    },
+    {
+     "code": "PL-LU",
+     "name": "lubelskie",
+     "n": 1679,
+     "share": 0.026
+    },
+    {
+     "code": "PL-PK",
+     "name": "podkarpackie",
+     "n": 1620,
+     "share": 0.025
+    },
+    {
+     "code": "PL-PD",
+     "name": "podlaskie",
+     "n": 1094,
+     "share": 0.017
+    },
+    {
+     "code": "PL-WN",
+     "name": "warmińsko-mazurskie",
+     "n": 1050,
+     "share": 0.016
+    },
+    {
+     "code": "PL-OP",
+     "name": "opolskie",
+     "n": 1030,
+     "share": 0.016
+    },
+    {
+     "code": "PL-LB",
+     "name": "lubuskie",
+     "n": 1016,
+     "share": 0.016
+    },
+    {
+     "code": "PL-SK",
+     "name": "świętokrzyskie",
+     "n": 845,
+     "share": 0.013
+    }
+   ]
+  },
+  {
+   "period": "2026-02",
+   "partial": false,
+   "postings_new": 59260,
+   "postings_raw": 61349,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 18.9,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.007,
+    "currency": "PLN"
+   },
+   "remote_share": 0.004,
+   "employment": {
+    "full_time": 0.015,
+    "part_time": 0.0,
+    "contract": 0.003,
+    "other": 0.001,
+    "unknown": 0.981
+   },
+   "by_source": [
+    {
+     "code": "pl.pracuj",
+     "service": "Pracuj.pl",
+     "kind": "portal",
+     "n": 58750
+    },
+    {
+     "code": "indeed.pl",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 1799
+    },
+    {
+     "code": "jooble.pl",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 800
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Warszawa",
+     "n": 12211,
+     "share": 0.199
+    },
+    {
+     "name": "Kraków",
+     "n": 3473,
+     "share": 0.057
+    },
+    {
+     "name": "Wrocław",
+     "n": 3357,
+     "share": 0.055
+    },
+    {
+     "name": "Poznań",
+     "n": 2803,
+     "share": 0.046
+    },
+    {
+     "name": "Gdańsk",
+     "n": 2580,
+     "share": 0.042
+    },
+    {
+     "name": "Łódź",
+     "n": 2202,
+     "share": 0.036
+    },
+    {
+     "name": "Katowice",
+     "n": 1768,
+     "share": 0.029
+    },
+    {
+     "name": "Szczecin",
+     "n": 1202,
+     "share": 0.02
+    },
+    {
+     "name": "Bydgoszcz",
+     "n": 1061,
+     "share": 0.017
+    },
+    {
+     "name": "Lublin",
+     "n": 995,
+     "share": 0.016
+    },
+    {
+     "name": "Rzeszów",
+     "n": 826,
+     "share": 0.013
+    },
+    {
+     "name": "Białystok",
+     "n": 769,
+     "share": 0.013
+    },
+    {
+     "name": "Gdynia",
+     "n": 712,
+     "share": 0.012
+    },
+    {
+     "name": "Toruń",
+     "n": 649,
+     "share": 0.011
+    },
+    {
+     "name": "Opole",
+     "n": 616,
+     "share": 0.01
+    }
+   ],
+   "top_titles": [],
+   "regions": [
+    {
+     "code": "PL-MZ",
+     "name": "mazowieckie",
+     "n": 15030,
+     "share": 0.245
+    },
+    {
+     "code": "PL-SL",
+     "name": "śląskie",
+     "n": 5288,
+     "share": 0.086
+    },
+    {
+     "code": "PL-DS",
+     "name": "dolnośląskie",
+     "n": 4830,
+     "share": 0.079
+    },
+    {
+     "code": "PL-MA",
+     "name": "małopolskie",
+     "n": 4573,
+     "share": 0.075
+    },
+    {
+     "code": "PL-WP",
+     "name": "wielkopolskie",
+     "n": 4483,
+     "share": 0.073
+    },
+    {
+     "code": "PL-PM",
+     "name": "pomorskie",
+     "n": 4247,
+     "share": 0.069
+    },
+    {
+     "code": "PL-LD",
+     "name": "łódzkie",
+     "n": 3190,
+     "share": 0.052
+    },
+    {
+     "code": "PL-KP",
+     "name": "kujawsko-pomorskie",
+     "n": 2274,
+     "share": 0.037
+    },
+    {
+     "code": "PL-ZP",
+     "name": "zachodniopomorskie",
+     "n": 1939,
+     "share": 0.032
+    },
+    {
+     "code": "PL-PK",
+     "name": "podkarpackie",
+     "n": 1477,
+     "share": 0.024
+    },
+    {
+     "code": "PL-LU",
+     "name": "lubelskie",
+     "n": 1439,
+     "share": 0.023
+    },
+    {
+     "code": "PL-PD",
+     "name": "podlaskie",
+     "n": 1048,
+     "share": 0.017
+    },
+    {
+     "code": "PL-OP",
+     "name": "opolskie",
+     "n": 968,
+     "share": 0.016
+    },
+    {
+     "code": "PL-LB",
+     "name": "lubuskie",
+     "n": 945,
+     "share": 0.015
+    },
+    {
+     "code": "PL-WN",
+     "name": "warmińsko-mazurskie",
+     "n": 892,
+     "share": 0.015
+    },
+    {
+     "code": "PL-SK",
+     "name": "świętokrzyskie",
+     "n": 738,
+     "share": 0.012
+    }
+   ]
+  },
+  {
+   "period": "2026-03",
+   "partial": false,
+   "postings_new": 69150,
+   "postings_raw": 71499,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 22.0,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.008,
+    "currency": "PLN"
+   },
+   "remote_share": 0.005,
+   "employment": {
+    "full_time": 0.021,
+    "part_time": 0.001,
+    "contract": 0.004,
+    "other": 0.001,
+    "unknown": 0.973
+   },
+   "by_source": [
+    {
+     "code": "pl.pracuj",
+     "service": "Pracuj.pl",
+     "kind": "portal",
+     "n": 67866
+    },
     {
      "code": "indeed.pl",
      "service": "Indeed",
@@ -86,78 +540,78 @@
    "top_cities": [
     {
      "name": "Warszawa",
-     "n": 804,
-     "share": 0.221
+     "n": 13980,
+     "share": 0.196
     },
     {
      "name": "Kraków",
-     "n": 232,
-     "share": 0.064
-    },
-    {
-     "name": "Niemcy",
-     "n": 196,
-     "share": 0.054
+     "n": 3996,
+     "share": 0.056
     },
     {
      "name": "Wrocław",
-     "n": 195,
-     "share": 0.054
-    },
-    {
-     "name": "Gdańsk",
-     "n": 115,
-     "share": 0.032
-    },
-    {
-     "name": "Katowice",
-     "n": 115,
-     "share": 0.032
+     "n": 3976,
+     "share": 0.056
     },
     {
      "name": "Poznań",
-     "n": 115,
-     "share": 0.032
+     "n": 3253,
+     "share": 0.045
+    },
+    {
+     "name": "Gdańsk",
+     "n": 2913,
+     "share": 0.041
     },
     {
      "name": "Łódź",
-     "n": 86,
-     "share": 0.024
+     "n": 2475,
+     "share": 0.035
     },
     {
-     "name": "zdalnie",
-     "n": 84,
-     "share": 0.023
+     "name": "Katowice",
+     "n": 2086,
+     "share": 0.029
     },
     {
      "name": "Szczecin",
-     "n": 56,
-     "share": 0.015
-    },
-    {
-     "name": "Gliwice",
-     "n": 42,
-     "share": 0.012
-    },
-    {
-     "name": "Holandia",
-     "n": 42,
-     "share": 0.012
-    },
-    {
-     "name": "Szczebrzeszyn",
-     "n": 36,
-     "share": 0.01
+     "n": 1410,
+     "share": 0.02
     },
     {
      "name": "Bydgoszcz",
-     "n": 29,
-     "share": 0.008
+     "n": 1303,
+     "share": 0.018
+    },
+    {
+     "name": "Lublin",
+     "n": 1187,
+     "share": 0.017
+    },
+    {
+     "name": "Rzeszów",
+     "n": 954,
+     "share": 0.013
+    },
+    {
+     "name": "Białystok",
+     "n": 868,
+     "share": 0.012
+    },
+    {
+     "name": "Gdynia",
+     "n": 773,
+     "share": 0.011
     },
     {
      "name": "Toruń",
-     "n": 27,
-     "share": 0.007
+     "n": 734,
+     "share": 0.01
+    },
+    {
+     "name": "Opole",
+     "n": 641,
+     "share": 0.009
     }
    ],
    "top_titles": [],
@@ -165,109 +619,109 @@
     {
      "code": "PL-MZ",
      "name": "mazowieckie",
-     "n": 897,
-     "share": 0.247
+     "n": 17104,
+     "share": 0.239
     },
     {
      "code": "PL-SL",
      "name": "śląskie",
-     "n": 342,
-     "share": 0.094
+     "n": 6344,
+     "share": 0.089
     },
     {
      "code": "PL-DS",
      "name": "dolnośląskie",
-     "n": 341,
-     "share": 0.094
+     "n": 5621,
+     "share": 0.079
     },
     {
      "code": "PL-MA",
      "name": "małopolskie",
-     "n": 277,
-     "share": 0.076
-    },
-    {
-     "code": "PL-PM",
-     "name": "pomorskie",
-     "n": 193,
-     "share": 0.053
+     "n": 5380,
+     "share": 0.075
     },
     {
      "code": "PL-WP",
      "name": "wielkopolskie",
-     "n": 176,
-     "share": 0.048
+     "n": 5185,
+     "share": 0.073
+    },
+    {
+     "code": "PL-PM",
+     "name": "pomorskie",
+     "n": 4875,
+     "share": 0.068
     },
     {
      "code": "PL-LD",
      "name": "łódzkie",
-     "n": 145,
-     "share": 0.04
-    },
-    {
-     "code": "PL-ZP",
-     "name": "zachodniopomorskie",
-     "n": 119,
-     "share": 0.033
+     "n": 3678,
+     "share": 0.051
     },
     {
      "code": "PL-KP",
      "name": "kujawsko-pomorskie",
-     "n": 86,
-     "share": 0.024
+     "n": 2699,
+     "share": 0.038
+    },
+    {
+     "code": "PL-ZP",
+     "name": "zachodniopomorskie",
+     "n": 2292,
+     "share": 0.032
     },
     {
      "code": "PL-PK",
      "name": "podkarpackie",
-     "n": 65,
-     "share": 0.018
-    },
-    {
-     "code": "PL-OP",
-     "name": "opolskie",
-     "n": 54,
-     "share": 0.015
-    },
-    {
-     "code": "PL-LB",
-     "name": "lubuskie",
-     "n": 53,
-     "share": 0.015
-    },
-    {
-     "code": "PL-WN",
-     "name": "warmińsko-mazurskie",
-     "n": 44,
-     "share": 0.012
-    },
-    {
-     "code": "PL-PD",
-     "name": "podlaskie",
-     "n": 43,
-     "share": 0.012
+     "n": 1730,
+     "share": 0.024
     },
     {
      "code": "PL-LU",
      "name": "lubelskie",
-     "n": 38,
-     "share": 0.01
+     "n": 1683,
+     "share": 0.024
+    },
+    {
+     "code": "PL-PD",
+     "name": "podlaskie",
+     "n": 1220,
+     "share": 0.017
+    },
+    {
+     "code": "PL-WN",
+     "name": "warmińsko-mazurskie",
+     "n": 1116,
+     "share": 0.016
+    },
+    {
+     "code": "PL-LB",
+     "name": "lubuskie",
+     "n": 1095,
+     "share": 0.015
+    },
+    {
+     "code": "PL-OP",
+     "name": "opolskie",
+     "n": 1005,
+     "share": 0.014
     },
     {
      "code": "PL-SK",
      "name": "świętokrzyskie",
-     "n": 22,
-     "share": 0.006
+     "n": 853,
+     "share": 0.012
     }
    ]
   },
   {
    "period": "2026-04",
    "partial": false,
-   "postings_new": 4780,
-   "postings_raw": 4919,
+   "postings_new": 68073,
+   "postings_raw": 70132,
    "postings_active_end": null,
    "postings_closed": null,
-   "index": 1.7,
+   "index": 21.7,
    "mom_pct": null,
    "yoy_pct": null,
    "salary": {
@@ -276,18 +730,24 @@
     "p75": null,
     "mean": null,
     "n": null,
-    "share": 0.157,
+    "share": 0.011,
     "currency": "PLN"
    },
-   "remote_share": 0.113,
+   "remote_share": 0.008,
    "employment": {
-    "full_time": 0.44,
-    "part_time": 0.039,
-    "contract": 0.06,
-    "other": 0.019,
-    "unknown": 0.442
+    "full_time": 0.031,
+    "part_time": 0.003,
+    "contract": 0.004,
+    "other": 0.001,
+    "unknown": 0.961
    },
    "by_source": [
+    {
+     "code": "pl.pracuj",
+     "service": "Pracuj.pl",
+     "kind": "portal",
+     "n": 65213
+    },
     {
      "code": "indeed.pl",
      "service": "Indeed",
@@ -310,78 +770,78 @@
    "top_cities": [
     {
      "name": "Warszawa",
-     "n": 1158,
-     "share": 0.235
+     "n": 13537,
+     "share": 0.193
     },
     {
      "name": "Kraków",
-     "n": 349,
-     "share": 0.071
+     "n": 3841,
+     "share": 0.055
     },
     {
      "name": "Wrocław",
-     "n": 218,
-     "share": 0.044
+     "n": 3721,
+     "share": 0.053
     },
     {
      "name": "Poznań",
-     "n": 206,
-     "share": 0.042
-    },
-    {
-     "name": "Niemcy",
-     "n": 160,
-     "share": 0.033
-    },
-    {
-     "name": "Łódź",
-     "n": 146,
-     "share": 0.03
-    },
-    {
-     "name": "zdalnie",
-     "n": 141,
-     "share": 0.029
+     "n": 3324,
+     "share": 0.047
     },
     {
      "name": "Gdańsk",
-     "n": 139,
-     "share": 0.028
+     "n": 2908,
+     "share": 0.041
+    },
+    {
+     "name": "Łódź",
+     "n": 2391,
+     "share": 0.034
     },
     {
      "name": "Katowice",
-     "n": 106,
-     "share": 0.022
+     "n": 1931,
+     "share": 0.028
     },
     {
      "name": "Szczecin",
-     "n": 103,
-     "share": 0.021
+     "n": 1388,
+     "share": 0.02
     },
     {
      "name": "Bydgoszcz",
-     "n": 65,
-     "share": 0.013
+     "n": 1277,
+     "share": 0.018
     },
     {
      "name": "Lublin",
-     "n": 49,
-     "share": 0.01
-    },
-    {
-     "name": "Holandia",
-     "n": 47,
-     "share": 0.01
+     "n": 1167,
+     "share": 0.017
     },
     {
      "name": "Białystok",
-     "n": 45,
-     "share": 0.009
+     "n": 900,
+     "share": 0.013
     },
     {
-     "name": "Szczebrzeszyn",
-     "n": 40,
-     "share": 0.008
+     "name": "Rzeszów",
+     "n": 893,
+     "share": 0.013
+    },
+    {
+     "name": "Gdynia",
+     "n": 791,
+     "share": 0.011
+    },
+    {
+     "name": "Toruń",
+     "n": 679,
+     "share": 0.01
+    },
+    {
+     "name": "Opole",
+     "n": 673,
+     "share": 0.01
     }
    ],
    "top_titles": [],
@@ -389,109 +849,109 @@
     {
      "code": "PL-MZ",
      "name": "mazowieckie",
-     "n": 1369,
-     "share": 0.278
-    },
-    {
-     "code": "PL-MA",
-     "name": "małopolskie",
-     "n": 425,
-     "share": 0.086
+     "n": 16754,
+     "share": 0.239
     },
     {
      "code": "PL-SL",
      "name": "śląskie",
-     "n": 368,
-     "share": 0.075
+     "n": 6000,
+     "share": 0.086
     },
     {
      "code": "PL-DS",
      "name": "dolnośląskie",
-     "n": 348,
-     "share": 0.071
+     "n": 5425,
+     "share": 0.077
     },
     {
      "code": "PL-WP",
      "name": "wielkopolskie",
-     "n": 328,
-     "share": 0.067
+     "n": 5309,
+     "share": 0.076
+    },
+    {
+     "code": "PL-MA",
+     "name": "małopolskie",
+     "n": 5173,
+     "share": 0.074
     },
     {
      "code": "PL-PM",
      "name": "pomorskie",
-     "n": 229,
-     "share": 0.047
+     "n": 4905,
+     "share": 0.07
     },
     {
      "code": "PL-LD",
      "name": "łódzkie",
-     "n": 224,
-     "share": 0.046
-    },
-    {
-     "code": "PL-ZP",
-     "name": "zachodniopomorskie",
-     "n": 175,
-     "share": 0.036
+     "n": 3543,
+     "share": 0.051
     },
     {
      "code": "PL-KP",
      "name": "kujawsko-pomorskie",
-     "n": 122,
-     "share": 0.025
+     "n": 2596,
+     "share": 0.037
     },
     {
-     "code": "PL-LB",
-     "name": "lubuskie",
-     "n": 88,
-     "share": 0.018
-    },
-    {
-     "code": "PL-OP",
-     "name": "opolskie",
-     "n": 79,
-     "share": 0.016
-    },
-    {
-     "code": "PL-PK",
-     "name": "podkarpackie",
-     "n": 74,
-     "share": 0.015
+     "code": "PL-ZP",
+     "name": "zachodniopomorskie",
+     "n": 2322,
+     "share": 0.033
     },
     {
      "code": "PL-LU",
      "name": "lubelskie",
-     "n": 69,
-     "share": 0.014
+     "n": 1667,
+     "share": 0.024
+    },
+    {
+     "code": "PL-PK",
+     "name": "podkarpackie",
+     "n": 1608,
+     "share": 0.023
     },
     {
      "code": "PL-PD",
      "name": "podlaskie",
-     "n": 60,
-     "share": 0.012
+     "n": 1212,
+     "share": 0.017
+    },
+    {
+     "code": "PL-LB",
+     "name": "lubuskie",
+     "n": 1156,
+     "share": 0.016
+    },
+    {
+     "code": "PL-OP",
+     "name": "opolskie",
+     "n": 1081,
+     "share": 0.015
     },
     {
      "code": "PL-WN",
      "name": "warmińsko-mazurskie",
-     "n": 47,
-     "share": 0.01
+     "n": 1039,
+     "share": 0.015
     },
     {
      "code": "PL-SK",
      "name": "świętokrzyskie",
-     "n": 41,
-     "share": 0.008
+     "n": 856,
+     "share": 0.012
     }
    ]
   },
   {
    "period": "2026-05",
    "partial": false,
-   "postings_new": 12538,
-   "postings_raw": 13191,
+   "postings_new": 76409,
+   "postings_raw": 79595,
    "postings_active_end": null,
    "postings_closed": null,
-   "index": 4.5,
+   "index": 24.3,
    "mom_pct": null,
    "yoy_pct": null,
    "salary": {
@@ -500,18 +960,24 @@
     "p75": 5443,
     "mean": 5490,
     "n": 141,
-    "share": 0.259,
+    "share": 0.043,
     "currency": "PLN"
    },
-   "remote_share": 0.06,
+   "remote_share": 0.01,
    "employment": {
-    "full_time": 0.199,
-    "part_time": 0.008,
-    "contract": 0.024,
-    "other": 0.009,
-    "unknown": 0.76
+    "full_time": 0.033,
+    "part_time": 0.001,
+    "contract": 0.004,
+    "other": 0.001,
+    "unknown": 0.96
    },
    "by_source": [
+    {
+     "code": "pl.pracuj",
+     "service": "Pracuj.pl",
+     "kind": "portal",
+     "n": 66404
+    },
     {
      "code": "jooble.pl",
      "service": "Jooble",
@@ -534,77 +1000,77 @@
    "top_cities": [
     {
      "name": "Warszawa",
-     "n": 2599,
-     "share": 0.197
+     "n": 15019,
+     "share": 0.189
     },
     {
      "name": "Kraków",
-     "n": 1085,
-     "share": 0.082
+     "n": 4749,
+     "share": 0.06
     },
     {
      "name": "Wrocław",
-     "n": 733,
-     "share": 0.056
-    },
-    {
-     "name": "Gdańsk",
-     "n": 473,
-     "share": 0.036
+     "n": 4235,
+     "share": 0.053
     },
     {
      "name": "Poznań",
-     "n": 458,
-     "share": 0.035
+     "n": 3479,
+     "share": 0.044
     },
     {
-     "name": "Katowice",
-     "n": 346,
-     "share": 0.026
+     "name": "Gdańsk",
+     "n": 3291,
+     "share": 0.041
     },
     {
      "name": "Łódź",
-     "n": 339,
-     "share": 0.026
+     "n": 2575,
+     "share": 0.032
     },
     {
-     "name": "Niemcy",
-     "n": 269,
-     "share": 0.02
-    },
-    {
-     "name": "zdalnie",
-     "n": 204,
-     "share": 0.015
-    },
-    {
-     "name": "Polska",
-     "n": 199,
-     "share": 0.015
+     "name": "Katowice",
+     "n": 2277,
+     "share": 0.029
     },
     {
      "name": "Szczecin",
-     "n": 194,
-     "share": 0.015
-    },
-    {
-     "name": "Lublin",
-     "n": 151,
-     "share": 0.011
+     "n": 1495,
+     "share": 0.019
     },
     {
      "name": "Bydgoszcz",
-     "n": 142,
-     "share": 0.011
+     "n": 1347,
+     "share": 0.017
+    },
+    {
+     "name": "Lublin",
+     "n": 1275,
+     "share": 0.016
+    },
+    {
+     "name": "Rzeszów",
+     "n": 1040,
+     "share": 0.013
+    },
+    {
+     "name": "Białystok",
+     "n": 972,
+     "share": 0.012
     },
     {
      "name": "Gdynia",
-     "n": 139,
-     "share": 0.011
+     "n": 946,
+     "share": 0.012
+    },
+    {
+     "name": "Toruń",
+     "n": 821,
+     "share": 0.01
     },
     {
      "name": "Gliwice",
-     "n": 118,
+     "n": 719,
      "share": 0.009
     }
    ],
@@ -613,109 +1079,109 @@
     {
      "code": "PL-MZ",
      "name": "mazowieckie",
-     "n": 3105,
+     "n": 18685,
      "share": 0.235
-    },
-    {
-     "code": "PL-MA",
-     "name": "małopolskie",
-     "n": 1308,
-     "share": 0.099
     },
     {
      "code": "PL-SL",
      "name": "śląskie",
-     "n": 1149,
-     "share": 0.087
+     "n": 7049,
+     "share": 0.089
+    },
+    {
+     "code": "PL-MA",
+     "name": "małopolskie",
+     "n": 6212,
+     "share": 0.078
     },
     {
      "code": "PL-DS",
      "name": "dolnośląskie",
-     "n": 1076,
-     "share": 0.082
+     "n": 6175,
+     "share": 0.078
     },
     {
      "code": "PL-PM",
      "name": "pomorskie",
-     "n": 833,
-     "share": 0.063
+     "n": 5604,
+     "share": 0.07
     },
     {
      "code": "PL-WP",
      "name": "wielkopolskie",
-     "n": 730,
-     "share": 0.055
+     "n": 5599,
+     "share": 0.07
     },
     {
      "code": "PL-LD",
      "name": "łódzkie",
-     "n": 548,
-     "share": 0.042
-    },
-    {
-     "code": "PL-ZP",
-     "name": "zachodniopomorskie",
-     "n": 384,
-     "share": 0.029
+     "n": 3922,
+     "share": 0.049
     },
     {
      "code": "PL-KP",
      "name": "kujawsko-pomorskie",
-     "n": 371,
-     "share": 0.028
+     "n": 2893,
+     "share": 0.036
+    },
+    {
+     "code": "PL-ZP",
+     "name": "zachodniopomorskie",
+     "n": 2523,
+     "share": 0.032
     },
     {
      "code": "PL-LU",
      "name": "lubelskie",
-     "n": 273,
-     "share": 0.021
-    },
-    {
-     "code": "PL-LB",
-     "name": "lubuskie",
-     "n": 239,
-     "share": 0.018
+     "n": 1905,
+     "share": 0.024
     },
     {
      "code": "PL-PK",
      "name": "podkarpackie",
-     "n": 199,
+     "n": 1851,
+     "share": 0.023
+    },
+    {
+     "code": "PL-PD",
+     "name": "podlaskie",
+     "n": 1357,
+     "share": 0.017
+    },
+    {
+     "code": "PL-LB",
+     "name": "lubuskie",
+     "n": 1292,
+     "share": 0.016
+    },
+    {
+     "code": "PL-WN",
+     "name": "warmińsko-mazurskie",
+     "n": 1195,
      "share": 0.015
     },
     {
      "code": "PL-OP",
      "name": "opolskie",
-     "n": 186,
-     "share": 0.014
-    },
-    {
-     "code": "PL-PD",
-     "name": "podlaskie",
-     "n": 165,
-     "share": 0.013
+     "n": 1176,
+     "share": 0.015
     },
     {
      "code": "PL-SK",
      "name": "świętokrzyskie",
-     "n": 160,
-     "share": 0.012
-    },
-    {
-     "code": "PL-WN",
-     "name": "warmińsko-mazurskie",
-     "n": 151,
-     "share": 0.011
+     "n": 1000,
+     "share": 0.013
     }
    ]
   },
   {
    "period": "2026-06",
    "partial": false,
-   "postings_new": 22652,
-   "postings_raw": 24113,
+   "postings_new": 84490,
+   "postings_raw": 88930,
    "postings_active_end": null,
    "postings_closed": null,
-   "index": 8.2,
+   "index": 26.9,
    "mom_pct": null,
    "yoy_pct": null,
    "salary": {
@@ -724,18 +1190,24 @@
     "p75": 6150,
     "mean": 5616,
     "n": 126,
-    "share": 0.281,
+    "share": 0.076,
     "currency": "PLN"
    },
-   "remote_share": 0.068,
+   "remote_share": 0.018,
    "employment": {
-    "full_time": 0.187,
-    "part_time": 0.018,
-    "contract": 0.023,
-    "other": 0.006,
-    "unknown": 0.766
+    "full_time": 0.051,
+    "part_time": 0.005,
+    "contract": 0.006,
+    "other": 0.002,
+    "unknown": 0.937
    },
    "by_source": [
+    {
+     "code": "pl.pracuj",
+     "service": "Pracuj.pl",
+     "kind": "portal",
+     "n": 64817
+    },
     {
      "code": "jooble.pl",
      "service": "Jooble",
@@ -758,249 +1230,249 @@
    "top_cities": [
     {
      "name": "Warszawa",
-     "n": 4450,
-     "share": 0.185
+     "n": 16316,
+     "share": 0.183
+    },
+    {
+     "name": "Kraków",
+     "n": 5254,
+     "share": 0.059
+    },
+    {
+     "name": "Wrocław",
+     "n": 4429,
+     "share": 0.05
+    },
+    {
+     "name": "Poznań",
+     "n": 3691,
+     "share": 0.042
+    },
+    {
+     "name": "Gdańsk",
+     "n": 3377,
+     "share": 0.038
+    },
+    {
+     "name": "Łódź",
+     "n": 2787,
+     "share": 0.031
+    },
+    {
+     "name": "Katowice",
+     "n": 2449,
+     "share": 0.028
     },
     {
      "name": "Niemcy",
      "n": 1875,
-     "share": 0.078
-    },
-    {
-     "name": "Kraków",
-     "n": 1752,
-     "share": 0.073
-    },
-    {
-     "name": "Wrocław",
-     "n": 1024,
-     "share": 0.042
-    },
-    {
-     "name": "Poznań",
-     "n": 806,
-     "share": 0.033
-    },
-    {
-     "name": "Gdańsk",
-     "n": 693,
-     "share": 0.029
-    },
-    {
-     "name": "Katowice",
-     "n": 560,
-     "share": 0.023
-    },
-    {
-     "name": "Łódź",
-     "n": 526,
-     "share": 0.022
+     "share": 0.021
     },
     {
      "name": "Szczecin",
-     "n": 428,
-     "share": 0.018
+     "n": 1748,
+     "share": 0.02
     },
     {
      "name": "Lublin",
-     "n": 297,
-     "share": 0.012
+     "n": 1495,
+     "share": 0.017
     },
     {
      "name": "Bydgoszcz",
-     "n": 284,
+     "n": 1488,
+     "share": 0.017
+    },
+    {
+     "name": "Białystok",
+     "n": 1100,
      "share": 0.012
     },
     {
-     "name": "zdalnie",
-     "n": 268,
-     "share": 0.011
-    },
-    {
-     "name": "Polska",
-     "n": 224,
-     "share": 0.009
+     "name": "Rzeszów",
+     "n": 1095,
+     "share": 0.012
     },
     {
      "name": "Gdynia",
-     "n": 208,
-     "share": 0.009
+     "n": 949,
+     "share": 0.011
     },
     {
-     "name": "Gliwice",
-     "n": 208,
-     "share": 0.009
+     "name": "Toruń",
+     "n": 863,
+     "share": 0.01
     }
    ],
    "top_titles": [
     {
-     "title": "doradca ds. rozwoju sieci światłowodowej orange polska",
-     "n": 112
+     "title": "przedstawiciel handlowy / przedstawicielka handlowa",
+     "n": 510
     },
     {
-     "title": "magazynier | od zaraz | praca niemcy | zakwaterowanie | bez języka (m/k)",
-     "n": 67
+     "title": "magazynier / magazynierka",
+     "n": 282
     },
     {
-     "title": "pracownik produkcji- praca w niemczech| od zaraz (m/k)",
-     "n": 67
-    },
-    {
-     "title": "kierownik produkcji odlewni w niemczech",
-     "n": 50
+     "title": "doradca / doradczyni klienta",
+     "n": 261
     },
     {
      "title": "sprzedawca/kasjer, sprzedawczyni/kasjerka",
-     "n": 46
+     "n": 251
     },
     {
-     "title": "pracownik sklepu samoobsługowego w niemczech | praca berlin (m/k)",
-     "n": 42
+     "title": "księgowy / księgowa",
+     "n": 223
+    },
+    {
+     "title": "lektor / lektorka języka angielskiego dla dzieci i młodzieży",
+     "n": 222
+    },
+    {
+     "title": "kucharz / kucharka",
+     "n": 178
+    },
+    {
+     "title": "kasjer – sprzedawca / kasjerka – sprzedawczyni",
+     "n": 177
+    },
+    {
+     "title": "samodzielny księgowy / samodzielna księgowa",
+     "n": 168
+    },
+    {
+     "title": "sprzedawca / sprzedawczyni",
+     "n": 165
+    },
+    {
+     "title": "przedstawiciel handlowy (k/m)",
+     "n": 156
+    },
+    {
+     "title": "pracownik produkcji (k/m)",
+     "n": 142
+    },
+    {
+     "title": "doradca klienta (k/m)",
+     "n": 139
     },
     {
      "title": "zastępca / zastępczyni kierownika / kierowniczki sklepu",
-     "n": 42
+     "n": 136
     },
     {
-     "title": "brygadzista z niemieckim (m/k) | praca w niemczech | okolice hanower",
-     "n": 35
-    },
-    {
-     "title": "agent nieruchomości",
-     "n": 33
-    },
-    {
-     "title": "project manager",
-     "n": 33
-    },
-    {
-     "title": "pracownik/pracownica sklepu",
-     "n": 32
-    },
-    {
-     "title": "doradczyni/doradca klientów indywidualnych",
-     "n": 29
-    },
-    {
-     "title": "praca na magazynie w niemczech | niemiecka umowa | okolice berlina",
-     "n": 27
-    },
-    {
-     "title": "pracownik(czka) produkcji szkła kwarcowego - niemcy",
-     "n": 26
-    },
-    {
-     "title": "doradczyni / doradca klientów biznesowych",
-     "n": 24
+     "title": "inżynier budowy (k/m)",
+     "n": 130
     }
    ],
    "regions": [
     {
      "code": "PL-MZ",
      "name": "mazowieckie",
-     "n": 5364,
-     "share": 0.222
-    },
-    {
-     "code": "PL-MA",
-     "name": "małopolskie",
-     "n": 2223,
-     "share": 0.092
+     "n": 20305,
+     "share": 0.228
     },
     {
      "code": "PL-SL",
      "name": "śląskie",
-     "n": 1900,
-     "share": 0.079
+     "n": 7789,
+     "share": 0.088
+    },
+    {
+     "code": "PL-MA",
+     "name": "małopolskie",
+     "n": 6959,
+     "share": 0.078
     },
     {
      "code": "PL-DS",
      "name": "dolnośląskie",
-     "n": 1677,
-     "share": 0.07
+     "n": 6609,
+     "share": 0.074
     },
     {
      "code": "PL-WP",
      "name": "wielkopolskie",
-     "n": 1412,
-     "share": 0.059
+     "n": 6065,
+     "share": 0.068
     },
     {
      "code": "PL-PM",
      "name": "pomorskie",
-     "n": 1325,
-     "share": 0.055
+     "n": 5805,
+     "share": 0.065
     },
     {
      "code": "PL-LD",
      "name": "łódzkie",
-     "n": 940,
-     "share": 0.039
-    },
-    {
-     "code": "PL-ZP",
-     "name": "zachodniopomorskie",
-     "n": 797,
-     "share": 0.033
+     "n": 4327,
+     "share": 0.049
     },
     {
      "code": "PL-KP",
      "name": "kujawsko-pomorskie",
-     "n": 747,
-     "share": 0.031
+     "n": 3227,
+     "share": 0.036
+    },
+    {
+     "code": "PL-ZP",
+     "name": "zachodniopomorskie",
+     "n": 2931,
+     "share": 0.033
     },
     {
      "code": "PL-LU",
      "name": "lubelskie",
-     "n": 492,
-     "share": 0.02
+     "n": 2228,
+     "share": 0.025
     },
     {
      "code": "PL-PK",
      "name": "podkarpackie",
-     "n": 415,
-     "share": 0.017
+     "n": 2017,
+     "share": 0.023
     },
     {
      "code": "PL-PD",
      "name": "podlaskie",
-     "n": 372,
+     "n": 1595,
+     "share": 0.018
+    },
+    {
+     "code": "PL-LB",
+     "name": "lubuskie",
+     "n": 1369,
      "share": 0.015
     },
     {
      "code": "PL-WN",
      "name": "warmińsko-mazurskie",
-     "n": 348,
-     "share": 0.014
-    },
-    {
-     "code": "PL-LB",
-     "name": "lubuskie",
-     "n": 330,
-     "share": 0.014
+     "n": 1319,
+     "share": 0.015
     },
     {
      "code": "PL-OP",
      "name": "opolskie",
-     "n": 312,
-     "share": 0.013
+     "n": 1315,
+     "share": 0.015
     },
     {
      "code": "PL-SK",
      "name": "świętokrzyskie",
-     "n": 276,
-     "share": 0.011
+     "n": 1072,
+     "share": 0.012
     }
    ]
   },
   {
    "period": "2026-07",
    "partial": false,
-   "postings_new": 191904,
-   "postings_raw": 213383,
+   "postings_new": 238949,
+   "postings_raw": 281043,
    "postings_active_end": null,
    "postings_closed": null,
-   "index": 69.4,
+   "index": 76.0,
    "mom_pct": null,
    "yoy_pct": null,
    "salary": {
@@ -1009,16 +1481,16 @@
     "p75": 6150,
     "mean": 5767,
     "n": 8122,
-    "share": 0.43,
+    "share": 0.326,
     "currency": "PLN"
    },
-   "remote_share": 0.034,
+   "remote_share": 0.026,
    "employment": {
-    "full_time": 0.048,
-    "part_time": 0.004,
-    "contract": 0.005,
+    "full_time": 0.037,
+    "part_time": 0.003,
+    "contract": 0.004,
     "other": 0.002,
-    "unknown": 0.94
+    "unknown": 0.955
    },
    "by_source": [
     {
@@ -1026,6 +1498,12 @@
      "service": "Jooble",
      "kind": "aggregator",
      "n": 143911
+    },
+    {
+     "code": "pl.pracuj",
+     "service": "Pracuj.pl",
+     "kind": "portal",
+     "n": 67660
     },
     {
      "code": "careerjet.pl",
@@ -1043,88 +1521,124 @@
    "top_cities": [
     {
      "name": "Warszawa",
-     "n": 26351,
-     "share": 0.123
+     "n": 38962,
+     "share": 0.139
     },
     {
      "name": "Kraków",
-     "n": 10107,
-     "share": 0.047
+     "n": 13800,
+     "share": 0.049
+    },
+    {
+     "name": "Wrocław",
+     "n": 10923,
+     "share": 0.039
+    },
+    {
+     "name": "Gdańsk",
+     "n": 9050,
+     "share": 0.032
+    },
+    {
+     "name": "Poznań",
+     "n": 8258,
+     "share": 0.029
     },
     {
      "name": "Niemcy",
      "n": 7397,
-     "share": 0.035
-    },
-    {
-     "name": "Wrocław",
-     "n": 7322,
-     "share": 0.034
-    },
-    {
-     "name": "Gdańsk",
-     "n": 6326,
-     "share": 0.03
-    },
-    {
-     "name": "Poznań",
-     "n": 5253,
-     "share": 0.025
+     "share": 0.026
     },
     {
      "name": "Łódź",
-     "n": 4133,
-     "share": 0.019
+     "n": 6389,
+     "share": 0.023
     },
     {
      "name": "Katowice",
-     "n": 3800,
-     "share": 0.018
+     "n": 5786,
+     "share": 0.021
     },
     {
      "name": "Szczecin",
-     "n": 3246,
-     "share": 0.015
+     "n": 4662,
+     "share": 0.017
+    },
+    {
+     "name": "Bydgoszcz",
+     "n": 3650,
+     "share": 0.013
+    },
+    {
+     "name": "Lublin",
+     "n": 3525,
+     "share": 0.013
+    },
+    {
+     "name": "Rzeszów",
+     "n": 3118,
+     "share": 0.011
     },
     {
      "name": "Polska",
      "n": 2876,
-     "share": 0.013
+     "share": 0.01
     },
     {
      "name": "Holandia",
      "n": 2806,
-     "share": 0.013
-    },
-    {
-     "name": "Bydgoszcz",
-     "n": 2393,
-     "share": 0.011
-    },
-    {
-     "name": "Lublin",
-     "n": 2351,
-     "share": 0.011
-    },
-    {
-     "name": "Rzeszów",
-     "n": 2164,
      "share": 0.01
     },
     {
-     "name": "Opole",
-     "n": 1797,
-     "share": 0.008
+     "name": "Białystok",
+     "n": 2465,
+     "share": 0.009
     }
    ],
    "top_titles": [
+    {
+     "title": "doradca / doradczyni klienta",
+     "n": 652
+    },
+    {
+     "title": "przedstawiciel handlowy / przedstawicielka handlowa",
+     "n": 604
+    },
+    {
+     "title": "księgowy / księgowa",
+     "n": 424
+    },
+    {
+     "title": "kasjer – sprzedawca / kasjerka – sprzedawczyni",
+     "n": 389
+    },
+    {
+     "title": "magazynier / magazynierka",
+     "n": 348
+    },
     {
      "title": "pracownik produkcyjny z zakwaterowaniem",
      "n": 333
     },
     {
+     "title": "kucharz / kucharka",
+     "n": 323
+    },
+    {
      "title": "praca dla blacharz/dekarz w niemczech",
      "n": 319
+    },
+    {
+     "title": "pracownik produkcji",
+     "n": 318
+    },
+    {
+     "title": "samodzielny księgowy / samodzielna księgowa",
+     "n": 310
+    },
+    {
+     "title": "pracownik produkcji (k/m)",
+     "n": 306
     },
     {
      "title": "telefoniczny konsultant z językiem niemieckim",
@@ -1141,139 +1655,103 @@
     {
      "title": "magazynier/ka holandia",
      "n": 280
-    },
-    {
-     "title": "pracownik produkcji",
-     "n": 271
-    },
-    {
-     "title": "osoba ds. obsługi klienta – praca zdalna (m/k/os.)",
-     "n": 241
-    },
-    {
-     "title": "specjalista ds. komunikacji klienta",
-     "n": 237
-    },
-    {
-     "title": "pracownik/pracownica restauracji",
-     "n": 220
-    },
-    {
-     "title": "doradca / doradczyni klienta",
-     "n": 219
-    },
-    {
-     "title": "komisjoner/ka, order picker (również dla par) holandia",
-     "n": 214
-    },
-    {
-     "title": "franczyzobiorca / franczyzobiorczyni",
-     "n": 212
-    },
-    {
-     "title": "komisjoner/ka, order picker holandia",
-     "n": 204
-    },
-    {
-     "title": "agent sprzedaży",
-     "n": 203
     }
    ],
    "regions": [
     {
      "code": "PL-MZ",
      "name": "mazowieckie",
-     "n": 36413,
-     "share": 0.171
+     "n": 52170,
+     "share": 0.186
     },
     {
      "code": "PL-SL",
      "name": "śląskie",
-     "n": 17825,
-     "share": 0.084
+     "n": 23828,
+     "share": 0.085
     },
     {
      "code": "PL-MA",
      "name": "małopolskie",
-     "n": 14803,
-     "share": 0.069
+     "n": 19766,
+     "share": 0.07
     },
     {
      "code": "PL-DS",
      "name": "dolnośląskie",
-     "n": 14502,
-     "share": 0.068
+     "n": 19731,
+     "share": 0.07
     },
     {
      "code": "PL-PM",
      "name": "pomorskie",
-     "n": 12347,
-     "share": 0.058
+     "n": 17000,
+     "share": 0.06
     },
     {
      "code": "PL-WP",
      "name": "wielkopolskie",
-     "n": 11163,
-     "share": 0.052
+     "n": 16086,
+     "share": 0.057
     },
     {
      "code": "PL-LD",
      "name": "łódzkie",
-     "n": 8514,
-     "share": 0.04
+     "n": 12012,
+     "share": 0.043
     },
     {
      "code": "PL-ZP",
      "name": "zachodniopomorskie",
-     "n": 7380,
-     "share": 0.035
+     "n": 9637,
+     "share": 0.034
     },
     {
      "code": "PL-KP",
      "name": "kujawsko-pomorskie",
-     "n": 6779,
-     "share": 0.032
+     "n": 9382,
+     "share": 0.033
     },
     {
      "code": "PL-PK",
      "name": "podkarpackie",
-     "n": 5152,
+     "n": 6829,
      "share": 0.024
     },
     {
      "code": "PL-LU",
      "name": "lubelskie",
-     "n": 5043,
+     "n": 6746,
      "share": 0.024
     },
     {
      "code": "PL-WN",
      "name": "warmińsko-mazurskie",
-     "n": 4515,
-     "share": 0.021
+     "n": 5575,
+     "share": 0.02
     },
     {
      "code": "PL-LB",
      "name": "lubuskie",
-     "n": 4442,
-     "share": 0.021
+     "n": 5548,
+     "share": 0.02
     },
     {
      "code": "PL-OP",
      "name": "opolskie",
-     "n": 4173,
-     "share": 0.02
+     "n": 5189,
+     "share": 0.018
     },
     {
      "code": "PL-PD",
      "name": "podlaskie",
-     "n": 3313,
+     "n": 4543,
      "share": 0.016
     },
     {
      "code": "PL-SK",
      "name": "świętokrzyskie",
-     "n": 3292,
+     "n": 4116,
      "share": 0.015
     }
    ]
@@ -1281,10 +1759,10 @@
   {
    "period": "2026-08",
    "partial": false,
-   "postings_new": 276495,
-   "postings_raw": 326814,
-   "postings_active_end": 539860,
-   "postings_closed": 40160,
+   "postings_new": 314218,
+   "postings_raw": 387537,
+   "postings_active_end": 539910,
+   "postings_closed": 100608,
    "index": 100.0,
    "mom_pct": null,
    "yoy_pct": null,
@@ -1292,18 +1770,18 @@
     "median": 5373,
     "p25": 4806,
     "p75": 6000,
-    "mean": 5397,
-    "n": 14906,
-    "share": 0.463,
+    "mean": 5421,
+    "n": 14968,
+    "share": 0.391,
     "currency": "PLN"
    },
-   "remote_share": 0.021,
+   "remote_share": 0.018,
    "employment": {
-    "full_time": 0.037,
-    "part_time": 0.003,
+    "full_time": 0.031,
+    "part_time": 0.002,
     "contract": 0.003,
-    "other": 0.002,
-    "unknown": 0.956
+    "other": 0.001,
+    "unknown": 0.963
    },
    "by_source": [
     {
@@ -1319,6 +1797,12 @@
      "n": 75954
     },
     {
+     "code": "pl.pracuj",
+     "service": "Pracuj.pl",
+     "kind": "portal",
+     "n": 60723
+    },
+    {
      "code": "indeed.pl",
      "service": "Indeed",
      "kind": "aggregator",
@@ -1328,77 +1812,77 @@
    "top_cities": [
     {
      "name": "Warszawa",
-     "n": 36421,
-     "share": 0.111
+     "n": 47259,
+     "share": 0.122
     },
     {
      "name": "Kraków",
-     "n": 13266,
-     "share": 0.041
+     "n": 16609,
+     "share": 0.043
+    },
+    {
+     "name": "Wrocław",
+     "n": 12856,
+     "share": 0.033
     },
     {
      "name": "Polska",
      "n": 11200,
-     "share": 0.034
-    },
-    {
-     "name": "Wrocław",
-     "n": 9685,
-     "share": 0.03
+     "share": 0.029
     },
     {
      "name": "Gdańsk",
-     "n": 8466,
-     "share": 0.026
+     "n": 10964,
+     "share": 0.028
+    },
+    {
+     "name": "Poznań",
+     "n": 9604,
+     "share": 0.025
+    },
+    {
+     "name": "Łódź",
+     "n": 8025,
+     "share": 0.021
     },
     {
      "name": "Niemcy",
      "n": 7374,
-     "share": 0.023
-    },
-    {
-     "name": "Poznań",
-     "n": 6956,
-     "share": 0.021
-    },
-    {
-     "name": "Łódź",
-     "n": 5979,
-     "share": 0.018
+     "share": 0.019
     },
     {
      "name": "Katowice",
-     "n": 5224,
-     "share": 0.016
+     "n": 6924,
+     "share": 0.018
     },
     {
      "name": "Szczecin",
-     "n": 4305,
-     "share": 0.013
+     "n": 5601,
+     "share": 0.014
+    },
+    {
+     "name": "Lublin",
+     "n": 4826,
+     "share": 0.012
+    },
+    {
+     "name": "Bydgoszcz",
+     "n": 4588,
+     "share": 0.012
+    },
+    {
+     "name": "Rzeszów",
+     "n": 3876,
+     "share": 0.01
     },
     {
      "name": "Holandia",
      "n": 3815,
-     "share": 0.012
-    },
-    {
-     "name": "Lublin",
-     "n": 3750,
-     "share": 0.011
-    },
-    {
-     "name": "Bydgoszcz",
-     "n": 3482,
-     "share": 0.011
-    },
-    {
-     "name": "Rzeszów",
-     "n": 3033,
-     "share": 0.009
+     "share": 0.01
     },
     {
      "name": "Kielce",
-     "n": 2658,
+     "n": 3158,
      "share": 0.008
     }
    ],
@@ -1417,7 +1901,23 @@
     },
     {
      "title": "pracownik produkcji",
-     "n": 580
+     "n": 626
+    },
+    {
+     "title": "przedstawiciel handlowy / przedstawicielka handlowa",
+     "n": 622
+    },
+    {
+     "title": "doradca / doradczyni klienta",
+     "n": 558
+    },
+    {
+     "title": "pracownik produkcji (k/m)",
+     "n": 534
+    },
+    {
+     "title": "magazynier / magazynierka",
+     "n": 531
     },
     {
      "title": "operator/ka wózka widłowego holandia",
@@ -1425,151 +1925,157 @@
     },
     {
      "title": "pomoc kuchenna",
-     "n": 440
+     "n": 481
+    },
+    {
+     "title": "magazynier (k/m)",
+     "n": 447
+    },
+    {
+     "title": "księgowy / księgowa",
+     "n": 425
     },
     {
      "title": "magazynier/ka (również dla par) holandia",
      "n": 424
     },
     {
-     "title": "pracownik produkcji (k/m)",
-     "n": 388
+     "title": "kucharz / kucharka",
+     "n": 379
     },
     {
-     "title": "kasjer - sprzedawca / kasjerka - sprzedawczyni",
-     "n": 348
-    },
-    {
-     "title": "pracownik/pracowniczka linii produkcyjnej holandia",
-     "n": 335
-    },
-    {
-     "title": "pomoc kuchenna (k/m)",
-     "n": 330
-    },
-    {
-     "title": "manager / managerka zespołu sprzedaży (m/k/os.)",
-     "n": 320
-    },
-    {
-     "title": "magazynier (k/m)",
-     "n": 317
-    },
-    {
-     "title": "szlifierz - pomocnik ślusarza -- praca w niemczech",
-     "n": 316
-    },
-    {
-     "title": "konsultant / konsultantka ds. inwestycji i ubezpieczeń (m/k/os.)",
-     "n": 313
+     "title": "pracownik budowlany",
+     "n": 357
     }
    ],
    "regions": [
     {
      "code": "PL-MZ",
      "name": "mazowieckie",
-     "n": 52062,
-     "share": 0.159
+     "n": 65810,
+     "share": 0.17
     },
     {
      "code": "PL-SL",
      "name": "śląskie",
-     "n": 26396,
-     "share": 0.081
+     "n": 31837,
+     "share": 0.082
     },
     {
      "code": "PL-MA",
      "name": "małopolskie",
-     "n": 21178,
-     "share": 0.065
+     "n": 25702,
+     "share": 0.066
     },
     {
      "code": "PL-DS",
      "name": "dolnośląskie",
-     "n": 20005,
-     "share": 0.061
+     "n": 24698,
+     "share": 0.064
     },
     {
      "code": "PL-PM",
      "name": "pomorskie",
-     "n": 18153,
-     "share": 0.056
+     "n": 22379,
+     "share": 0.058
     },
     {
      "code": "PL-WP",
      "name": "wielkopolskie",
-     "n": 16692,
-     "share": 0.051
+     "n": 20992,
+     "share": 0.054
     },
     {
      "code": "PL-LD",
      "name": "łódzkie",
-     "n": 12757,
-     "share": 0.039
+     "n": 15845,
+     "share": 0.041
     },
     {
      "code": "PL-KP",
      "name": "kujawsko-pomorskie",
-     "n": 10902,
-     "share": 0.033
+     "n": 13211,
+     "share": 0.034
     },
     {
      "code": "PL-ZP",
      "name": "zachodniopomorskie",
-     "n": 10725,
+     "n": 12782,
      "share": 0.033
     },
     {
      "code": "PL-PK",
      "name": "podkarpackie",
-     "n": 8422,
+     "n": 10041,
      "share": 0.026
     },
     {
      "code": "PL-LU",
      "name": "lubelskie",
-     "n": 8131,
+     "n": 9636,
      "share": 0.025
     },
     {
      "code": "PL-LB",
      "name": "lubuskie",
-     "n": 6487,
-     "share": 0.02
+     "n": 7505,
+     "share": 0.019
     },
     {
      "code": "PL-WN",
      "name": "warmińsko-mazurskie",
-     "n": 6332,
+     "n": 7287,
      "share": 0.019
     },
     {
      "code": "PL-OP",
      "name": "opolskie",
-     "n": 5490,
+     "n": 6412,
      "share": 0.017
     },
     {
      "code": "PL-SK",
      "name": "świętokrzyskie",
-     "n": 5113,
-     "share": 0.016
+     "n": 5886,
+     "share": 0.015
     },
     {
      "code": "PL-PD",
      "name": "podlaskie",
-     "n": 4727,
-     "share": 0.014
+     "n": 5841,
+     "share": 0.015
     }
    ]
+  }
+ ],
+ "weekly": [
+  {
+   "week": "2026-08-03",
+   "postings_new": 84950,
+   "postings_raw": 99590
+  },
+  {
+   "week": "2026-08-10",
+   "postings_new": 71400,
+   "postings_raw": 83351
+  },
+  {
+   "week": "2026-08-17",
+   "postings_new": 72813,
+   "postings_raw": 86507
+  },
+  {
+   "week": "2026-08-24",
+   "postings_new": 74591,
+   "postings_raw": 86106
   }
  ],
  "quarterly": [
   {
    "period": "2026-Q1",
-   "partial": true,
-   "postings_new": 3514,
-   "postings_raw": 3633,
+   "partial": false,
+   "postings_new": 190277,
+   "postings_raw": 196918,
    "qoq_pct": null,
    "yoy_pct": null,
    "salary": {
@@ -1578,29 +2084,35 @@
     "p75": null,
     "mean": null,
     "n": null,
-    "share": 0.165,
+    "share": 0.006,
     "currency": "PLN"
    },
-   "remote_share": 0.092,
+   "remote_share": 0.004,
    "employment": {
-    "full_time": 0.419,
-    "part_time": 0.014,
-    "contract": 0.076,
-    "other": 0.015,
-    "unknown": 0.477
+    "full_time": 0.017,
+    "part_time": 0.0,
+    "contract": 0.003,
+    "other": 0.001,
+    "unknown": 0.979
    },
    "by_source": [
+    {
+     "code": "pl.pracuj",
+     "service": "Pracuj.pl",
+     "kind": "portal",
+     "n": 188884
+    },
     {
      "code": "indeed.pl",
      "service": "Indeed",
      "kind": "aggregator",
-     "n": 2612
+     "n": 5883
     },
     {
      "code": "jooble.pl",
      "service": "Jooble",
      "kind": "aggregator",
-     "n": 1020
+     "n": 2150
     },
     {
      "code": "careerjet.pl",
@@ -1612,78 +2124,78 @@
    "top_cities": [
     {
      "name": "Warszawa",
-     "n": 804,
-     "share": 0.221
+     "n": 38222,
+     "share": 0.194
     },
     {
      "name": "Kraków",
-     "n": 232,
-     "share": 0.064
-    },
-    {
-     "name": "Niemcy",
-     "n": 196,
-     "share": 0.054
+     "n": 11016,
+     "share": 0.056
     },
     {
      "name": "Wrocław",
-     "n": 195,
-     "share": 0.054
-    },
-    {
-     "name": "Gdańsk",
-     "n": 115,
-     "share": 0.032
-    },
-    {
-     "name": "Katowice",
-     "n": 115,
-     "share": 0.032
+     "n": 10914,
+     "share": 0.055
     },
     {
      "name": "Poznań",
-     "n": 115,
-     "share": 0.032
+     "n": 9120,
+     "share": 0.046
+    },
+    {
+     "name": "Gdańsk",
+     "n": 8126,
+     "share": 0.041
     },
     {
      "name": "Łódź",
-     "n": 86,
-     "share": 0.024
+     "n": 6977,
+     "share": 0.035
     },
     {
-     "name": "zdalnie",
-     "n": 84,
-     "share": 0.023
+     "name": "Katowice",
+     "n": 5846,
+     "share": 0.03
     },
     {
      "name": "Szczecin",
-     "n": 56,
-     "share": 0.015
-    },
-    {
-     "name": "Gliwice",
-     "n": 42,
-     "share": 0.012
-    },
-    {
-     "name": "Holandia",
-     "n": 42,
-     "share": 0.012
-    },
-    {
-     "name": "Szczebrzeszyn",
-     "n": 36,
-     "share": 0.01
+     "n": 3878,
+     "share": 0.02
     },
     {
      "name": "Bydgoszcz",
-     "n": 29,
-     "share": 0.008
+     "n": 3491,
+     "share": 0.018
+    },
+    {
+     "name": "Lublin",
+     "n": 3355,
+     "share": 0.017
+    },
+    {
+     "name": "Rzeszów",
+     "n": 2685,
+     "share": 0.014
+    },
+    {
+     "name": "Białystok",
+     "n": 2445,
+     "share": 0.012
+    },
+    {
+     "name": "Gdynia",
+     "n": 2252,
+     "share": 0.011
     },
     {
      "name": "Toruń",
-     "n": 27,
-     "share": 0.007
+     "n": 2064,
+     "share": 0.01
+    },
+    {
+     "name": "Opole",
+     "n": 1916,
+     "share": 0.01
     }
    ],
    "top_titles": [],
@@ -1691,106 +2203,106 @@
     {
      "code": "PL-MZ",
      "name": "mazowieckie",
-     "n": 897,
-     "share": 0.247
+     "n": 47019,
+     "share": 0.239
     },
     {
      "code": "PL-SL",
      "name": "śląskie",
-     "n": 342,
-     "share": 0.094
+     "n": 17513,
+     "share": 0.089
     },
     {
      "code": "PL-DS",
      "name": "dolnośląskie",
-     "n": 341,
-     "share": 0.094
+     "n": 15629,
+     "share": 0.079
     },
     {
      "code": "PL-MA",
      "name": "małopolskie",
-     "n": 277,
-     "share": 0.076
-    },
-    {
-     "code": "PL-PM",
-     "name": "pomorskie",
-     "n": 193,
-     "share": 0.053
+     "n": 14750,
+     "share": 0.075
     },
     {
      "code": "PL-WP",
      "name": "wielkopolskie",
-     "n": 176,
-     "share": 0.048
+     "n": 14550,
+     "share": 0.074
+    },
+    {
+     "code": "PL-PM",
+     "name": "pomorskie",
+     "n": 13540,
+     "share": 0.069
     },
     {
      "code": "PL-LD",
      "name": "łódzkie",
-     "n": 145,
-     "share": 0.04
-    },
-    {
-     "code": "PL-ZP",
-     "name": "zachodniopomorskie",
-     "n": 119,
-     "share": 0.033
+     "n": 10310,
+     "share": 0.052
     },
     {
      "code": "PL-KP",
      "name": "kujawsko-pomorskie",
-     "n": 86,
-     "share": 0.024
+     "n": 7395,
+     "share": 0.038
+    },
+    {
+     "code": "PL-ZP",
+     "name": "zachodniopomorskie",
+     "n": 6250,
+     "share": 0.032
     },
     {
      "code": "PL-PK",
      "name": "podkarpackie",
-     "n": 65,
-     "share": 0.018
-    },
-    {
-     "code": "PL-OP",
-     "name": "opolskie",
-     "n": 54,
-     "share": 0.015
-    },
-    {
-     "code": "PL-LB",
-     "name": "lubuskie",
-     "n": 53,
-     "share": 0.015
-    },
-    {
-     "code": "PL-WN",
-     "name": "warmińsko-mazurskie",
-     "n": 44,
-     "share": 0.012
-    },
-    {
-     "code": "PL-PD",
-     "name": "podlaskie",
-     "n": 43,
-     "share": 0.012
+     "n": 4827,
+     "share": 0.025
     },
     {
      "code": "PL-LU",
      "name": "lubelskie",
-     "n": 38,
-     "share": 0.01
+     "n": 4801,
+     "share": 0.024
+    },
+    {
+     "code": "PL-PD",
+     "name": "podlaskie",
+     "n": 3362,
+     "share": 0.017
+    },
+    {
+     "code": "PL-WN",
+     "name": "warmińsko-mazurskie",
+     "n": 3058,
+     "share": 0.016
+    },
+    {
+     "code": "PL-LB",
+     "name": "lubuskie",
+     "n": 3056,
+     "share": 0.016
+    },
+    {
+     "code": "PL-OP",
+     "name": "opolskie",
+     "n": 3003,
+     "share": 0.015
     },
     {
      "code": "PL-SK",
      "name": "świętokrzyskie",
-     "n": 22,
-     "share": 0.006
+     "n": 2436,
+     "share": 0.012
     }
    ]
   },
   {
    "period": "2026-Q2",
    "partial": false,
-   "postings_new": 39970,
-   "postings_raw": 42223,
+   "postings_new": 228972,
+   "postings_raw": 238657,
    "qoq_pct": null,
    "yoy_pct": null,
    "salary": {
@@ -1799,18 +2311,24 @@
     "p75": 5777,
     "mean": 5549,
     "n": 267,
-    "share": 0.26,
+    "share": 0.046,
     "currency": "PLN"
    },
-   "remote_share": 0.071,
+   "remote_share": 0.012,
    "employment": {
-    "full_time": 0.22,
-    "part_time": 0.017,
-    "contract": 0.028,
-    "other": 0.008,
-    "unknown": 0.726
+    "full_time": 0.039,
+    "part_time": 0.003,
+    "contract": 0.005,
+    "other": 0.001,
+    "unknown": 0.952
    },
    "by_source": [
+    {
+     "code": "pl.pracuj",
+     "service": "Pracuj.pl",
+     "kind": "portal",
+     "n": 196434
+    },
     {
      "code": "jooble.pl",
      "service": "Jooble",
@@ -1833,264 +2351,264 @@
    "top_cities": [
     {
      "name": "Warszawa",
-     "n": 8207,
-     "share": 0.194
+     "n": 44872,
+     "share": 0.188
     },
     {
      "name": "Kraków",
-     "n": 3186,
-     "share": 0.075
-    },
-    {
-     "name": "Niemcy",
-     "n": 2304,
-     "share": 0.055
+     "n": 13844,
+     "share": 0.058
     },
     {
      "name": "Wrocław",
-     "n": 1975,
-     "share": 0.047
+     "n": 12385,
+     "share": 0.052
     },
     {
      "name": "Poznań",
-     "n": 1470,
-     "share": 0.035
+     "n": 10494,
+     "share": 0.044
     },
     {
      "name": "Gdańsk",
-     "n": 1305,
-     "share": 0.031
-    },
-    {
-     "name": "Katowice",
-     "n": 1012,
-     "share": 0.024
+     "n": 9576,
+     "share": 0.04
     },
     {
      "name": "Łódź",
-     "n": 1011,
-     "share": 0.024
+     "n": 7753,
+     "share": 0.032
+    },
+    {
+     "name": "Katowice",
+     "n": 6657,
+     "share": 0.028
     },
     {
      "name": "Szczecin",
-     "n": 725,
-     "share": 0.017
-    },
-    {
-     "name": "zdalnie",
-     "n": 613,
-     "share": 0.015
-    },
-    {
-     "name": "Lublin",
-     "n": 497,
-     "share": 0.012
+     "n": 4631,
+     "share": 0.019
     },
     {
      "name": "Bydgoszcz",
-     "n": 491,
+     "n": 4112,
+     "share": 0.017
+    },
+    {
+     "name": "Lublin",
+     "n": 3937,
+     "share": 0.016
+    },
+    {
+     "name": "Rzeszów",
+     "n": 3028,
+     "share": 0.013
+    },
+    {
+     "name": "Białystok",
+     "n": 2972,
      "share": 0.012
     },
     {
-     "name": "Polska",
-     "n": 423,
+     "name": "Gdynia",
+     "n": 2686,
+     "share": 0.011
+    },
+    {
+     "name": "Toruń",
+     "n": 2363,
      "share": 0.01
     },
     {
-     "name": "Gdynia",
-     "n": 347,
-     "share": 0.008
-    },
-    {
-     "name": "Gliwice",
-     "n": 326,
+     "name": "Niemcy",
+     "n": 1875,
      "share": 0.008
     }
    ],
    "top_titles": [
     {
-     "title": "doradca ds. rozwoju sieci światłowodowej orange polska",
-     "n": 112
+     "title": "przedstawiciel handlowy / przedstawicielka handlowa",
+     "n": 510
     },
     {
-     "title": "magazynier | od zaraz | praca niemcy | zakwaterowanie | bez języka (m/k)",
-     "n": 67
+     "title": "magazynier / magazynierka",
+     "n": 282
     },
     {
-     "title": "pracownik produkcji- praca w niemczech| od zaraz (m/k)",
-     "n": 67
-    },
-    {
-     "title": "kierownik produkcji odlewni w niemczech",
-     "n": 50
+     "title": "doradca / doradczyni klienta",
+     "n": 261
     },
     {
      "title": "sprzedawca/kasjer, sprzedawczyni/kasjerka",
-     "n": 46
+     "n": 251
     },
     {
-     "title": "pracownik sklepu samoobsługowego w niemczech | praca berlin (m/k)",
-     "n": 42
+     "title": "księgowy / księgowa",
+     "n": 223
+    },
+    {
+     "title": "lektor / lektorka języka angielskiego dla dzieci i młodzieży",
+     "n": 222
+    },
+    {
+     "title": "kucharz / kucharka",
+     "n": 178
+    },
+    {
+     "title": "kasjer – sprzedawca / kasjerka – sprzedawczyni",
+     "n": 177
+    },
+    {
+     "title": "samodzielny księgowy / samodzielna księgowa",
+     "n": 168
+    },
+    {
+     "title": "sprzedawca / sprzedawczyni",
+     "n": 165
+    },
+    {
+     "title": "przedstawiciel handlowy (k/m)",
+     "n": 156
+    },
+    {
+     "title": "pracownik produkcji (k/m)",
+     "n": 142
+    },
+    {
+     "title": "doradca klienta (k/m)",
+     "n": 139
     },
     {
      "title": "zastępca / zastępczyni kierownika / kierowniczki sklepu",
-     "n": 42
+     "n": 136
     },
     {
-     "title": "brygadzista z niemieckim (m/k) | praca w niemczech | okolice hanower",
-     "n": 35
-    },
-    {
-     "title": "agent nieruchomości",
-     "n": 33
-    },
-    {
-     "title": "project manager",
-     "n": 33
-    },
-    {
-     "title": "pracownik/pracownica sklepu",
-     "n": 32
-    },
-    {
-     "title": "doradczyni/doradca klientów indywidualnych",
-     "n": 29
-    },
-    {
-     "title": "praca na magazynie w niemczech | niemiecka umowa | okolice berlina",
-     "n": 27
-    },
-    {
-     "title": "pracownik(czka) produkcji szkła kwarcowego - niemcy",
-     "n": 26
-    },
-    {
-     "title": "doradczyni / doradca klientów biznesowych",
-     "n": 24
+     "title": "inżynier budowy (k/m)",
+     "n": 130
     }
    ],
    "regions": [
     {
      "code": "PL-MZ",
      "name": "mazowieckie",
-     "n": 9838,
-     "share": 0.233
-    },
-    {
-     "code": "PL-MA",
-     "name": "małopolskie",
-     "n": 3956,
-     "share": 0.094
+     "n": 55744,
+     "share": 0.234
     },
     {
      "code": "PL-SL",
      "name": "śląskie",
-     "n": 3417,
-     "share": 0.081
+     "n": 20838,
+     "share": 0.087
+    },
+    {
+     "code": "PL-MA",
+     "name": "małopolskie",
+     "n": 18344,
+     "share": 0.077
     },
     {
      "code": "PL-DS",
      "name": "dolnośląskie",
-     "n": 3101,
-     "share": 0.073
+     "n": 18209,
+     "share": 0.076
     },
     {
      "code": "PL-WP",
      "name": "wielkopolskie",
-     "n": 2470,
-     "share": 0.058
+     "n": 16973,
+     "share": 0.071
     },
     {
      "code": "PL-PM",
      "name": "pomorskie",
-     "n": 2387,
-     "share": 0.057
+     "n": 16314,
+     "share": 0.068
     },
     {
      "code": "PL-LD",
      "name": "łódzkie",
-     "n": 1712,
-     "share": 0.041
-    },
-    {
-     "code": "PL-ZP",
-     "name": "zachodniopomorskie",
-     "n": 1356,
-     "share": 0.032
+     "n": 11792,
+     "share": 0.049
     },
     {
      "code": "PL-KP",
      "name": "kujawsko-pomorskie",
-     "n": 1240,
-     "share": 0.029
+     "n": 8716,
+     "share": 0.037
+    },
+    {
+     "code": "PL-ZP",
+     "name": "zachodniopomorskie",
+     "n": 7776,
+     "share": 0.033
     },
     {
      "code": "PL-LU",
      "name": "lubelskie",
-     "n": 834,
-     "share": 0.02
+     "n": 5800,
+     "share": 0.024
     },
     {
      "code": "PL-PK",
      "name": "podkarpackie",
-     "n": 688,
-     "share": 0.016
-    },
-    {
-     "code": "PL-LB",
-     "name": "lubuskie",
-     "n": 657,
-     "share": 0.016
+     "n": 5476,
+     "share": 0.023
     },
     {
      "code": "PL-PD",
      "name": "podlaskie",
-     "n": 597,
-     "share": 0.014
+     "n": 4164,
+     "share": 0.017
+    },
+    {
+     "code": "PL-LB",
+     "name": "lubuskie",
+     "n": 3817,
+     "share": 0.016
     },
     {
      "code": "PL-OP",
      "name": "opolskie",
-     "n": 577,
-     "share": 0.014
+     "n": 3572,
+     "share": 0.015
     },
     {
      "code": "PL-WN",
      "name": "warmińsko-mazurskie",
-     "n": 546,
-     "share": 0.013
+     "n": 3553,
+     "share": 0.015
     },
     {
      "code": "PL-SK",
      "name": "świętokrzyskie",
-     "n": 477,
-     "share": 0.011
+     "n": 2928,
+     "share": 0.012
     }
    ]
   },
   {
    "period": "2026-Q3",
    "partial": true,
-   "postings_new": 468399,
-   "postings_raw": 540197,
+   "postings_new": 553167,
+   "postings_raw": 668580,
    "qoq_pct": null,
    "yoy_pct": null,
    "salary": {
     "median": 5410,
-    "p25": 4866,
+    "p25": 4865,
     "p75": 6053,
-    "mean": 5527,
-    "n": 23028,
-    "share": 0.45,
+    "mean": 5543,
+    "n": 23090,
+    "share": 0.364,
     "currency": "PLN"
    },
-   "remote_share": 0.026,
+   "remote_share": 0.021,
    "employment": {
-    "full_time": 0.041,
-    "part_time": 0.003,
-    "contract": 0.004,
-    "other": 0.002,
-    "unknown": 0.95
+    "full_time": 0.034,
+    "part_time": 0.002,
+    "contract": 0.003,
+    "other": 0.001,
+    "unknown": 0.96
    },
    "by_source": [
     {
@@ -2098,6 +2616,12 @@
      "service": "Jooble",
      "kind": "aggregator",
      "n": 374159
+    },
+    {
+     "code": "pl.pracuj",
+     "service": "Pracuj.pl",
+     "kind": "portal",
+     "n": 128383
     },
     {
      "code": "careerjet.pl",
@@ -2115,96 +2639,120 @@
    "top_cities": [
     {
      "name": "Warszawa",
-     "n": 62772,
-     "share": 0.116
+     "n": 86221,
+     "share": 0.129
     },
     {
      "name": "Kraków",
-     "n": 23373,
-     "share": 0.043
+     "n": 30409,
+     "share": 0.045
     },
     {
      "name": "Wrocław",
-     "n": 17007,
-     "share": 0.031
+     "n": 23779,
+     "share": 0.036
     },
     {
      "name": "Gdańsk",
-     "n": 14792,
+     "n": 20014,
+     "share": 0.03
+    },
+    {
+     "name": "Poznań",
+     "n": 17862,
      "share": 0.027
     },
     {
      "name": "Niemcy",
      "n": 14771,
-     "share": 0.027
+     "share": 0.022
+    },
+    {
+     "name": "Łódź",
+     "n": 14414,
+     "share": 0.022
     },
     {
      "name": "Polska",
      "n": 14076,
-     "share": 0.026
-    },
-    {
-     "name": "Poznań",
-     "n": 12209,
-     "share": 0.023
-    },
-    {
-     "name": "Łódź",
-     "n": 10112,
-     "share": 0.019
+     "share": 0.021
     },
     {
      "name": "Katowice",
-     "n": 9024,
-     "share": 0.017
+     "n": 12710,
+     "share": 0.019
     },
     {
      "name": "Szczecin",
-     "n": 7551,
-     "share": 0.014
+     "n": 10263,
+     "share": 0.015
+    },
+    {
+     "name": "Lublin",
+     "n": 8351,
+     "share": 0.012
+    },
+    {
+     "name": "Bydgoszcz",
+     "n": 8238,
+     "share": 0.012
+    },
+    {
+     "name": "Rzeszów",
+     "n": 6994,
+     "share": 0.01
     },
     {
      "name": "Holandia",
      "n": 6621,
-     "share": 0.012
-    },
-    {
-     "name": "Lublin",
-     "n": 6101,
-     "share": 0.011
-    },
-    {
-     "name": "Bydgoszcz",
-     "n": 5875,
-     "share": 0.011
-    },
-    {
-     "name": "Rzeszów",
-     "n": 5197,
      "share": 0.01
     },
     {
      "name": "Kielce",
-     "n": 2658,
+     "n": 3158,
      "share": 0.005
     }
    ],
    "top_titles": [
     {
+     "title": "przedstawiciel handlowy / przedstawicielka handlowa",
+     "n": 1226
+    },
+    {
+     "title": "doradca / doradczyni klienta",
+     "n": 1210
+    },
+    {
      "title": "magazynier/ka holandia",
      "n": 1060
     },
     {
+     "title": "pracownik produkcji",
+     "n": 944
+    },
+    {
+     "title": "magazynier / magazynierka",
+     "n": 879
+    },
+    {
+     "title": "księgowy / księgowa",
+     "n": 849
+    },
+    {
+     "title": "pracownik produkcji (k/m)",
+     "n": 840
+    },
+    {
+     "title": "kucharz / kucharka",
+     "n": 702
+    },
+    {
      "title": "komisjoner/ka, order picker (również dla par) holandia",
-     "n": 900
+     "n": 686
     },
     {
      "title": "komisjoner/ka, order picker holandia",
-     "n": 889
-    },
-    {
-     "title": "pracownik produkcji",
-     "n": 851
+     "n": 685
     },
     {
      "title": "operator/ka wózka widłowego holandia",
@@ -2212,140 +2760,116 @@
     },
     {
      "title": "pomoc kuchenna",
-     "n": 440
+     "n": 481
+    },
+    {
+     "title": "magazynier (k/m)",
+     "n": 447
     },
     {
      "title": "magazynier/ka (również dla par) holandia",
      "n": 424
     },
     {
-     "title": "pracownik produkcji (k/m)",
-     "n": 388
-    },
-    {
-     "title": "kasjer - sprzedawca / kasjerka - sprzedawczyni",
-     "n": 348
-    },
-    {
-     "title": "pracownik/pracowniczka linii produkcyjnej holandia",
-     "n": 335
-    },
-    {
-     "title": "pracownik produkcyjny z zakwaterowaniem",
-     "n": 333
-    },
-    {
-     "title": "pomoc kuchenna (k/m)",
-     "n": 330
-    },
-    {
-     "title": "manager / managerka zespołu sprzedaży (m/k/os.)",
-     "n": 320
-    },
-    {
-     "title": "praca dla blacharz/dekarz w niemczech",
-     "n": 319
-    },
-    {
-     "title": "magazynier (k/m)",
-     "n": 317
+     "title": "kasjer – sprzedawca / kasjerka – sprzedawczyni",
+     "n": 389
     }
    ],
    "regions": [
     {
      "code": "PL-MZ",
      "name": "mazowieckie",
-     "n": 88475,
-     "share": 0.164
+     "n": 117980,
+     "share": 0.176
     },
     {
      "code": "PL-SL",
      "name": "śląskie",
-     "n": 44221,
-     "share": 0.082
+     "n": 55665,
+     "share": 0.083
     },
     {
      "code": "PL-MA",
      "name": "małopolskie",
-     "n": 35981,
-     "share": 0.067
+     "n": 45468,
+     "share": 0.068
     },
     {
      "code": "PL-DS",
      "name": "dolnośląskie",
-     "n": 34507,
-     "share": 0.064
+     "n": 44429,
+     "share": 0.066
     },
     {
      "code": "PL-PM",
      "name": "pomorskie",
-     "n": 30500,
-     "share": 0.056
+     "n": 39379,
+     "share": 0.059
     },
     {
      "code": "PL-WP",
      "name": "wielkopolskie",
-     "n": 27855,
-     "share": 0.052
+     "n": 37078,
+     "share": 0.055
     },
     {
      "code": "PL-LD",
      "name": "łódzkie",
-     "n": 21271,
-     "share": 0.039
-    },
-    {
-     "code": "PL-ZP",
-     "name": "zachodniopomorskie",
-     "n": 18105,
-     "share": 0.034
+     "n": 27857,
+     "share": 0.042
     },
     {
      "code": "PL-KP",
      "name": "kujawsko-pomorskie",
-     "n": 17681,
-     "share": 0.033
+     "n": 22593,
+     "share": 0.034
+    },
+    {
+     "code": "PL-ZP",
+     "name": "zachodniopomorskie",
+     "n": 22419,
+     "share": 0.034
     },
     {
      "code": "PL-PK",
      "name": "podkarpackie",
-     "n": 13574,
+     "n": 16870,
      "share": 0.025
     },
     {
      "code": "PL-LU",
      "name": "lubelskie",
-     "n": 13174,
-     "share": 0.024
+     "n": 16382,
+     "share": 0.025
     },
     {
      "code": "PL-LB",
      "name": "lubuskie",
-     "n": 10929,
+     "n": 13053,
      "share": 0.02
     },
     {
      "code": "PL-WN",
      "name": "warmińsko-mazurskie",
-     "n": 10847,
-     "share": 0.02
+     "n": 12862,
+     "share": 0.019
     },
     {
      "code": "PL-OP",
      "name": "opolskie",
-     "n": 9663,
-     "share": 0.018
-    },
-    {
-     "code": "PL-SK",
-     "name": "świętokrzyskie",
-     "n": 8405,
-     "share": 0.016
+     "n": 11601,
+     "share": 0.017
     },
     {
      "code": "PL-PD",
      "name": "podlaskie",
-     "n": 8040,
+     "n": 10384,
+     "share": 0.016
+    },
+    {
+     "code": "PL-SK",
+     "name": "świętokrzyskie",
+     "n": 10002,
      "share": 0.015
     }
    ]
@@ -2353,13 +2877,24 @@
  ],
  "sources": [
   {
+   "code": "pl.pracuj",
+   "service": "Pracuj.pl",
+   "kind": "portal",
+   "url": "https://www.pracuj.pl",
+   "collecting_since": "2026-01-01",
+   "offers_total": 583684,
+   "share_latest": 0.157,
+   "salary_coverage": 0.0,
+   "description_coverage": null
+  },
+  {
    "code": "jooble.pl",
    "service": "Jooble",
    "kind": "aggregator",
    "url": "https://pl.jooble.org",
    "collecting_since": "2026-08-01",
    "offers_total": 447303,
-   "share_latest": 0.705,
+   "share_latest": 0.594,
    "salary_coverage": 0.56,
    "description_coverage": 1.0
   },
@@ -2370,7 +2905,7 @@
    "url": "https://www.careerjet.pl",
    "collecting_since": "2026-08-03",
    "offers_total": 177143,
-   "share_latest": 0.232,
+   "share_latest": 0.196,
    "salary_coverage": 0.231,
    "description_coverage": 1.0
   },
@@ -2381,34 +2916,23 @@
    "url": "https://pl.indeed.com",
    "collecting_since": "2026-08-03",
    "offers_total": 79894,
-   "share_latest": 0.063,
+   "share_latest": 0.053,
    "salary_coverage": 0.0,
    "description_coverage": 1.0
-  },
-  {
-   "code": "pl.pracuj",
-   "service": "Pracuj.pl",
-   "kind": "portal",
-   "url": "https://www.pracuj.pl",
-   "collecting_since": null,
-   "offers_total": 0,
-   "share_latest": null,
-   "salary_coverage": null,
-   "description_coverage": null
   }
  ],
  "quality": {
   "field_coverage": {
-   "salary_any": 0.418,
-   "city": 0.999,
-   "company": 0.844,
-   "employment_type": 0.074,
-   "remote": 0.746,
+   "salary_any": 0.228,
+   "city": 0.991,
+   "company": 0.915,
+   "employment_type": 0.04,
+   "remote": 0.406,
    "posted_at": 1.0
   },
   "dedup": {
    "within_source_rule_pl": "Ta sama oferta w tym samym serwisie liczona raz (klucz: adres URL lub identyfikator ogłoszenia).",
-   "cross_source_estimate": 0.154,
+   "cross_source_estimate": 0.189,
    "cross_source_note_pl": "Szacunkowy odsetek ogłoszeń widocznych w więcej niż jednym serwisie (ten sam tytuł, firma i miasto w tym samym miesiącu). Wskaźniki liczymy po zdjęciu tych powtórek."
   }
  },
@@ -2416,10 +2940,10 @@
   {
    "id": "volume",
    "icon": "trend",
-   "title_pl": "Sierpień: 276 495 ogłoszeń",
-   "text_pl": "276 495 nowych ogłoszeń - najwięcej od początku zbierania.",
-   "title_en": "August: 276,495 postings",
-   "text_en": "276,495 new postings - the most since collection began."
+   "title_pl": "Sierpień: 314 218 ogłoszeń",
+   "text_pl": "314 218 nowych ogłoszeń - najwięcej od początku zbierania.",
+   "title_en": "August: 314,218 postings",
+   "text_en": "314,218 new postings - the most since collection began."
   },
   {
    "id": "mover",
@@ -2433,56 +2957,56 @@
    "id": "salary",
    "icon": "salary",
    "title_pl": "Mediana wynagrodzenia: 5 373 PLN",
-   "text_pl": "Połowa ofert z podaną stawką mieści się między 4 806 a 6 000 PLN miesięcznie; stawkę podaje 46% ogłoszeń.",
+   "text_pl": "Połowa ofert z podaną stawką mieści się między 4 806 a 6 000 PLN miesięcznie; stawkę podaje 39% ogłoszeń.",
    "title_en": "Median pay: 5,373 PLN",
-   "text_en": "Half of the postings with stated pay fall between 4,806 and 6,000 PLN per month; 46% of postings state pay."
+   "text_en": "Half of the postings with stated pay fall between 4,806 and 6,000 PLN per month; 39% of postings state pay."
   },
   {
    "id": "remote",
    "icon": "remote",
-   "title_pl": "Praca zdalna: 2,1% ogłoszeń",
-   "text_pl": "6 863 ogłoszeń oznaczonych jako praca zdalna (-1,3 pkt proc. m/m).",
-   "title_en": "Remote work: 2.1% of postings",
-   "text_en": "6,863 postings flagged as remote (-1.3 pp m/m)."
+   "title_pl": "Praca zdalna: 1,8% ogłoszeń",
+   "text_pl": "6 976 ogłoszeń oznaczonych jako praca zdalna (-0,8 pkt proc. m/m).",
+   "title_en": "Remote work: 1.8% of postings",
+   "text_en": "6,976 postings flagged as remote (-0.8 pp m/m)."
   },
   {
    "id": "source",
    "icon": "source",
-   "title_pl": "Największy serwis: Jooble (70%)",
-   "text_pl": "Dane z 3 serwisów; Jooble dostarcza 230 248 z 326 814 ogłoszeń przed zdjęciem powtórek.",
-   "title_en": "Largest source: Jooble (70%)",
-   "text_en": "Data from 3 sources; Jooble provides 230,248 of 326,814 postings before de-duplication."
+   "title_pl": "Największy serwis: Jooble (59%)",
+   "text_pl": "Dane z 4 serwisów; Jooble dostarcza 230 248 z 387 537 ogłoszeń przed zdjęciem powtórek.",
+   "title_en": "Largest source: Jooble (59%)",
+   "text_en": "Data from 4 sources; Jooble provides 230,248 of 387,537 postings before de-duplication."
   },
   {
    "id": "cities",
    "icon": "map",
-   "title_pl": "10 273 miasta z ogłoszeniami",
-   "text_pl": "Najwięcej w: Warszawa (11%), Kraków (4%), Polska (3%).",
-   "title_en": "10,273 cities with postings",
-   "text_en": "Most in: Warszawa (11%), Kraków (4%), Polska (3%)."
+   "title_pl": "12 289 miast z ogłoszeniami",
+   "text_pl": "Najwięcej w: Warszawa (12%), Kraków (4%), Wrocław (3%).",
+   "title_en": "12,289 cities with postings",
+   "text_en": "Most in: Warszawa (12%), Kraków (4%), Wrocław (3%)."
   }
  ],
  "commentary": {
   "month": "2026-08",
-  "generated_at": "2026-09-30T16:35:38+00:00",
+  "generated_at": "2026-09-30T20:12:50+00:00",
   "model": "claude-opus-5-5",
   "is_ai": true,
-  "lead_pl": "W sierpniu 2026 r. mediana wynagrodzenia w internetowych ofertach pracy z podaną stawką wyniosła 5 373 PLN, a 11,1% ofert dotyczyło Warszawy.",
-  "body_pl": "W sierpniu 2026 r. w internetowych ofertach pracy w Polsce zarejestrowaliśmy 276 495 nowych ogłoszeń po zdjęciu powtórek między serwisami. Przed deduplikacją było ich 326 814. Szacunkowo 15,4% ogłoszeń pojawiało się w więcej niż jednym serwisie. Na koniec miesiąca aktywnych było 539 860 ofert. To pierwszy miesiąc z pełnym zbieraniem, więc nie ma jeszcze porównania miesiąc do miesiąca ani rok do roku.\n\nStawkę podało 46,3% ogłoszeń. Mediana w tej grupie wyniosła 5 373 PLN miesięcznie. Połowa ofert z podaną kwotą mieściła się między 4 806 a 6 000 PLN. Pracę zdalną oznaczono w 2,1% ogłoszeń. Rodzaj zatrudnienia był nieznany w 95,6% ofert, dlatego struktury umów nie da się wiarygodnie opisać.\n\nNajwięcej ofert dotyczyło Warszawy: 36 421, czyli 11,1%. Dalej były Kraków (13 266; 4,1%), Wrocław (9 685; 3,0%) i Gdańsk (8 466; 2,6%). Kolejne 11 200 ogłoszeń (3,4%) miało jako lokalizację wpisaną całą Polskę, a nie konkretne miasto. Dane pochodzą z 3 serwisów. Jooble dostarczył 230 248 ogłoszeń przed zdjęciem powtórek, Careerjet 75 954, a Indeed 20 612.\n\nPunktem odniesienia jest Pracuj.pl, serwis spoza naszych źródeł. Według jego publicznego archiwum w sierpniu opublikowano tam 60 698 ofert, wobec 67 996 w lipcu, czyli o 10,7% mniej. Tych liczb nie sumujemy z naszymi.",
+  "based_on": "314218|5373|0.018",
+  "lead_pl": "W sierpniu 2026 r. 12,2% internetowych ofert pracy w Polsce dotyczyło Warszawy. Mediana stawki w ofertach z podaną kwotą wyniosła 5 373 PLN.",
+  "body_pl": "W sierpniu 2026 r. zebrano 314 218 nowych internetowych ofert pracy w Polsce. To liczba po usunięciu powtórek między serwisami, a przed ich usunięciem ofert było 387 537. Szacunkowo 11,9% ogłoszeń pojawiało się w więcej niż jednym serwisie. Dane pochodzą z 4 serwisów. Jooble dostarczył 59,4% ogłoszeń przed usunięciem powtórek. Wcześniejsze miesiące są niepełne, dlatego nie podajemy zmian miesiąc do miesiąca ani rok do roku.\n\nKwotę wynagrodzenia podaje 39,1% ofert. W tej grupie mediana wyniosła 5 373 PLN miesięcznie. Połowa ofert z podaną stawką mieściła się w przedziale od 4 806 do 6 000 PLN.\n\nNajwięcej ofert dotyczyło Warszawy: 47 259, czyli 12,2%. Dalej były Kraków (16 609; 4,3%), Wrocław (12 856; 3,3%) i Gdańsk (10 964; 2,8%). 11 200 ofert (2,9%) miało lokalizację „Polska” bez wskazania miasta. Oferty pochodziły łącznie z 12 289 miejscowości.\n\nJako pracę zdalną oznaczono 1,8% ofert, czyli 6 976. Hipoteza: część ofert zdalnych może nie mieć takiego oznaczenia w serwisach. Aż 96,3% ofert nie określa formy zatrudnienia. Pełny etat wskazuje 3,1%.",
   "bullets_pl": [
-   "276 495 nowych internetowych ofert pracy w sierpniu 2026 r. (po zdjęciu powtórek)",
-   "Mediana wynagrodzenia: 5 373 PLN (dla 46,3% ofert z podaną stawką)",
-   "Warszawa: 36 421 ofert, czyli 11,1%"
+   "314 218 nowych internetowych ofert pracy po usunięciu powtórek (387 537 przed usunięciem)",
+   "Mediana wynagrodzenia 5 373 PLN w 39,1% ofert, które podają kwotę",
+   "Warszawa: 47 259 ofert, czyli 12,2% wszystkich"
   ],
-  "caveats_pl": "Dane obejmują tylko internetowe oferty pracy z 3 serwisów, a nie cały rynek pracy; pełne zbieranie trwa od sierpnia 2026 r., więc nie ma porównań w czasie, a wynagrodzenie podaje jedynie 46,3% ogłoszeń.",
-  "lead_en": "In August 2026, the median salary in online job postings stating pay was PLN 5,373, and 11.1% of postings were for Warsaw.",
-  "body_en": "In August 2026, we recorded 276,495 new online job postings in Poland after removing cross-source duplicates. Before deduplication there were 326,814. An estimated 15.4% of postings appeared on more than one site. At the end of the month, 539,860 postings were active. This is the first month of complete collection, so no month-on-month or year-on-year comparison is available yet.\n\nPay was stated in 46.3% of postings. In that group, the median was PLN 5,373 per month. Half of the postings with a stated amount fell between PLN 4,806 and PLN 6,000. Remote work was flagged in 2.1% of postings. The employment type was unknown in 95.6% of postings, so the structure of contracts cannot be reliably described.\n\nWarsaw had the most postings: 36,421, or 11.1%. It was followed by Kraków (13,266; 4.1%), Wrocław (9,685; 3.0%) and Gdańsk (8,466; 2.6%). Another 11,200 postings (3.4%) listed Poland as a whole as the location, not a specific city. The data come from 3 sites. Jooble supplied 230,248 postings before deduplication, Careerjet 75,954 and Indeed 20,612.\n\nPracuj.pl, a site outside our sources, serves as a reference point. According to its public archive, it published 60,698 postings in August, compared with 67,996 in July, which is 10.7% fewer. We do not add these figures to ours.",
+  "caveats_pl": "Dane obejmują tylko oferty publikowane w internecie w 4 serwisach, a nie cały rynek pracy. Historia zbierania jest krótka, sierpień i wcześniejsze miesiące są oznaczone jako niepełne, a mediana wynagrodzenia opiera się na 39,1% ofert z podaną kwotą.",
+  "lead_en": "In August 2026, 12.2% of online job postings in Poland were for Warsaw. The median salary in postings stating an amount was PLN 5,373.",
+  "body_en": "In August 2026, 314,218 new online job postings were collected in Poland. This figure excludes duplicates across services; before their removal there were 387,537 postings. An estimated 11.9% of postings appeared on more than one service. The data come from 4 services. Jooble supplied 59.4% of postings before duplicates were removed. Earlier months are incomplete, so no month-on-month or year-on-year changes are given.\n\n39.1% of postings state a salary amount. Within this group, the median was PLN 5,373 per month. Half of the postings with a stated salary were between PLN 4,806 and PLN 6,000.\n\nWarsaw had the most postings: 47,259, or 12.2%. It was followed by Kraków (16,609; 4.3%), Wrocław (12,856; 3.3%) and Gdańsk (10,964; 2.8%). 11,200 postings (2.9%) gave the location as \"Poland\" without naming a city. Postings came from 12,289 localities in total.\n\n1.8% of postings, or 6,976, were marked as remote work. Hypothesis: some remote postings may not be marked as such on the services. As many as 96.3% of postings do not specify the type of employment. Full-time work is stated in 3.1%.",
   "bullets_en": [
-   "276,495 new online job postings in August 2026 (after deduplication)",
-   "Median salary: PLN 5,373 (for the 46.3% of postings stating pay)",
-   "Warsaw: 36,421 postings, or 11.1%"
-  ],
-  "based_on": "276495|5373|0.021"
+   "314,218 new online job postings after duplicate removal (387,537 before removal)",
+   "Median salary of PLN 5,373 in the 39.1% of postings that state an amount",
+   "Warsaw: 47,259 postings, or 12.2% of the total"
+  ]
  },
  "skills_demo": {
   "is_synthetic": true,
@@ -2969,52 +3493,5 @@
     ]
    }
   ]
- },
- "reference": {
-  "pracuj_pl": {
-   "name": "Pracuj.pl",
-   "url": "https://archiwum.pracuj.pl/",
-   "note_pl": "Liczba ofert opublikowanych w danym miesiącu według publicznego archiwum Pracuj.pl (największego polskiego serwisu z ofertami pracy). Serwis nie należy do źródeł zliczanych w pozostałych wskaźnikach; podajemy go jako punkt odniesienia. Bieżący miesiąc jest jeszcze niepełny.",
-   "counted_at": "2026-09-30T16:07:30.961708+00:00",
-   "months": [
-    {
-     "month": "2026-01",
-     "postings": 62534
-    },
-    {
-     "month": "2026-02",
-     "postings": 59000
-    },
-    {
-     "month": "2026-03",
-     "postings": 68169
-    },
-    {
-     "month": "2026-04",
-     "postings": 65772
-    },
-    {
-     "month": "2026-05",
-     "postings": 66330
-    },
-    {
-     "month": "2026-06",
-     "postings": 64829
-    },
-    {
-     "month": "2026-07",
-     "postings": 67996
-    },
-    {
-     "month": "2026-08",
-     "postings": 60698
-    },
-    {
-     "month": "2026-09",
-     "postings": 70003,
-     "partial": true
-    }
-   ]
-  }
  }
 }

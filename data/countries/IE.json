@@ -8,19 +8,19 @@
   "continent": "europe",
   "currency": "EUR"
  },
- "generated_at": "2026-09-30T16:14:03+00:00",
+ "generated_at": "2026-09-30T20:37:00+00:00",
  "coverage": {
   "first_month": "2026-02",
   "last_month": "2026-08",
   "collecting_since": "2026-08-01",
   "complete_from": "2026-08",
   "index_base_month": "2026-08",
-  "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: miesiąc jeszcze trwa."
+  "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
  },
  "headline": {
   "month": "2026-08",
-  "postings_new": 49819,
-  "postings_raw": 59740,
+  "postings_new": 49876,
+  "postings_raw": 59799,
   "mom_pct": null,
   "yoy_pct": null,
   "postings_active_end": 75324,
@@ -32,7 +32,7 @@
   "top_source": {
    "code": "careerjet.ie",
    "service": "Careerjet",
-   "share": 0.376
+   "share": 0.377
   }
  },
  "monthly": [
@@ -533,7 +533,7 @@
    "postings_raw": 7383,
    "postings_active_end": null,
    "postings_closed": null,
-   "index": 13.8,
+   "index": 13.7,
    "mom_pct": null,
    "yoy_pct": null,
    "salary": {
@@ -717,19 +717,19 @@
   {
    "period": "2026-07",
    "partial": false,
-   "postings_new": 30167,
-   "postings_raw": 33592,
+   "postings_new": 30180,
+   "postings_raw": 33605,
    "postings_active_end": null,
    "postings_closed": null,
-   "index": 60.6,
+   "index": 60.5,
    "mom_pct": null,
    "yoy_pct": null,
    "salary": {
     "median": 3467,
     "p25": 2886,
     "p75": 5417,
-    "mean": 4327,
-    "n": 4018,
+    "mean": 4328,
+    "n": 4022,
     "share": 0.213,
     "currency": "EUR"
    },
@@ -758,7 +758,7 @@
      "code": "careerjet.ie",
      "service": "Careerjet",
      "kind": "aggregator",
-     "n": 10151
+     "n": 10164
     }
    ],
    "top_cities": [
@@ -770,7 +770,7 @@
     {
      "name": "Cork",
      "n": 2805,
-     "share": 0.084
+     "share": 0.083
     },
     {
      "name": "Limerick",
@@ -789,7 +789,7 @@
     },
     {
      "name": "Waterford",
-     "n": 532,
+     "n": 533,
      "share": 0.016
     },
     {
@@ -819,7 +819,7 @@
     },
     {
      "name": "Kilkenny",
-     "n": 302,
+     "n": 303,
      "share": 0.009
     },
     {
@@ -905,8 +905,8 @@
   {
    "period": "2026-08",
    "partial": false,
-   "postings_new": 49819,
-   "postings_raw": 59740,
+   "postings_new": 49876,
+   "postings_raw": 59799,
    "postings_active_end": 75324,
    "postings_closed": 32951,
    "index": 100.0,
@@ -916,14 +916,14 @@
     "median": 3359,
     "p25": 2773,
     "p75": 5000,
-    "mean": 4123,
-    "n": 7939,
+    "mean": 4125,
+    "n": 7959,
     "share": 0.203,
     "currency": "EUR"
    },
    "remote_share": 0.015,
    "employment": {
-    "full_time": 0.251,
+    "full_time": 0.25,
     "part_time": 0.056,
     "contract": 0.013,
     "other": 0.003,
@@ -934,7 +934,7 @@
      "code": "careerjet.ie",
      "service": "Careerjet",
      "kind": "aggregator",
-     "n": 22471
+     "n": 22530
     },
     {
      "code": "indeed.ie",
@@ -952,7 +952,7 @@
    "top_cities": [
     {
      "name": "Dublin",
-     "n": 16515,
+     "n": 16517,
      "share": 0.276
     },
     {
@@ -962,7 +962,7 @@
     },
     {
      "name": "Limerick",
-     "n": 2637,
+     "n": 2644,
      "share": 0.044
     },
     {
@@ -972,8 +972,13 @@
     },
     {
      "name": "Ireland",
-     "n": 1626,
+     "n": 1627,
      "share": 0.027
+    },
+    {
+     "name": "Waterford",
+     "n": 903,
+     "share": 0.015
     },
     {
      "name": "Dublin 15",
@@ -981,23 +986,18 @@
      "share": 0.015
     },
     {
-     "name": "Waterford",
-     "n": 900,
-     "share": 0.015
-    },
-    {
      "name": "Southside Dublin",
-     "n": 656,
+     "n": 659,
      "share": 0.011
     },
     {
      "name": "Kilkenny",
-     "n": 537,
+     "n": 539,
      "share": 0.009
     },
     {
      "name": "Kildare",
-     "n": 520,
+     "n": 521,
      "share": 0.009
     },
     {
@@ -1012,7 +1012,7 @@
     },
     {
      "name": "Northside Dublin",
-     "n": 423,
+     "n": 424,
      "share": 0.007
     },
     {
@@ -1022,7 +1022,7 @@
     },
     {
      "name": "Wexford",
-     "n": 397,
+     "n": 398,
      "share": 0.007
     }
    ],
@@ -1033,7 +1033,7 @@
     },
     {
      "title": "healthcare assistant",
-     "n": 312
+     "n": 315
     },
     {
      "title": "kitchen porter",
@@ -1049,7 +1049,7 @@
     },
     {
      "title": "store manager",
-     "n": 190
+     "n": 191
     },
     {
      "title": "catering assistant",
@@ -1068,11 +1068,11 @@
      "n": 165
     },
     {
-     "title": "general operative",
-     "n": 164
+     "title": "staff nurse",
+     "n": 165
     },
     {
-     "title": "staff nurse",
+     "title": "general operative",
      "n": 164
     },
     {
@@ -1089,6 +1089,28 @@
     }
    ],
    "regions": []
+  }
+ ],
+ "weekly": [
+  {
+   "week": "2026-08-03",
+   "postings_new": 11549,
+   "postings_raw": 13132
+  },
+  {
+   "week": "2026-08-10",
+   "postings_new": 12349,
+   "postings_raw": 14286
+  },
+  {
+   "week": "2026-08-17",
+   "postings_new": 12076,
+   "postings_raw": 13877
+  },
+  {
+   "week": "2026-08-24",
+   "postings_new": 11555,
+   "postings_raw": 13384
   }
  ],
  "quarterly": [
@@ -1398,22 +1420,22 @@
   {
    "period": "2026-Q3",
    "partial": true,
-   "postings_new": 79986,
-   "postings_raw": 93332,
+   "postings_new": 80056,
+   "postings_raw": 93404,
    "qoq_pct": null,
    "yoy_pct": null,
    "salary": {
     "median": 3395,
     "p25": 2811,
     "p75": 5140,
-    "mean": 4192,
-    "n": 11957,
+    "mean": 4193,
+    "n": 11981,
     "share": 0.207,
     "currency": "EUR"
    },
    "remote_share": 0.016,
    "employment": {
-    "full_time": 0.244,
+    "full_time": 0.243,
     "part_time": 0.048,
     "contract": 0.012,
     "other": 0.003,
@@ -1424,7 +1446,7 @@
      "code": "careerjet.ie",
      "service": "Careerjet",
      "kind": "aggregator",
-     "n": 32622
+     "n": 32694
     },
     {
      "code": "indeed.ie",
@@ -1442,17 +1464,17 @@
    "top_cities": [
     {
      "name": "Dublin",
-     "n": 23847,
-     "share": 0.256
+     "n": 23849,
+     "share": 0.255
     },
     {
      "name": "Cork",
      "n": 7420,
-     "share": 0.08
+     "share": 0.079
     },
     {
      "name": "Limerick",
-     "n": 4500,
+     "n": 4507,
      "share": 0.048
     },
     {
@@ -1462,7 +1484,7 @@
     },
     {
      "name": "Ireland",
-     "n": 1626,
+     "n": 1627,
      "share": 0.017
     },
     {
@@ -1472,12 +1494,12 @@
     },
     {
      "name": "Waterford",
-     "n": 1432,
+     "n": 1436,
      "share": 0.015
     },
     {
      "name": "Southside Dublin",
-     "n": 1168,
+     "n": 1171,
      "share": 0.013
     },
     {
@@ -1487,7 +1509,7 @@
     },
     {
      "name": "Kildare",
-     "n": 862,
+     "n": 863,
      "share": 0.009
     },
     {
@@ -1497,12 +1519,12 @@
     },
     {
      "name": "Kilkenny",
-     "n": 839,
+     "n": 842,
      "share": 0.009
     },
     {
      "name": "Northside Dublin",
-     "n": 741,
+     "n": 742,
      "share": 0.008
     },
     {
@@ -1512,7 +1534,7 @@
     },
     {
      "name": "Wexford",
-     "n": 397,
+     "n": 398,
      "share": 0.004
     }
    ],
@@ -1523,7 +1545,7 @@
     },
     {
      "title": "healthcare assistant",
-     "n": 580
+     "n": 583
     },
     {
      "title": "kitchen porter",
@@ -1539,11 +1561,11 @@
     },
     {
      "title": "store manager",
-     "n": 281
+     "n": 282
     },
     {
      "title": "staff nurse",
-     "n": 279
+     "n": 280
     },
     {
      "title": "catering assistant",
@@ -1583,6 +1605,17 @@
  ],
  "sources": [
   {
+   "code": "careerjet.ie",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "url": "https://www.careerjet.ie",
+   "collecting_since": "2026-08-03",
+   "offers_total": 49496,
+   "share_latest": 0.377,
+   "salary_coverage": 0.298,
+   "description_coverage": 1.0
+  },
+  {
    "code": "indeed.ie",
    "service": "Indeed",
    "kind": "aggregator",
@@ -1594,35 +1627,24 @@
    "description_coverage": 1.0
   },
   {
-   "code": "careerjet.ie",
-   "service": "Careerjet",
-   "kind": "aggregator",
-   "url": "https://www.careerjet.ie",
-   "collecting_since": "2026-08-03",
-   "offers_total": 41491,
-   "share_latest": 0.376,
-   "salary_coverage": 0.295,
-   "description_coverage": 1.0
-  },
-  {
    "code": "jooble.ie",
    "service": "Jooble",
    "kind": "aggregator",
    "url": "https://ie.jooble.org",
    "collecting_since": "2026-08-01",
    "offers_total": 36160,
-   "share_latest": 0.266,
+   "share_latest": 0.265,
    "salary_coverage": 0.334,
    "description_coverage": 1.0
   }
  ],
  "quality": {
   "field_coverage": {
-   "salary_any": 0.195,
-   "city": 0.981,
+   "salary_any": 0.202,
+   "city": 0.982,
    "company": 0.955,
-   "employment_type": 0.326,
-   "remote": 0.668,
+   "employment_type": 0.307,
+   "remote": 0.628,
    "posted_at": 1.0
   },
   "dedup": {
@@ -1635,18 +1657,18 @@
   {
    "id": "volume",
    "icon": "trend",
-   "title_pl": "Sierpień: 49 819 ogłoszeń",
-   "text_pl": "49 819 nowych ogłoszeń - najwięcej od początku zbierania.",
-   "title_en": "August: 49,819 postings",
-   "text_en": "49,819 new postings - the most since collection began."
+   "title_pl": "Sierpień: 49 876 ogłoszeń",
+   "text_pl": "49 876 nowych ogłoszeń - najwięcej od początku zbierania.",
+   "title_en": "August: 49,876 postings",
+   "text_en": "49,876 new postings - the most since collection began."
   },
   {
    "id": "mover",
    "icon": "city",
-   "title_pl": "Największa zmiana: Dublin +125,2%",
-   "text_pl": "16 515 ogłoszeń wobec 7 332 miesiąc wcześniej.",
-   "title_en": "Biggest move: Dublin +125.2%",
-   "text_en": "16,515 postings vs 7,332 a month earlier."
+   "title_pl": "Największa zmiana: Dublin +125,3%",
+   "text_pl": "16 517 ogłoszeń wobec 7 332 miesiąc wcześniej.",
+   "title_en": "Biggest move: Dublin +125.3%",
+   "text_en": "16,517 postings vs 7,332 a month earlier."
   },
   {
    "id": "salary",
@@ -1660,17 +1682,17 @@
    "id": "remote",
    "icon": "remote",
    "title_pl": "Praca zdalna: 1,5% ogłoszeń",
-   "text_pl": "896 ogłoszeń oznaczonych jako praca zdalna (-0,3 pkt proc. m/m).",
+   "text_pl": "897 ogłoszeń oznaczonych jako praca zdalna (-0,3 pkt proc. m/m).",
    "title_en": "Remote work: 1.5% of postings",
-   "text_en": "896 postings flagged as remote (-0.3 pp m/m)."
+   "text_en": "897 postings flagged as remote (-0.3 pp m/m)."
   },
   {
    "id": "source",
    "icon": "source",
    "title_pl": "Największy serwis: Careerjet (38%)",
-   "text_pl": "Dane z 3 serwisów; Careerjet dostarcza 22 471 z 59 740 ogłoszeń przed zdjęciem powtórek.",
+   "text_pl": "Dane z 3 serwisów; Careerjet dostarcza 22 530 z 59 799 ogłoszeń przed zdjęciem powtórek.",
    "title_en": "Largest source: Careerjet (38%)",
-   "text_en": "Data from 3 sources; Careerjet provides 22,471 of 59,740 postings before de-duplication."
+   "text_en": "Data from 3 sources; Careerjet provides 22,530 of 59,799 postings before de-duplication."
   },
   {
    "id": "cities",

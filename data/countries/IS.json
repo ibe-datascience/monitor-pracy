@@ -8,22 +8,22 @@
   "continent": "europe",
   "currency": "ISK"
  },
- "generated_at": "2026-09-30T16:14:03+00:00",
+ "generated_at": "2026-09-30T20:37:00+00:00",
  "coverage": {
   "first_month": "2026-05",
   "last_month": "2026-08",
   "collecting_since": "2026-08-03",
-  "complete_from": "2026-09",
+  "complete_from": "2026-08",
   "index_base_month": "2026-08",
-  "note_pl": "Zbieranie trwa od 03.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: miesiąc jeszcze trwa."
+  "note_pl": "Zbieranie trwa od 03.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
  },
  "headline": {
   "month": "2026-08",
-  "postings_new": 232,
-  "postings_raw": 232,
+  "postings_new": 235,
+  "postings_raw": 235,
   "mom_pct": null,
   "yoy_pct": null,
-  "postings_active_end": null,
+  "postings_active_end": 338,
   "salary_median": null,
   "salary_currency": "ISK",
   "salary_share": 0.0,
@@ -108,7 +108,7 @@
    "postings_raw": 28,
    "postings_active_end": null,
    "postings_closed": null,
-   "index": 12.1,
+   "index": 11.9,
    "mom_pct": null,
    "yoy_pct": null,
    "salary": {
@@ -240,11 +240,11 @@
   {
    "period": "2026-07",
    "partial": false,
-   "postings_new": 132,
-   "postings_raw": 132,
+   "postings_new": 134,
+   "postings_raw": 134,
    "postings_active_end": null,
    "postings_closed": null,
-   "index": 56.9,
+   "index": 57.0,
    "mom_pct": null,
    "yoy_pct": null,
    "salary": {
@@ -269,19 +269,19 @@
      "code": "careerjet.is",
      "service": "Careerjet",
      "kind": "aggregator",
-     "n": 132
+     "n": 134
     }
    ],
    "top_cities": [
     {
      "name": "Iceland",
      "n": 55,
-     "share": 0.417
+     "share": 0.41
     },
     {
      "name": "Reykjavík",
-     "n": 42,
-     "share": 0.318
+     "n": 44,
+     "share": 0.328
     },
     {
      "name": "Akureyri",
@@ -291,7 +291,7 @@
     {
      "name": "Kópavogur",
      "n": 5,
-     "share": 0.038
+     "share": 0.037
     },
     {
      "name": "Hafnarfjörður",
@@ -306,12 +306,12 @@
     {
      "name": "Poland - Iceland",
      "n": 3,
-     "share": 0.023
+     "share": 0.022
     },
     {
      "name": "Poland - Reykjavík",
      "n": 3,
-     "share": 0.023
+     "share": 0.022
     },
     {
      "name": "Poland - Keflavík",
@@ -326,27 +326,27 @@
     {
      "name": "Dalvík",
      "n": 1,
-     "share": 0.008
+     "share": 0.007
     },
     {
      "name": "Garðabær",
      "n": 1,
-     "share": 0.008
+     "share": 0.007
     },
     {
      "name": "Iceland - Norway",
      "n": 1,
-     "share": 0.008
+     "share": 0.007
     },
     {
      "name": "Norway - Iceland",
      "n": 1,
-     "share": 0.008
+     "share": 0.007
     },
     {
      "name": "Poland - Akureyri",
      "n": 1,
-     "share": 0.008
+     "share": 0.007
     }
    ],
    "top_titles": [
@@ -416,10 +416,10 @@
   {
    "period": "2026-08",
    "partial": false,
-   "postings_new": 232,
-   "postings_raw": 232,
-   "postings_active_end": null,
-   "postings_closed": null,
+   "postings_new": 235,
+   "postings_raw": 235,
+   "postings_active_end": 338,
+   "postings_closed": 54,
    "index": 100.0,
    "mom_pct": null,
    "yoy_pct": null,
@@ -445,18 +445,18 @@
      "code": "careerjet.is",
      "service": "Careerjet",
      "kind": "aggregator",
-     "n": 232
+     "n": 235
     }
    ],
    "top_cities": [
     {
      "name": "Iceland",
-     "n": 104,
-     "share": 0.448
+     "n": 105,
+     "share": 0.447
     },
     {
      "name": "Reykjavík",
-     "n": 80,
+     "n": 81,
      "share": 0.345
     },
     {
@@ -465,14 +465,14 @@
      "share": 0.06
     },
     {
-     "name": "Kópavogur",
+     "name": "Akranes",
      "n": 7,
      "share": 0.03
     },
     {
-     "name": "Akranes",
-     "n": 6,
-     "share": 0.026
+     "name": "Kópavogur",
+     "n": 7,
+     "share": 0.03
     },
     {
      "name": "Poland - Reykjavík",
@@ -588,6 +588,28 @@
     }
    ],
    "regions": []
+  }
+ ],
+ "weekly": [
+  {
+   "week": "2026-08-03",
+   "postings_new": 61,
+   "postings_raw": 61
+  },
+  {
+   "week": "2026-08-10",
+   "postings_new": 108,
+   "postings_raw": 108
+  },
+  {
+   "week": "2026-08-17",
+   "postings_new": 30,
+   "postings_raw": 30
+  },
+  {
+   "week": "2026-08-24",
+   "postings_new": 31,
+   "postings_raw": 31
   }
  ],
  "quarterly": [
@@ -737,8 +759,8 @@
   {
    "period": "2026-Q3",
    "partial": true,
-   "postings_new": 364,
-   "postings_raw": 364,
+   "postings_new": 369,
+   "postings_raw": 369,
    "qoq_pct": null,
    "yoy_pct": null,
    "salary": {
@@ -763,24 +785,24 @@
      "code": "careerjet.is",
      "service": "Careerjet",
      "kind": "aggregator",
-     "n": 364
+     "n": 369
     }
    ],
    "top_cities": [
     {
      "name": "Iceland",
-     "n": 159,
-     "share": 0.437
+     "n": 160,
+     "share": 0.434
     },
     {
      "name": "Reykjavík",
-     "n": 122,
-     "share": 0.335
+     "n": 125,
+     "share": 0.339
     },
     {
      "name": "Poland - Iceland",
      "n": 17,
-     "share": 0.047
+     "share": 0.046
     },
     {
      "name": "Kópavogur",
@@ -790,17 +812,17 @@
     {
      "name": "Akureyri",
      "n": 9,
-     "share": 0.025
+     "share": 0.024
     },
     {
      "name": "Poland - Reykjavík",
      "n": 9,
-     "share": 0.025
+     "share": 0.024
     },
     {
      "name": "Akranes",
-     "n": 6,
-     "share": 0.016
+     "n": 7,
+     "share": 0.019
     },
     {
      "name": "Keflavík",
@@ -915,7 +937,7 @@
    "kind": "aggregator",
    "url": "https://www.careerjet.com",
    "collecting_since": "2026-08-03",
-   "offers_total": 442,
+   "offers_total": 538,
    "share_latest": 1.0,
    "salary_coverage": 0.0,
    "description_coverage": 1.0
@@ -925,7 +947,7 @@
   "field_coverage": {
    "salary_any": 0.0,
    "city": 1.0,
-   "company": 0.968,
+   "company": 0.972,
    "employment_type": 0.0,
    "remote": 0.0,
    "posted_at": 1.0
@@ -940,18 +962,18 @@
   {
    "id": "volume",
    "icon": "trend",
-   "title_pl": "Sierpień: 232 ogłoszeń",
-   "text_pl": "232 nowych ogłoszeń (miesiąc wcześniej: 132).",
-   "title_en": "August: 232 postings",
-   "text_en": "232 new postings (a month earlier: 132)."
+   "title_pl": "Sierpień: 235 ogłoszeń",
+   "text_pl": "235 nowych ogłoszeń - najwięcej od początku zbierania.",
+   "title_en": "August: 235 postings",
+   "text_en": "235 new postings - the most since collection began."
   },
   {
    "id": "mover",
    "icon": "city",
-   "title_pl": "Największa zmiana: Reykjavík +90,5%",
-   "text_pl": "80 ogłoszeń wobec 42 miesiąc wcześniej.",
-   "title_en": "Biggest move: Reykjavík +90.5%",
-   "text_en": "80 postings vs 42 a month earlier."
+   "title_pl": "Największa zmiana: Iceland +90,9%",
+   "text_pl": "105 ogłoszeń wobec 55 miesiąc wcześniej.",
+   "title_en": "Biggest move: Iceland +90.9%",
+   "text_en": "105 postings vs 55 a month earlier."
   },
   {
    "id": "remote",
@@ -965,9 +987,9 @@
    "id": "source",
    "icon": "source",
    "title_pl": "Największy serwis: Careerjet (100%)",
-   "text_pl": "Dane z 1 serwisu; Careerjet dostarcza 232 z 232 ogłoszeń przed zdjęciem powtórek.",
+   "text_pl": "Dane z 1 serwisu; Careerjet dostarcza 235 z 235 ogłoszeń przed zdjęciem powtórek.",
    "title_en": "Largest source: Careerjet (100%)",
-   "text_en": "Data from 1 source; Careerjet provides 232 of 232 postings before de-duplication."
+   "text_en": "Data from 1 source; Careerjet provides 235 of 235 postings before de-duplication."
   },
   {
    "id": "cities",

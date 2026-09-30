@@ -8,19 +8,19 @@
   "continent": "europe",
   "currency": "CZK"
  },
- "generated_at": "2026-09-30T16:14:03+00:00",
+ "generated_at": "2026-09-30T20:37:00+00:00",
  "coverage": {
   "first_month": "2026-02",
   "last_month": "2026-08",
   "collecting_since": "2026-08-01",
   "complete_from": "2026-08",
   "index_base_month": "2026-08",
-  "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: miesiąc jeszcze trwa."
+  "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
  },
  "headline": {
   "month": "2026-08",
-  "postings_new": 116685,
-  "postings_raw": 156503,
+  "postings_new": 116789,
+  "postings_raw": 156607,
   "mom_pct": null,
   "yoy_pct": null,
   "postings_active_end": 247676,
@@ -32,7 +32,7 @@
   "top_source": {
    "code": "jooble.cz",
    "service": "Jooble",
-   "share": 0.575
+   "share": 0.574
   }
  },
  "monthly": [
@@ -717,8 +717,8 @@
   {
    "period": "2026-07",
    "partial": false,
-   "postings_new": 81481,
-   "postings_raw": 98431,
+   "postings_new": 81512,
+   "postings_raw": 98463,
    "postings_active_end": null,
    "postings_closed": null,
    "index": 69.8,
@@ -728,8 +728,8 @@
     "median": 37500,
     "p25": 29466,
     "p75": 47500,
-    "mean": 40465,
-    "n": 16881,
+    "mean": 40471,
+    "n": 16898,
     "share": 0.619,
     "currency": "CZK"
    },
@@ -752,7 +752,7 @@
      "code": "careerjet.cz",
      "service": "Careerjet",
      "kind": "aggregator",
-     "n": 28482
+     "n": 28514
     },
     {
      "code": "indeed.cz",
@@ -764,17 +764,17 @@
    "top_cities": [
     {
      "name": "Praha",
-     "n": 12720,
+     "n": 12727,
      "share": 0.129
     },
     {
      "name": "Brno",
-     "n": 5545,
+     "n": 5547,
      "share": 0.056
     },
     {
      "name": "Ostrava",
-     "n": 2632,
+     "n": 2634,
      "share": 0.027
     },
     {
@@ -789,7 +789,7 @@
     },
     {
      "name": "Olomouc",
-     "n": 1532,
+     "n": 1533,
      "share": 0.016
     },
     {
@@ -799,7 +799,7 @@
     },
     {
      "name": "Hradec Králové",
-     "n": 1426,
+     "n": 1427,
      "share": 0.014
     },
     {
@@ -809,17 +809,17 @@
     },
     {
      "name": "Zlín",
-     "n": 1212,
+     "n": 1213,
      "share": 0.012
     },
     {
      "name": "Jihlava",
-     "n": 992,
+     "n": 993,
      "share": 0.01
     },
     {
      "name": "Prostějov",
-     "n": 828,
+     "n": 829,
      "share": 0.008
     },
     {
@@ -905,8 +905,8 @@
   {
    "period": "2026-08",
    "partial": false,
-   "postings_new": 116685,
-   "postings_raw": 156503,
+   "postings_new": 116789,
+   "postings_raw": 156607,
    "postings_active_end": 247676,
    "postings_closed": 84080,
    "index": 100.0,
@@ -916,8 +916,8 @@
     "median": 36000,
     "p25": 30000,
     "p75": 45000,
-    "mean": 39265,
-    "n": 34085,
+    "mean": 39282,
+    "n": 34136,
     "share": 0.617,
     "currency": "CZK"
    },
@@ -940,7 +940,7 @@
      "code": "careerjet.cz",
      "service": "Careerjet",
      "kind": "aggregator",
-     "n": 53582
+     "n": 53686
     },
     {
      "code": "indeed.cz",
@@ -952,57 +952,57 @@
    "top_cities": [
     {
      "name": "Praha",
-     "n": 19292,
+     "n": 19320,
      "share": 0.123
     },
     {
      "name": "Brno",
-     "n": 11267,
+     "n": 11274,
      "share": 0.072
     },
     {
      "name": "Ostrava",
-     "n": 5803,
+     "n": 5810,
      "share": 0.037
     },
     {
      "name": "Plzeň",
-     "n": 3509,
+     "n": 3512,
      "share": 0.022
     },
     {
      "name": "Olomouc",
-     "n": 3208,
+     "n": 3209,
      "share": 0.02
     },
     {
      "name": "Pardubice",
-     "n": 2824,
+     "n": 2825,
      "share": 0.018
     },
     {
      "name": "Hradec Králové",
-     "n": 2417,
+     "n": 2418,
      "share": 0.015
     },
     {
      "name": "České Budějovice",
-     "n": 2183,
+     "n": 2185,
      "share": 0.014
     },
     {
      "name": "Liberec",
-     "n": 2129,
+     "n": 2131,
      "share": 0.014
     },
     {
      "name": "Zlín",
-     "n": 2085,
+     "n": 2086,
      "share": 0.013
     },
     {
      "name": "Jihlava",
-     "n": 1590,
+     "n": 1593,
      "share": 0.01
     },
     {
@@ -1089,6 +1089,28 @@
     }
    ],
    "regions": []
+  }
+ ],
+ "weekly": [
+  {
+   "week": "2026-08-03",
+   "postings_new": 32392,
+   "postings_raw": 40029
+  },
+  {
+   "week": "2026-08-10",
+   "postings_new": 31296,
+   "postings_raw": 39667
+  },
+  {
+   "week": "2026-08-17",
+   "postings_new": 25567,
+   "postings_raw": 32162
+  },
+  {
+   "week": "2026-08-24",
+   "postings_new": 24895,
+   "postings_raw": 30939
   }
  ],
  "quarterly": [
@@ -1398,16 +1420,16 @@
   {
    "period": "2026-Q3",
    "partial": true,
-   "postings_new": 198166,
-   "postings_raw": 254934,
+   "postings_new": 198301,
+   "postings_raw": 255070,
    "qoq_pct": null,
    "yoy_pct": null,
    "salary": {
     "median": 36497,
     "p25": 29823,
     "p75": 45828,
-    "mean": 39662,
-    "n": 50966,
+    "mean": 39676,
+    "n": 51034,
     "share": 0.618,
     "currency": "CZK"
    },
@@ -1430,7 +1452,7 @@
      "code": "careerjet.cz",
      "service": "Careerjet",
      "kind": "aggregator",
-     "n": 82064
+     "n": 82200
     },
     {
      "code": "indeed.cz",
@@ -1442,57 +1464,57 @@
    "top_cities": [
     {
      "name": "Praha",
-     "n": 32012,
+     "n": 32047,
      "share": 0.126
     },
     {
      "name": "Brno",
-     "n": 16812,
+     "n": 16821,
      "share": 0.066
     },
     {
      "name": "Ostrava",
-     "n": 8435,
+     "n": 8444,
      "share": 0.033
     },
     {
      "name": "Plzeň",
-     "n": 5532,
+     "n": 5535,
      "share": 0.022
     },
     {
      "name": "Olomouc",
-     "n": 4740,
+     "n": 4742,
      "share": 0.019
     },
     {
      "name": "Pardubice",
-     "n": 4444,
+     "n": 4445,
      "share": 0.017
     },
     {
      "name": "Hradec Králové",
-     "n": 3843,
+     "n": 3845,
      "share": 0.015
     },
     {
      "name": "České Budějovice",
-     "n": 3602,
+     "n": 3604,
      "share": 0.014
     },
     {
      "name": "Liberec",
-     "n": 3583,
+     "n": 3585,
      "share": 0.014
     },
     {
      "name": "Zlín",
-     "n": 3297,
+     "n": 3299,
      "share": 0.013
     },
     {
      "name": "Jihlava",
-     "n": 2582,
+     "n": 2586,
      "share": 0.01
     },
     {
@@ -1589,7 +1611,7 @@
    "url": "https://cz.jooble.org",
    "collecting_since": "2026-08-01",
    "offers_total": 213342,
-   "share_latest": 0.575,
+   "share_latest": 0.574,
    "salary_coverage": 0.729,
    "description_coverage": 1.0
   },
@@ -1599,9 +1621,9 @@
    "kind": "aggregator",
    "url": "https://www.careerjet.cz",
    "collecting_since": "2026-08-03",
-   "offers_total": 106500,
-   "share_latest": 0.342,
-   "salary_coverage": 0.63,
+   "offers_total": 124206,
+   "share_latest": 0.343,
+   "salary_coverage": 0.621,
    "description_coverage": 1.0
   },
   {
@@ -1618,11 +1640,11 @@
  ],
  "quality": {
   "field_coverage": {
-   "salary_any": 0.612,
+   "salary_any": 0.61,
    "city": 0.99,
-   "company": 0.904,
-   "employment_type": 0.062,
-   "remote": 0.707,
+   "company": 0.898,
+   "employment_type": 0.059,
+   "remote": 0.674,
    "posted_at": 1.0
   },
   "dedup": {
@@ -1635,18 +1657,18 @@
   {
    "id": "volume",
    "icon": "trend",
-   "title_pl": "Sierpień: 116 685 ogłoszeń",
-   "text_pl": "116 685 nowych ogłoszeń - najwięcej od początku zbierania.",
-   "title_en": "August: 116,685 postings",
-   "text_en": "116,685 new postings - the most since collection began."
+   "title_pl": "Sierpień: 116 789 ogłoszeń",
+   "text_pl": "116 789 nowych ogłoszeń - najwięcej od początku zbierania.",
+   "title_en": "August: 116,789 postings",
+   "text_en": "116,789 new postings - the most since collection began."
   },
   {
    "id": "mover",
    "icon": "city",
-   "title_pl": "Największa zmiana: Ostrava +120,5%",
-   "text_pl": "5 803 ogłoszeń wobec 2 632 miesiąc wcześniej.",
-   "title_en": "Biggest move: Ostrava +120.5%",
-   "text_en": "5,803 postings vs 2,632 a month earlier."
+   "title_pl": "Największa zmiana: Ostrava +120,6%",
+   "text_pl": "5 810 ogłoszeń wobec 2 634 miesiąc wcześniej.",
+   "title_en": "Biggest move: Ostrava +120.6%",
+   "text_en": "5,810 postings vs 2,634 a month earlier."
   },
   {
    "id": "salary",
@@ -1660,24 +1682,24 @@
    "id": "remote",
    "icon": "remote",
    "title_pl": "Praca zdalna: 0,8% ogłoszeń",
-   "text_pl": "1 252 ogłoszeń oznaczonych jako praca zdalna (+0,0 pkt proc. m/m).",
+   "text_pl": "1 253 ogłoszeń oznaczonych jako praca zdalna (+0,0 pkt proc. m/m).",
    "title_en": "Remote work: 0.8% of postings",
-   "text_en": "1,252 postings flagged as remote (+0.0 pp m/m)."
+   "text_en": "1,253 postings flagged as remote (+0.0 pp m/m)."
   },
   {
    "id": "source",
    "icon": "source",
    "title_pl": "Największy serwis: Jooble (57%)",
-   "text_pl": "Dane z 3 serwisów; Jooble dostarcza 89 920 z 156 503 ogłoszeń przed zdjęciem powtórek.",
+   "text_pl": "Dane z 3 serwisów; Jooble dostarcza 89 920 z 156 607 ogłoszeń przed zdjęciem powtórek.",
    "title_en": "Largest source: Jooble (57%)",
-   "text_en": "Data from 3 sources; Jooble provides 89,920 of 156,503 postings before de-duplication."
+   "text_en": "Data from 3 sources; Jooble provides 89,920 of 156,607 postings before de-duplication."
   },
   {
    "id": "cities",
    "icon": "map",
-   "title_pl": "4 106 miast z ogłoszeniami",
+   "title_pl": "4 107 miast z ogłoszeniami",
    "text_pl": "Najwięcej w: Praha (12%), Brno (7%), Ostrava (4%).",
-   "title_en": "4,106 cities with postings",
+   "title_en": "4,107 cities with postings",
    "text_en": "Most in: Praha (12%), Brno (7%), Ostrava (4%)."
   }
  ],

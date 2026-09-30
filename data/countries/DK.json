@@ -8,19 +8,19 @@
   "continent": "europe",
   "currency": "DKK"
  },
- "generated_at": "2026-09-30T16:14:03+00:00",
+ "generated_at": "2026-09-30T20:37:00+00:00",
  "coverage": {
   "first_month": "2026-01",
   "last_month": "2026-08",
   "collecting_since": "2026-08-01",
   "complete_from": "2026-08",
   "index_base_month": "2026-08",
-  "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: miesiąc jeszcze trwa."
+  "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
  },
  "headline": {
   "month": "2026-08",
-  "postings_new": 57006,
-  "postings_raw": 64153,
+  "postings_new": 57022,
+  "postings_raw": 64169,
   "mom_pct": null,
   "yoy_pct": null,
   "postings_active_end": 65932,
@@ -838,8 +838,8 @@
   {
    "period": "2026-07",
    "partial": false,
-   "postings_new": 26283,
-   "postings_raw": 28421,
+   "postings_new": 26286,
+   "postings_raw": 28424,
    "postings_active_end": null,
    "postings_closed": null,
    "index": 46.1,
@@ -848,9 +848,9 @@
    "salary": {
     "median": 35000,
     "p25": 28599,
-    "p75": 41139,
-    "mean": 37106,
-    "n": 518,
+    "p75": 41111,
+    "mean": 37083,
+    "n": 519,
     "share": 0.027,
     "currency": "DKK"
    },
@@ -879,13 +879,13 @@
      "code": "careerjet.dk",
      "service": "Careerjet",
      "kind": "aggregator",
-     "n": 8352
+     "n": 8355
     }
    ],
    "top_cities": [
     {
      "name": "København",
-     "n": 5336,
+     "n": 5337,
      "share": 0.188
     },
     {
@@ -915,7 +915,7 @@
     },
     {
      "name": "Roskilde",
-     "n": 390,
+     "n": 391,
      "share": 0.014
     },
     {
@@ -1026,8 +1026,8 @@
   {
    "period": "2026-08",
    "partial": false,
-   "postings_new": 57006,
-   "postings_raw": 64153,
+   "postings_new": 57022,
+   "postings_raw": 64169,
    "postings_active_end": 65932,
    "postings_closed": 39385,
    "index": 100.0,
@@ -1037,8 +1037,8 @@
     "median": 35533,
     "p25": 29466,
     "p75": 38999,
-    "mean": 36173,
-    "n": 1529,
+    "mean": 36168,
+    "n": 1531,
     "share": 0.029,
     "currency": "DKK"
    },
@@ -1055,7 +1055,7 @@
      "code": "careerjet.dk",
      "service": "Careerjet",
      "kind": "aggregator",
-     "n": 26374
+     "n": 26390
     },
     {
      "code": "jooble.dk",
@@ -1083,7 +1083,7 @@
     },
     {
      "name": "Aarhus",
-     "n": 1845,
+     "n": 1847,
      "share": 0.029
     },
     {
@@ -1098,8 +1098,8 @@
     },
     {
      "name": "Aalborg",
-     "n": 1122,
-     "share": 0.017
+     "n": 1123,
+     "share": 0.018
     },
     {
      "name": "Danmark",
@@ -1133,7 +1133,7 @@
     },
     {
      "name": "Ballerup",
-     "n": 517,
+     "n": 518,
      "share": 0.008
     },
     {
@@ -1210,6 +1210,28 @@
     }
    ],
    "regions": []
+  }
+ ],
+ "weekly": [
+  {
+   "week": "2026-08-03",
+   "postings_new": 13851,
+   "postings_raw": 15296
+  },
+  {
+   "week": "2026-08-10",
+   "postings_new": 14123,
+   "postings_raw": 15714
+  },
+  {
+   "week": "2026-08-17",
+   "postings_new": 12512,
+   "postings_raw": 13903
+  },
+  {
+   "week": "2026-08-24",
+   "postings_new": 13794,
+   "postings_raw": 15284
   }
  ],
  "quarterly": [
@@ -1519,16 +1541,16 @@
   {
    "period": "2026-Q3",
    "partial": true,
-   "postings_new": 83289,
-   "postings_raw": 92574,
+   "postings_new": 83308,
+   "postings_raw": 92593,
    "qoq_pct": null,
    "yoy_pct": null,
    "salary": {
     "median": 35398,
     "p25": 29247,
-    "p75": 39541,
-    "mean": 36409,
-    "n": 2047,
+    "p75": 39534,
+    "mean": 36400,
+    "n": 2050,
     "share": 0.028,
     "currency": "DKK"
    },
@@ -1551,7 +1573,7 @@
      "code": "careerjet.dk",
      "service": "Careerjet",
      "kind": "aggregator",
-     "n": 34726
+     "n": 34745
     },
     {
      "code": "indeed.dk",
@@ -1563,7 +1585,7 @@
    "top_cities": [
     {
      "name": "København",
-     "n": 16242,
+     "n": 16243,
      "share": 0.175
     },
     {
@@ -1573,7 +1595,7 @@
     },
     {
      "name": "Aarhus",
-     "n": 2742,
+     "n": 2744,
      "share": 0.03
     },
     {
@@ -1588,7 +1610,7 @@
     },
     {
      "name": "Aalborg",
-     "n": 1699,
+     "n": 1700,
      "share": 0.018
     },
     {
@@ -1603,7 +1625,7 @@
     },
     {
      "name": "Roskilde",
-     "n": 1006,
+     "n": 1007,
      "share": 0.011
     },
     {
@@ -1613,7 +1635,7 @@
     },
     {
      "name": "Ballerup",
-     "n": 891,
+     "n": 892,
      "share": 0.01
     },
     {
@@ -1704,6 +1726,17 @@
  ],
  "sources": [
   {
+   "code": "careerjet.dk",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "url": "https://www.careerjet.dk",
+   "collecting_since": "2026-08-03",
+   "offers_total": 50632,
+   "share_latest": 0.411,
+   "salary_coverage": 0.062,
+   "description_coverage": 1.0
+  },
+  {
    "code": "jooble.dk",
    "service": "Jooble",
    "kind": "aggregator",
@@ -1715,35 +1748,24 @@
    "description_coverage": 1.0
   },
   {
-   "code": "careerjet.dk",
-   "service": "Careerjet",
-   "kind": "aggregator",
-   "url": "https://www.careerjet.dk",
-   "collecting_since": "2026-08-03",
-   "offers_total": 43133,
-   "share_latest": 0.411,
-   "salary_coverage": 0.058,
-   "description_coverage": 1.0
-  },
-  {
    "code": "indeed.dk",
    "service": "Indeed",
    "kind": "aggregator",
    "url": "https://dk.indeed.com",
    "collecting_since": "2026-08-06",
    "offers_total": 34163,
-   "share_latest": 0.209,
+   "share_latest": 0.208,
    "salary_coverage": 0.0,
    "description_coverage": 1.0
   }
  ],
  "quality": {
   "field_coverage": {
-   "salary_any": 0.026,
-   "city": 0.964,
-   "company": 0.972,
-   "employment_type": 0.189,
-   "remote": 0.652,
+   "salary_any": 0.029,
+   "city": 0.966,
+   "company": 0.973,
+   "employment_type": 0.178,
+   "remote": 0.615,
    "posted_at": 1.0
   },
   "dedup": {
@@ -1756,10 +1778,10 @@
   {
    "id": "volume",
    "icon": "trend",
-   "title_pl": "Sierpień: 57 006 ogłoszeń",
-   "text_pl": "57 006 nowych ogłoszeń - najwięcej od początku zbierania.",
-   "title_en": "August: 57,006 postings",
-   "text_en": "57,006 new postings - the most since collection began."
+   "title_pl": "Sierpień: 57 022 ogłoszeń",
+   "text_pl": "57 022 nowych ogłoszeń - najwięcej od początku zbierania.",
+   "title_en": "August: 57,022 postings",
+   "text_en": "57,022 new postings - the most since collection began."
   },
   {
    "id": "mover",
@@ -1781,17 +1803,17 @@
    "id": "remote",
    "icon": "remote",
    "title_pl": "Praca zdalna: 0,9% ogłoszeń",
-   "text_pl": "577 ogłoszeń oznaczonych jako praca zdalna (-0,4 pkt proc. m/m).",
+   "text_pl": "578 ogłoszeń oznaczonych jako praca zdalna (-0,4 pkt proc. m/m).",
    "title_en": "Remote work: 0.9% of postings",
-   "text_en": "577 postings flagged as remote (-0.4 pp m/m)."
+   "text_en": "578 postings flagged as remote (-0.4 pp m/m)."
   },
   {
    "id": "source",
    "icon": "source",
    "title_pl": "Największy serwis: Careerjet (41%)",
-   "text_pl": "Dane z 3 serwisów; Careerjet dostarcza 26 374 z 64 153 ogłoszeń przed zdjęciem powtórek.",
+   "text_pl": "Dane z 3 serwisów; Careerjet dostarcza 26 390 z 64 169 ogłoszeń przed zdjęciem powtórek.",
    "title_en": "Largest source: Careerjet (41%)",
-   "text_en": "Data from 3 sources; Careerjet provides 26,374 of 64,153 postings before de-duplication."
+   "text_en": "Data from 3 sources; Careerjet provides 26,390 of 64,169 postings before de-duplication."
   },
   {
    "id": "cities",

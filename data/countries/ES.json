@@ -8,23 +8,23 @@
   "continent": "europe",
   "currency": "EUR"
  },
- "generated_at": "2026-09-30T16:14:03+00:00",
+ "generated_at": "2026-09-30T20:37:00+00:00",
  "coverage": {
   "first_month": "2026-02",
   "last_month": "2026-08",
   "collecting_since": "2026-08-01",
   "complete_from": "2026-08",
   "index_base_month": "2026-08",
-  "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: miesiąc jeszcze trwa."
+  "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
  },
  "headline": {
   "month": "2026-08",
-  "postings_new": 205876,
-  "postings_raw": 236399,
+  "postings_new": 205934,
+  "postings_raw": 236459,
   "mom_pct": null,
   "yoy_pct": null,
   "postings_active_end": 477134,
-  "salary_median": 1974,
+  "salary_median": 1979,
   "salary_currency": "EUR",
   "salary_share": 0.153,
   "remote_share": 0.012,
@@ -717,19 +717,19 @@
   {
    "period": "2026-07",
    "partial": false,
-   "postings_new": 137662,
-   "postings_raw": 159961,
+   "postings_new": 137696,
+   "postings_raw": 159996,
    "postings_active_end": null,
    "postings_closed": null,
    "index": 66.9,
    "mom_pct": null,
    "yoy_pct": null,
    "salary": {
-    "median": 1974,
+    "median": 1975,
     "p25": 1550,
     "p75": 2417,
-    "mean": 2259,
-    "n": 8593,
+    "mean": 2260,
+    "n": 8601,
     "share": 0.21,
     "currency": "EUR"
    },
@@ -758,23 +758,23 @@
      "code": "careerjet.es",
      "service": "Careerjet",
      "kind": "aggregator",
-     "n": 26663
+     "n": 26698
     }
    ],
    "top_cities": [
     {
      "name": "Madrid",
-     "n": 25967,
+     "n": 25969,
      "share": 0.162
     },
     {
      "name": "Barcelona",
-     "n": 18376,
+     "n": 18381,
      "share": 0.115
     },
     {
      "name": "Valencia",
-     "n": 4436,
+     "n": 4438,
      "share": 0.028
     },
     {
@@ -804,7 +804,7 @@
     },
     {
      "name": "Murcia",
-     "n": 1703,
+     "n": 1704,
      "share": 0.011
     },
     {
@@ -814,12 +814,12 @@
     },
     {
      "name": "Girona",
-     "n": 1308,
+     "n": 1309,
      "share": 0.008
     },
     {
      "name": "Santa Cruz de Tenerife",
-     "n": 1227,
+     "n": 1228,
      "share": 0.008
     },
     {
@@ -845,7 +845,7 @@
     },
     {
      "title": "segundo de cocina",
-     "n": 1019
+     "n": 1021
     },
     {
      "title": "pizzero",
@@ -905,19 +905,19 @@
   {
    "period": "2026-08",
    "partial": false,
-   "postings_new": 205876,
-   "postings_raw": 236399,
+   "postings_new": 205934,
+   "postings_raw": 236459,
    "postings_active_end": 477134,
    "postings_closed": 5147,
    "index": 100.0,
    "mom_pct": null,
    "yoy_pct": null,
    "salary": {
-    "median": 1974,
+    "median": 1979,
     "p25": 1622,
     "p75": 2500,
-    "mean": 2261,
-    "n": 8519,
+    "mean": 2263,
+    "n": 8537,
     "share": 0.153,
     "currency": "EUR"
    },
@@ -946,33 +946,33 @@
      "code": "careerjet.es",
      "service": "Careerjet",
      "kind": "aggregator",
-     "n": 37663
+     "n": 37723
     }
    ],
    "top_cities": [
     {
      "name": "Madrid",
-     "n": 30968,
+     "n": 30981,
      "share": 0.131
     },
     {
      "name": "Barcelona",
-     "n": 21302,
+     "n": 21309,
      "share": 0.09
     },
     {
      "name": "Valencia",
-     "n": 5746,
+     "n": 5748,
      "share": 0.024
     },
     {
      "name": "España",
-     "n": 4998,
+     "n": 5003,
      "share": 0.021
     },
     {
      "name": "Sevilla",
-     "n": 4407,
+     "n": 4409,
      "share": 0.019
     },
     {
@@ -982,7 +982,7 @@
     },
     {
      "name": "Zaragoza",
-     "n": 3646,
+     "n": 3647,
      "share": 0.015
     },
     {
@@ -1007,7 +1007,7 @@
     },
     {
      "name": "Girona",
-     "n": 1763,
+     "n": 1764,
      "share": 0.007
     },
     {
@@ -1017,7 +1017,7 @@
     },
     {
      "name": "Tarragona",
-     "n": 1449,
+     "n": 1450,
      "share": 0.006
     },
     {
@@ -1049,7 +1049,7 @@
     },
     {
      "title": "auxiliar administrativo/a",
-     "n": 354
+     "n": 355
     },
     {
      "title": "cocinero/a",
@@ -1089,6 +1089,28 @@
     }
    ],
    "regions": []
+  }
+ ],
+ "weekly": [
+  {
+   "week": "2026-08-03",
+   "postings_new": 53626,
+   "postings_raw": 60801
+  },
+  {
+   "week": "2026-08-10",
+   "postings_new": 47162,
+   "postings_raw": 52301
+  },
+  {
+   "week": "2026-08-17",
+   "postings_new": 56995,
+   "postings_raw": 61938
+  },
+  {
+   "week": "2026-08-24",
+   "postings_new": 39403,
+   "postings_raw": 43892
   }
  ],
  "quarterly": [
@@ -1398,16 +1420,16 @@
   {
    "period": "2026-Q3",
    "partial": true,
-   "postings_new": 343538,
-   "postings_raw": 396360,
+   "postings_new": 343630,
+   "postings_raw": 396455,
    "qoq_pct": null,
    "yoy_pct": null,
    "salary": {
-    "median": 1974,
+    "median": 1977,
     "p25": 1586,
     "p75": 2458,
-    "mean": 2260,
-    "n": 17112,
+    "mean": 2261,
+    "n": 17138,
     "share": 0.176,
     "currency": "EUR"
    },
@@ -1436,28 +1458,28 @@
      "code": "careerjet.es",
      "service": "Careerjet",
      "kind": "aggregator",
-     "n": 64326
+     "n": 64421
     }
    ],
    "top_cities": [
     {
      "name": "Madrid",
-     "n": 56935,
+     "n": 56950,
      "share": 0.144
     },
     {
      "name": "Barcelona",
-     "n": 39678,
+     "n": 39690,
      "share": 0.1
     },
     {
      "name": "Valencia",
-     "n": 10182,
+     "n": 10186,
      "share": 0.026
     },
     {
      "name": "Sevilla",
-     "n": 7955,
+     "n": 7957,
      "share": 0.02
     },
     {
@@ -1467,12 +1489,12 @@
     },
     {
      "name": "España",
-     "n": 7321,
+     "n": 7326,
      "share": 0.018
     },
     {
      "name": "Zaragoza",
-     "n": 6737,
+     "n": 6738,
      "share": 0.017
     },
     {
@@ -1482,7 +1504,7 @@
     },
     {
      "name": "Murcia",
-     "n": 4058,
+     "n": 4059,
      "share": 0.01
     },
     {
@@ -1492,12 +1514,12 @@
     },
     {
      "name": "Girona",
-     "n": 3071,
+     "n": 3073,
      "share": 0.008
     },
     {
      "name": "Santa Cruz de Tenerife",
-     "n": 3007,
+     "n": 3008,
      "share": 0.008
     },
     {
@@ -1507,7 +1529,7 @@
     },
     {
      "name": "Tarragona",
-     "n": 1449,
+     "n": 1450,
      "share": 0.004
     },
     {
@@ -1523,7 +1545,7 @@
     },
     {
      "title": "segundo de cocina",
-     "n": 1019
+     "n": 1021
     },
     {
      "title": "pizzero",
@@ -1551,7 +1573,7 @@
     },
     {
      "title": "auxiliar administrativo/a",
-     "n": 634
+     "n": 635
     },
     {
      "title": "cocinero/a",
@@ -1610,19 +1632,19 @@
    "kind": "aggregator",
    "url": "https://www.opcionempleo.com",
    "collecting_since": "2026-08-03",
-   "offers_total": 81025,
-   "share_latest": 0.159,
-   "salary_coverage": 0.259,
+   "offers_total": 98739,
+   "share_latest": 0.16,
+   "salary_coverage": 0.258,
    "description_coverage": 1.0
   }
  ],
  "quality": {
   "field_coverage": {
-   "salary_any": 0.161,
-   "city": 0.967,
-   "company": 0.968,
-   "employment_type": 0.208,
-   "remote": 0.855,
+   "salary_any": 0.164,
+   "city": 0.968,
+   "company": 0.967,
+   "employment_type": 0.201,
+   "remote": 0.829,
    "posted_at": 1.0
   },
   "dedup": {
@@ -1635,42 +1657,42 @@
   {
    "id": "volume",
    "icon": "trend",
-   "title_pl": "Sierpień: 205 876 ogłoszeń",
-   "text_pl": "205 876 nowych ogłoszeń - najwięcej od początku zbierania.",
-   "title_en": "August: 205,876 postings",
-   "text_en": "205,876 new postings - the most since collection began."
+   "title_pl": "Sierpień: 205 934 ogłoszeń",
+   "text_pl": "205 934 nowych ogłoszeń - najwięcej od początku zbierania.",
+   "title_en": "August: 205,934 postings",
+   "text_en": "205,934 new postings - the most since collection began."
   },
   {
    "id": "mover",
    "icon": "city",
-   "title_pl": "Największa zmiana: España +115,2%",
-   "text_pl": "4 998 ogłoszeń wobec 2 323 miesiąc wcześniej.",
-   "title_en": "Biggest move: España +115.2%",
-   "text_en": "4,998 postings vs 2,323 a month earlier."
+   "title_pl": "Największa zmiana: España +115,4%",
+   "text_pl": "5 003 ogłoszeń wobec 2 323 miesiąc wcześniej.",
+   "title_en": "Biggest move: España +115.4%",
+   "text_en": "5,003 postings vs 2,323 a month earlier."
   },
   {
    "id": "salary",
    "icon": "salary",
-   "title_pl": "Mediana wynagrodzenia: 1 974 EUR",
+   "title_pl": "Mediana wynagrodzenia: 1 979 EUR",
    "text_pl": "Połowa ofert z podaną stawką mieści się między 1 622 a 2 500 EUR miesięcznie; stawkę podaje 15% ogłoszeń.",
-   "title_en": "Median pay: 1,974 EUR",
+   "title_en": "Median pay: 1,979 EUR",
    "text_en": "Half of the postings with stated pay fall between 1,622 and 2,500 EUR per month; 15% of postings state pay."
   },
   {
    "id": "remote",
    "icon": "remote",
    "title_pl": "Praca zdalna: 1,2% ogłoszeń",
-   "text_pl": "2 837 ogłoszeń oznaczonych jako praca zdalna (-0,5 pkt proc. m/m).",
+   "text_pl": "2 838 ogłoszeń oznaczonych jako praca zdalna (-0,5 pkt proc. m/m).",
    "title_en": "Remote work: 1.2% of postings",
-   "text_en": "2,837 postings flagged as remote (-0.5 pp m/m)."
+   "text_en": "2,838 postings flagged as remote (-0.5 pp m/m)."
   },
   {
    "id": "source",
    "icon": "source",
    "title_pl": "Największy serwis: Jooble (66%)",
-   "text_pl": "Dane z 3 serwisów; Jooble dostarcza 155 317 z 236 399 ogłoszeń przed zdjęciem powtórek.",
+   "text_pl": "Dane z 3 serwisów; Jooble dostarcza 155 317 z 236 459 ogłoszeń przed zdjęciem powtórek.",
    "title_en": "Largest source: Jooble (66%)",
-   "text_en": "Data from 3 sources; Jooble provides 155,317 of 236,399 postings before de-duplication."
+   "text_en": "Data from 3 sources; Jooble provides 155,317 of 236,459 postings before de-duplication."
   },
   {
    "id": "cities",

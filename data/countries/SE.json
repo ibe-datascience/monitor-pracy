@@ -8,23 +8,23 @@
   "continent": "europe",
   "currency": "SEK"
  },
- "generated_at": "2026-09-30T16:14:03+00:00",
+ "generated_at": "2026-09-30T20:37:00+00:00",
  "coverage": {
   "first_month": "2025-09",
   "last_month": "2026-08",
   "collecting_since": "2026-08-01",
   "complete_from": "2026-08",
   "index_base_month": "2026-08",
-  "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: miesiąc jeszcze trwa."
+  "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
  },
  "headline": {
   "month": "2026-08",
-  "postings_new": 110367,
-  "postings_raw": 155166,
+  "postings_new": 110493,
+  "postings_raw": 155323,
   "mom_pct": null,
   "yoy_pct": null,
-  "postings_active_end": 191333,
-  "salary_median": 33799,
+  "postings_active_end": 191887,
+  "salary_median": 33432,
   "salary_currency": "SEK",
   "salary_share": 0.014,
   "remote_share": 0.004,
@@ -39,8 +39,8 @@
   {
    "period": "2025-09",
    "partial": false,
-   "postings_new": 1771,
-   "postings_raw": 1820,
+   "postings_new": 1790,
+   "postings_raw": 1839,
    "postings_active_end": null,
    "postings_closed": null,
    "index": 1.6,
@@ -57,18 +57,18 @@
    },
    "remote_share": 0.002,
    "employment": {
-    "full_time": 0.053,
+    "full_time": 0.052,
     "part_time": 0.009,
     "contract": 0.013,
     "other": 0.005,
-    "unknown": 0.92
+    "unknown": 0.921
    },
    "by_source": [
     {
      "code": "jooble.se",
      "service": "Jooble",
      "kind": "aggregator",
-     "n": 1458
+     "n": 1477
     },
     {
      "code": "indeed.se",
@@ -80,33 +80,33 @@
    "top_cities": [
     {
      "name": "Stockholm",
-     "n": 635,
+     "n": 641,
      "share": 0.349
     },
     {
      "name": "Göteborg",
-     "n": 185,
-     "share": 0.102
+     "n": 186,
+     "share": 0.101
     },
     {
      "name": "Malmö",
-     "n": 77,
+     "n": 78,
      "share": 0.042
     },
     {
      "name": "Solna",
-     "n": 53,
+     "n": 54,
      "share": 0.029
     },
     {
      "name": "Linköping",
-     "n": 38,
+     "n": 39,
      "share": 0.021
     },
     {
      "name": "Jönköping",
      "n": 32,
-     "share": 0.018
+     "share": 0.017
     },
     {
      "name": "Uppsala",
@@ -115,13 +115,18 @@
     },
     {
      "name": "Helsingborg",
-     "n": 26,
-     "share": 0.014
+     "n": 27,
+     "share": 0.015
     },
     {
      "name": "Västerås",
      "n": 20,
      "share": 0.011
+    },
+    {
+     "name": "Norrköping",
+     "n": 18,
+     "share": 0.01
     },
     {
      "name": "Södertälje, Södertälje kommun",
@@ -139,19 +144,14 @@
      "share": 0.009
     },
     {
-     "name": "Norrköping",
-     "n": 17,
-     "share": 0.009
-    },
-    {
      "name": "Umeå",
      "n": 17,
      "share": 0.009
     },
     {
      "name": "Kista, Stockholms kommun",
-     "n": 15,
-     "share": 0.008
+     "n": 16,
+     "share": 0.009
     }
    ],
    "top_titles": [],
@@ -160,8 +160,8 @@
   {
    "period": "2025-10",
    "partial": false,
-   "postings_new": 939,
-   "postings_raw": 1019,
+   "postings_new": 946,
+   "postings_raw": 1026,
    "postings_active_end": null,
    "postings_closed": null,
    "index": 0.9,
@@ -178,18 +178,18 @@
    },
    "remote_share": 0.011,
    "employment": {
-    "full_time": 0.152,
+    "full_time": 0.151,
     "part_time": 0.013,
     "contract": 0.017,
     "other": 0.008,
-    "unknown": 0.811
+    "unknown": 0.812
    },
    "by_source": [
     {
      "code": "jooble.se",
      "service": "Jooble",
      "kind": "aggregator",
-     "n": 575
+     "n": 582
     },
     {
      "code": "indeed.se",
@@ -201,13 +201,13 @@
    "top_cities": [
     {
      "name": "Stockholm",
-     "n": 274,
-     "share": 0.269
+     "n": 278,
+     "share": 0.271
     },
     {
      "name": "Göteborg",
      "n": 124,
-     "share": 0.122
+     "share": 0.121
     },
     {
      "name": "Stocksund",
@@ -216,8 +216,8 @@
     },
     {
      "name": "Malmö",
-     "n": 32,
-     "share": 0.031
+     "n": 33,
+     "share": 0.032
     },
     {
      "name": "Solna",
@@ -232,7 +232,7 @@
     {
      "name": "Lund",
      "n": 20,
-     "share": 0.02
+     "share": 0.019
     },
     {
      "name": "Uppsala",
@@ -246,6 +246,11 @@
     },
     {
      "name": "Jönköping",
+     "n": 10,
+     "share": 0.01
+    },
+    {
+     "name": "Norrköping",
      "n": 10,
      "share": 0.01
     },
@@ -268,11 +273,6 @@
      "name": "Luleå",
      "n": 9,
      "share": 0.009
-    },
-    {
-     "name": "Norrköping",
-     "n": 9,
-     "share": 0.009
     }
    ],
    "top_titles": [],
@@ -281,8 +281,8 @@
   {
    "period": "2025-11",
    "partial": false,
-   "postings_new": 608,
-   "postings_raw": 665,
+   "postings_new": 610,
+   "postings_raw": 669,
    "postings_active_end": null,
    "postings_closed": null,
    "index": 0.6,
@@ -294,16 +294,16 @@
     "p75": null,
     "mean": null,
     "n": null,
-    "share": 0.008,
+    "share": 0.007,
     "currency": "SEK"
    },
    "remote_share": 0.03,
    "employment": {
-    "full_time": 0.227,
+    "full_time": 0.226,
     "part_time": 0.021,
-    "contract": 0.011,
+    "contract": 0.01,
     "other": 0.015,
-    "unknown": 0.726
+    "unknown": 0.728
    },
    "by_source": [
     {
@@ -316,44 +316,44 @@
      "code": "jooble.se",
      "service": "Jooble",
      "kind": "aggregator",
-     "n": 250
+     "n": 254
     }
    ],
    "top_cities": [
     {
      "name": "Stockholm",
      "n": 209,
-     "share": 0.314
+     "share": 0.312
     },
     {
      "name": "Göteborg",
-     "n": 48,
-     "share": 0.072
+     "n": 49,
+     "share": 0.073
     },
     {
      "name": "Malmö",
      "n": 25,
-     "share": 0.038
+     "share": 0.037
     },
     {
      "name": "Solna",
      "n": 19,
-     "share": 0.029
+     "share": 0.028
     },
     {
      "name": "Linköping",
      "n": 17,
-     "share": 0.026
+     "share": 0.025
     },
     {
      "name": "Uppsala",
      "n": 13,
-     "share": 0.02
+     "share": 0.019
     },
     {
      "name": "Jönköping",
      "n": 11,
-     "share": 0.017
+     "share": 0.016
     },
     {
      "name": "Örebro",
@@ -363,12 +363,12 @@
     {
      "name": "Helsingborg",
      "n": 9,
-     "share": 0.014
+     "share": 0.013
     },
     {
      "name": "Västerås",
      "n": 9,
-     "share": 0.014
+     "share": 0.013
     },
     {
      "name": "Kalmar",
@@ -383,7 +383,7 @@
     {
      "name": "Kista",
      "n": 7,
-     "share": 0.011
+     "share": 0.01
     },
     {
      "name": "Borås",
@@ -402,8 +402,8 @@
   {
    "period": "2025-12",
    "partial": false,
-   "postings_new": 897,
-   "postings_raw": 977,
+   "postings_new": 909,
+   "postings_raw": 990,
    "postings_active_end": null,
    "postings_closed": null,
    "index": 0.8,
@@ -418,13 +418,13 @@
     "share": 0.002,
     "currency": "SEK"
    },
-   "remote_share": 0.107,
+   "remote_share": 0.11,
    "employment": {
-    "full_time": 0.253,
-    "part_time": 0.023,
+    "full_time": 0.249,
+    "part_time": 0.022,
     "contract": 0.019,
     "other": 0.011,
-    "unknown": 0.694
+    "unknown": 0.698
    },
    "by_source": [
     {
@@ -437,59 +437,59 @@
      "code": "jooble.se",
      "service": "Jooble",
      "kind": "aggregator",
-     "n": 362
+     "n": 375
     }
    ],
    "top_cities": [
     {
      "name": "Stockholm",
      "n": 247,
-     "share": 0.253
+     "share": 0.249
     },
     {
      "name": "Göteborg",
      "n": 80,
-     "share": 0.082
+     "share": 0.081
     },
     {
      "name": "Fjärrarbete",
-     "n": 64,
-     "share": 0.066
+     "n": 68,
+     "share": 0.069
     },
     {
      "name": "Malmö",
-     "n": 54,
-     "share": 0.055
+     "n": 55,
+     "share": 0.056
     },
     {
      "name": "Linköping",
      "n": 36,
-     "share": 0.037
+     "share": 0.036
     },
     {
      "name": "Uppsala",
      "n": 30,
-     "share": 0.031
+     "share": 0.03
     },
     {
      "name": "Västerås",
      "n": 28,
-     "share": 0.029
+     "share": 0.028
     },
     {
      "name": "Solna",
      "n": 26,
-     "share": 0.027
+     "share": 0.026
     },
     {
      "name": "Jönköping",
-     "n": 22,
+     "n": 23,
      "share": 0.023
     },
     {
      "name": "Luleå",
-     "n": 15,
-     "share": 0.015
+     "n": 16,
+     "share": 0.016
     },
     {
      "name": "Örebro",
@@ -498,16 +498,16 @@
     },
     {
      "name": "Gävle",
-     "n": 11,
-     "share": 0.011
-    },
-    {
-     "name": "Karlshamn",
-     "n": 11,
-     "share": 0.011
+     "n": 12,
+     "share": 0.012
     },
     {
      "name": "Norrköping",
+     "n": 12,
+     "share": 0.012
+    },
+    {
+     "name": "Karlshamn",
      "n": 11,
      "share": 0.011
     },
@@ -523,8 +523,8 @@
   {
    "period": "2026-01",
    "partial": false,
-   "postings_new": 1346,
-   "postings_raw": 1587,
+   "postings_new": 1352,
+   "postings_raw": 1593,
    "postings_active_end": null,
    "postings_closed": null,
    "index": 1.2,
@@ -541,11 +541,11 @@
    },
    "remote_share": 0.02,
    "employment": {
-    "full_time": 0.209,
+    "full_time": 0.208,
     "part_time": 0.028,
     "contract": 0.05,
     "other": 0.006,
-    "unknown": 0.708
+    "unknown": 0.709
    },
    "by_source": [
     {
@@ -558,18 +558,18 @@
      "code": "jooble.se",
      "service": "Jooble",
      "kind": "aggregator",
-     "n": 541
+     "n": 547
     }
    ],
    "top_cities": [
     {
      "name": "Stockholm",
-     "n": 350,
-     "share": 0.221
+     "n": 353,
+     "share": 0.222
     },
     {
      "name": "Göteborg",
-     "n": 108,
+     "n": 109,
      "share": 0.068
     },
     {
@@ -585,7 +585,7 @@
     {
      "name": "Linköping",
      "n": 39,
-     "share": 0.025
+     "share": 0.024
     },
     {
      "name": "Karlskrona",
@@ -605,7 +605,7 @@
     {
      "name": "Västerås",
      "n": 31,
-     "share": 0.02
+     "share": 0.019
     },
     {
      "name": "Umeå",
@@ -634,8 +634,8 @@
     },
     {
      "name": "Helsingborg",
-     "n": 19,
-     "share": 0.012
+     "n": 20,
+     "share": 0.013
     }
    ],
    "top_titles": [],
@@ -644,8 +644,8 @@
   {
    "period": "2026-02",
    "partial": false,
-   "postings_new": 1831,
-   "postings_raw": 2192,
+   "postings_new": 1834,
+   "postings_raw": 2198,
    "postings_active_end": null,
    "postings_closed": null,
    "index": 1.7,
@@ -657,16 +657,16 @@
     "p75": null,
     "mean": null,
     "n": null,
-    "share": 0.016,
+    "share": 0.015,
     "currency": "SEK"
    },
-   "remote_share": 0.016,
+   "remote_share": 0.015,
    "employment": {
     "full_time": 0.203,
     "part_time": 0.03,
     "contract": 0.041,
     "other": 0.01,
-    "unknown": 0.715
+    "unknown": 0.716
    },
    "by_source": [
     {
@@ -679,14 +679,14 @@
      "code": "jooble.se",
      "service": "Jooble",
      "kind": "aggregator",
-     "n": 690
+     "n": 696
     }
    ],
    "top_cities": [
     {
      "name": "Stockholm",
-     "n": 530,
-     "share": 0.242
+     "n": 535,
+     "share": 0.243
     },
     {
      "name": "Göteborg",
@@ -706,7 +706,7 @@
     {
      "name": "Solna",
      "n": 56,
-     "share": 0.026
+     "share": 0.025
     },
     {
      "name": "Linköping",
@@ -739,12 +739,12 @@
      "share": 0.014
     },
     {
-     "name": "Jönköping",
-     "n": 26,
+     "name": "Örebro",
+     "n": 27,
      "share": 0.012
     },
     {
-     "name": "Örebro",
+     "name": "Jönköping",
      "n": 26,
      "share": 0.012
     },
@@ -765,8 +765,8 @@
   {
    "period": "2026-03",
    "partial": false,
-   "postings_new": 2662,
-   "postings_raw": 3059,
+   "postings_new": 2671,
+   "postings_raw": 3072,
    "postings_active_end": null,
    "postings_closed": null,
    "index": 2.4,
@@ -783,11 +783,11 @@
    },
    "remote_share": 0.015,
    "employment": {
-    "full_time": 0.265,
+    "full_time": 0.264,
     "part_time": 0.029,
     "contract": 0.029,
     "other": 0.008,
-    "unknown": 0.669
+    "unknown": 0.67
    },
    "by_source": [
     {
@@ -800,23 +800,23 @@
      "code": "jooble.se",
      "service": "Jooble",
      "kind": "aggregator",
-     "n": 912
+     "n": 925
     }
    ],
    "top_cities": [
     {
      "name": "Stockholm",
-     "n": 682,
-     "share": 0.223
+     "n": 687,
+     "share": 0.224
     },
     {
      "name": "Göteborg",
-     "n": 183,
+     "n": 184,
      "share": 0.06
     },
     {
      "name": "Malmö",
-     "n": 128,
+     "n": 129,
      "share": 0.042
     },
     {
@@ -866,7 +866,7 @@
     },
     {
      "name": "Umeå",
-     "n": 37,
+     "n": 38,
      "share": 0.012
     },
     {
@@ -886,8 +886,8 @@
   {
    "period": "2026-04",
    "partial": false,
-   "postings_new": 3517,
-   "postings_raw": 4442,
+   "postings_new": 3529,
+   "postings_raw": 4458,
    "postings_active_end": null,
    "postings_closed": null,
    "index": 3.2,
@@ -905,10 +905,10 @@
    "remote_share": 0.012,
    "employment": {
     "full_time": 0.262,
-    "part_time": 0.027,
+    "part_time": 0.026,
     "contract": 0.024,
     "other": 0.008,
-    "unknown": 0.679
+    "unknown": 0.68
    },
    "by_source": [
     {
@@ -921,23 +921,23 @@
      "code": "jooble.se",
      "service": "Jooble",
      "kind": "aggregator",
-     "n": 1064
+     "n": 1080
     }
    ],
    "top_cities": [
     {
      "name": "Stockholm",
-     "n": 921,
+     "n": 924,
      "share": 0.207
     },
     {
      "name": "Göteborg",
-     "n": 337,
+     "n": 338,
      "share": 0.076
     },
     {
      "name": "Malmö",
-     "n": 146,
+     "n": 147,
      "share": 0.033
     },
     {
@@ -947,7 +947,7 @@
     },
     {
      "name": "Västerås",
-     "n": 115,
+     "n": 117,
      "share": 0.026
     },
     {
@@ -972,12 +972,12 @@
     },
     {
      "name": "Jönköping",
-     "n": 71,
+     "n": 72,
      "share": 0.016
     },
     {
      "name": "Örebro",
-     "n": 70,
+     "n": 71,
      "share": 0.016
     },
     {
@@ -997,7 +997,7 @@
     },
     {
      "name": "Helsingborg",
-     "n": 52,
+     "n": 53,
      "share": 0.012
     }
    ],
@@ -1007,8 +1007,8 @@
   {
    "period": "2026-05",
    "partial": false,
-   "postings_new": 6684,
-   "postings_raw": 8489,
+   "postings_new": 6701,
+   "postings_raw": 8512,
    "postings_active_end": null,
    "postings_closed": null,
    "index": 6.1,
@@ -1025,11 +1025,11 @@
    },
    "remote_share": 0.007,
    "employment": {
-    "full_time": 0.236,
+    "full_time": 0.235,
     "part_time": 0.02,
     "contract": 0.024,
     "other": 0.005,
-    "unknown": 0.715
+    "unknown": 0.716
    },
    "by_source": [
     {
@@ -1042,7 +1042,7 @@
      "code": "jooble.se",
      "service": "Jooble",
      "kind": "aggregator",
-     "n": 1890
+     "n": 1913
     },
     {
      "code": "careerjet.se",
@@ -1054,7 +1054,7 @@
    "top_cities": [
     {
      "name": "Stockholm",
-     "n": 1596,
+     "n": 1601,
      "share": 0.188
     },
     {
@@ -1069,7 +1069,7 @@
     },
     {
      "name": "Västerås",
-     "n": 213,
+     "n": 214,
      "share": 0.025
     },
     {
@@ -1079,7 +1079,7 @@
     },
     {
      "name": "Örebro",
-     "n": 169,
+     "n": 170,
      "share": 0.02
     },
     {
@@ -1089,7 +1089,7 @@
     },
     {
      "name": "Uppsala",
-     "n": 162,
+     "n": 163,
      "share": 0.019
     },
     {
@@ -1104,7 +1104,7 @@
     },
     {
      "name": "Östersund",
-     "n": 141,
+     "n": 142,
      "share": 0.017
     },
     {
@@ -1119,12 +1119,12 @@
     },
     {
      "name": "Jönköping",
-     "n": 131,
-     "share": 0.015
+     "n": 132,
+     "share": 0.016
     },
     {
      "name": "Helsingborg",
-     "n": 124,
+     "n": 126,
      "share": 0.015
     }
    ],
@@ -1134,8 +1134,8 @@
   {
    "period": "2026-06",
    "partial": false,
-   "postings_new": 23730,
-   "postings_raw": 30531,
+   "postings_new": 23744,
+   "postings_raw": 30552,
    "postings_active_end": null,
    "postings_closed": null,
    "index": 21.5,
@@ -1152,11 +1152,11 @@
    },
    "remote_share": 0.004,
    "employment": {
-    "full_time": 0.23,
+    "full_time": 0.229,
     "part_time": 0.01,
     "contract": 0.023,
     "other": 0.002,
-    "unknown": 0.735
+    "unknown": 0.736
    },
    "by_source": [
     {
@@ -1169,7 +1169,7 @@
      "code": "jooble.se",
      "service": "Jooble",
      "kind": "aggregator",
-     "n": 10910
+     "n": 10931
     },
     {
      "code": "careerjet.se",
@@ -1181,12 +1181,12 @@
    "top_cities": [
     {
      "name": "Stockholm",
-     "n": 4602,
+     "n": 4605,
      "share": 0.151
     },
     {
      "name": "Göteborg",
-     "n": 2201,
+     "n": 2208,
      "share": 0.072
     },
     {
@@ -1196,7 +1196,7 @@
     },
     {
      "name": "Malmö",
-     "n": 874,
+     "n": 877,
      "share": 0.029
     },
     {
@@ -1216,7 +1216,7 @@
     },
     {
      "name": "Jönköping",
-     "n": 549,
+     "n": 550,
      "share": 0.018
     },
     {
@@ -1226,7 +1226,7 @@
     },
     {
      "name": "Solna",
-     "n": 513,
+     "n": 514,
      "share": 0.017
     },
     {
@@ -1270,7 +1270,7 @@
     },
     {
      "title": "kock",
-     "n": 52
+     "n": 53
     },
     {
      "title": "sjuksköterska - medicinsjuksköterska (ssk)",
@@ -1322,11 +1322,11 @@
   {
    "period": "2026-07",
    "partial": false,
-   "postings_new": 56239,
-   "postings_raw": 75588,
+   "postings_new": 56283,
+   "postings_raw": 75643,
    "postings_active_end": null,
    "postings_closed": null,
-   "index": 51.0,
+   "index": 50.9,
    "mom_pct": null,
    "yoy_pct": null,
    "salary": {
@@ -1351,13 +1351,13 @@
      "code": "jooble.se",
      "service": "Jooble",
      "kind": "aggregator",
-     "n": 29371
+     "n": 29391
     },
     {
      "code": "careerjet.se",
      "service": "Careerjet",
      "kind": "aggregator",
-     "n": 23556
+     "n": 23591
     },
     {
      "code": "indeed.se",
@@ -1369,17 +1369,17 @@
    "top_cities": [
     {
      "name": "Stockholm",
-     "n": 11637,
+     "n": 11646,
      "share": 0.154
     },
     {
      "name": "Göteborg",
-     "n": 5466,
+     "n": 5470,
      "share": 0.072
     },
     {
      "name": "Malmö",
-     "n": 2774,
+     "n": 2775,
      "share": 0.037
     },
     {
@@ -1394,17 +1394,17 @@
     },
     {
      "name": "Jönköping",
-     "n": 1369,
+     "n": 1370,
      "share": 0.018
     },
     {
      "name": "Örebro",
-     "n": 1348,
+     "n": 1349,
      "share": 0.018
     },
     {
      "name": "Solna",
-     "n": 1295,
+     "n": 1296,
      "share": 0.017
     },
     {
@@ -1414,7 +1414,7 @@
     },
     {
      "name": "Umeå",
-     "n": 1217,
+     "n": 1218,
      "share": 0.016
     },
     {
@@ -1429,17 +1429,17 @@
     },
     {
      "name": "Luleå",
-     "n": 1069,
+     "n": 1071,
      "share": 0.014
     },
     {
      "name": "Helsingborg",
-     "n": 1068,
+     "n": 1069,
      "share": 0.014
     },
     {
      "name": "Sundsvall",
-     "n": 909,
+     "n": 910,
      "share": 0.012
     }
    ],
@@ -1510,25 +1510,25 @@
   {
    "period": "2026-08",
    "partial": false,
-   "postings_new": 110367,
-   "postings_raw": 155166,
-   "postings_active_end": 191333,
-   "postings_closed": 92205,
+   "postings_new": 110493,
+   "postings_raw": 155323,
+   "postings_active_end": 191887,
+   "postings_closed": 91651,
    "index": 100.0,
    "mom_pct": null,
    "yoy_pct": null,
    "salary": {
-    "median": 33799,
+    "median": 33432,
     "p25": 27906,
-    "p75": 43194,
-    "mean": 37421,
-    "n": 642,
+    "p75": 42917,
+    "mean": 37390,
+    "n": 644,
     "share": 0.014,
     "currency": "SEK"
    },
    "remote_share": 0.004,
    "employment": {
-    "full_time": 0.178,
+    "full_time": 0.177,
     "part_time": 0.017,
     "contract": 0.028,
     "other": 0.001,
@@ -1539,13 +1539,13 @@
      "code": "careerjet.se",
      "service": "Careerjet",
      "kind": "aggregator",
-     "n": 56314
+     "n": 56391
     },
     {
      "code": "jooble.se",
      "service": "Jooble",
      "kind": "aggregator",
-     "n": 55206
+     "n": 55286
     },
     {
      "code": "indeed.se",
@@ -1557,47 +1557,47 @@
    "top_cities": [
     {
      "name": "Stockholm",
-     "n": 26794,
+     "n": 26813,
      "share": 0.173
     },
     {
      "name": "Göteborg",
-     "n": 12096,
+     "n": 12108,
      "share": 0.078
     },
     {
      "name": "Malmö",
-     "n": 5421,
+     "n": 5423,
      "share": 0.035
     },
     {
      "name": "Uppsala",
-     "n": 4081,
+     "n": 4084,
      "share": 0.026
     },
     {
      "name": "Linköping",
-     "n": 3793,
+     "n": 3796,
      "share": 0.024
     },
     {
      "name": "Solna",
-     "n": 3217,
+     "n": 3222,
      "share": 0.021
     },
     {
      "name": "Jönköping",
-     "n": 2636,
+     "n": 2639,
      "share": 0.017
     },
     {
      "name": "Örebro",
-     "n": 2590,
+     "n": 2598,
      "share": 0.017
     },
     {
      "name": "Lund",
-     "n": 2367,
+     "n": 2368,
      "share": 0.015
     },
     {
@@ -1607,27 +1607,27 @@
     },
     {
      "name": "Västerås",
-     "n": 2252,
+     "n": 2257,
      "share": 0.015
     },
     {
      "name": "Norrköping",
-     "n": 2019,
+     "n": 2020,
      "share": 0.013
     },
     {
      "name": "Helsingborg",
-     "n": 1979,
+     "n": 1984,
      "share": 0.013
     },
     {
      "name": "Luleå",
-     "n": 1950,
+     "n": 1954,
      "share": 0.013
     },
     {
      "name": "Karlstad",
-     "n": 1618,
+     "n": 1620,
      "share": 0.01
     }
    ],
@@ -1696,12 +1696,34 @@
    "regions": []
   }
  ],
+ "weekly": [
+  {
+   "week": "2026-08-03",
+   "postings_new": 22172,
+   "postings_raw": 29829
+  },
+  {
+   "week": "2026-08-10",
+   "postings_new": 26461,
+   "postings_raw": 36250
+  },
+  {
+   "week": "2026-08-17",
+   "postings_new": 28887,
+   "postings_raw": 39987
+  },
+  {
+   "week": "2026-08-24",
+   "postings_new": 28592,
+   "postings_raw": 39269
+  }
+ ],
  "quarterly": [
   {
    "period": "2025-Q3",
    "partial": true,
-   "postings_new": 1771,
-   "postings_raw": 1820,
+   "postings_new": 1790,
+   "postings_raw": 1839,
    "qoq_pct": null,
    "yoy_pct": null,
    "salary": {
@@ -1715,18 +1737,18 @@
    },
    "remote_share": 0.002,
    "employment": {
-    "full_time": 0.053,
+    "full_time": 0.052,
     "part_time": 0.009,
     "contract": 0.013,
     "other": 0.005,
-    "unknown": 0.92
+    "unknown": 0.921
    },
    "by_source": [
     {
      "code": "jooble.se",
      "service": "Jooble",
      "kind": "aggregator",
-     "n": 1458
+     "n": 1477
     },
     {
      "code": "indeed.se",
@@ -1738,33 +1760,33 @@
    "top_cities": [
     {
      "name": "Stockholm",
-     "n": 635,
+     "n": 641,
      "share": 0.349
     },
     {
      "name": "Göteborg",
-     "n": 185,
-     "share": 0.102
+     "n": 186,
+     "share": 0.101
     },
     {
      "name": "Malmö",
-     "n": 77,
+     "n": 78,
      "share": 0.042
     },
     {
      "name": "Solna",
-     "n": 53,
+     "n": 54,
      "share": 0.029
     },
     {
      "name": "Linköping",
-     "n": 38,
+     "n": 39,
      "share": 0.021
     },
     {
      "name": "Jönköping",
      "n": 32,
-     "share": 0.018
+     "share": 0.017
     },
     {
      "name": "Uppsala",
@@ -1773,13 +1795,18 @@
     },
     {
      "name": "Helsingborg",
-     "n": 26,
-     "share": 0.014
+     "n": 27,
+     "share": 0.015
     },
     {
      "name": "Västerås",
      "n": 20,
      "share": 0.011
+    },
+    {
+     "name": "Norrköping",
+     "n": 18,
+     "share": 0.01
     },
     {
      "name": "Södertälje, Södertälje kommun",
@@ -1797,19 +1824,14 @@
      "share": 0.009
     },
     {
-     "name": "Norrköping",
-     "n": 17,
-     "share": 0.009
-    },
-    {
      "name": "Umeå",
      "n": 17,
      "share": 0.009
     },
     {
      "name": "Kista, Stockholms kommun",
-     "n": 15,
-     "share": 0.008
+     "n": 16,
+     "share": 0.009
     }
    ],
    "top_titles": [],
@@ -1818,8 +1840,8 @@
   {
    "period": "2025-Q4",
    "partial": false,
-   "postings_new": 2444,
-   "postings_raw": 2661,
+   "postings_new": 2465,
+   "postings_raw": 2685,
    "qoq_pct": null,
    "yoy_pct": null,
    "salary": {
@@ -1831,13 +1853,13 @@
     "share": 0.003,
     "currency": "SEK"
    },
-   "remote_share": 0.051,
+   "remote_share": 0.052,
    "employment": {
-    "full_time": 0.208,
-    "part_time": 0.019,
+    "full_time": 0.206,
+    "part_time": 0.018,
     "contract": 0.016,
     "other": 0.011,
-    "unknown": 0.747
+    "unknown": 0.749
    },
    "by_source": [
     {
@@ -1850,23 +1872,23 @@
      "code": "jooble.se",
      "service": "Jooble",
      "kind": "aggregator",
-     "n": 1187
+     "n": 1211
     }
    ],
    "top_cities": [
     {
      "name": "Stockholm",
-     "n": 730,
-     "share": 0.274
+     "n": 734,
+     "share": 0.273
     },
     {
      "name": "Göteborg",
-     "n": 252,
-     "share": 0.095
+     "n": 253,
+     "share": 0.094
     },
     {
      "name": "Malmö",
-     "n": 111,
+     "n": 113,
      "share": 0.042
     },
     {
@@ -1881,8 +1903,8 @@
     },
     {
      "name": "Fjärrarbete",
-     "n": 64,
-     "share": 0.024
+     "n": 68,
+     "share": 0.025
     },
     {
      "name": "Uppsala",
@@ -1891,7 +1913,7 @@
     },
     {
      "name": "Jönköping",
-     "n": 43,
+     "n": 44,
      "share": 0.016
     },
     {
@@ -1907,11 +1929,11 @@
     {
      "name": "Lund",
      "n": 28,
-     "share": 0.011
+     "share": 0.01
     },
     {
      "name": "Luleå",
-     "n": 24,
+     "n": 25,
      "share": 0.009
     },
     {
@@ -1921,13 +1943,13 @@
     },
     {
      "name": "Norrköping",
-     "n": 20,
+     "n": 22,
      "share": 0.008
     },
     {
      "name": "Umeå",
      "n": 20,
-     "share": 0.008
+     "share": 0.007
     }
    ],
    "top_titles": [],
@@ -1936,8 +1958,8 @@
   {
    "period": "2026-Q1",
    "partial": false,
-   "postings_new": 5839,
-   "postings_raw": 6838,
+   "postings_new": 5857,
+   "postings_raw": 6863,
    "qoq_pct": null,
    "yoy_pct": null,
    "salary": {
@@ -1951,11 +1973,11 @@
    },
    "remote_share": 0.016,
    "employment": {
-    "full_time": 0.232,
+    "full_time": 0.231,
     "part_time": 0.029,
     "contract": 0.038,
     "other": 0.008,
-    "unknown": 0.693
+    "unknown": 0.694
    },
    "by_source": [
     {
@@ -1968,23 +1990,23 @@
      "code": "jooble.se",
      "service": "Jooble",
      "kind": "aggregator",
-     "n": 2143
+     "n": 2168
     }
    ],
    "top_cities": [
     {
      "name": "Stockholm",
-     "n": 1562,
-     "share": 0.228
+     "n": 1575,
+     "share": 0.229
     },
     {
      "name": "Göteborg",
-     "n": 469,
+     "n": 471,
      "share": 0.069
     },
     {
      "name": "Malmö",
-     "n": 266,
+     "n": 267,
      "share": 0.039
     },
     {
@@ -2024,17 +2046,17 @@
     },
     {
      "name": "Helsingborg",
-     "n": 95,
+     "n": 96,
      "share": 0.014
     },
     {
      "name": "Örebro",
-     "n": 94,
+     "n": 95,
      "share": 0.014
     },
     {
      "name": "Umeå",
-     "n": 89,
+     "n": 90,
      "share": 0.013
     },
     {
@@ -2054,8 +2076,8 @@
   {
    "period": "2026-Q2",
    "partial": false,
-   "postings_new": 33931,
-   "postings_raw": 43462,
+   "postings_new": 33974,
+   "postings_raw": 43522,
    "qoq_pct": null,
    "yoy_pct": null,
    "salary": {
@@ -2073,7 +2095,7 @@
     "part_time": 0.014,
     "contract": 0.023,
     "other": 0.003,
-    "unknown": 0.725
+    "unknown": 0.726
    },
    "by_source": [
     {
@@ -2086,7 +2108,7 @@
      "code": "jooble.se",
      "service": "Jooble",
      "kind": "aggregator",
-     "n": 13864
+     "n": 13924
     },
     {
      "code": "careerjet.se",
@@ -2098,17 +2120,17 @@
    "top_cities": [
     {
      "name": "Stockholm",
-     "n": 7119,
+     "n": 7130,
      "share": 0.164
     },
     {
      "name": "Göteborg",
-     "n": 3084,
+     "n": 3092,
      "share": 0.071
     },
     {
      "name": "Malmö",
-     "n": 1283,
+     "n": 1287,
      "share": 0.03
     },
     {
@@ -2118,7 +2140,7 @@
     },
     {
      "name": "Uppsala",
-     "n": 1110,
+     "n": 1111,
      "share": 0.026
     },
     {
@@ -2133,7 +2155,7 @@
     },
     {
      "name": "Västerås",
-     "n": 824,
+     "n": 827,
      "share": 0.019
     },
     {
@@ -2143,17 +2165,17 @@
     },
     {
      "name": "Jönköping",
-     "n": 751,
+     "n": 754,
      "share": 0.017
     },
     {
      "name": "Solna",
-     "n": 712,
+     "n": 713,
      "share": 0.016
     },
     {
      "name": "Örebro",
-     "n": 671,
+     "n": 673,
      "share": 0.015
     },
     {
@@ -2164,7 +2186,7 @@
     {
      "name": "Växjö",
      "n": 500,
-     "share": 0.012
+     "share": 0.011
     },
     {
      "name": "Norrköping",
@@ -2187,7 +2209,7 @@
     },
     {
      "title": "kock",
-     "n": 52
+     "n": 53
     },
     {
      "title": "sjuksköterska - medicinsjuksköterska (ssk)",
@@ -2239,16 +2261,16 @@
   {
    "period": "2026-Q3",
    "partial": true,
-   "postings_new": 166606,
-   "postings_raw": 230754,
+   "postings_new": 166776,
+   "postings_raw": 230966,
    "qoq_pct": null,
    "yoy_pct": null,
    "salary": {
-    "median": 34078,
-    "p25": 28293,
-    "p75": 43129,
-    "mean": 37728,
-    "n": 968,
+    "median": 33833,
+    "p25": 28292,
+    "p75": 42945,
+    "mean": 37707,
+    "n": 970,
     "share": 0.014,
     "currency": "SEK"
    },
@@ -2265,13 +2287,13 @@
      "code": "jooble.se",
      "service": "Jooble",
      "kind": "aggregator",
-     "n": 84577
+     "n": 84677
     },
     {
      "code": "careerjet.se",
      "service": "Careerjet",
      "kind": "aggregator",
-     "n": 79870
+     "n": 79982
     },
     {
      "code": "indeed.se",
@@ -2283,77 +2305,77 @@
    "top_cities": [
     {
      "name": "Stockholm",
-     "n": 38431,
+     "n": 38459,
      "share": 0.167
     },
     {
      "name": "Göteborg",
-     "n": 17562,
+     "n": 17578,
      "share": 0.076
     },
     {
      "name": "Malmö",
-     "n": 8195,
-     "share": 0.036
+     "n": 8198,
+     "share": 0.035
     },
     {
      "name": "Uppsala",
-     "n": 6159,
+     "n": 6162,
      "share": 0.027
     },
     {
      "name": "Linköping",
-     "n": 5879,
+     "n": 5882,
      "share": 0.025
     },
     {
      "name": "Solna",
-     "n": 4512,
+     "n": 4518,
      "share": 0.02
     },
     {
      "name": "Jönköping",
-     "n": 4005,
+     "n": 4009,
      "share": 0.017
     },
     {
      "name": "Örebro",
-     "n": 3938,
+     "n": 3947,
      "share": 0.017
     },
     {
      "name": "Västerås",
-     "n": 3535,
+     "n": 3540,
      "share": 0.015
     },
     {
      "name": "Lund",
-     "n": 3513,
+     "n": 3514,
      "share": 0.015
     },
     {
      "name": "Umeå",
-     "n": 3498,
+     "n": 3499,
      "share": 0.015
     },
     {
      "name": "Norrköping",
-     "n": 3153,
+     "n": 3154,
      "share": 0.014
     },
     {
      "name": "Helsingborg",
-     "n": 3047,
+     "n": 3053,
      "share": 0.013
     },
     {
      "name": "Luleå",
-     "n": 3019,
+     "n": 3025,
      "share": 0.013
     },
     {
      "name": "Karlstad",
-     "n": 1618,
+     "n": 1620,
      "share": 0.007
     }
    ],
@@ -2429,9 +2451,20 @@
    "kind": "aggregator",
    "url": "https://se.jooble.org",
    "collecting_since": "2026-08-01",
-   "offers_total": 115308,
+   "offers_total": 143114,
    "share_latest": 0.356,
    "salary_coverage": 0.025,
+   "description_coverage": 1.0
+  },
+  {
+   "code": "careerjet.se",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "url": "https://www.careerjet.se",
+   "collecting_since": "2026-08-03",
+   "offers_total": 126167,
+   "share_latest": 0.363,
+   "salary_coverage": 0.013,
    "description_coverage": 1.0
   },
   {
@@ -2444,26 +2477,15 @@
    "share_latest": 0.281,
    "salary_coverage": 0.0,
    "description_coverage": 1.0
-  },
-  {
-   "code": "careerjet.se",
-   "service": "Careerjet",
-   "kind": "aggregator",
-   "url": "https://www.careerjet.se",
-   "collecting_since": "2026-08-03",
-   "offers_total": 102689,
-   "share_latest": 0.363,
-   "salary_coverage": 0.012,
-   "description_coverage": 1.0
   }
  ],
  "quality": {
   "field_coverage": {
-   "salary_any": 0.013,
-   "city": 0.975,
-   "company": 0.973,
-   "employment_type": 0.239,
-   "remote": 0.685,
+   "salary_any": 0.014,
+   "city": 0.978,
+   "company": 0.974,
+   "employment_type": 0.206,
+   "remote": 0.666,
    "posted_at": 1.0
   },
   "dedup": {
@@ -2476,26 +2498,26 @@
   {
    "id": "volume",
    "icon": "trend",
-   "title_pl": "Sierpień: 110 367 ogłoszeń",
-   "text_pl": "110 367 nowych ogłoszeń - najwięcej od początku zbierania.",
-   "title_en": "August: 110,367 postings",
-   "text_en": "110,367 new postings - the most since collection began."
+   "title_pl": "Sierpień: 110 493 ogłoszeń",
+   "text_pl": "110 493 nowych ogłoszeń - najwięcej od początku zbierania.",
+   "title_en": "August: 110,493 postings",
+   "text_en": "110,493 new postings - the most since collection began."
   },
   {
    "id": "mover",
    "icon": "city",
-   "title_pl": "Największa zmiana: Solna +148,4%",
-   "text_pl": "3 217 ogłoszeń wobec 1 295 miesiąc wcześniej.",
-   "title_en": "Biggest move: Solna +148.4%",
-   "text_en": "3,217 postings vs 1,295 a month earlier."
+   "title_pl": "Największa zmiana: Solna +148,6%",
+   "text_pl": "3 222 ogłoszeń wobec 1 296 miesiąc wcześniej.",
+   "title_en": "Biggest move: Solna +148.6%",
+   "text_en": "3,222 postings vs 1,296 a month earlier."
   },
   {
    "id": "salary",
    "icon": "salary",
-   "title_pl": "Mediana wynagrodzenia: 33 799 SEK",
-   "text_pl": "Połowa ofert z podaną stawką mieści się między 27 906 a 43 194 SEK miesięcznie; stawkę podaje 1% ogłoszeń.",
-   "title_en": "Median pay: 33,799 SEK",
-   "text_en": "Half of the postings with stated pay fall between 27,906 and 43,194 SEK per month; 1% of postings state pay."
+   "title_pl": "Mediana wynagrodzenia: 33 432 SEK",
+   "text_pl": "Połowa ofert z podaną stawką mieści się między 27 906 a 42 917 SEK miesięcznie; stawkę podaje 1% ogłoszeń.",
+   "title_en": "Median pay: 33,432 SEK",
+   "text_en": "Half of the postings with stated pay fall between 27,906 and 42,917 SEK per month; 1% of postings state pay."
   },
   {
    "id": "remote",
@@ -2509,9 +2531,9 @@
    "id": "source",
    "icon": "source",
    "title_pl": "Największy serwis: Careerjet (36%)",
-   "text_pl": "Dane z 3 serwisów; Careerjet dostarcza 56 314 z 155 166 ogłoszeń przed zdjęciem powtórek.",
+   "text_pl": "Dane z 3 serwisów; Careerjet dostarcza 56 391 z 155 323 ogłoszeń przed zdjęciem powtórek.",
    "title_en": "Largest source: Careerjet (36%)",
-   "text_en": "Data from 3 sources; Careerjet provides 56,314 of 155,166 postings before de-duplication."
+   "text_en": "Data from 3 sources; Careerjet provides 56,391 of 155,323 postings before de-duplication."
   },
   {
    "id": "cities",

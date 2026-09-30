@@ -8,22 +8,22 @@
   "continent": "mena",
   "currency": "SAR"
  },
- "generated_at": "2026-09-30T16:14:03+00:00",
+ "generated_at": "2026-09-30T20:37:00+00:00",
  "coverage": {
   "first_month": "2025-04",
   "last_month": "2026-08",
   "collecting_since": "2023-01-01",
-  "complete_from": "2023-01",
-  "index_base_month": "2023-01",
-  "note_pl": "Zbieranie trwa od 01.01.2023; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: miesiąc jeszcze trwa."
+  "complete_from": "2026-08",
+  "index_base_month": "2026-08",
+  "note_pl": "Zbieranie trwa od 01.01.2023; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
  },
  "headline": {
   "month": "2026-08",
-  "postings_new": 86759,
-  "postings_raw": 106108,
-  "mom_pct": 138.4,
-  "yoy_pct": 2986.4,
-  "postings_active_end": 152830,
+  "postings_new": 86776,
+  "postings_raw": 106138,
+  "mom_pct": null,
+  "yoy_pct": null,
+  "postings_active_end": 153059,
   "salary_median": 5000,
   "salary_currency": "SAR",
   "salary_share": 0.164,
@@ -39,11 +39,11 @@
   {
    "period": "2025-04",
    "partial": false,
-   "postings_new": 1447,
-   "postings_raw": 1509,
-   "postings_active_end": 36,
-   "postings_closed": 909,
-   "index": null,
+   "postings_new": 1448,
+   "postings_raw": 1510,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 1.7,
    "mom_pct": null,
    "yoy_pct": null,
    "salary": {
@@ -57,7 +57,7 @@
    },
    "remote_share": 0.002,
    "employment": {
-    "full_time": 0.746,
+    "full_time": 0.745,
     "part_time": 0.004,
     "contract": 0.009,
     "other": 0.001,
@@ -122,7 +122,7 @@
      "code": "sa.naukrigulf",
      "service": "Naukrigulf",
      "kind": "portal",
-     "n": 14
+     "n": 15
     },
     {
      "code": "workable.sa",
@@ -150,7 +150,7 @@
     },
     {
      "name": "Jeddah",
-     "n": 114,
+     "n": 115,
      "share": 0.076
     },
     {
@@ -220,12 +220,12 @@
   {
    "period": "2025-05",
    "partial": false,
-   "postings_new": 1318,
-   "postings_raw": 1351,
-   "postings_active_end": 41,
-   "postings_closed": 891,
-   "index": null,
-   "mom_pct": -8.9,
+   "postings_new": 1319,
+   "postings_raw": 1352,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 1.5,
+   "mom_pct": null,
    "yoy_pct": null,
    "salary": {
     "median": 17500,
@@ -303,7 +303,7 @@
      "code": "sa.naukrigulf",
      "service": "Naukrigulf",
      "kind": "portal",
-     "n": 10
+     "n": 11
     },
     {
      "code": "smartrecruiters.sa",
@@ -327,13 +327,13 @@
    "top_cities": [
     {
      "name": "Riyadh",
-     "n": 464,
-     "share": 0.343
+     "n": 465,
+     "share": 0.344
     },
     {
      "name": "Saudi Arabia",
      "n": 317,
-     "share": 0.235
+     "share": 0.234
     },
     {
      "name": "Jeddah",
@@ -409,10 +409,10 @@
    "partial": false,
    "postings_new": 1756,
    "postings_raw": 1812,
-   "postings_active_end": 53,
-   "postings_closed": 1061,
-   "index": null,
-   "mom_pct": 33.2,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 2.0,
+   "mom_pct": null,
    "yoy_pct": null,
    "salary": {
     "median": 5000,
@@ -594,12 +594,12 @@
   {
    "period": "2025-07",
    "partial": false,
-   "postings_new": 2584,
-   "postings_raw": 2769,
-   "postings_active_end": 57,
-   "postings_closed": 686,
-   "index": null,
-   "mom_pct": 47.2,
+   "postings_new": 2585,
+   "postings_raw": 2770,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 3.0,
+   "mom_pct": null,
    "yoy_pct": null,
    "salary": {
     "median": 5000,
@@ -616,7 +616,7 @@
     "part_time": 0.02,
     "contract": 0.006,
     "other": 0.002,
-    "unknown": 0.13
+    "unknown": 0.131
    },
    "by_source": [
     {
@@ -677,7 +677,7 @@
      "code": "sa.naukrigulf",
      "service": "Naukrigulf",
      "kind": "portal",
-     "n": 10
+     "n": 11
     },
     {
      "code": "smartrecruiters.sa",
@@ -689,8 +689,8 @@
    "top_cities": [
     {
      "name": "Riyadh",
-     "n": 887,
-     "share": 0.32
+     "n": 888,
+     "share": 0.321
     },
     {
      "name": "Saudi Arabia",
@@ -755,7 +755,7 @@
     {
      "name": "Al Jubail",
      "n": 18,
-     "share": 0.007
+     "share": 0.006
     },
     {
      "name": "Al Olaya",
@@ -771,10 +771,10 @@
    "partial": false,
    "postings_new": 2811,
    "postings_raw": 2986,
-   "postings_active_end": 64,
-   "postings_closed": 2030,
-   "index": null,
-   "mom_pct": 8.8,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 3.2,
+   "mom_pct": null,
    "yoy_pct": null,
    "salary": {
     "median": 5000,
@@ -956,12 +956,12 @@
   {
    "period": "2025-09",
    "partial": false,
-   "postings_new": 3123,
-   "postings_raw": 3312,
-   "postings_active_end": 64,
-   "postings_closed": 2874,
-   "index": null,
-   "mom_pct": 11.1,
+   "postings_new": 3124,
+   "postings_raw": 3313,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 3.6,
+   "mom_pct": null,
    "yoy_pct": null,
    "salary": {
     "median": 5000,
@@ -969,7 +969,7 @@
     "p75": 5000,
     "mean": 4695,
     "n": 1569,
-    "share": 0.495,
+    "share": 0.494,
     "currency": "SAR"
    },
    "remote_share": 0.002,
@@ -1039,7 +1039,7 @@
      "code": "sa.naukrigulf",
      "service": "Naukrigulf",
      "kind": "portal",
-     "n": 14
+     "n": 15
     },
     {
      "code": "sa.arabjobs",
@@ -1145,10 +1145,10 @@
    "partial": false,
    "postings_new": 3311,
    "postings_raw": 3417,
-   "postings_active_end": 76,
-   "postings_closed": 2965,
-   "index": null,
-   "mom_pct": 6.0,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 3.8,
+   "mom_pct": null,
    "yoy_pct": null,
    "salary": {
     "median": 5000,
@@ -1326,10 +1326,10 @@
    "partial": false,
    "postings_new": 3036,
    "postings_raw": 3210,
-   "postings_active_end": 293,
-   "postings_closed": 2407,
-   "index": null,
-   "mom_pct": -8.3,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 3.5,
+   "mom_pct": null,
    "yoy_pct": null,
    "salary": {
     "median": 5000,
@@ -1511,12 +1511,12 @@
   {
    "period": "2025-12",
    "partial": false,
-   "postings_new": 2734,
-   "postings_raw": 2879,
-   "postings_active_end": 335,
-   "postings_closed": 2356,
-   "index": null,
-   "mom_pct": -9.9,
+   "postings_new": 2737,
+   "postings_raw": 2882,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 3.2,
+   "mom_pct": null,
    "yoy_pct": null,
    "salary": {
     "median": 5000,
@@ -1524,16 +1524,16 @@
     "p75": 5000,
     "mean": 4900,
     "n": 1100,
-    "share": 0.393,
+    "share": 0.392,
     "currency": "SAR"
    },
    "remote_share": 0.01,
    "employment": {
-    "full_time": 0.828,
+    "full_time": 0.827,
     "part_time": 0.027,
     "contract": 0.002,
     "other": 0.001,
-    "unknown": 0.142
+    "unknown": 0.143
    },
    "by_source": [
     {
@@ -1588,7 +1588,7 @@
      "code": "sa.naukrigulf",
      "service": "Naukrigulf",
      "kind": "portal",
-     "n": 36
+     "n": 39
     },
     {
      "code": "sa.mihnati",
@@ -1618,7 +1618,7 @@
    "top_cities": [
     {
      "name": "Riyadh",
-     "n": 849,
+     "n": 850,
      "share": 0.295
     },
     {
@@ -1664,7 +1664,7 @@
     {
      "name": "Khobar",
      "n": 36,
-     "share": 0.013
+     "share": 0.012
     },
     {
      "name": "جدة",
@@ -1698,12 +1698,12 @@
   {
    "period": "2026-01",
    "partial": false,
-   "postings_new": 4232,
-   "postings_raw": 4453,
-   "postings_active_end": 375,
-   "postings_closed": 2834,
-   "index": null,
-   "mom_pct": 54.8,
+   "postings_new": 4237,
+   "postings_raw": 4458,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 4.9,
+   "mom_pct": null,
    "yoy_pct": null,
    "salary": {
     "median": 5000,
@@ -1711,16 +1711,16 @@
     "p75": 5000,
     "mean": 5146,
     "n": 985,
-    "share": 0.266,
+    "share": 0.265,
     "currency": "SAR"
    },
    "remote_share": 0.008,
    "employment": {
-    "full_time": 0.813,
+    "full_time": 0.812,
     "part_time": 0.017,
     "contract": 0.002,
     "other": 0.0,
-    "unknown": 0.168
+    "unknown": 0.169
    },
    "by_source": [
     {
@@ -1775,7 +1775,7 @@
      "code": "sa.naukrigulf",
      "service": "Naukrigulf",
      "kind": "portal",
-     "n": 60
+     "n": 65
     },
     {
      "code": "workday.sa",
@@ -1805,7 +1805,7 @@
    "top_cities": [
     {
      "name": "Riyadh",
-     "n": 1741,
+     "n": 1743,
      "share": 0.391
     },
     {
@@ -1815,7 +1815,7 @@
     },
     {
      "name": "Jeddah",
-     "n": 325,
+     "n": 326,
      "share": 0.073
     },
     {
@@ -1885,12 +1885,12 @@
   {
    "period": "2026-02",
    "partial": false,
-   "postings_new": 3739,
-   "postings_raw": 3912,
-   "postings_active_end": 628,
-   "postings_closed": 725,
-   "index": null,
-   "mom_pct": -11.6,
+   "postings_new": 3740,
+   "postings_raw": 3913,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 4.3,
+   "mom_pct": null,
    "yoy_pct": null,
    "salary": {
     "median": 5000,
@@ -1907,7 +1907,7 @@
     "part_time": 0.009,
     "contract": 0.012,
     "other": 0.001,
-    "unknown": 0.316
+    "unknown": 0.317
    },
    "by_source": [
     {
@@ -1944,7 +1944,7 @@
      "code": "sa.naukrigulf",
      "service": "Naukrigulf",
      "kind": "portal",
-     "n": 273
+     "n": 274
     },
     {
      "code": "sa.gulftalent",
@@ -2066,12 +2066,12 @@
   {
    "period": "2026-03",
    "partial": false,
-   "postings_new": 2575,
-   "postings_raw": 2721,
-   "postings_active_end": 674,
-   "postings_closed": 1029,
-   "index": null,
-   "mom_pct": -31.1,
+   "postings_new": 2577,
+   "postings_raw": 2723,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 3.0,
+   "mom_pct": null,
    "yoy_pct": null,
    "salary": {
     "median": 5000,
@@ -2084,11 +2084,11 @@
    },
    "remote_share": 0.004,
    "employment": {
-    "full_time": 0.494,
+    "full_time": 0.493,
     "part_time": 0.014,
     "contract": 0.01,
     "other": 0.0,
-    "unknown": 0.482
+    "unknown": 0.483
    },
    "by_source": [
     {
@@ -2119,7 +2119,7 @@
      "code": "sa.naukrigulf",
      "service": "Naukrigulf",
      "kind": "portal",
-     "n": 382
+     "n": 384
     },
     {
      "code": "jooble.sa",
@@ -2167,7 +2167,7 @@
    "top_cities": [
     {
      "name": "Riyadh",
-     "n": 873,
+     "n": 875,
      "share": 0.321
     },
     {
@@ -2247,29 +2247,29 @@
   {
    "period": "2026-04",
    "partial": false,
-   "postings_new": 5027,
-   "postings_raw": 5307,
-   "postings_active_end": 710,
-   "postings_closed": 1022,
-   "index": null,
-   "mom_pct": 95.2,
-   "yoy_pct": 247.4,
+   "postings_new": 5039,
+   "postings_raw": 5319,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 5.8,
+   "mom_pct": null,
+   "yoy_pct": null,
    "salary": {
     "median": 5000,
     "p25": 5000,
     "p75": 5000,
     "mean": 4825,
     "n": 642,
-    "share": 0.125,
+    "share": 0.124,
     "currency": "SAR"
    },
    "remote_share": 0.013,
    "employment": {
-    "full_time": 0.643,
+    "full_time": 0.641,
     "part_time": 0.008,
     "contract": 0.009,
     "other": 0.001,
-    "unknown": 0.339
+    "unknown": 0.34
    },
    "by_source": [
     {
@@ -2300,13 +2300,13 @@
      "code": "sa.naukrigulf",
      "service": "Naukrigulf",
      "kind": "portal",
-     "n": 624
+     "n": 635
     },
     {
      "code": "jooble.sa",
      "service": "Jooble",
      "kind": "aggregator",
-     "n": 431
+     "n": 432
     },
     {
      "code": "workable.sa",
@@ -2348,13 +2348,13 @@
    "top_cities": [
     {
      "name": "Riyadh",
-     "n": 1688,
-     "share": 0.318
+     "n": 1698,
+     "share": 0.319
     },
     {
      "name": "Saudi Arabia",
      "n": 746,
-     "share": 0.141
+     "share": 0.14
     },
     {
      "name": "الرياض",
@@ -2363,7 +2363,7 @@
     },
     {
      "name": "Jeddah",
-     "n": 282,
+     "n": 283,
      "share": 0.053
     },
     {
@@ -2428,13 +2428,13 @@
   {
    "period": "2026-05",
    "partial": false,
-   "postings_new": 8100,
-   "postings_raw": 8639,
-   "postings_active_end": 746,
-   "postings_closed": 711,
-   "index": null,
-   "mom_pct": 61.1,
-   "yoy_pct": 514.6,
+   "postings_new": 8115,
+   "postings_raw": 8657,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 9.4,
+   "mom_pct": null,
+   "yoy_pct": null,
    "salary": {
     "median": 5000,
     "p25": 5000,
@@ -2446,11 +2446,11 @@
    },
    "remote_share": 0.004,
    "employment": {
-    "full_time": 0.594,
+    "full_time": 0.593,
     "part_time": 0.003,
     "contract": 0.009,
     "other": 0.001,
-    "unknown": 0.393
+    "unknown": 0.394
    },
    "by_source": [
     {
@@ -2463,7 +2463,7 @@
      "code": "jooble.sa",
      "service": "Jooble",
      "kind": "aggregator",
-     "n": 1723
+     "n": 1724
     },
     {
      "code": "sa.foundit",
@@ -2481,7 +2481,7 @@
      "code": "sa.naukrigulf",
      "service": "Naukrigulf",
      "kind": "portal",
-     "n": 913
+     "n": 930
     },
     {
      "code": "sa.bayt",
@@ -2535,8 +2535,8 @@
    "top_cities": [
     {
      "name": "Riyadh",
-     "n": 3690,
-     "share": 0.427
+     "n": 3701,
+     "share": 0.428
     },
     {
      "name": "Saudi Arabia",
@@ -2595,7 +2595,7 @@
     },
     {
      "name": "Eastern Province",
-     "n": 60,
+     "n": 61,
      "share": 0.007
     },
     {
@@ -2615,13 +2615,13 @@
   {
    "period": "2026-06",
    "partial": false,
-   "postings_new": 15706,
-   "postings_raw": 17219,
-   "postings_active_end": 755,
-   "postings_closed": 101,
-   "index": null,
-   "mom_pct": 93.9,
-   "yoy_pct": 794.4,
+   "postings_new": 15716,
+   "postings_raw": 17229,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 18.1,
+   "mom_pct": null,
+   "yoy_pct": null,
    "salary": {
     "median": 5400,
     "p25": 4000,
@@ -2650,7 +2650,7 @@
      "code": "jooble.sa",
      "service": "Jooble",
      "kind": "aggregator",
-     "n": 2928
+     "n": 2929
     },
     {
      "code": "indeed.sa",
@@ -2662,7 +2662,7 @@
      "code": "sa.naukrigulf",
      "service": "Naukrigulf",
      "kind": "portal",
-     "n": 2130
+     "n": 2139
     },
     {
      "code": "sa.foundit",
@@ -2722,7 +2722,7 @@
    "top_cities": [
     {
      "name": "Riyadh",
-     "n": 5425,
+     "n": 5429,
      "share": 0.315
     },
     {
@@ -2742,7 +2742,7 @@
     },
     {
      "name": "Dammam",
-     "n": 686,
+     "n": 687,
      "share": 0.04
     },
     {
@@ -2777,7 +2777,7 @@
     },
     {
      "name": "Eastern Province",
-     "n": 220,
+     "n": 221,
      "share": 0.013
     },
     {
@@ -2811,7 +2811,7 @@
     },
     {
      "title": "sales executive",
-     "n": 42
+     "n": 43
     },
     {
      "title": "executive chef",
@@ -2819,7 +2819,7 @@
     },
     {
      "title": "sales representative",
-     "n": 37
+     "n": 38
     },
     {
      "title": "graphic designer",
@@ -2863,13 +2863,13 @@
   {
    "period": "2026-07",
    "partial": false,
-   "postings_new": 36387,
-   "postings_raw": 40026,
-   "postings_active_end": 24230,
+   "postings_new": 36398,
+   "postings_raw": 40041,
+   "postings_active_end": null,
    "postings_closed": null,
-   "index": null,
-   "mom_pct": 131.7,
-   "yoy_pct": 1308.2,
+   "index": 41.9,
+   "mom_pct": null,
+   "yoy_pct": null,
    "salary": {
     "median": 6000,
     "p25": 4500,
@@ -2892,13 +2892,13 @@
      "code": "jooble.sa",
      "service": "Jooble",
      "kind": "aggregator",
-     "n": 17890
+     "n": 17891
     },
     {
      "code": "careerjet.sa",
      "service": "Careerjet",
      "kind": "aggregator",
-     "n": 5595
+     "n": 5596
     },
     {
      "code": "indeed.sa",
@@ -2910,7 +2910,7 @@
      "code": "sa.naukrigulf",
      "service": "Naukrigulf",
      "kind": "portal",
-     "n": 3474
+     "n": 3487
     },
     {
      "code": "sa.bayt",
@@ -2970,7 +2970,7 @@
    "top_cities": [
     {
      "name": "Riyadh",
-     "n": 15216,
+     "n": 15221,
      "share": 0.38
     },
     {
@@ -3005,7 +3005,7 @@
     },
     {
      "name": "Eastern Province",
-     "n": 604,
+     "n": 606,
      "share": 0.015
     },
     {
@@ -3047,7 +3047,7 @@
    "top_titles": [
     {
      "title": "sales representative",
-     "n": 222
+     "n": 223
     },
     {
      "title": "sales manager",
@@ -3111,13 +3111,13 @@
   {
    "period": "2026-08",
    "partial": false,
-   "postings_new": 86759,
-   "postings_raw": 106108,
-   "postings_active_end": 152830,
-   "postings_closed": 46160,
-   "index": null,
-   "mom_pct": 138.4,
-   "yoy_pct": 2986.4,
+   "postings_new": 86776,
+   "postings_raw": 106138,
+   "postings_active_end": 153059,
+   "postings_closed": 45932,
+   "index": 100.0,
+   "mom_pct": null,
+   "yoy_pct": null,
    "salary": {
     "median": 5000,
     "p25": 4000,
@@ -3146,13 +3146,13 @@
      "code": "careerjet.sa",
      "service": "Careerjet",
      "kind": "aggregator",
-     "n": 19767
+     "n": 19774
     },
     {
      "code": "jooble.sa",
      "service": "Jooble",
      "kind": "aggregator",
-     "n": 10163
+     "n": 10171
     },
     {
      "code": "sa.sabbar",
@@ -3182,7 +3182,7 @@
      "code": "sa.naukrigulf",
      "service": "Naukrigulf",
      "kind": "portal",
-     "n": 3737
+     "n": 3752
     },
     {
      "code": "sa.gulftalent",
@@ -3230,17 +3230,17 @@
    "top_cities": [
     {
      "name": "Riyadh",
-     "n": 32157,
+     "n": 32168,
      "share": 0.303
     },
     {
      "name": "Jeddah",
-     "n": 17272,
+     "n": 17273,
      "share": 0.163
     },
     {
      "name": "Saudi Arabia",
-     "n": 7640,
+     "n": 7643,
      "share": 0.072
     },
     {
@@ -3265,7 +3265,7 @@
     },
     {
      "name": "Eastern Province",
-     "n": 2503,
+     "n": 2504,
      "share": 0.024
     },
     {
@@ -3295,7 +3295,7 @@
     },
     {
      "name": "Jubail",
-     "n": 781,
+     "n": 782,
      "share": 0.007
     },
     {
@@ -3311,7 +3311,7 @@
     },
     {
      "title": "project manager",
-     "n": 446
+     "n": 447
     },
     {
      "title": "sales specialist",
@@ -3351,7 +3351,7 @@
     },
     {
      "title": "civil engineer",
-     "n": 260
+     "n": 261
     },
     {
      "title": "administrative assistant",
@@ -3369,12 +3369,34 @@
    "regions": []
   }
  ],
+ "weekly": [
+  {
+   "week": "2026-08-03",
+   "postings_new": 27546,
+   "postings_raw": 31353
+  },
+  {
+   "week": "2026-08-10",
+   "postings_new": 25196,
+   "postings_raw": 28971
+  },
+  {
+   "week": "2026-08-17",
+   "postings_new": 23278,
+   "postings_raw": 27006
+  },
+  {
+   "week": "2026-08-24",
+   "postings_new": 12023,
+   "postings_raw": 13672
+  }
+ ],
  "quarterly": [
   {
    "period": "2025-Q2",
    "partial": false,
-   "postings_new": 4521,
-   "postings_raw": 4672,
+   "postings_new": 4523,
+   "postings_raw": 4674,
    "qoq_pct": null,
    "yoy_pct": null,
    "salary": {
@@ -3465,7 +3487,7 @@
      "code": "sa.naukrigulf",
      "service": "Naukrigulf",
      "kind": "portal",
-     "n": 34
+     "n": 36
     },
     {
      "code": "workday.sa",
@@ -3477,7 +3499,7 @@
    "top_cities": [
     {
      "name": "Riyadh",
-     "n": 1763,
+     "n": 1764,
      "share": 0.377
     },
     {
@@ -3487,7 +3509,7 @@
     },
     {
      "name": "Jeddah",
-     "n": 313,
+     "n": 314,
      "share": 0.067
     },
     {
@@ -3557,9 +3579,9 @@
   {
    "period": "2025-Q3",
    "partial": false,
-   "postings_new": 8518,
-   "postings_raw": 9067,
-   "qoq_pct": 88.4,
+   "postings_new": 8520,
+   "postings_raw": 9069,
+   "qoq_pct": null,
    "yoy_pct": null,
    "salary": {
     "median": 5000,
@@ -3567,7 +3589,7 @@
     "p75": 5000,
     "mean": 4927,
     "n": 3854,
-    "share": 0.441,
+    "share": 0.44,
     "currency": "SAR"
    },
    "remote_share": 0.003,
@@ -3643,7 +3665,7 @@
      "code": "sa.naukrigulf",
      "service": "Naukrigulf",
      "kind": "portal",
-     "n": 31
+     "n": 33
     },
     {
      "code": "smartrecruiters.sa",
@@ -3661,7 +3683,7 @@
    "top_cities": [
     {
      "name": "Riyadh",
-     "n": 3101,
+     "n": 3102,
      "share": 0.342
     },
     {
@@ -3741,9 +3763,9 @@
   {
    "period": "2025-Q4",
    "partial": false,
-   "postings_new": 9081,
-   "postings_raw": 9506,
-   "qoq_pct": 6.6,
+   "postings_new": 9084,
+   "postings_raw": 9509,
+   "qoq_pct": null,
    "yoy_pct": null,
    "salary": {
     "median": 5000,
@@ -3821,7 +3843,7 @@
      "code": "sa.naukrigulf",
      "service": "Naukrigulf",
      "kind": "portal",
-     "n": 80
+     "n": 83
     },
     {
      "code": "sa.arabjobs",
@@ -3845,7 +3867,7 @@
    "top_cities": [
     {
      "name": "Riyadh",
-     "n": 2855,
+     "n": 2856,
      "share": 0.3
     },
     {
@@ -3925,9 +3947,9 @@
   {
    "period": "2026-Q1",
    "partial": false,
-   "postings_new": 10546,
-   "postings_raw": 11086,
-   "qoq_pct": 16.1,
+   "postings_new": 10554,
+   "postings_raw": 11094,
+   "qoq_pct": null,
    "yoy_pct": null,
    "salary": {
     "median": 5000,
@@ -3935,16 +3957,16 @@
     "p75": 5000,
     "mean": 5077,
     "n": 1923,
-    "share": 0.203,
+    "share": 0.202,
     "currency": "SAR"
    },
    "remote_share": 0.008,
    "employment": {
-    "full_time": 0.681,
+    "full_time": 0.68,
     "part_time": 0.013,
     "contract": 0.007,
     "other": 0.0,
-    "unknown": 0.297
+    "unknown": 0.298
    },
    "by_source": [
     {
@@ -3981,7 +4003,7 @@
      "code": "sa.naukrigulf",
      "service": "Naukrigulf",
      "kind": "portal",
-     "n": 715
+     "n": 723
     },
     {
      "code": "sa.gulftalent",
@@ -4029,7 +4051,7 @@
    "top_cities": [
     {
      "name": "Riyadh",
-     "n": 4131,
+     "n": 4135,
      "share": 0.373
     },
     {
@@ -4039,7 +4061,7 @@
     },
     {
      "name": "Jeddah",
-     "n": 689,
+     "n": 690,
      "share": 0.062
     },
     {
@@ -4109,10 +4131,10 @@
   {
    "period": "2026-Q2",
    "partial": false,
-   "postings_new": 28833,
-   "postings_raw": 31165,
-   "qoq_pct": 173.4,
-   "yoy_pct": 537.8,
+   "postings_new": 28870,
+   "postings_raw": 31205,
+   "qoq_pct": null,
+   "yoy_pct": null,
    "salary": {
     "median": 5097,
     "p25": 4757,
@@ -4135,7 +4157,7 @@
      "code": "jooble.sa",
      "service": "Jooble",
      "kind": "aggregator",
-     "n": 5082
+     "n": 5085
     },
     {
      "code": "sa.foundit",
@@ -4159,7 +4181,7 @@
      "code": "sa.naukrigulf",
      "service": "Naukrigulf",
      "kind": "portal",
-     "n": 3667
+     "n": 3704
     },
     {
      "code": "careerjet.sa",
@@ -4213,7 +4235,7 @@
    "top_cities": [
     {
      "name": "Riyadh",
-     "n": 10803,
+     "n": 10828,
      "share": 0.347
     },
     {
@@ -4228,12 +4250,12 @@
     },
     {
      "name": "Jeddah",
-     "n": 2033,
+     "n": 2034,
      "share": 0.065
     },
     {
      "name": "Dammam",
-     "n": 1197,
+     "n": 1198,
      "share": 0.038
     },
     {
@@ -4263,7 +4285,7 @@
     },
     {
      "name": "Eastern Province",
-     "n": 376,
+     "n": 378,
      "share": 0.012
     },
     {
@@ -4302,7 +4324,7 @@
     },
     {
      "title": "sales executive",
-     "n": 42
+     "n": 43
     },
     {
      "title": "executive chef",
@@ -4310,7 +4332,7 @@
     },
     {
      "title": "sales representative",
-     "n": 37
+     "n": 38
     },
     {
      "title": "graphic designer",
@@ -4354,10 +4376,10 @@
   {
    "period": "2026-Q3",
    "partial": true,
-   "postings_new": 123146,
-   "postings_raw": 146134,
-   "qoq_pct": 327.1,
-   "yoy_pct": 1345.7,
+   "postings_new": 123174,
+   "postings_raw": 146179,
+   "qoq_pct": null,
+   "yoy_pct": null,
    "salary": {
     "median": 5110,
     "p25": 4055,
@@ -4386,13 +4408,13 @@
      "code": "jooble.sa",
      "service": "Jooble",
      "kind": "aggregator",
-     "n": 28053
+     "n": 28062
     },
     {
      "code": "careerjet.sa",
      "service": "Careerjet",
      "kind": "aggregator",
-     "n": 25362
+     "n": 25370
     },
     {
      "code": "sa.foundit",
@@ -4422,7 +4444,7 @@
      "code": "sa.naukrigulf",
      "service": "Naukrigulf",
      "kind": "portal",
-     "n": 7211
+     "n": 7239
     },
     {
      "code": "sa.gulftalent",
@@ -4470,17 +4492,17 @@
    "top_cities": [
     {
      "name": "Riyadh",
-     "n": 47373,
+     "n": 47389,
      "share": 0.324
     },
     {
      "name": "Jeddah",
-     "n": 20649,
+     "n": 20650,
      "share": 0.141
     },
     {
      "name": "Saudi Arabia",
-     "n": 10959,
+     "n": 10962,
      "share": 0.075
     },
     {
@@ -4510,7 +4532,7 @@
     },
     {
      "name": "Eastern Province",
-     "n": 3107,
+     "n": 3110,
      "share": 0.021
     },
     {
@@ -4525,7 +4547,7 @@
     },
     {
      "name": "Jubail",
-     "n": 1362,
+     "n": 1363,
      "share": 0.009
     },
     {
@@ -4547,11 +4569,11 @@
    "top_titles": [
     {
      "title": "sales representative",
-     "n": 824
+     "n": 825
     },
     {
      "title": "project manager",
-     "n": 553
+     "n": 554
     },
     {
      "title": "sales manager",
@@ -4587,7 +4609,7 @@
     },
     {
      "title": "civil engineer",
-     "n": 320
+     "n": 321
     },
     {
      "title": "business development manager",
@@ -4627,9 +4649,9 @@
    "kind": "aggregator",
    "url": "https://sa.jooble.org",
    "collecting_since": "2025-06-16",
-   "offers_total": 35768,
+   "offers_total": 37000,
    "share_latest": 0.096,
-   "salary_coverage": 0.024,
+   "salary_coverage": 0.025,
    "description_coverage": 1.0
   },
   {
@@ -4638,7 +4660,7 @@
    "kind": "aggregator",
    "url": "https://www.careerjet.com.sa",
    "collecting_since": "2023-03-07",
-   "offers_total": 33243,
+   "offers_total": 36749,
    "share_latest": 0.186,
    "salary_coverage": 0.113,
    "description_coverage": 1.0
@@ -4704,7 +4726,7 @@
    "kind": "portal",
    "url": "https://www.naukrigulf.com",
    "collecting_since": "2026-07-31",
-   "offers_total": 12949,
+   "offers_total": 15509,
    "share_latest": 0.035,
    "salary_coverage": 0.0,
    "description_coverage": 1.0
@@ -4778,16 +4800,16 @@
  ],
  "quality": {
   "field_coverage": {
-   "salary_any": 0.15,
+   "salary_any": 0.147,
    "city": 0.943,
-   "company": 0.96,
-   "employment_type": 0.497,
-   "remote": 0.52,
-   "posted_at": 0.808
+   "company": 0.958,
+   "employment_type": 0.483,
+   "remote": 0.511,
+   "posted_at": 0.813
   },
   "dedup": {
    "within_source_rule_pl": "Ta sama oferta w tym samym serwisie liczona raz (klucz: adres URL lub identyfikator ogłoszenia).",
-   "cross_source_estimate": 0.128,
+   "cross_source_estimate": 0.182,
    "cross_source_note_pl": "Szacunkowy odsetek ogłoszeń widocznych w więcej niż jednym serwisie (ten sam tytuł, firma i miasto w tym samym miesiącu). Wskaźniki liczymy po zdjęciu tych powtórek."
   }
  },
@@ -4795,18 +4817,18 @@
   {
    "id": "volume",
    "icon": "trend",
-   "title_pl": "Sierpień: +138,4% m/m",
-   "text_pl": "86 759 nowych ogłoszeń - najwięcej od początku zbierania.",
-   "title_en": "August: +138.4% m/m",
-   "text_en": "86,759 new postings - the most since collection began."
+   "title_pl": "Sierpień: 86 776 ogłoszeń",
+   "text_pl": "86 776 nowych ogłoszeń - najwięcej od początku zbierania.",
+   "title_en": "August: 86,776 postings",
+   "text_en": "86,776 new postings - the most since collection began."
   },
   {
    "id": "mover",
    "icon": "city",
    "title_pl": "Największa zmiana: Jeddah +411,5%",
-   "text_pl": "17 272 ogłoszeń wobec 3 377 miesiąc wcześniej.",
+   "text_pl": "17 273 ogłoszeń wobec 3 377 miesiąc wcześniej.",
    "title_en": "Biggest move: Jeddah +411.5%",
-   "text_en": "17,272 postings vs 3,377 a month earlier."
+   "text_en": "17,273 postings vs 3,377 a month earlier."
   },
   {
    "id": "salary",
@@ -4828,40 +4850,40 @@
    "id": "source",
    "icon": "source",
    "title_pl": "Największy serwis: Tanqeeb (39%)",
-   "text_pl": "Dane z 15 serwisów; Tanqeeb dostarcza 41 682 z 106 108 ogłoszeń przed zdjęciem powtórek.",
+   "text_pl": "Dane z 15 serwisów; Tanqeeb dostarcza 41 682 z 106 138 ogłoszeń przed zdjęciem powtórek.",
    "title_en": "Largest source: Tanqeeb (39%)",
-   "text_en": "Data from 15 sources; Tanqeeb provides 41,682 of 106,108 postings before de-duplication."
+   "text_en": "Data from 15 sources; Tanqeeb provides 41,682 of 106,138 postings before de-duplication."
   },
   {
    "id": "cities",
    "icon": "map",
-   "title_pl": "691 miast z ogłoszeniami",
+   "title_pl": "692 miasta z ogłoszeniami",
    "text_pl": "Najwięcej w: Riyadh (30%), Jeddah (16%), Saudi Arabia (7%).",
-   "title_en": "691 cities with postings",
+   "title_en": "692 cities with postings",
    "text_en": "Most in: Riyadh (30%), Jeddah (16%), Saudi Arabia (7%)."
   }
  ],
  "commentary": {
   "month": "2026-08",
-  "generated_at": "2026-09-30T16:36:28+00:00",
+  "generated_at": "2026-09-30T20:12:45+00:00",
   "model": "claude-opus-5-5",
   "is_ai": true,
-  "lead_pl": "W sierpniu 2026 r. w internetowych ofertach pracy z Arabii Saudyjskiej pojawiło się 86 759 nowych ogłoszeń; 30,3% dotyczyło Rijadu, a 16,3% Dżuddy.",
-  "body_pl": "W sierpniu 2026 r. zebraliśmy 86 759 nowych internetowych ofert pracy z Arabii Saudyjskiej, o 138,4% więcej niż w lipcu. To piąty z rzędu miesiąc wzrostu i najwyższa liczba od początku zbierania. We wrześniu 2025 r. było to 3 123 ogłoszeń. Na koniec sierpnia aktywnych było 152 830 ofert. Przed zdjęciem powtórek serwisy pokazały 106 108 ogłoszeń. Szacunkowo 12,8% ofert występowało w więcej niż jednym serwisie. Wzrost rok do roku wyniósł 2986,4%. Hipoteza: tak duża skala zmian może w dużej części odzwierciedlać rozszerzanie zbierania danych, a nie tylko zmiany w liczbie ofert publikowanych przez pracodawców.\n\nOferty koncentrują się w dwóch miastach. Rijad miał 32 157 ogłoszeń (30,3%), a Dżudda 17 272 (16,3%). W Dżuddzie liczba ofert wzrosła o 411,5% m/m, z 3 377 w lipcu. W 7,2% ogłoszeń jako lokalizację podano tylko „Saudi Arabia”, a w 6,4% „Saudi”. 7 487 ofert (7,1%) wskazywało Dubaj. Łącznie ogłoszenia dotyczyły 691 lokalizacji.\n\nMediana wynagrodzenia wyniosła 5 000 SAR miesięcznie. Liczono ją tylko z 16,4% ogłoszeń z podaną kwotą (4 183 ofert). Połowa tych stawek mieściła się między 4 000 a 7 000 SAR. W lipcu kwotę podawało 2,7% ofert, a mediana wynosiła 6 000 SAR. Pracę zdalną oznaczono w 1,4% ogłoszeń (1 486), o 1,0 pkt proc. więcej niż w lipcu. Pełny etat wskazywało 40,0% ofert. W 57,9% ogłoszeń nie było informacji o formie zatrudnienia.\n\nDane pochodzą z 15 serwisów. Największy, agregator Tanqeeb, dostarczył 41 682 ze 106 108 ogłoszeń przed zdjęciem powtórek (39,3%). Kolejne były agregatory Careerjet (19 767) i Jooble (10 163).",
+  "based_on": "86776|5000|0.014",
+  "lead_pl": "Riyadh i Jeddah skupiły w sierpniu 46,6% internetowych ofert pracy w Arabii Saudyjskiej; mediana wynagrodzenia w ofertach z podaną kwotą wyniosła 5 000 SAR.",
+  "body_pl": "W sierpniu 2026 r. zebraliśmy 86 776 nowych internetowych ofert pracy z Arabii Saudyjskiej. Przed zdjęciem powtórek było ich 106 138. Szacunkowo 12,8% ogłoszeń pojawiało się w więcej niż jednym serwisie. Dane pochodzą z 15 serwisów. Największy, agregator Tanqeeb, dostarczył 41 682 ogłoszenia, czyli 39,3% przed zdjęciem powtórek. Kolejne były Careerjet (19 774) i Jooble (10 171). Miesiąc jest bazą indeksu (100). Nie porównujemy go z wcześniejszymi miesiącami, bo dane sprzed września 2026 r. są niepełne.\n\nOferty koncentrują się w dwóch miastach. Riyadh miał 32 168 ogłoszeń (30,3%), Jeddah 17 273 (16,3%). W 7,2% ofert jako lokalizację podano ogólnie „Saudi Arabia”, w 6,4% „Saudi”. Wśród najczęstszych lokalizacji jest też Dubaj: 7 487 ogłoszeń (7,1%). Hipoteza: część ofert z serwisów obejmujących region Zatoki dotyczy pracy poza Arabią Saudyjską.\n\nKwotę wynagrodzenia podało 16,4% ogłoszeń (4 183). W tej grupie mediana wyniosła 5 000 SAR miesięcznie. Połowa stawek mieściła się między 4 000 a 7 000 SAR. Pracę zdalną oznaczono w 1,4% ofert (1 486). Pełny etat wskazano w 40,0% ogłoszeń, część etatu w 0,7%, umowę kontraktową w 1,2%. W 57,9% ofert rodzaju zatrudnienia nie podano.",
   "bullets_pl": [
-   "86 759 nowych internetowych ofert pracy w sierpniu, +138,4% m/m",
-   "Rijad: 32 157 ofert (30,3%), Dżudda: 17 272 (16,3%, +411,5% m/m)",
-   "Mediana wynagrodzenia 5 000 SAR w 16,4% ofert z podaną kwotą"
+   "86 776 nowych internetowych ofert pracy po zdjęciu powtórek (106 138 przed).",
+   "Mediana wynagrodzenia: 5 000 SAR miesięcznie, liczona dla 16,4% ofert z podaną kwotą.",
+   "Praca zdalna: 1,4% ofert (1 486 ogłoszeń)."
   ],
-  "caveats_pl": "Dane obejmują tylko internetowe oferty pracy, a nie cały rynek pracy; historia zbierania jest krótka i obejmuje zmieniający się zestaw serwisów, a wynagrodzenie podaje tylko 16,4% ogłoszeń, więc mediana nie opisuje wszystkich ofert.",
-  "lead_en": "In August 2026, 86,759 new online job postings appeared in Saudi Arabia; 30.3% were for Riyadh and 16.3% for Jeddah.",
-  "body_en": "In August 2026 we collected 86,759 new online job postings from Saudi Arabia, 138.4% more than in July. It was the fifth consecutive monthly increase and the highest count since collection began. In September 2025 the figure was 3,123. At the end of August, 152,830 postings were active. Before removing duplicates, the sites showed 106,108 postings. An estimated 12.8% appeared on more than one site. Year on year, the increase was 2,986.4%. Hypothesis: a change of this scale may largely reflect the expansion of data collection, not only changes in the number of postings published by employers.\n\nPostings are concentrated in two cities. Riyadh had 32,157 postings (30.3%) and Jeddah 17,272 (16.3%). In Jeddah the count rose 411.5% m/m, from 3,377 in July. In 7.2% of postings the only location given was \"Saudi Arabia\", and in 6.4% \"Saudi\". 7,487 postings (7.1%) listed Dubai. In total, postings covered 691 locations.\n\nThe median salary was SAR 5,000 per month. It was calculated only from the 16.4% of postings that stated an amount (4,183 postings). Half of these rates fell between SAR 4,000 and SAR 7,000. In July, 2.7% of postings stated an amount and the median was SAR 6,000. Remote work was indicated in 1.4% of postings (1,486), up 1.0 pp from July. Full-time employment was stated in 40.0% of postings. 57.9% gave no information on employment type.\n\nThe data come from 15 sites. The largest, the aggregator Tanqeeb, supplied 41,682 of the 106,108 postings before duplicates were removed (39.3%). Next came the aggregators Careerjet (19,767) and Jooble (10,163).",
+  "caveats_pl": "Historia zbierania jest krótka: dane sprzed września 2026 r., w tym sierpień, są oznaczone jako niepełne, a wrzesień pominięto z powodu przerwy w zbieraniu. Dane obejmują tylko oferty z internetu, nie cały rynek pracy, a wynagrodzenie podaje 16,4% ogłoszeń.",
+  "lead_en": "Riyadh and Jeddah accounted for 46.6% of online job postings in Saudi Arabia in August; the median salary in postings stating a figure was SAR 5,000.",
+  "body_en": "In August 2026 we collected 86,776 new online job postings from Saudi Arabia. Before removing duplicates there were 106,138. An estimated 12.8% of postings appeared on more than one site. Data come from 15 sites. The largest, the aggregator Tanqeeb, supplied 41,682 postings, or 39.3% before deduplication. Next were Careerjet (19,774) and Jooble (10,171). The month is the index base (100). We do not compare it with earlier months, because data before September 2026 are incomplete.\n\nPostings are concentrated in two cities. Riyadh had 32,168 postings (30.3%), Jeddah 17,273 (16.3%). In 7.2% of postings the location was given generically as \"Saudi Arabia\", in 6.4% as \"Saudi\". Dubai also appears among the most frequent locations, with 7,487 postings (7.1%). Hypothesis: some postings from Gulf-wide sites concern jobs outside Saudi Arabia.\n\nA salary figure was stated in 16.4% of postings (4,183). In this group the median was SAR 5,000 per month. Half of the stated salaries fell between SAR 4,000 and SAR 7,000. Remote work was indicated in 1.4% of postings (1,486). Full-time work was specified in 40.0% of postings, part-time in 0.7%, contract in 1.2%. In 57.9% of postings the employment type was not given.",
   "bullets_en": [
-   "86,759 new online job postings in August, +138.4% m/m",
-   "Riyadh: 32,157 postings (30.3%), Jeddah: 17,272 (16.3%, +411.5% m/m)",
-   "Median salary SAR 5,000 in the 16.4% of postings stating an amount"
-  ],
-  "based_on": "86759|5000|0.014"
+   "86,776 new online job postings after deduplication (106,138 before).",
+   "Median salary: SAR 5,000 per month, based on the 16.4% of postings stating a figure.",
+   "Remote work: 1.4% of postings (1,486)."
+  ]
  },
  "skills_demo": {
   "is_synthetic": true,

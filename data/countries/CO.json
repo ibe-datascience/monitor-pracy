@@ -8,22 +8,22 @@
   "continent": "south_america",
   "currency": "COP"
  },
- "generated_at": "2026-09-30T16:14:03+00:00",
+ "generated_at": "2026-09-30T20:37:00+00:00",
  "coverage": {
   "first_month": "2026-05",
   "last_month": "2026-08",
   "collecting_since": "2026-08-01",
   "complete_from": "2026-08",
   "index_base_month": "2026-08",
-  "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: miesiąc jeszcze trwa."
+  "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
  },
  "headline": {
   "month": "2026-08",
-  "postings_new": 679659,
-  "postings_raw": 711362,
+  "postings_new": 680190,
+  "postings_raw": 712080,
   "mom_pct": null,
   "yoy_pct": null,
-  "postings_active_end": 715550,
+  "postings_active_end": 716687,
   "salary_median": 1812000,
   "salary_currency": "COP",
   "salary_share": 0.32,
@@ -32,15 +32,15 @@
   "top_source": {
    "code": "careerjet.co",
    "service": "Careerjet",
-   "share": 0.791
+   "share": 0.79
   }
  },
  "monthly": [
   {
    "period": "2026-05",
    "partial": false,
-   "postings_new": 7711,
-   "postings_raw": 8307,
+   "postings_new": 7719,
+   "postings_raw": 8315,
    "postings_active_end": null,
    "postings_closed": null,
    "index": 1.1,
@@ -68,7 +68,7 @@
      "code": "jooble.co",
      "service": "Jooble",
      "kind": "aggregator",
-     "n": 5892
+     "n": 5900
     },
     {
      "code": "indeed.co",
@@ -86,7 +86,7 @@
    "top_cities": [
     {
      "name": "Bogotá, D.C.",
-     "n": 2353,
+     "n": 2357,
      "share": 0.283
     },
     {
@@ -96,7 +96,7 @@
     },
     {
      "name": "Medellín, Antioquia",
-     "n": 899,
+     "n": 900,
      "share": 0.108
     },
     {
@@ -166,8 +166,8 @@
   {
    "period": "2026-06",
    "partial": false,
-   "postings_new": 25015,
-   "postings_raw": 26939,
+   "postings_new": 25026,
+   "postings_raw": 26951,
    "postings_active_end": null,
    "postings_closed": null,
    "index": 3.7,
@@ -195,7 +195,7 @@
      "code": "jooble.co",
      "service": "Jooble",
      "kind": "aggregator",
-     "n": 23196
+     "n": 23208
     },
     {
      "code": "indeed.co",
@@ -213,12 +213,12 @@
    "top_cities": [
     {
      "name": "Bogotá, D.C.",
-     "n": 9862,
+     "n": 9870,
      "share": 0.366
     },
     {
      "name": "Medellín, Antioquia",
-     "n": 3119,
+     "n": 3121,
      "share": 0.116
     },
     {
@@ -354,8 +354,8 @@
   {
    "period": "2026-07",
    "partial": false,
-   "postings_new": 124522,
-   "postings_raw": 137890,
+   "postings_new": 124541,
+   "postings_raw": 137910,
    "postings_active_end": null,
    "postings_closed": null,
    "index": 18.3,
@@ -383,7 +383,7 @@
      "code": "jooble.co",
      "service": "Jooble",
      "kind": "aggregator",
-     "n": 93040
+     "n": 93060
     },
     {
      "code": "careerjet.co",
@@ -401,12 +401,12 @@
    "top_cities": [
     {
      "name": "Bogotá, D.C.",
-     "n": 37545,
+     "n": 37551,
      "share": 0.272
     },
     {
      "name": "Medellín, Antioquia",
-     "n": 12218,
+     "n": 12221,
      "share": 0.089
     },
     {
@@ -416,7 +416,7 @@
     },
     {
      "name": "Santiago de Cali, Valle del Cauca",
-     "n": 7093,
+     "n": 7095,
      "share": 0.051
     },
     {
@@ -441,7 +441,7 @@
     },
     {
      "name": "Bucaramanga, Santander",
-     "n": 2077,
+     "n": 2078,
      "share": 0.015
     },
     {
@@ -542,10 +542,10 @@
   {
    "period": "2026-08",
    "partial": false,
-   "postings_new": 679659,
-   "postings_raw": 711362,
-   "postings_active_end": 715550,
-   "postings_closed": 161436,
+   "postings_new": 680190,
+   "postings_raw": 712080,
+   "postings_active_end": 716687,
+   "postings_closed": 160299,
    "index": 100.0,
    "mom_pct": null,
    "yoy_pct": null,
@@ -577,7 +577,7 @@
      "code": "jooble.co",
      "service": "Jooble",
      "kind": "aggregator",
-     "n": 134201
+     "n": 134919
     },
     {
      "code": "indeed.co",
@@ -590,11 +590,11 @@
     {
      "name": "Bogotá DC",
      "n": 178953,
-     "share": 0.252
+     "share": 0.251
     },
     {
      "name": "Colombia",
-     "n": 83150,
+     "n": 83153,
      "share": 0.117
     },
     {
@@ -604,7 +604,7 @@
     },
     {
      "name": "Bogotá, D.C.",
-     "n": 56947,
+     "n": 57245,
      "share": 0.08
     },
     {
@@ -614,7 +614,7 @@
     },
     {
      "name": "Medellín, Antioquia",
-     "n": 18904,
+     "n": 19034,
      "share": 0.027
     },
     {
@@ -644,8 +644,8 @@
     },
     {
      "name": "Santiago de Cali, Valle del Cauca",
-     "n": 8150,
-     "share": 0.011
+     "n": 8204,
+     "share": 0.012
     },
     {
      "name": "Funza",
@@ -666,19 +666,19 @@
    "top_titles": [
     {
      "title": "auxiliar contable",
-     "n": 658
+     "n": 662
     },
     {
      "title": "asesor comercial",
-     "n": 633
+     "n": 635
     },
     {
      "title": "auxiliar de bodega",
-     "n": 608
+     "n": 609
     },
     {
      "title": "auxiliar de cocina",
-     "n": 586
+     "n": 588
     },
     {
      "title": "auxiliar de servicios generales",
@@ -702,7 +702,7 @@
     },
     {
      "title": "auxiliar de farmacia",
-     "n": 296
+     "n": 297
     },
     {
      "title": "auxiliar administrativo",
@@ -728,12 +728,34 @@
    "regions": []
   }
  ],
+ "weekly": [
+  {
+   "week": "2026-08-03",
+   "postings_new": 195751,
+   "postings_raw": 200823
+  },
+  {
+   "week": "2026-08-10",
+   "postings_new": 170807,
+   "postings_raw": 175470
+  },
+  {
+   "week": "2026-08-17",
+   "postings_new": 154051,
+   "postings_raw": 157822
+  },
+  {
+   "week": "2026-08-24",
+   "postings_new": 142975,
+   "postings_raw": 147391
+  }
+ ],
  "quarterly": [
   {
    "period": "2026-Q2",
    "partial": true,
-   "postings_new": 32726,
-   "postings_raw": 35246,
+   "postings_new": 32745,
+   "postings_raw": 35266,
    "qoq_pct": null,
    "yoy_pct": null,
    "salary": {
@@ -758,7 +780,7 @@
      "code": "jooble.co",
      "service": "Jooble",
      "kind": "aggregator",
-     "n": 29088
+     "n": 29108
     },
     {
      "code": "indeed.co",
@@ -776,12 +798,12 @@
    "top_cities": [
     {
      "name": "Bogotá, D.C.",
-     "n": 12215,
+     "n": 12227,
      "share": 0.347
     },
     {
      "name": "Medellín, Antioquia",
-     "n": 4018,
+     "n": 4021,
      "share": 0.114
     },
     {
@@ -917,8 +939,8 @@
   {
    "period": "2026-Q3",
    "partial": true,
-   "postings_new": 804181,
-   "postings_raw": 849252,
+   "postings_new": 804731,
+   "postings_raw": 849990,
    "qoq_pct": null,
    "yoy_pct": null,
    "salary": {
@@ -949,7 +971,7 @@
      "code": "jooble.co",
      "service": "Jooble",
      "kind": "aggregator",
-     "n": 227241
+     "n": 227979
     },
     {
      "code": "indeed.co",
@@ -966,12 +988,12 @@
     },
     {
      "name": "Bogotá, D.C.",
-     "n": 94492,
-     "share": 0.111
+     "n": 94796,
+     "share": 0.112
     },
     {
      "name": "Colombia",
-     "n": 83150,
+     "n": 83153,
      "share": 0.098
     },
     {
@@ -981,7 +1003,7 @@
     },
     {
      "name": "Medellín, Antioquia",
-     "n": 31122,
+     "n": 31255,
      "share": 0.037
     },
     {
@@ -996,7 +1018,7 @@
     },
     {
      "name": "Santiago de Cali, Valle del Cauca",
-     "n": 15243,
+     "n": 15299,
      "share": 0.018
     },
     {
@@ -1037,20 +1059,20 @@
    ],
    "top_titles": [
     {
-     "title": "asesor comercial",
-     "n": 1074
+     "title": "auxiliar contable",
+     "n": 1078
     },
     {
-     "title": "auxiliar contable",
-     "n": 1074
+     "title": "asesor comercial",
+     "n": 1076
     },
     {
      "title": "auxiliar de bodega",
-     "n": 988
+     "n": 989
     },
     {
      "title": "auxiliar de cocina",
-     "n": 937
+     "n": 939
     },
     {
      "title": "auxiliar de servicios generales",
@@ -1070,7 +1092,7 @@
     },
     {
      "title": "auxiliar de farmacia",
-     "n": 463
+     "n": 464
     },
     {
      "title": "auxiliar contable (bogotá)",
@@ -1108,7 +1130,7 @@
    "url": "https://www.opcionempleo.com.co",
    "collecting_since": "2026-08-03",
    "offers_total": 766205,
-   "share_latest": 0.791,
+   "share_latest": 0.79,
    "salary_coverage": 0.232,
    "description_coverage": 1.0
   },
@@ -1118,9 +1140,9 @@
    "kind": "aggregator",
    "url": "https://co.jooble.org",
    "collecting_since": "2026-08-01",
-   "offers_total": 283826,
+   "offers_total": 328050,
    "share_latest": 0.189,
-   "salary_coverage": 0.719,
+   "salary_coverage": 0.718,
    "description_coverage": 1.0
   },
   {
@@ -1137,11 +1159,11 @@
  ],
  "quality": {
   "field_coverage": {
-   "salary_any": 0.352,
+   "salary_any": 0.366,
    "city": 0.999,
-   "company": 0.926,
-   "employment_type": 0.027,
-   "remote": 0.294,
+   "company": 0.929,
+   "employment_type": 0.026,
+   "remote": 0.322,
    "posted_at": 1.0
   },
   "dedup": {
@@ -1154,10 +1176,10 @@
   {
    "id": "volume",
    "icon": "trend",
-   "title_pl": "Sierpień: 679 659 ogłoszeń",
-   "text_pl": "679 659 nowych ogłoszeń - najwięcej od początku zbierania.",
-   "title_en": "August: 679,659 postings",
-   "text_en": "679,659 new postings - the most since collection began."
+   "title_pl": "Sierpień: 680 190 ogłoszeń",
+   "text_pl": "680 190 nowych ogłoszeń - najwięcej od początku zbierania.",
+   "title_en": "August: 680,190 postings",
+   "text_en": "680,190 new postings - the most since collection began."
   },
   {
    "id": "mover",
@@ -1187,16 +1209,16 @@
    "id": "source",
    "icon": "source",
    "title_pl": "Największy serwis: Careerjet (79%)",
-   "text_pl": "Dane z 3 serwisów; Careerjet dostarcza 562 357 z 711 362 ogłoszeń przed zdjęciem powtórek.",
+   "text_pl": "Dane z 3 serwisów; Careerjet dostarcza 562 357 z 712 080 ogłoszeń przed zdjęciem powtórek.",
    "title_en": "Largest source: Careerjet (79%)",
-   "text_en": "Data from 3 sources; Careerjet provides 562,357 of 711,362 postings before de-duplication."
+   "text_en": "Data from 3 sources; Careerjet provides 562,357 of 712,080 postings before de-duplication."
   },
   {
    "id": "cities",
    "icon": "map",
-   "title_pl": "1 841 miast z ogłoszeniami",
+   "title_pl": "1 843 miasta z ogłoszeniami",
    "text_pl": "Najwięcej w: Bogotá DC (25%), Colombia (12%), Medellín (9%).",
-   "title_en": "1,841 cities with postings",
+   "title_en": "1,843 cities with postings",
    "text_en": "Most in: Bogotá DC (25%), Colombia (12%), Medellín (9%)."
   }
  ],

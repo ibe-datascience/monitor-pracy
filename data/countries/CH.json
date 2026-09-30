@@ -8,14 +8,14 @@
   "continent": "europe",
   "currency": "CHF"
  },
- "generated_at": "2026-09-30T16:14:03+00:00",
+ "generated_at": "2026-09-30T20:37:00+00:00",
  "coverage": {
   "first_month": "2026-02",
   "last_month": "2026-08",
   "collecting_since": "2026-08-01",
   "complete_from": "2026-08",
   "index_base_month": "2026-08",
-  "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: miesiąc jeszcze trwa."
+  "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
  },
  "headline": {
   "month": "2026-08",
@@ -717,8 +717,8 @@
   {
    "period": "2026-07",
    "partial": false,
-   "postings_new": 82280,
-   "postings_raw": 88400,
+   "postings_new": 82283,
+   "postings_raw": 88403,
    "postings_active_end": null,
    "postings_closed": null,
    "index": 56.5,
@@ -752,7 +752,7 @@
      "code": "careerjet.ch",
      "service": "Careerjet",
      "kind": "aggregator",
-     "n": 32816
+     "n": 32819
     },
     {
      "code": "indeed.ch",
@@ -764,7 +764,7 @@
    "top_cities": [
     {
      "name": "Zürich",
-     "n": 5397,
+     "n": 5398,
      "share": 0.061
     },
     {
@@ -774,7 +774,7 @@
     },
     {
      "name": "Bern",
-     "n": 2472,
+     "n": 2473,
      "share": 0.028
     },
     {
@@ -1091,6 +1091,28 @@
    "regions": []
   }
  ],
+ "weekly": [
+  {
+   "week": "2026-08-03",
+   "postings_new": 43858,
+   "postings_raw": 47010
+  },
+  {
+   "week": "2026-08-10",
+   "postings_new": 38191,
+   "postings_raw": 41269
+  },
+  {
+   "week": "2026-08-17",
+   "postings_new": 30347,
+   "postings_raw": 33012
+  },
+  {
+   "week": "2026-08-24",
+   "postings_new": 28304,
+   "postings_raw": 31059
+  }
+ ],
  "quarterly": [
   {
    "period": "2026-Q1",
@@ -1398,8 +1420,8 @@
   {
    "period": "2026-Q3",
    "partial": true,
-   "postings_new": 227909,
-   "postings_raw": 257370,
+   "postings_new": 227912,
+   "postings_raw": 257373,
    "qoq_pct": null,
    "yoy_pct": null,
    "salary": {
@@ -1424,7 +1446,7 @@
      "code": "careerjet.ch",
      "service": "Careerjet",
      "kind": "aggregator",
-     "n": 108796
+     "n": 108799
     },
     {
      "code": "jooble.ch",
@@ -1442,7 +1464,7 @@
    "top_cities": [
     {
      "name": "Zürich",
-     "n": 18027,
+     "n": 18028,
      "share": 0.07
     },
     {
@@ -1452,7 +1474,7 @@
     },
     {
      "name": "Bern",
-     "n": 8639,
+     "n": 8640,
      "share": 0.034
     },
     {
@@ -1588,7 +1610,7 @@
    "kind": "aggregator",
    "url": "https://www.careerjet.ch",
    "collecting_since": "2026-08-03",
-   "offers_total": 148646,
+   "offers_total": 148983,
    "share_latest": 0.45,
    "salary_coverage": 0.021,
    "description_coverage": 1.0
@@ -1643,10 +1665,10 @@
   {
    "id": "mover",
    "icon": "city",
-   "title_pl": "Największa zmiana: Bern +149,5%",
-   "text_pl": "6 167 ogłoszeń wobec 2 472 miesiąc wcześniej.",
-   "title_en": "Biggest move: Bern +149.5%",
-   "text_en": "6,167 postings vs 2,472 a month earlier."
+   "title_pl": "Największa zmiana: Bern +149,4%",
+   "text_pl": "6 167 ogłoszeń wobec 2 473 miesiąc wcześniej.",
+   "title_en": "Biggest move: Bern +149.4%",
+   "text_en": "6,167 postings vs 2,473 a month earlier."
   },
   {
    "id": "salary",

@@ -8,14 +8,14 @@
   "continent": "mena",
   "currency": "MAD"
  },
- "generated_at": "2026-09-30T16:14:03+00:00",
+ "generated_at": "2026-09-30T20:37:00+00:00",
  "coverage": {
   "first_month": "2026-08",
   "last_month": "2026-08",
   "collecting_since": "2026-08-04",
-  "complete_from": "2026-09",
+  "complete_from": "2026-08",
   "index_base_month": "2026-08",
-  "note_pl": "Zbieranie trwa od 04.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: miesiąc jeszcze trwa."
+  "note_pl": "Zbieranie trwa od 04.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
  },
  "headline": {
   "month": "2026-08",
@@ -23,7 +23,7 @@
   "postings_raw": 6923,
   "mom_pct": null,
   "yoy_pct": null,
-  "postings_active_end": null,
+  "postings_active_end": 5303,
   "salary_median": null,
   "salary_currency": "MAD",
   "salary_share": 0.001,
@@ -41,8 +41,8 @@
    "partial": false,
    "postings_new": 5511,
    "postings_raw": 6923,
-   "postings_active_end": null,
-   "postings_closed": null,
+   "postings_active_end": 5303,
+   "postings_closed": 1607,
    "index": 100.0,
    "mom_pct": null,
    "yoy_pct": null,
@@ -211,6 +211,28 @@
     }
    ],
    "regions": []
+  }
+ ],
+ "weekly": [
+  {
+   "week": "2026-08-03",
+   "postings_new": 3202,
+   "postings_raw": 3943
+  },
+  {
+   "week": "2026-08-10",
+   "postings_new": 2155,
+   "postings_raw": 2506
+  },
+  {
+   "week": "2026-08-17",
+   "postings_new": 122,
+   "postings_raw": 135
+  },
+  {
+   "week": "2026-08-24",
+   "postings_new": 264,
+   "postings_raw": 269
   }
  ],
  "quarterly": [
