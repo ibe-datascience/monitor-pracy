@@ -8,14 +8,14 @@
   "continent": "europe",
   "currency": "GBP"
  },
- "generated_at": "2026-09-30T15:36:10+00:00",
+ "generated_at": "2026-09-30T16:14:03+00:00",
  "coverage": {
   "first_month": "2025-10",
   "last_month": "2026-08",
   "collecting_since": "2026-08-01",
   "complete_from": "2026-08",
   "index_base_month": "2026-08",
-  "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
+  "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: miesiąc jeszcze trwa."
  },
  "headline": {
   "month": "2026-08",
@@ -2285,24 +2285,25 @@
  ],
  "commentary": {
   "month": "2026-08",
-  "generated_at": "2026-09-30T15:37:50+00:00",
+  "generated_at": "2026-09-30T16:35:59+00:00",
   "model": "claude-opus-5-5",
   "is_ai": true,
-  "lead_pl": "W sierpniu 2026 r. w Wielkiej Brytanii pojawiło się 633 298 nowych internetowych ogłoszeń o pracę. To pierwszy pełny miesiąc pomiaru i baza indeksu (100).",
-  "body_pl": "W sierpniu 2026 r. w trzech monitorowanych serwisach pojawiło się 633 298 nowych ogłoszeń o pracę w Wielkiej Brytanii, po zdjęciu powtórek między serwisami. Przed deduplikacją było ich 769 842, a szacunkowo 17,7% ogłoszeń występowało w więcej niż jednym serwisie. Na koniec miesiąca aktywnych było 1 335 770 ogłoszeń. Sierpień to pierwszy pełny miesiąc zbierania danych i baza indeksu, dlatego nie ma porównania miesiąc do miesiąca ani rok do roku.\n\nMediana wynagrodzenia wyniosła 2 772 GBP miesięcznie. Połowa stawek mieściła się między 2 331 a 3 958 GBP. Dotyczy to tylko ogłoszeń z podaną kwotą, czyli 33% ofert (182 176 ogłoszeń). Pracę zdalną oznaczono w 1,4% ogłoszeń.\n\nPełny etat wskazano w 26,6% ogłoszeń, część etatu w 7,5%, a kontrakt w 3,8%. W 61,6% ogłoszeń rodzaju zatrudnienia nie podano, więc strukturę umów trzeba traktować ostrożnie.\n\nNajwięcej ogłoszeń dotyczyło Londynu: 86 164, czyli 11,2%. Kolejne były Manchester (15 626; 2,0%), Birmingham (13 308; 1,7%) i Glasgow (12 181; 1,6%). W 12 560 ogłoszeniach jako lokalizację podano cały kraj. Największym źródłem był Indeed z 330 608 ogłoszeniami (42,9% przed zdjęciem powtórek). Za nim znalazły się Careerjet (241 054) i Jooble (198 180). Wszystkie trzy to agregatory.",
+  "lead_pl": "Połowa internetowych ofert pracy z podaną stawką w Wielkiej Brytanii w sierpniu 2026 r. mieściła się między 2 331 a 3 958 GBP miesięcznie, a mediana wyniosła 2 772 GBP.",
+  "body_pl": "W sierpniu 2026 r. zarejestrowaliśmy 633 298 nowych internetowych ofert pracy z Wielkiej Brytanii, po zdjęciu powtórek między serwisami. Przed tą operacją było ich 769 842, a szacunkowo 17,7% ogłoszeń pojawiało się w więcej niż jednym serwisie. Na koniec miesiąca aktywnych było 1 335 770 ofert. Wcześniejsze miesiące są niepełne, dlatego nie podajemy zmiany miesiąc do miesiąca ani rok do roku.\n\nMediana wynagrodzenia wyniosła 2 772 GBP miesięcznie. Dotyczy tylko ofert z podaną kwotą, czyli 33% ogłoszeń (182 176). Połowa z nich mieściła się między 2 331 a 3 958 GBP. Jako praca zdalna oznaczono 1,4% ofert (10 778).\n\nPełny etat wskazano w 26,6% ogłoszeń, niepełny w 7,5%, kontrakt w 3,8%. W 61,6% ofert brakowało informacji o formie zatrudnienia. Najwięcej ofert dotyczyło Londynu: 86 164, czyli 11,2%. Kolejne były Manchester (15 626, 2,0%), Birmingham (13 308, 1,7%) i Glasgow (12 181, 1,6%). Kolejne 12 560 ogłoszeń miało lokalizację „United Kingdom”. Hipoteza: to oferty bez wskazanego miasta. Łącznie oferty dotyczyły 15 797 miejscowości.\n\nDane pochodzą z 3 agregatorów. Przed zdjęciem powtórek Indeed dostarczył 330 608 ogłoszeń (42,9%), Careerjet 241 054, a Jooble 198 180.",
   "bullets_pl": [
-   "633 298 nowych ogłoszeń w sierpniu 2026 r. (indeks = 100)",
-   "Mediana wynagrodzenia: 2 772 GBP miesięcznie, przy stawce podanej w 33% ogłoszeń",
-   "Praca zdalna: 1,4% ogłoszeń"
+   "633 298 nowych internetowych ofert pracy w sierpniu 2026 r., 1 335 770 aktywnych na koniec miesiąca",
+   "Mediana wynagrodzenia 2 772 GBP miesięcznie, liczona dla 33% ofert z podaną kwotą",
+   "Londyn: 86 164 oferty (11,2%), praca zdalna: 1,4% ogłoszeń"
   ],
-  "caveats_pl": "Dane obejmują wyłącznie ogłoszenia z trzech agregatorów internetowych, zbierane od 1 sierpnia 2026 r. (miesiące wcześniejsze są niepełne, a wrzesień pominięto z powodu przerwy w zbieraniu), a mediana wynagrodzenia opiera się tylko na 33% ogłoszeń z podaną stawką.",
-  "lead_en": "In August 2026, 633,298 new online job postings appeared in the United Kingdom. It is the first complete month of measurement and the index base (100).",
-  "body_en": "In August 2026, 633,298 new job postings for the United Kingdom appeared across three monitored services, after removing cross-service duplicates. Before deduplication there were 769,842, and an estimated 17.7% of postings appeared on more than one service. At month-end, 1,335,770 postings were active. August is the first complete month of data collection and the index base, so there is no month-on-month or year-on-year comparison.\n\nThe median salary was GBP 2,772 per month. Half of the stated pay rates fell between GBP 2,331 and GBP 3,958. This covers only postings with a stated amount, which was 33% of postings (182,176). Remote work was flagged in 1.4% of postings.\n\nFull-time work was indicated in 26.6% of postings, part-time in 7.5% and contract in 3.8%. In 61.6% of postings the employment type was not stated, so the contract structure should be treated with caution.\n\nLondon had the most postings: 86,164, or 11.2%. It was followed by Manchester (15,626; 2.0%), Birmingham (13,308; 1.7%) and Glasgow (12,181; 1.6%). In 12,560 postings the location given was the country as a whole. The largest source was Indeed with 330,608 postings (42.9% before deduplication). It was followed by Careerjet (241,054) and Jooble (198,180). All three are aggregators.",
+  "caveats_pl": "Pełne dane obejmują dopiero sierpień 2026 r. i dotyczą wyłącznie ofert publikowanych w internecie w 3 agregatorach, a nie całego rynku pracy; wynagrodzenie podaje tylko 33% ogłoszeń, a w 61,6% brak informacji o formie zatrudnienia.",
+  "lead_en": "Half of online job postings with a stated pay in the United Kingdom in August 2026 fell between GBP 2,331 and GBP 3,958 a month, with a median of GBP 2,772.",
+  "body_en": "In August 2026 we recorded 633,298 new online job postings from the United Kingdom after removing duplicates across services. Before deduplication there were 769,842, and an estimated 17.7% of postings appeared on more than one service. At the end of the month 1,335,770 postings were active. Earlier months are incomplete, so we do not report month-on-month or year-on-year changes.\n\nThe median salary was GBP 2,772 a month. It covers only postings with a stated amount, i.e. 33% of postings (182,176). Half of them fell between GBP 2,331 and GBP 3,958. 1.4% of postings (10,778) were marked as remote work.\n\nFull-time work was indicated in 26.6% of postings, part-time in 7.5% and contract in 3.8%. 61.6% of postings gave no information on employment type. London accounted for the most postings: 86,164, or 11.2%. It was followed by Manchester (15,626, 2.0%), Birmingham (13,308, 1.7%) and Glasgow (12,181, 1.6%). Another 12,560 postings had the location 'United Kingdom'. Hypothesis: these are postings without a specified city. In total, postings covered 15,797 locations.\n\nThe data come from 3 aggregators. Before deduplication, Indeed supplied 330,608 postings (42.9%), Careerjet 241,054 and Jooble 198,180.",
   "bullets_en": [
-   "633,298 new postings in August 2026 (index = 100)",
-   "Median salary: GBP 2,772 per month, with pay stated in 33% of postings",
-   "Remote work: 1.4% of postings"
-  ]
+   "633,298 new online job postings in August 2026, 1,335,770 active at month end",
+   "Median salary GBP 2,772 a month, based on the 33% of postings with a stated amount",
+   "London: 86,164 postings (11.2%); remote work: 1.4% of postings"
+  ],
+  "based_on": "633298|2772|0.014"
  },
  "skills_demo": {
   "is_synthetic": true,

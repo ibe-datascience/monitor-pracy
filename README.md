@@ -1,6 +1,6 @@
-# Monitor Pracy
+# Pracownia IBE PIB - Analiza internetowych ofert pracy
 
-Statyczna publikacja portalu Monitor Pracy (GitHub Pages).
+Statyczna publikacja portalu (GitHub Pages).
 Kod źródłowy i metodologia: repozytorium `ibe-datascience/jobads`, `docs/monitor.md`.
 
-Ostatnia publikacja: 2026-09-30T15:47:36Z
+Ostatnia publikacja: 2026-09-30T17:25:12Z

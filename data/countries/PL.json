@@ -8,14 +8,14 @@
   "continent": "europe",
   "currency": "PLN"
  },
- "generated_at": "2026-09-30T15:36:10+00:00",
+ "generated_at": "2026-09-30T16:14:03+00:00",
  "coverage": {
   "first_month": "2026-03",
   "last_month": "2026-08",
   "collecting_since": "2026-08-01",
   "complete_from": "2026-08",
   "index_base_month": "2026-08",
-  "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
+  "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: miesiąc jeszcze trwa."
  },
  "headline": {
   "month": "2026-08",
@@ -2464,24 +2464,25 @@
  ],
  "commentary": {
   "month": "2026-08",
-  "generated_at": "2026-09-30T15:37:31+00:00",
+  "generated_at": "2026-09-30T16:35:38+00:00",
   "model": "claude-opus-5-5",
   "is_ai": true,
-  "lead_pl": "W sierpniu 2026 r. w polskich serwisach internetowych pojawiło się 276 495 nowych ogłoszeń o pracę. To pierwszy pełny miesiąc pomiaru i baza indeksu (100).",
-  "body_pl": "W sierpniu 2026 r. zarejestrowano 276 495 nowych ogłoszeń o pracę w internecie. Liczba uwzględnia zdjęcie powtórek między serwisami; przed nim było to 326 814 ogłoszeń. Szacunkowo 15,4% ogłoszeń pojawiało się w więcej niż jednym serwisie. Na koniec miesiąca aktywnych było 539 860 ogłoszeń. Sierpień to pierwszy pełny miesiąc zbierania danych i baza indeksu (100), więc nie ma jeszcze porównania miesiąc do miesiąca ani rok do roku.\n\nKwotę wynagrodzenia podało 46,3% ogłoszeń. W tej grupie mediana wyniosła 5 373 PLN, a połowa stawek mieściła się między 4 806 a 6 000 PLN. Pracę zdalną oznaczono w 2,1% ogłoszeń. Rodzaj zatrudnienia był nieznany w 95,6% ogłoszeń.\n\nNajwięcej ogłoszeń dotyczyło Warszawy: 36 421, czyli 11,1% ogłoszeń liczonych przed zdjęciem powtórek. Dalej były Kraków (13 266; 4,1%), Wrocław (9 685; 3,0%) i Gdańsk (8 466; 2,6%). 11 200 ogłoszeń (3,4%) miało lokalizację podaną jako „Polska”, bez wskazania miasta. Dane pochodzą z 3 agregatorów. Jooble dostarczył 230 248 ogłoszeń (70,5% przed zdjęciem powtórek), Careerjet 75 954, a Indeed 20 612.",
+  "lead_pl": "W sierpniu 2026 r. mediana wynagrodzenia w internetowych ofertach pracy z podaną stawką wyniosła 5 373 PLN, a 11,1% ofert dotyczyło Warszawy.",
+  "body_pl": "W sierpniu 2026 r. w internetowych ofertach pracy w Polsce zarejestrowaliśmy 276 495 nowych ogłoszeń po zdjęciu powtórek między serwisami. Przed deduplikacją było ich 326 814. Szacunkowo 15,4% ogłoszeń pojawiało się w więcej niż jednym serwisie. Na koniec miesiąca aktywnych było 539 860 ofert. To pierwszy miesiąc z pełnym zbieraniem, więc nie ma jeszcze porównania miesiąc do miesiąca ani rok do roku.\n\nStawkę podało 46,3% ogłoszeń. Mediana w tej grupie wyniosła 5 373 PLN miesięcznie. Połowa ofert z podaną kwotą mieściła się między 4 806 a 6 000 PLN. Pracę zdalną oznaczono w 2,1% ogłoszeń. Rodzaj zatrudnienia był nieznany w 95,6% ofert, dlatego struktury umów nie da się wiarygodnie opisać.\n\nNajwięcej ofert dotyczyło Warszawy: 36 421, czyli 11,1%. Dalej były Kraków (13 266; 4,1%), Wrocław (9 685; 3,0%) i Gdańsk (8 466; 2,6%). Kolejne 11 200 ogłoszeń (3,4%) miało jako lokalizację wpisaną całą Polskę, a nie konkretne miasto. Dane pochodzą z 3 serwisów. Jooble dostarczył 230 248 ogłoszeń przed zdjęciem powtórek, Careerjet 75 954, a Indeed 20 612.\n\nPunktem odniesienia jest Pracuj.pl, serwis spoza naszych źródeł. Według jego publicznego archiwum w sierpniu opublikowano tam 60 698 ofert, wobec 67 996 w lipcu, czyli o 10,7% mniej. Tych liczb nie sumujemy z naszymi.",
   "bullets_pl": [
-   "276 495 nowych ogłoszeń w sierpniu 2026 r. (po zdjęciu powtórek)",
-   "Mediana wynagrodzenia: 5 373 PLN (w 46,3% ogłoszeń z podaną kwotą)",
-   "Praca zdalna: 2,1% ogłoszeń"
+   "276 495 nowych internetowych ofert pracy w sierpniu 2026 r. (po zdjęciu powtórek)",
+   "Mediana wynagrodzenia: 5 373 PLN (dla 46,3% ofert z podaną stawką)",
+   "Warszawa: 36 421 ofert, czyli 11,1%"
   ],
-  "caveats_pl": "Dane obejmują wyłącznie ogłoszenia internetowe z 3 serwisów, a pełne miesiące liczone są dopiero od sierpnia 2026 r. (bez porównań m/m i r/r; wrzesień pominięty z powodu przerwy w zbieraniu). Mediana wynagrodzenia opiera się tylko na 46,3% ogłoszeń z podaną kwotą, a rodzaj zatrudnienia jest nieznany w 95,6% ogłoszeń.",
-  "lead_en": "In August 2026, 276,495 new job postings appeared on Polish online sites. It is the first full month of measurement and the index base (100).",
-  "body_en": "In August 2026, 276,495 new online job postings were recorded. The figure is after removing duplicates across sites; before that, the count was 326,814. An estimated 15.4% of postings appeared on more than one site. At the end of the month, 539,860 postings were active. August is the first full month of data collection and the index base (100), so there is no month-on-month or year-on-year comparison yet.\n\nA salary amount was stated in 46.3% of postings. In that group, the median was PLN 5,373, and half of the rates fell between PLN 4,806 and PLN 6,000. Remote work was flagged in 2.1% of postings. The employment type was unknown in 95.6% of postings.\n\nWarsaw had the most postings: 36,421, or 11.1% of postings counted before duplicate removal. It was followed by Kraków (13,266; 4.1%), Wrocław (9,685; 3.0%) and Gdańsk (8,466; 2.6%). 11,200 postings (3.4%) gave the location as \"Polska\" (Poland) without naming a city. The data come from 3 aggregators. Jooble supplied 230,248 postings (70.5% before duplicate removal), Careerjet 75,954 and Indeed 20,612.",
+  "caveats_pl": "Dane obejmują tylko internetowe oferty pracy z 3 serwisów, a nie cały rynek pracy; pełne zbieranie trwa od sierpnia 2026 r., więc nie ma porównań w czasie, a wynagrodzenie podaje jedynie 46,3% ogłoszeń.",
+  "lead_en": "In August 2026, the median salary in online job postings stating pay was PLN 5,373, and 11.1% of postings were for Warsaw.",
+  "body_en": "In August 2026, we recorded 276,495 new online job postings in Poland after removing cross-source duplicates. Before deduplication there were 326,814. An estimated 15.4% of postings appeared on more than one site. At the end of the month, 539,860 postings were active. This is the first month of complete collection, so no month-on-month or year-on-year comparison is available yet.\n\nPay was stated in 46.3% of postings. In that group, the median was PLN 5,373 per month. Half of the postings with a stated amount fell between PLN 4,806 and PLN 6,000. Remote work was flagged in 2.1% of postings. The employment type was unknown in 95.6% of postings, so the structure of contracts cannot be reliably described.\n\nWarsaw had the most postings: 36,421, or 11.1%. It was followed by Kraków (13,266; 4.1%), Wrocław (9,685; 3.0%) and Gdańsk (8,466; 2.6%). Another 11,200 postings (3.4%) listed Poland as a whole as the location, not a specific city. The data come from 3 sites. Jooble supplied 230,248 postings before deduplication, Careerjet 75,954 and Indeed 20,612.\n\nPracuj.pl, a site outside our sources, serves as a reference point. According to its public archive, it published 60,698 postings in August, compared with 67,996 in July, which is 10.7% fewer. We do not add these figures to ours.",
   "bullets_en": [
-   "276,495 new postings in August 2026 (after duplicate removal)",
-   "Median salary: PLN 5,373 (in the 46.3% of postings stating an amount)",
-   "Remote work: 2.1% of postings"
-  ]
+   "276,495 new online job postings in August 2026 (after deduplication)",
+   "Median salary: PLN 5,373 (for the 46.3% of postings stating pay)",
+   "Warsaw: 36,421 postings, or 11.1%"
+  ],
+  "based_on": "276495|5373|0.021"
  },
  "skills_demo": {
   "is_synthetic": true,
@@ -2968,5 +2969,52 @@
     ]
    }
   ]
+ },
+ "reference": {
+  "pracuj_pl": {
+   "name": "Pracuj.pl",
+   "url": "https://archiwum.pracuj.pl/",
+   "note_pl": "Liczba ofert opublikowanych w danym miesiącu według publicznego archiwum Pracuj.pl (największego polskiego serwisu z ofertami pracy). Serwis nie należy do źródeł zliczanych w pozostałych wskaźnikach; podajemy go jako punkt odniesienia. Bieżący miesiąc jest jeszcze niepełny.",
+   "counted_at": "2026-09-30T16:07:30.961708+00:00",
+   "months": [
+    {
+     "month": "2026-01",
+     "postings": 62534
+    },
+    {
+     "month": "2026-02",
+     "postings": 59000
+    },
+    {
+     "month": "2026-03",
+     "postings": 68169
+    },
+    {
+     "month": "2026-04",
+     "postings": 65772
+    },
+    {
+     "month": "2026-05",
+     "postings": 66330
+    },
+    {
+     "month": "2026-06",
+     "postings": 64829
+    },
+    {
+     "month": "2026-07",
+     "postings": 67996
+    },
+    {
+     "month": "2026-08",
+     "postings": 60698
+    },
+    {
+     "month": "2026-09",
+     "postings": 70003,
+     "partial": true
+    }
+   ]
+  }
  }
 }

@@ -8,14 +8,14 @@
   "continent": "mena",
   "currency": "IQD"
  },
- "generated_at": "2026-09-30T15:36:10+00:00",
+ "generated_at": "2026-09-30T16:14:03+00:00",
  "coverage": {
   "first_month": "2026-08",
   "last_month": "2026-08",
   "collecting_since": "2026-08-04",
   "complete_from": "2026-09",
   "index_base_month": "2026-08",
-  "note_pl": "Zbieranie trwa od 04.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
+  "note_pl": "Zbieranie trwa od 04.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: miesiąc jeszcze trwa."
  },
  "headline": {
   "month": "2026-08",
@@ -452,24 +452,25 @@
  ],
  "commentary": {
   "month": "2026-08",
-  "generated_at": "2026-09-30T15:38:29+00:00",
+  "generated_at": "2026-09-30T16:36:39+00:00",
   "model": "claude-opus-5-5",
   "is_ai": true,
-  "lead_pl": "W sierpniu 2026 r. w Iraku odnotowano 1 590 nowych internetowych ogłoszeń o pracę. To miesiąc niepełny, przyjęty jako baza indeksu (100).",
-  "body_pl": "W sierpniu 2026 r. w Iraku odnotowano 1 590 nowych ogłoszeń o pracę w internecie. Przed zdjęciem powtórek było ich 1 923. Dane pochodzą z jednego serwisu, agregatora Tanqeeb. Zbieranie ruszyło 4 sierpnia, więc miesiąc jest niepełny. Sierpień jest bazą indeksu (100). Nie ma porównania miesiąc do miesiąca ani rok do roku.\n\nKwotę wynagrodzenia podaje 6,1% ogłoszeń. Mediany nie publikujemy. Pracę zdalną oferuje 0,7% ogłoszeń, czyli 13. Forma zatrudnienia w 80,7% ogłoszeń jest nieokreślona. Pełny etat wskazuje 18,8% ogłoszeń, umowę kontraktową 0,3%, niepełny etat 0,2%.\n\nW 75% ogłoszeń (1 443) jako lokalizację podano tylko kraj. Z konkretnym miastem najwięcej ogłoszeń dotyczy Bagdadu: 196, czyli 10,2%. Dalej są Basra (145; 7,5%) i Irbil (46; 2,4%). W 26 ogłoszeniach (1,4%) lokalizacją jest Kair. Hipoteza: agregator publikuje w sekcji irackiej także część ofert spoza kraju.",
+  "lead_pl": "W sierpniu 2026 r. 75% z 1 590 internetowych ofert pracy w Iraku podawało jako lokalizację tylko kraj; na Bagdad przypadło 10,2% ofert, na Basrę 7,5%.",
+  "body_pl": "W sierpniu 2026 r. zebraliśmy 1 590 nowych internetowych ofert pracy z Iraku. Przed zdjęciem powtórek było ich 1 923, więc powtórki stanowiły szacunkowo 17,3%. Wszystkie oferty pochodzą z jednego serwisu, agregatora Tanqeeb. Zbieranie ruszyło 4 sierpnia, dlatego dane za sierpień są niepełne. Nie ma jeszcze porównania miesiąc do miesiąca ani rok do roku.\n\nW 1 443 ofertach (75%) jako lokalizację wskazano tylko kraj. Spośród miast najwięcej ofert dotyczyło Bagdadu: 196 (10,2%). Dalej były Basra ze 145 ofertami (7,5%) i Irbil z 46 (2,4%). W 26 ofertach (1,4%) jako lokalizację podano Kair. Łącznie oferty obejmowały 26 miejscowości.\n\nKwotę wynagrodzenia podało 6,1% ofert. To za mało, by wyznaczyć medianę. Pracę zdalną oznaczono w 13 ofertach (0,7%). Rodzaj zatrudnienia był nieokreślony w 80,7% ofert. Pełny etat wskazało 18,8% ofert, umowę kontraktową 0,3%, a niepełny etat 0,2%.",
   "bullets_pl": [
-   "1 590 nowych ogłoszeń w sierpniu 2026 r. (1 923 przed zdjęciem powtórek)",
-   "Wynagrodzenie podaje 6,1% ogłoszeń",
-   "Bagdad: 196 ogłoszeń (10,2%), najwięcej wśród wskazanych miast"
+   "1 590 nowych internetowych ofert pracy po zdjęciu powtórek (1 923 przed)",
+   "75% ofert bez wskazania miasta; Bagdad 10,2%, Basra 7,5%",
+   "Wynagrodzenie podano w 6,1% ofert, pracę zdalną oznaczono w 0,7%"
   ],
-  "caveats_pl": "Dane obejmują wyłącznie ogłoszenia internetowe z jednego serwisu (Tanqeeb), zbierane od 4 sierpnia 2026 r. (sierpień jest niepełny, a wrzesień pominięto z powodu przerwy w zbieraniu), a kwotę wynagrodzenia podaje tylko 6,1% ogłoszeń.",
-  "lead_en": "In August 2026, 1,590 new online job postings were recorded in Iraq. The month is incomplete and serves as the index base (100).",
-  "body_en": "In August 2026, 1,590 new online job postings were recorded in Iraq. Before duplicates were removed, there were 1,923. The data come from one source, the Tanqeeb aggregator. Collection began on 4 August, so the month is incomplete. August is the index base (100). There is no month-on-month or year-on-year comparison.\n\n6.1% of postings state a salary amount. We do not publish a median. 0.7% of postings, or 13, offer remote work. The employment type is unspecified in 80.7% of postings. Full-time work is indicated in 18.8% of postings, contract work in 0.3% and part-time work in 0.2%.\n\nIn 75% of postings (1,443), only the country is given as the location. Among specific cities, Baghdad accounts for the most postings: 196, or 10.2%. Basra follows with 145 (7.5%), then Erbil with 46 (2.4%). In 26 postings (1.4%), the location is Cairo. Hypothesis: the aggregator also lists some jobs from outside the country in its Iraq section.",
+  "caveats_pl": "Dane obejmują wyłącznie internetowe oferty pracy z jednego serwisu (Tanqeeb) zbierane od 4.08.2026, więc sierpień jest niepełny, nie ma porównań w czasie, a kwotę wynagrodzenia podało tylko 6,1% ofert.",
+  "lead_en": "In August 2026, 75% of Iraq's 1,590 online job postings gave only the country as their location; Baghdad accounted for 10.2% of postings and Basra for 7.5%.",
+  "body_en": "In August 2026 we collected 1,590 new online job postings from Iraq. Before duplicates were removed there were 1,923, so duplicates made up an estimated 17.3%. All postings come from a single service, the aggregator Tanqeeb. Collection started on 4 August, so the August data are incomplete. There is no month-on-month or year-on-year comparison yet.\n\nIn 1,443 postings (75%) the only location given was the country. Among cities, Baghdad had the most postings: 196 (10.2%). It was followed by Basra with 145 postings (7.5%) and Erbil with 46 (2.4%). In 26 postings (1.4%) the location given was Cairo. In total, postings covered 26 locations.\n\nA salary amount was stated in 6.1% of postings. That is too few to calculate a median. Remote work was marked in 13 postings (0.7%). The employment type was not specified in 80.7% of postings. Full-time work was indicated in 18.8% of postings, contract work in 0.3% and part-time work in 0.2%.",
   "bullets_en": [
-   "1,590 new postings in August 2026 (1,923 before duplicate removal)",
-   "6.1% of postings state a salary",
-   "Baghdad: 196 postings (10.2%), the most among specified cities"
-  ]
+   "1,590 new online job postings after removing duplicates (1,923 before)",
+   "75% of postings did not name a city; Baghdad 10.2%, Basra 7.5%",
+   "Salary stated in 6.1% of postings, remote work marked in 0.7%"
+  ],
+  "based_on": "1590|None|0.007"
  },
  "skills_demo": {
   "is_synthetic": true,

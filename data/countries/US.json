@@ -8,14 +8,14 @@
   "continent": "north_america",
   "currency": "USD"
  },
- "generated_at": "2026-09-30T15:36:10+00:00",
+ "generated_at": "2026-09-30T16:14:03+00:00",
  "coverage": {
   "first_month": "2026-05",
   "last_month": "2026-08",
   "collecting_since": "2026-08-01",
   "complete_from": "2026-08",
   "index_base_month": "2026-08",
-  "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
+  "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: miesiąc jeszcze trwa."
  },
  "headline": {
   "month": "2026-08",
@@ -1202,24 +1202,25 @@
  ],
  "commentary": {
   "month": "2026-08",
-  "generated_at": "2026-09-30T15:37:49+00:00",
+  "generated_at": "2026-09-30T16:35:59+00:00",
   "model": "claude-opus-5-5",
   "is_ai": true,
-  "lead_pl": "W sierpniu 2026 r. w USA pojawiło się w internecie 3 986 696 nowych ogłoszeń o pracę. To pierwszy pełny miesiąc zbierania danych i baza indeksu (100).",
-  "body_pl": "W sierpniu 2026 r. trzy serwisy z ogłoszeniami o pracę w USA pokazały 3 986 696 nowych ofert po zdjęciu powtórek. Przed deduplikacją było ich 4 964 099. Szacunkowo 19,7% ogłoszeń występowało w więcej niż jednym serwisie. Na koniec miesiąca aktywnych było 3 527 348 ogłoszeń. Dane obejmują tylko ogłoszenia internetowe, nie cały rynek pracy. Sierpień jest pierwszym pełnym miesiącem obserwacji, dlatego nie ma porównania miesiąc do miesiąca ani rok do roku.\n\nKwotę wynagrodzenia podało 51% ogłoszeń. W tej grupie mediana wyniosła 5 000 USD miesięcznie. Połowa stawek mieściła się między 3 467 a 8 192 USD.\n\nPracę zdalną oznaczono w 1,7% ogłoszeń. Pełny etat wskazano w 32,5% ofert, część etatu w 12,9%, kontrakt w 2,9%. W 51,3% ogłoszeń nie określono formy zatrudnienia.\n\nOgłoszenia dotyczyły 37 097 miast. Najwięcej było w Houston (46 028, 0,9%), Chicago (38 359, 0,8%) i Atlancie (36 894, 0,7%). Indeed dostarczył 2 851 035 ogłoszeń, czyli 57,4% wszystkich przed zdjęciem powtórek. Careerjet dostarczył 1 466 605, a Jooble 646 459.",
+  "lead_pl": "Internetowe oferty pracy w USA są rozproszone: w sierpniu 2026 r. pochodziły z 37 097 miast, a największe z nich, Houston, skupiało 0,9% ogłoszeń.",
+  "body_pl": "W sierpniu 2026 r. zebraliśmy 3 986 696 nowych internetowych ofert pracy w Stanach Zjednoczonych. To liczba po usunięciu powtórek między serwisami. Przed ich usunięciem było 4 964 099 ogłoszeń, a szacunkowo 19,7% ofert pojawiało się w więcej niż jednym serwisie. Na koniec miesiąca aktywnych było 3 527 348 ofert. Dane pochodzą z 3 agregatorów: Indeed (2 851 035 ogłoszeń, 57,4%), Careerjet (1 466 605) i Jooble (646 459).\n\nMediana wynagrodzenia wyniosła 5 000 USD miesięcznie. Połowa stawek mieściła się między 3 467 a 8 192 USD. Kwotę podało 51% ogłoszeń i tylko ich dotyczą te wartości.\n\nOgłoszenia rozkładają się na 37 097 miast. Najwięcej było w Houston (46 028), Chicago (38 359), Atlanta (36 894), Nowym Jorku (34 712) i Dallas (33 738). Żadne z tych miast nie przekracza 1% ogłoszeń. Jako pracę zdalną oznaczono 1,7% ofert. Pełny etat wskazano w 32,5% ogłoszeń, część etatu w 12,9%, a kontrakt w 2,9%. W 51,3% ofert formy zatrudnienia nie podano.\n\nSierpień to pierwszy pełny miesiąc zbierania danych. Wcześniejsze miesiące są niepełne, dlatego nie podajemy zmian miesiąc do miesiąca ani rok do roku.",
   "bullets_pl": [
-   "3 986 696 nowych ogłoszeń po zdjęciu powtórek (4 964 099 przed deduplikacją)",
-   "Mediana wynagrodzenia: 5 000 USD miesięcznie w 51% ogłoszeń z podaną kwotą",
-   "Praca zdalna: 1,7% ogłoszeń; forma zatrudnienia nieokreślona w 51,3%"
+   "3 986 696 nowych internetowych ofert pracy po usunięciu powtórek (4 964 099 przed)",
+   "Mediana wynagrodzenia 5 000 USD miesięcznie w 51% ogłoszeń z podaną kwotą",
+   "Praca zdalna oznaczona w 1,7% ofert"
   ],
-  "caveats_pl": "Dane pochodzą wyłącznie z trzech serwisów z ogłoszeniami internetowymi, zbieranie trwa od 1 sierpnia 2026 r. (wcześniejsze miesiące są niepełne, a we wrześniu wystąpiła przerwa), a wynagrodzenie podaje tylko 51% ogłoszeń.",
-  "lead_en": "In August 2026, 3,986,696 new online job postings appeared in the US. It is the first complete month of data collection and the index base (100).",
-  "body_en": "In August 2026, three job posting sites showed 3,986,696 new US postings after duplicates were removed. Before deduplication there were 4,964,099. An estimated 19.7% of postings appeared on more than one site. At the end of the month, 3,527,348 postings were active. The data cover online job postings only, not the whole labour market. August is the first complete month of observation, so there is no month-on-month or year-on-year comparison.\n\n51% of postings stated a salary. Within that group, the median was USD 5,000 per month. Half of the stated rates fell between USD 3,467 and USD 8,192.\n\nRemote work was marked in 1.7% of postings. Full-time was specified in 32.5% of postings, part-time in 12.9% and contract in 2.9%. In 51.3% of postings the employment type was not specified.\n\nPostings covered 37,097 cities. The most were in Houston (46,028, 0.9%), Chicago (38,359, 0.8%) and Atlanta (36,894, 0.7%). Indeed supplied 2,851,035 postings, or 57.4% of all postings before deduplication. Careerjet supplied 1,466,605 and Jooble 646,459.",
+  "caveats_pl": "Dane obejmują tylko oferty pracy z internetu z 3 serwisów i są zbierane od 1 sierpnia 2026 r., więc brak porównań w czasie, a mediana wynagrodzenia dotyczy 51% ogłoszeń z podaną kwotą.",
+  "lead_en": "Online job postings in the US are dispersed: in August 2026 they came from 37,097 cities, and the largest, Houston, accounted for 0.9% of postings.",
+  "body_en": "In August 2026 we collected 3,986,696 new online job postings in the United States. This figure excludes duplicates across services. Before deduplication there were 4,964,099 postings, and an estimated 19.7% appeared on more than one service. At the end of the month 3,527,348 postings were active. The data come from 3 aggregators: Indeed (2,851,035 postings, 57.4%), Careerjet (1,466,605) and Jooble (646,459).\n\nThe median salary was 5,000 USD per month. Half of the stated pay fell between 3,467 and 8,192 USD. 51% of postings stated an amount, and these figures refer only to them.\n\nPostings are spread across 37,097 cities. The most were in Houston (46,028), Chicago (38,359), Atlanta (36,894), New York (34,712) and Dallas (33,738). None of these cities exceeds 1% of postings. 1.7% of postings were marked as remote. Full-time was stated in 32.5% of postings, part-time in 12.9% and contract in 2.9%. 51.3% did not state the employment type.\n\nAugust is the first complete month of data collection. Earlier months are incomplete, so we do not report month-on-month or year-on-year changes.",
   "bullets_en": [
-   "3,986,696 new postings after deduplication (4,964,099 before)",
-   "Median salary: USD 5,000 per month among the 51% of postings stating pay",
-   "Remote work: 1.7% of postings; employment type unspecified in 51.3%"
-  ]
+   "3,986,696 new online job postings after deduplication (4,964,099 before)",
+   "Median salary of 5,000 USD per month across the 51% of postings stating pay",
+   "1.7% of postings marked as remote"
+  ],
+  "based_on": "3986696|5000|0.017"
  },
  "skills_demo": {
   "is_synthetic": true,

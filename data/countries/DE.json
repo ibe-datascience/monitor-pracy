@@ -8,14 +8,14 @@
   "continent": "europe",
   "currency": "EUR"
  },
- "generated_at": "2026-09-30T15:36:10+00:00",
+ "generated_at": "2026-09-30T16:14:03+00:00",
  "coverage": {
   "first_month": "2026-05",
   "last_month": "2026-08",
   "collecting_since": "2026-08-01",
   "complete_from": "2026-08",
   "index_base_month": "2026-08",
-  "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
+  "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: miesiąc jeszcze trwa."
  },
  "headline": {
   "month": "2026-08",
@@ -1202,24 +1202,25 @@
  ],
  "commentary": {
   "month": "2026-08",
-  "generated_at": "2026-09-30T15:37:27+00:00",
+  "generated_at": "2026-09-30T16:35:32+00:00",
   "model": "claude-opus-5-5",
   "is_ai": true,
-  "lead_pl": "W sierpniu 2026 r. w Niemczech opublikowano w internecie 877 394 nowych ogłoszeń o pracę. To pierwszy pełny miesiąc danych i baza indeksu (100).",
-  "body_pl": "W sierpniu 2026 r. serwisy internetowe z ogłoszeniami o pracę w Niemczech pokazały 877 394 nowych ogłoszeń. Liczba ta nie obejmuje powtórek między serwisami. Na koniec miesiąca aktywnych było 1 780 860 ogłoszeń. Sierpień to pierwszy pełny miesiąc zbierania danych i baza indeksu (100). Nie ma więc jeszcze porównania miesiąc do miesiąca ani rok do roku. Dane dotyczą ogłoszeń w internecie, a nie całego rynku pracy.\n\nMediana wynagrodzenia wyniosła 3 553 EUR miesięcznie. Połowa ofert ze stawką mieściła się między 2 787 a 4 583 EUR. Kwotę podało 19% ogłoszeń (86 517), więc mediana nie opisuje wszystkich ofert.\n\nPracę zdalną oznaczono w 2,5% ogłoszeń. Pełny etat wskazano w 9,7% ogłoszeń, część etatu w 4,7%. W 82,8% ogłoszeń nie było informacji o formie zatrudnienia.\n\nOgłoszenia dotyczyły 12 923 miast. Najwięcej przypadło na Berlin (72 033, czyli 6,0%), Hamburg (36 861, 3,1%) i Monachium (34 878, 2,9%). Dane pochodzą z 3 agregatorów: Jooble (533 863), Careerjet (422 195) i Indeed (237 788). Łącznie dają one 1 193 846 ogłoszeń przed zdjęciem powtórek. Szacunkowo 26,5% ogłoszeń było widocznych w więcej niż jednym serwisie.",
+  "lead_pl": "W sierpniu 2026 r. w Niemczech pojawiło się 877 394 nowych internetowych ofert pracy. Pracę zdalną oferowało 2,5% z nich, a pięć największych miast skupiło 15,3%.",
+  "body_pl": "W sierpniu 2026 r. w Niemczech pojawiło się 877 394 nowych internetowych ofert pracy. To liczba po zdjęciu powtórek między serwisami. Przed tym krokiem było ich 1 193 846. Szacunkowo 26,5% ogłoszeń występowało w więcej niż jednym serwisie. Na koniec miesiąca aktywnych było 1 780 860 ofert. Sierpień to pierwszy pełny miesiąc pomiaru i baza indeksu, więc nie ma jeszcze porównań miesiąc do miesiąca ani rok do roku.\n\nOferty pochodzą z trzech agregatorów. Przed zdjęciem powtórek Jooble dostarczył 533 863 ogłoszeń (44,7%), Careerjet 422 195, a Indeed 237 788. Ogłoszenia dotyczyły 12 923 miejscowości. Najwięcej było w Berlinie (72 033, 6,0%), Hamburgu (36 861, 3,1%) i Monachium (34 878, 2,9%). Dalej były Frankfurt nad Menem (1,7%) i Kolonia (1,6%).\n\nWynagrodzenie podawało 19% ogłoszeń (86 517). W tej grupie mediana wynosiła 3 553 EUR miesięcznie. Połowa stawek mieściła się między 2 787 a 4 583 EUR. Pracę zdalną wskazywało 2,5% ofert. Wymiar zatrudnienia był nieokreślony w 82,8% ogłoszeń. Pełny etat wskazywało 9,7% ofert, a część etatu 4,7%.",
   "bullets_pl": [
-   "877 394 nowych ogłoszeń i 1 780 860 aktywnych na koniec sierpnia",
-   "Mediana wynagrodzenia: 3 553 EUR (stawkę podało 19% ogłoszeń)",
-   "Praca zdalna: 2,5% ogłoszeń"
+   "877 394 nowych internetowych ofert pracy po zdjęciu powtórek (1 193 846 przed).",
+   "Mediana wynagrodzenia 3 553 EUR w 19% ogłoszeń z podaną stawką.",
+   "Berlin: 72 033 ogłoszeń, 6,0% wszystkich."
   ],
-  "caveats_pl": "Pełne dane obejmują dopiero sierpień 2026 r. i pochodzą wyłącznie z ogłoszeń w 3 internetowych agregatorach, a wynagrodzenie podaje tylko 19% ogłoszeń, więc wskaźniki nie opisują całego niemieckiego rynku pracy.",
-  "lead_en": "In August 2026, 877,394 new job postings were published online in Germany. It is the first complete month of data and the index base (100).",
-  "body_en": "In August 2026, online job boards in Germany showed 877,394 new postings. This figure excludes duplicates across sites. At the end of the month, 1,780,860 postings were active. August is the first complete month of data collection and the index base (100). There is therefore no month-on-month or year-on-year comparison yet. The data cover online job postings, not the entire labour market.\n\nThe median salary was 3,553 EUR per month. Half of the postings with a stated rate fell between 2,787 and 4,583 EUR. A salary was given in 19% of postings (86,517), so the median does not describe all offers.\n\nRemote work was marked in 2.5% of postings. Full-time work was indicated in 9.7% of postings and part-time in 4.7%. In 82.8% of postings, the employment type was not stated.\n\nThe postings covered 12,923 cities. The most were in Berlin (72,033, or 6.0%), Hamburg (36,861, 3.1%) and Munich (34,878, 2.9%). The data come from 3 aggregators: Jooble (533,863), Careerjet (422,195) and Indeed (237,788). Together they give 1,193,846 postings before duplicates are removed. An estimated 26.5% of postings appeared on more than one site.",
+  "caveats_pl": "Dane obejmują tylko oferty z trzech serwisów internetowych i są zbierane od 1 sierpnia 2026 r., więc nie opisują całego rynku pracy i nie pozwalają na porównania w czasie; wynagrodzenie podaje 19% ogłoszeń.",
+  "lead_en": "In August 2026, Germany saw 877,394 new online job offers. Of these, 2.5% offered remote work, and the five largest cities accounted for 15.3%.",
+  "body_en": "In August 2026, Germany saw 877,394 new online job offers. This figure is after removing duplicates across services. Before that step, there were 1,193,846. An estimated 26.5% of postings appeared on more than one service. At the end of the month, 1,780,860 offers were active. August is the first complete month of measurement and the index base, so no month-on-month or year-on-year comparisons are available yet.\n\nThe offers come from three aggregators. Before deduplication, Jooble supplied 533,863 postings (44.7%), Careerjet 422,195 and Indeed 237,788. Postings covered 12,923 localities. The most were in Berlin (72,033, 6.0%), Hamburg (36,861, 3.1%) and Munich (34,878, 2.9%). Frankfurt am Main (1.7%) and Cologne (1.6%) followed.\n\nSalary was stated in 19% of postings (86,517). In this group, the median was EUR 3,553 per month. Half of the stated pay fell between EUR 2,787 and EUR 4,583. Remote work was indicated in 2.5% of offers. Employment type was unspecified in 82.8% of postings. Full-time work was indicated in 9.7% of offers and part-time work in 4.7%.",
   "bullets_en": [
-   "877,394 new postings and 1,780,860 active at the end of August",
-   "Median salary: 3,553 EUR (19% of postings stated a salary)",
-   "Remote work: 2.5% of postings"
-  ]
+   "877,394 new online job offers after deduplication (1,193,846 before).",
+   "Median salary EUR 3,553 in the 19% of postings stating pay.",
+   "Berlin: 72,033 postings, 6.0% of the total."
+  ],
+  "based_on": "877394|3553|0.025"
  },
  "skills_demo": {
   "is_synthetic": true,

@@ -8,14 +8,14 @@
   "continent": "mena",
   "currency": "SAR"
  },
- "generated_at": "2026-09-30T15:36:10+00:00",
+ "generated_at": "2026-09-30T16:14:03+00:00",
  "coverage": {
   "first_month": "2025-04",
   "last_month": "2026-08",
   "collecting_since": "2023-01-01",
   "complete_from": "2023-01",
   "index_base_month": "2023-01",
-  "note_pl": "Zbieranie trwa od 01.01.2023; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
+  "note_pl": "Zbieranie trwa od 01.01.2023; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: miesiąc jeszcze trwa."
  },
  "headline": {
   "month": "2026-08",
@@ -4843,24 +4843,25 @@
  ],
  "commentary": {
   "month": "2026-08",
-  "generated_at": "2026-09-30T15:38:19+00:00",
+  "generated_at": "2026-09-30T16:36:28+00:00",
   "model": "claude-opus-5-5",
   "is_ai": true,
-  "lead_pl": "W sierpniu 2026 r. w Arabii Saudyjskiej pojawiło się 86 759 nowych internetowych ogłoszeń o pracę, o 138,4% więcej niż w lipcu.",
-  "body_pl": "W sierpniu 2026 r. serwisy internetowe opublikowały w Arabii Saudyjskiej 86 759 nowych ogłoszeń o pracę. W lipcu było ich 36 387, więc wzrost wyniósł 138,4% m/m. Rok do roku liczba ogłoszeń wzrosła o 2986,4%. Na koniec miesiąca aktywnych było 152 830 ogłoszeń, wobec 24 230 na koniec lipca. Przed zdjęciem powtórek zebrano 106 108 ogłoszeń. Szacunkowo 12,8% z nich pojawiało się w więcej niż jednym serwisie.\n\nLiczba nowych ogłoszeń rośnie od kwietnia: 5 027, 8 100, 15 706, 36 387 i 86 759. Hipoteza: tak szybki wzrost może w dużej części wynikać z poszerzenia zasięgu zbierania danych, a nie tylko ze zmian na rynku. Dane pochodzą z 15 serwisów, a przeważają agregatory: Tanqeeb (41 682 ogłoszeń, 39,3%), Careerjet (19 767) i Jooble (10 163).\n\nNajwięcej ogłoszeń dotyczyło Rijadu (32 157, 30,3%) i Dżuddy (17 272, 16,3%). W Dżuddzie liczba ogłoszeń wzrosła o 411,5%, z 3 377 w lipcu. Wśród pięciu najczęstszych lokalizacji są też ogólne oznaczenia „Saudi Arabia” (7,2%) i „Saudi” (6,4%). Jest tam również Dubaj (7 487 ogłoszeń, 7,1%), czyli miasto spoza kraju.\n\nMediana wynagrodzenia wyniosła 5 000 SAR miesięcznie. Dotyczy ona tylko ogłoszeń z podaną kwotą, czyli 16,4% (4 183 ogłoszeń). Połowa tych ofert mieściła się między 4 000 a 7 000 SAR. W lipcu mediana wynosiła 6 000 SAR, ale kwotę podawało wtedy 2,7% ogłoszeń, więc obu wartości nie należy porównywać wprost. Pracę zdalną oferowało 1,4% ogłoszeń. W 57,9% ogłoszeń nie podano rodzaju zatrudnienia, a 40,0% dotyczyło pełnego etatu.",
+  "lead_pl": "W sierpniu 2026 r. w internetowych ofertach pracy z Arabii Saudyjskiej pojawiło się 86 759 nowych ogłoszeń; 30,3% dotyczyło Rijadu, a 16,3% Dżuddy.",
+  "body_pl": "W sierpniu 2026 r. zebraliśmy 86 759 nowych internetowych ofert pracy z Arabii Saudyjskiej, o 138,4% więcej niż w lipcu. To piąty z rzędu miesiąc wzrostu i najwyższa liczba od początku zbierania. We wrześniu 2025 r. było to 3 123 ogłoszeń. Na koniec sierpnia aktywnych było 152 830 ofert. Przed zdjęciem powtórek serwisy pokazały 106 108 ogłoszeń. Szacunkowo 12,8% ofert występowało w więcej niż jednym serwisie. Wzrost rok do roku wyniósł 2986,4%. Hipoteza: tak duża skala zmian może w dużej części odzwierciedlać rozszerzanie zbierania danych, a nie tylko zmiany w liczbie ofert publikowanych przez pracodawców.\n\nOferty koncentrują się w dwóch miastach. Rijad miał 32 157 ogłoszeń (30,3%), a Dżudda 17 272 (16,3%). W Dżuddzie liczba ofert wzrosła o 411,5% m/m, z 3 377 w lipcu. W 7,2% ogłoszeń jako lokalizację podano tylko „Saudi Arabia”, a w 6,4% „Saudi”. 7 487 ofert (7,1%) wskazywało Dubaj. Łącznie ogłoszenia dotyczyły 691 lokalizacji.\n\nMediana wynagrodzenia wyniosła 5 000 SAR miesięcznie. Liczono ją tylko z 16,4% ogłoszeń z podaną kwotą (4 183 ofert). Połowa tych stawek mieściła się między 4 000 a 7 000 SAR. W lipcu kwotę podawało 2,7% ofert, a mediana wynosiła 6 000 SAR. Pracę zdalną oznaczono w 1,4% ogłoszeń (1 486), o 1,0 pkt proc. więcej niż w lipcu. Pełny etat wskazywało 40,0% ofert. W 57,9% ogłoszeń nie było informacji o formie zatrudnienia.\n\nDane pochodzą z 15 serwisów. Największy, agregator Tanqeeb, dostarczył 41 682 ze 106 108 ogłoszeń przed zdjęciem powtórek (39,3%). Kolejne były agregatory Careerjet (19 767) i Jooble (10 163).",
   "bullets_pl": [
-   "86 759 nowych ogłoszeń, +138,4% m/m",
-   "Rijad: 32 157 ogłoszeń (30,3%), Dżudda: 17 272 (+411,5% m/m)",
-   "Mediana 5 000 SAR w 16,4% ogłoszeń z podaną kwotą"
+   "86 759 nowych internetowych ofert pracy w sierpniu, +138,4% m/m",
+   "Rijad: 32 157 ofert (30,3%), Dżudda: 17 272 (16,3%, +411,5% m/m)",
+   "Mediana wynagrodzenia 5 000 SAR w 16,4% ofert z podaną kwotą"
   ],
-  "caveats_pl": "Wskaźniki opisują tylko ogłoszenia publikowane w internecie, historia miesięczna jest krótka i silnie zależy od zmian w liczbie i zasięgu źródeł, wynagrodzenie podaje tylko 16,4% ogłoszeń, a wrzesień 2026 nie zostanie ujęty z powodu przerwy w zbieraniu danych.",
-  "lead_en": "In August 2026, 86,759 new online job postings appeared in Saudi Arabia, 138.4% more than in July.",
-  "body_en": "In August 2026, online job boards published 86,759 new job postings in Saudi Arabia. July had 36,387, so the increase was 138.4% month on month. Year on year, the number of postings rose by 2986.4%. At the end of the month, 152,830 postings were active, compared with 24,230 at the end of July. Before duplicates were removed, 106,108 postings were collected. An estimated 12.8% of them appeared on more than one site.\n\nThe number of new postings has been rising since April: 5,027, 8,100, 15,706, 36,387 and 86,759. Hypothesis: such rapid growth may largely reflect wider data collection coverage rather than only changes in the market. The data come from 15 sites, and aggregators dominate: Tanqeeb (41,682 postings, 39.3%), Careerjet (19,767) and Jooble (10,163).\n\nMost postings were for Riyadh (32,157, 30.3%) and Jeddah (17,272, 16.3%). In Jeddah, the number of postings rose by 411.5%, from 3,377 in July. The five most common locations also include the generic labels \"Saudi Arabia\" (7.2%) and \"Saudi\" (6.4%). Dubai also appears (7,487 postings, 7.1%), a city outside the country.\n\nThe median salary was SAR 5,000 per month. It covers only postings that stated an amount, which was 16.4% (4,183 postings). Half of those offers fell between SAR 4,000 and SAR 7,000. In July the median was SAR 6,000, but only 2.7% of postings stated an amount then, so the two figures should not be compared directly. Remote work was offered in 1.4% of postings. The employment type was not specified in 57.9% of postings, and 40.0% were for full-time jobs.",
+  "caveats_pl": "Dane obejmują tylko internetowe oferty pracy, a nie cały rynek pracy; historia zbierania jest krótka i obejmuje zmieniający się zestaw serwisów, a wynagrodzenie podaje tylko 16,4% ogłoszeń, więc mediana nie opisuje wszystkich ofert.",
+  "lead_en": "In August 2026, 86,759 new online job postings appeared in Saudi Arabia; 30.3% were for Riyadh and 16.3% for Jeddah.",
+  "body_en": "In August 2026 we collected 86,759 new online job postings from Saudi Arabia, 138.4% more than in July. It was the fifth consecutive monthly increase and the highest count since collection began. In September 2025 the figure was 3,123. At the end of August, 152,830 postings were active. Before removing duplicates, the sites showed 106,108 postings. An estimated 12.8% appeared on more than one site. Year on year, the increase was 2,986.4%. Hypothesis: a change of this scale may largely reflect the expansion of data collection, not only changes in the number of postings published by employers.\n\nPostings are concentrated in two cities. Riyadh had 32,157 postings (30.3%) and Jeddah 17,272 (16.3%). In Jeddah the count rose 411.5% m/m, from 3,377 in July. In 7.2% of postings the only location given was \"Saudi Arabia\", and in 6.4% \"Saudi\". 7,487 postings (7.1%) listed Dubai. In total, postings covered 691 locations.\n\nThe median salary was SAR 5,000 per month. It was calculated only from the 16.4% of postings that stated an amount (4,183 postings). Half of these rates fell between SAR 4,000 and SAR 7,000. In July, 2.7% of postings stated an amount and the median was SAR 6,000. Remote work was indicated in 1.4% of postings (1,486), up 1.0 pp from July. Full-time employment was stated in 40.0% of postings. 57.9% gave no information on employment type.\n\nThe data come from 15 sites. The largest, the aggregator Tanqeeb, supplied 41,682 of the 106,108 postings before duplicates were removed (39.3%). Next came the aggregators Careerjet (19,767) and Jooble (10,163).",
   "bullets_en": [
-   "86,759 new postings, +138.4% m/m",
-   "Riyadh: 32,157 postings (30.3%), Jeddah: 17,272 (+411.5% m/m)",
-   "Median SAR 5,000 in the 16.4% of postings stating an amount"
-  ]
+   "86,759 new online job postings in August, +138.4% m/m",
+   "Riyadh: 32,157 postings (30.3%), Jeddah: 17,272 (16.3%, +411.5% m/m)",
+   "Median salary SAR 5,000 in the 16.4% of postings stating an amount"
+  ],
+  "based_on": "86759|5000|0.014"
  },
  "skills_demo": {
   "is_synthetic": true,

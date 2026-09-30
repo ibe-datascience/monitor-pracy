@@ -8,14 +8,14 @@
   "continent": "mena",
   "currency": "JOD"
  },
- "generated_at": "2026-09-30T15:36:10+00:00",
+ "generated_at": "2026-09-30T16:14:03+00:00",
  "coverage": {
   "first_month": "2026-08",
   "last_month": "2026-08",
   "collecting_since": "2026-08-04",
   "complete_from": "2026-09",
   "index_base_month": "2026-08",
-  "note_pl": "Zbieranie trwa od 04.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
+  "note_pl": "Zbieranie trwa od 04.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: miesiąc jeszcze trwa."
  },
  "headline": {
   "month": "2026-08",
@@ -452,24 +452,25 @@
  ],
  "commentary": {
   "month": "2026-08",
-  "generated_at": "2026-09-30T15:38:44+00:00",
+  "generated_at": "2026-09-30T16:36:47+00:00",
   "model": "claude-opus-5-5",
   "is_ai": true,
-  "lead_pl": "W sierpniu 2026 r. w Jordanii zebrano 4 486 nowych internetowych ogłoszeń o pracę; to miesiąc bazowy indeksu (100), bez porównań do wcześniejszych okresów.",
-  "body_pl": "W sierpniu 2026 r. w Jordanii zebrano 4 486 nowych ogłoszeń o pracę opublikowanych w internecie. Przed zdjęciem powtórek było ich 7 219. Sierpień to miesiąc bazowy indeksu (100,0). Nie ma porównania miesiąc do miesiąca ani rok do roku. Dane za sierpień są niepełne, bo zbieranie ruszyło 4 sierpnia.\n\nWszystkie ogłoszenia pochodzą z jednego serwisu, agregatora Tanqeeb. Szacunkowo 37,9% rekordów to powtórki, czyli ten sam tytuł, firma i miasto w tym samym miesiącu. Wskaźniki liczone są po ich zdjęciu.\n\nKwotę wynagrodzenia podano w 1% ogłoszeń, dlatego mediany nie wyliczono. Pracę zdalną oznaczono w 4,2% ogłoszeń. Pełny etat wskazano w 35,8% ogłoszeń, kontrakt w 0,3%, a niepełny etat w 0,1%. W 63,9% ogłoszeń forma zatrudnienia jest nieznana.\n\nW 49,8% ogłoszeń jako miejsce pracy podano tylko kraj („Jordan”), bez miasta. Na Amman przypada 46,6% ogłoszeń, na Akabę 2,6%, a na Irbid 0,3%.",
+  "lead_pl": "W sierpniu 2026 r. 46,6% internetowych ofert pracy z Jordanii wskazywało Amman, a kwotę wynagrodzenia podawał tylko 1% ofert.",
+  "body_pl": "W sierpniu 2026 r. zebraliśmy 4 486 nowych internetowych ofert pracy z Jordanii. Przed zdjęciem powtórek było ich 7 219. Wszystkie pochodzą z jednego serwisu, agregatora Tanqeeb. Zbieranie ruszyło 4 sierpnia, więc część miesiąca odtworzono z dat publikacji widocznych w serwisie. Brak porównań miesiąc do miesiąca i rok do roku.\n\nOferty skupiają się w stolicy. Amman wskazywało 46,6% ofert, Akabę 2,6%, Irbid i Al-Azrak po 0,3%. W 49,8% ofert jako lokalizację podano tylko kraj. Wśród ofert z podanym miastem na Amman przypadało około 92,9%. Oferty dotyczyły łącznie 15 miejscowości.\n\nFormę zatrudnienia określono w mniejszości ofert. Pełny etat wskazywało 35,8%, umowę kontraktową 0,3%, część etatu 0,1%. W 63,9% ofert brak tej informacji. Pracę zdalną oznaczono w 4,2% ofert, czyli w 303 ogłoszeniach.\n\nKwotę wynagrodzenia podawał 1% ofert. To za mało, by wyznaczyć medianę płac.",
   "bullets_pl": [
-   "4 486 nowych ogłoszeń po zdjęciu powtórek (7 219 przed)",
-   "4,2% ogłoszeń oznaczonych jako praca zdalna",
-   "Amman: 46,6% ogłoszeń; 49,8% bez wskazanego miasta"
+   "4 486 nowych ofert po zdjęciu powtórek (7 219 przed)",
+   "Amman: 46,6% ofert; tylko kraj bez miasta: 49,8%",
+   "Praca zdalna: 4,2% ofert (303 ogłoszenia)"
   ],
-  "caveats_pl": "Dane obejmują tylko ogłoszenia internetowe z jednego serwisu (Tanqeeb), historia zaczyna się 4 sierpnia 2026 r., sierpień jest niepełny, brakuje września (przerwa 8-30 września), a kwotę wynagrodzenia podaje tylko 1% ogłoszeń.",
-  "lead_en": "In August 2026, 4,486 new online job postings were collected in Jordan; it is the index base month (100), with no comparison to earlier periods.",
-  "body_en": "In August 2026, 4,486 new job postings published online were collected in Jordan. Before removing duplicates there were 7,219. August is the index base month (100.0). There is no month-on-month or year-on-year comparison. August data is incomplete because collection started on 4 August.\n\nAll postings come from a single service, the aggregator Tanqeeb. An estimated 37.9% of records are duplicates, meaning the same title, company and city in the same month. Indicators are calculated after removing them.\n\nA salary amount was given in 1% of postings, so no median was calculated. Remote work was marked in 4.2% of postings. Full-time work was specified in 35.8% of postings, contract in 0.3% and part-time in 0.1%. In 63.9% of postings the employment type is unknown.\n\nIn 49.8% of postings only the country (\"Jordan\") was given as the place of work, with no city. Amman accounts for 46.6% of postings, Aqaba for 2.6% and Irbid for 0.3%.",
+  "caveats_pl": "Dane obejmują wyłącznie internetowe oferty pracy z jednego serwisu (Tanqeeb), a nie cały rynek pracy. Zbieranie trwa od 4 sierpnia 2026 r., więc sierpień jest niepełny. Kwotę wynagrodzenia podaje tylko 1% ofert.",
+  "lead_en": "In August 2026, 46.6% of online job offers from Jordan named Amman, and only 1% of offers stated a salary amount.",
+  "body_en": "In August 2026 we collected 4,486 new online job offers from Jordan. Before removing duplicates there were 7,219. All come from a single service, the Tanqeeb aggregator. Collection started on 4 August, so part of the month was reconstructed from publication dates visible on the service. There are no month-on-month or year-on-year comparisons.\n\nOffers are concentrated in the capital. Amman was named in 46.6% of offers, Aqaba in 2.6%, and Irbid and Al Azraq in 0.3% each. In 49.8% of offers only the country was given as the location. Among offers with a specified city, Amman accounted for about 92.9%. Offers covered 15 locations in total.\n\nThe employment type was stated in a minority of offers. Full-time was indicated in 35.8%, contract in 0.3% and part-time in 0.1%. In 63.9% of offers this information was missing. Remote work was marked in 4.2% of offers, or 303 postings.\n\nA salary amount was given in 1% of offers. That is too few to calculate a median wage.",
   "bullets_en": [
-   "4,486 new postings after removing duplicates (7,219 before)",
-   "4.2% of postings marked as remote work",
-   "Amman: 46.6% of postings; 49.8% with no city specified"
-  ]
+   "4,486 new offers after removing duplicates (7,219 before)",
+   "Amman: 46.6% of offers; country only, no city: 49.8%",
+   "Remote work: 4.2% of offers (303 postings)"
+  ],
+  "based_on": "4486|None|0.042"
  },
  "skills_demo": {
   "is_synthetic": true,

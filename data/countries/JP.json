@@ -8,14 +8,14 @@
   "continent": "asia_pacific",
   "currency": "JPY"
  },
- "generated_at": "2026-09-30T15:36:10+00:00",
+ "generated_at": "2026-09-30T16:14:03+00:00",
  "coverage": {
   "first_month": "2026-06",
   "last_month": "2026-08",
   "collecting_since": "2026-08-01",
   "complete_from": "2026-08",
   "index_base_month": "2026-08",
-  "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
+  "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: miesiąc jeszcze trwa."
  },
  "headline": {
   "month": "2026-08",
@@ -1075,24 +1075,25 @@
  ],
  "commentary": {
   "month": "2026-08",
-  "generated_at": "2026-09-30T15:38:12+00:00",
+  "generated_at": "2026-09-30T16:36:19+00:00",
   "model": "claude-opus-5-5",
   "is_ai": true,
-  "lead_pl": "W sierpniu 2026 r. w japońskich serwisach internetowych pojawiło się 2 802 709 nowych ogłoszeń o pracę. To pierwszy pełny miesiąc danych i baza indeksu (100).",
-  "body_pl": "Dane pochodzą z ogłoszeń o pracę publikowanych w internecie, nie z całego rynku pracy. W sierpniu 2026 r. w Japonii odnotowano 2 802 709 nowych ogłoszeń po usunięciu powtórek. Przed ich usunięciem było ich 3 285 988. Szacunkowo 14,7% ofert pojawiało się w więcej niż jednym serwisie. Na koniec miesiąca aktywnych było 3 876 829 ogłoszeń. Sierpień jest pierwszym pełnym miesiącem zbierania danych i bazą indeksu, dlatego nie ma porównań miesiąc do miesiąca ani rok do roku.\n\nKwotę wynagrodzenia podało 54,4% ogłoszeń. W tej grupie mediana wyniosła 277 328 JPY. Połowa stawek mieściła się między 228 000 a 339 727 JPY. Pracę zdalną oznaczono w 1,5% ogłoszeń.\n\nPełny etat wskazano w 20,9% ofert, część etatu w 12,9%, a umowę kontraktową w 1,6%. W 64,5% ogłoszeń forma zatrudnienia nie była określona. Dane pochodzą z 3 agregatorów: Careerjet (1 587 396 ogłoszeń, 48,3%), Indeed (1 294 620) i Jooble (403 972).\n\nOgłoszenia dotyczyły 60 405 miejscowości. Najwięcej wskazywało 東京都 (25 397, 0,8%), a na kolejnych miejscach były 千葉県船橋市 (11 317) i 東京都八王子市 (10 825). Hipoteza: niski udział największej pozycji może wynikać z rozdrobnienia oznaczeń lokalizacji w ogłoszeniach.",
+  "lead_pl": "W sierpniu 2026 r. w Japonii pojawiło się 2 802 709 nowych internetowych ofert pracy; stawkę podało 54,4% z nich, a mediana wyniosła 277 328 JPY.",
+  "body_pl": "W sierpniu 2026 r. w trzech monitorowanych serwisach z Japonii pojawiło się 2 802 709 nowych internetowych ofert pracy. Liczba ta nie obejmuje powtórek między serwisami. Przed ich usunięciem ofert było 3 285 988, a szacowany odsetek duplikatów wynosi 14,7%. Na koniec miesiąca aktywnych było 3 876 829 ofert. To pierwszy pełny miesiąc pomiaru, więc nie ma jeszcze porównania miesiąc do miesiąca ani rok do roku.\n\nKwotę wynagrodzenia podało 54,4% ofert. Wśród nich mediana wyniosła 277 328 JPY miesięcznie. Połowa tych ofert mieściła się w przedziale od 228 000 do 339 727 JPY. Pracę zdalną wskazano w 1,5% ofert. Pełny etat wpisano w 20,9% ofert, część etatu w 12,9%, a umowę kontraktową w 1,6%. W 64,5% ofert rodzaj zatrudnienia pozostał nieokreślony.\n\nOferty są rozproszone geograficznie: pochodzą z 60 405 lokalizacji. Najczęstsza pozycja, 東京都 (Tokio), objęła 25 397 ofert, czyli 0,8% wszystkich. Kolejne to 船橋市 (Funabashi, 11 317), 八王子市 (Hachiōji, 10 825), 金沢市 (Kanazawa, 10 806) i 豊田市 (Toyota, 10 733). Hipoteza: wpis 東京都 może obejmować oferty z lokalizacją podaną tylko na poziomie prefektury.\n\nWszystkie trzy źródła to agregatory. Przed usunięciem powtórek Careerjet dostarczył 1 587 396 ofert (48,3%), Indeed 1 294 620, a Jooble 403 972.",
   "bullets_pl": [
-   "2 802 709 nowych ogłoszeń w sierpniu 2026 r. (indeks = 100)",
-   "Mediana wynagrodzenia: 277 328 JPY (w 54,4% ogłoszeń z podaną kwotą)",
-   "Praca zdalna: 1,5% ogłoszeń"
+   "2 802 709 nowych internetowych ofert pracy w sierpniu 2026 r.",
+   "Mediana wynagrodzenia: 277 328 JPY (wśród 54,4% ofert z podaną kwotą)",
+   "Praca zdalna: 1,5% ofert"
   ],
-  "caveats_pl": "Zbieranie trwa od 1 sierpnia 2026 r., więc brak porównań z pełnymi wcześniejszymi miesiącami, dane obejmują wyłącznie ogłoszenia internetowe z 3 agregatorów, a wynagrodzenie podaje tylko 54,4% z nich.",
-  "lead_en": "In August 2026, 2,802,709 new job postings appeared on Japanese online job sites. It is the first complete month of data and the index base (100).",
-  "body_en": "The data come from job postings published online, not from the labour market as a whole. In August 2026, Japan recorded 2,802,709 new postings after duplicates were removed. Before deduplication, there were 3,285,988. An estimated 14.7% of postings appeared on more than one site. At the end of the month, 3,876,829 postings were active. August is the first complete month of data collection and the index base, so there are no month-on-month or year-on-year comparisons.\n\nA salary figure was given in 54.4% of postings. In that group, the median was 277,328 JPY. Half of the stated rates fell between 228,000 and 339,727 JPY. Remote work was marked in 1.5% of postings.\n\nFull-time employment was stated in 20.9% of postings, part-time in 12.9% and contract work in 1.6%. In 64.5% of postings, the employment type was not specified. The data come from 3 aggregators: Careerjet (1,587,396 postings, 48.3%), Indeed (1,294,620) and Jooble (403,972).\n\nPostings covered 60,405 locations. The most frequently listed was 東京都 (25,397, 0.8%), followed by 千葉県船橋市 (11,317) and 東京都八王子市 (10,825). Hypothesis: the low share of the top location may reflect fragmented location labels in postings.",
+  "caveats_pl": "Pomiar trwa od 1 sierpnia 2026 r., więc nie ma jeszcze porównań w czasie; dane obejmują tylko oferty z trzech agregatorów internetowych, nie cały rynek pracy, a mediana wynagrodzenia dotyczy 54,4% ofert z podaną kwotą.",
+  "lead_en": "In August 2026, 2,802,709 new online job postings appeared in Japan; 54.4% of them stated pay, with a median of JPY 277,328.",
+  "body_en": "In August 2026, 2,802,709 new online job postings appeared in Japan across three monitored services. This figure excludes duplicates across services. Before their removal there were 3,285,988 postings, and the estimated duplicate share is 14.7%. At month-end, 3,876,829 postings were active. This is the first complete month of measurement, so there is no month-on-month or year-on-year comparison yet.\n\nA pay amount was stated in 54.4% of postings. Among them, the median was JPY 277,328 per month. Half of these postings fell between JPY 228,000 and JPY 339,727. Remote work was indicated in 1.5% of postings. Full-time work was stated in 20.9% of postings, part-time in 12.9% and contract in 1.6%. In 64.5% of postings the employment type was not specified.\n\nPostings are geographically dispersed: they come from 60,405 locations. The most frequent entry, 東京都 (Tokyo), accounted for 25,397 postings, or 0.8% of the total. It was followed by 船橋市 (Funabashi, 11,317), 八王子市 (Hachiōji, 10,825), 金沢市 (Kanazawa, 10,806) and 豊田市 (Toyota, 10,733). Hypothesis: the 東京都 entry may include postings whose location is given only at prefecture level.\n\nAll three sources are aggregators. Before duplicate removal, Careerjet supplied 1,587,396 postings (48.3%), Indeed 1,294,620 and Jooble 403,972.",
   "bullets_en": [
-   "2,802,709 new postings in August 2026 (index = 100)",
-   "Median salary: 277,328 JPY (among the 54.4% of postings stating an amount)",
+   "2,802,709 new online job postings in August 2026",
+   "Median pay: JPY 277,328 (among the 54.4% of postings stating an amount)",
    "Remote work: 1.5% of postings"
-  ]
+  ],
+  "based_on": "2802709|277328|0.015"
  },
  "skills_demo": {
   "is_synthetic": true,
