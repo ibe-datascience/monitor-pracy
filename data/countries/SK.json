@@ -1,0 +1,1643 @@
+{
+ "country": {
+  "code": "SK",
+  "iso3": "SVK",
+  "numeric": 703,
+  "name_pl": "Słowacja",
+  "name_en": "Slovakia",
+  "continent": "europe",
+  "currency": "EUR"
+ },
+ "generated_at": "2026-09-30T15:36:10+00:00",
+ "coverage": {
+  "first_month": "2026-05",
+  "last_month": "2026-08",
+  "collecting_since": "2026-08-01",
+  "complete_from": "2026-08",
+  "index_base_month": "2026-08",
+  "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
+ },
+ "headline": {
+  "month": "2026-08",
+  "postings_new": 12106,
+  "postings_raw": 14706,
+  "mom_pct": null,
+  "yoy_pct": null,
+  "postings_active_end": 18423,
+  "salary_median": 1473,
+  "salary_currency": "EUR",
+  "salary_share": 0.624,
+  "remote_share": 0.021,
+  "sources": 2,
+  "top_source": {
+   "code": "jooble.sk",
+   "service": "Jooble",
+   "share": 0.756
+  }
+ },
+ "monthly": [
+  {
+   "period": "2026-05",
+   "partial": false,
+   "postings_new": 448,
+   "postings_raw": 453,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 3.7,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 1600,
+    "p25": 1362,
+    "p75": 1950,
+    "mean": 1699,
+    "n": 155,
+    "share": 0.472,
+    "currency": "EUR"
+   },
+   "remote_share": 0.009,
+   "employment": {
+    "full_time": 0.0,
+    "part_time": 0.0,
+    "contract": 0.0,
+    "other": 0.0,
+    "unknown": 1.0
+   },
+   "by_source": [
+    {
+     "code": "careerjet.sk",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 381
+    },
+    {
+     "code": "jooble.sk",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 72
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Bratislava",
+     "n": 134,
+     "share": 0.296
+    },
+    {
+     "name": "Košice",
+     "n": 59,
+     "share": 0.13
+    },
+    {
+     "name": "Slovensko",
+     "n": 39,
+     "share": 0.086
+    },
+    {
+     "name": "Levice",
+     "n": 13,
+     "share": 0.029
+    },
+    {
+     "name": "Nitra",
+     "n": 13,
+     "share": 0.029
+    },
+    {
+     "name": "Banská Bystrica",
+     "n": 9,
+     "share": 0.02
+    },
+    {
+     "name": "Nové Mesto nad Váhom",
+     "n": 9,
+     "share": 0.02
+    },
+    {
+     "name": "Žilina",
+     "n": 9,
+     "share": 0.02
+    },
+    {
+     "name": "Bratislavský kraj",
+     "n": 8,
+     "share": 0.018
+    },
+    {
+     "name": "Dolný Kubín",
+     "n": 7,
+     "share": 0.015
+    },
+    {
+     "name": "Malacky",
+     "n": 7,
+     "share": 0.015
+    },
+    {
+     "name": "Na daljavo",
+     "n": 7,
+     "share": 0.015
+    },
+    {
+     "name": "Sereď",
+     "n": 7,
+     "share": 0.015
+    },
+    {
+     "name": "Prešov",
+     "n": 6,
+     "share": 0.013
+    },
+    {
+     "name": "Lozorno",
+     "n": 5,
+     "share": 0.011
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-06",
+   "partial": false,
+   "postings_new": 1071,
+   "postings_raw": 1093,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 8.8,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 1600,
+    "p25": 1200,
+    "p75": 1850,
+    "mean": 1597,
+    "n": 394,
+    "share": 0.513,
+    "currency": "EUR"
+   },
+   "remote_share": 0.005,
+   "employment": {
+    "full_time": 0.0,
+    "part_time": 0.0,
+    "contract": 0.0,
+    "other": 0.0,
+    "unknown": 1.0
+   },
+   "by_source": [
+    {
+     "code": "careerjet.sk",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 791
+    },
+    {
+     "code": "jooble.sk",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 302
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Bratislava",
+     "n": 290,
+     "share": 0.265
+    },
+    {
+     "name": "Košice",
+     "n": 111,
+     "share": 0.102
+    },
+    {
+     "name": "Slovensko",
+     "n": 67,
+     "share": 0.061
+    },
+    {
+     "name": "Nitra",
+     "n": 44,
+     "share": 0.04
+    },
+    {
+     "name": "Banská Bystrica",
+     "n": 39,
+     "share": 0.036
+    },
+    {
+     "name": "Na daljavo",
+     "n": 33,
+     "share": 0.03
+    },
+    {
+     "name": "Senec",
+     "n": 27,
+     "share": 0.025
+    },
+    {
+     "name": "Prešov",
+     "n": 25,
+     "share": 0.023
+    },
+    {
+     "name": "Trnava",
+     "n": 23,
+     "share": 0.021
+    },
+    {
+     "name": "Žilina",
+     "n": 19,
+     "share": 0.017
+    },
+    {
+     "name": "Bratislavský kraj",
+     "n": 18,
+     "share": 0.016
+    },
+    {
+     "name": "Poprad",
+     "n": 18,
+     "share": 0.016
+    },
+    {
+     "name": "Rakúsko",
+     "n": 18,
+     "share": 0.016
+    },
+    {
+     "name": "Nové Mesto nad Váhom",
+     "n": 16,
+     "share": 0.015
+    },
+    {
+     "name": "Malacky",
+     "n": 15,
+     "share": 0.014
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "slovak business consultant sofia, bulgaria",
+     "n": 20
+    },
+    {
+     "title": "holič — dánsko",
+     "n": 15
+    },
+    {
+     "title": "holiči pre severské krajiny",
+     "n": 12
+    },
+    {
+     "title": "barber — denmark",
+     "n": 8
+    },
+    {
+     "title": "barbers for the nordics",
+     "n": 8
+    },
+    {
+     "title": "slovak business consultant sofia, bulgaria (with relocation package)",
+     "n": 8
+    },
+    {
+     "title": "field data collection driver",
+     "n": 5
+    },
+    {
+     "title": "lektor it kurzov - prešov / košice / sabinov",
+     "n": 5
+    },
+    {
+     "title": "genai engineer",
+     "n": 4
+    },
+    {
+     "title": "veterinárny lekár",
+     "n": 4
+    },
+    {
+     "title": "výrobný/á operátor/ka - získaj nástupný bonus 1000 €, 13. a 14. plat a stabilné pracovné miesto!",
+     "n": 4
+    },
+    {
+     "title": "czech speaking travel customer support associates for booking agency in greece",
+     "n": 3
+    },
+    {
+     "title": "java developer (medior - senior) | fintech | spring",
+     "n": 3
+    },
+    {
+     "title": "murár (m/ž)",
+     "n": 3
+    },
+    {
+     "title": "oblastný/á zástupca/zástupkyňa",
+     "n": 3
+    }
+   ],
+   "regions": []
+  },
+  {
+   "period": "2026-07",
+   "partial": false,
+   "postings_new": 10715,
+   "postings_raw": 12296,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 88.5,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 1570,
+    "p25": 1300,
+    "p75": 1900,
+    "mean": 1657,
+    "n": 1204,
+    "share": 0.701,
+    "currency": "EUR"
+   },
+   "remote_share": 0.021,
+   "employment": {
+    "full_time": 0.0,
+    "part_time": 0.0,
+    "contract": 0.0,
+    "other": 0.0,
+    "unknown": 1.0
+   },
+   "by_source": [
+    {
+     "code": "jooble.sk",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 9978
+    },
+    {
+     "code": "careerjet.sk",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 2318
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Bratislava",
+     "n": 2404,
+     "share": 0.196
+    },
+    {
+     "name": "Nemecko",
+     "n": 773,
+     "share": 0.063
+    },
+    {
+     "name": "Košice",
+     "n": 558,
+     "share": 0.045
+    },
+    {
+     "name": "Poľsko",
+     "n": 552,
+     "share": 0.045
+    },
+    {
+     "name": "Česká republika",
+     "n": 487,
+     "share": 0.04
+    },
+    {
+     "name": "Nitra",
+     "n": 348,
+     "share": 0.028
+    },
+    {
+     "name": "Rakúsko",
+     "n": 323,
+     "share": 0.026
+    },
+    {
+     "name": "Slovensko",
+     "n": 277,
+     "share": 0.023
+    },
+    {
+     "name": "Trnava",
+     "n": 277,
+     "share": 0.023
+    },
+    {
+     "name": "Senec",
+     "n": 275,
+     "share": 0.022
+    },
+    {
+     "name": "Žilina",
+     "n": 267,
+     "share": 0.022
+    },
+    {
+     "name": "Na daljavo",
+     "n": 251,
+     "share": 0.02
+    },
+    {
+     "name": "Prešov",
+     "n": 241,
+     "share": 0.02
+    },
+    {
+     "name": "Banská Bystrica",
+     "n": 209,
+     "share": 0.017
+    },
+    {
+     "name": "Trenčín",
+     "n": 174,
+     "share": 0.014
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "kuchár/ka (muž/žena)",
+     "n": 112
+    },
+    {
+     "title": "manipulačné práce v sklade",
+     "n": 108
+    },
+    {
+     "title": "kuchár (muž/žena)",
+     "n": 96
+    },
+    {
+     "title": "manipulačné práce vo výrobe",
+     "n": 88
+    },
+    {
+     "title": "vodič mkd (muž/žena)",
+     "n": 59
+    },
+    {
+     "title": "manipulačné práce v sklade s vzv",
+     "n": 50
+    },
+    {
+     "title": "zvárač (muž/žena)",
+     "n": 45
+    },
+    {
+     "title": "montážny pracovník (operátor) v strojárskej výrobe (muž/žena)",
+     "n": 43
+    },
+    {
+     "title": "zvárač kovov (muž/žena)",
+     "n": 43
+    },
+    {
+     "title": "opatrovateľ/ka (muž/žena)",
+     "n": 39
+    },
+    {
+     "title": "upratovačka (muž/žena)",
+     "n": 39
+    },
+    {
+     "title": "kuchár (okrem šéfkuchára) (muž/žena)",
+     "n": 38
+    },
+    {
+     "title": "pokladník / dokladač tovaru do regálov v obchodnom reťazci",
+     "n": 37
+    },
+    {
+     "title": "zámočník (m / ž / nb)",
+     "n": 37
+    },
+    {
+     "title": "operátor výroby (muž/žena)",
+     "n": 36
+    }
+   ],
+   "regions": []
+  },
+  {
+   "period": "2026-08",
+   "partial": false,
+   "postings_new": 12106,
+   "postings_raw": 14706,
+   "postings_active_end": 18423,
+   "postings_closed": 9758,
+   "index": 100.0,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 1473,
+    "p25": 1193,
+    "p75": 1800,
+    "mean": 1565,
+    "n": 1751,
+    "share": 0.624,
+    "currency": "EUR"
+   },
+   "remote_share": 0.021,
+   "employment": {
+    "full_time": 0.0,
+    "part_time": 0.0,
+    "contract": 0.0,
+    "other": 0.0,
+    "unknown": 1.0
+   },
+   "by_source": [
+    {
+     "code": "jooble.sk",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 11114
+    },
+    {
+     "code": "careerjet.sk",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 3592
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Bratislava",
+     "n": 2808,
+     "share": 0.191
+    },
+    {
+     "name": "Slovensko",
+     "n": 848,
+     "share": 0.058
+    },
+    {
+     "name": "Košice",
+     "n": 666,
+     "share": 0.045
+    },
+    {
+     "name": "Česká republika",
+     "n": 663,
+     "share": 0.045
+    },
+    {
+     "name": "Poľsko",
+     "n": 642,
+     "share": 0.044
+    },
+    {
+     "name": "Nemecko",
+     "n": 556,
+     "share": 0.038
+    },
+    {
+     "name": "Nitra",
+     "n": 421,
+     "share": 0.029
+    },
+    {
+     "name": "Na daljavo",
+     "n": 332,
+     "share": 0.023
+    },
+    {
+     "name": "Trnava",
+     "n": 294,
+     "share": 0.02
+    },
+    {
+     "name": "Trenčín",
+     "n": 284,
+     "share": 0.019
+    },
+    {
+     "name": "Rakúsko",
+     "n": 276,
+     "share": 0.019
+    },
+    {
+     "name": "Senec",
+     "n": 237,
+     "share": 0.016
+    },
+    {
+     "name": "Žilina",
+     "n": 235,
+     "share": 0.016
+    },
+    {
+     "name": "Prešov",
+     "n": 223,
+     "share": 0.015
+    },
+    {
+     "name": "Banská Bystrica",
+     "n": 200,
+     "share": 0.014
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "manipulačné práce vo výrobe",
+     "n": 195
+    },
+    {
+     "title": "lahôdky, ich dokladanie v obchodnom reťazci",
+     "n": 161
+    },
+    {
+     "title": "pokladník / dokladač tovaru do regálov v obchodnom reťazci",
+     "n": 155
+    },
+    {
+     "title": "opatrovateľka",
+     "n": 128
+    },
+    {
+     "title": "opatrovateľ / ka",
+     "n": 114
+    },
+    {
+     "title": "pokladník, pokladníčka v obchodnom reťazci",
+     "n": 89
+    },
+    {
+     "title": "manipulačné práce v sklade",
+     "n": 80
+    },
+    {
+     "title": "vodič mkd (muž/žena)",
+     "n": 75
+    },
+    {
+     "title": "kuchár/ka (muž/žena)",
+     "n": 68
+    },
+    {
+     "title": "kuchár (muž/žena)",
+     "n": 64
+    },
+    {
+     "title": "závozník pri rozvoze elektrospotrebičov",
+     "n": 61
+    },
+    {
+     "title": "montážny pracovník (operátor) v strojárskej výrobe (muž/žena)",
+     "n": 53
+    },
+    {
+     "title": "kuchár (okrem šéfkuchára) (muž/žena)",
+     "n": 49
+    },
+    {
+     "title": "manikér (muž/žena)",
+     "n": 45
+    },
+    {
+     "title": "murár (muž/žena)",
+     "n": 44
+    }
+   ],
+   "regions": []
+  }
+ ],
+ "quarterly": [
+  {
+   "period": "2026-Q2",
+   "partial": true,
+   "postings_new": 1519,
+   "postings_raw": 1546,
+   "qoq_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 1600,
+    "p25": 1246,
+    "p75": 1878,
+    "mean": 1626,
+    "n": 549,
+    "share": 0.501,
+    "currency": "EUR"
+   },
+   "remote_share": 0.006,
+   "employment": {
+    "full_time": 0.0,
+    "part_time": 0.0,
+    "contract": 0.0,
+    "other": 0.0,
+    "unknown": 1.0
+   },
+   "by_source": [
+    {
+     "code": "careerjet.sk",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 1172
+    },
+    {
+     "code": "jooble.sk",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 374
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Bratislava",
+     "n": 424,
+     "share": 0.274
+    },
+    {
+     "name": "Košice",
+     "n": 170,
+     "share": 0.11
+    },
+    {
+     "name": "Slovensko",
+     "n": 106,
+     "share": 0.069
+    },
+    {
+     "name": "Nitra",
+     "n": 57,
+     "share": 0.037
+    },
+    {
+     "name": "Banská Bystrica",
+     "n": 48,
+     "share": 0.031
+    },
+    {
+     "name": "Na daljavo",
+     "n": 40,
+     "share": 0.026
+    },
+    {
+     "name": "Prešov",
+     "n": 31,
+     "share": 0.02
+    },
+    {
+     "name": "Žilina",
+     "n": 28,
+     "share": 0.018
+    },
+    {
+     "name": "Senec",
+     "n": 27,
+     "share": 0.017
+    },
+    {
+     "name": "Bratislavský kraj",
+     "n": 26,
+     "share": 0.017
+    },
+    {
+     "name": "Nové Mesto nad Váhom",
+     "n": 25,
+     "share": 0.016
+    },
+    {
+     "name": "Trnava",
+     "n": 23,
+     "share": 0.015
+    },
+    {
+     "name": "Malacky",
+     "n": 22,
+     "share": 0.014
+    },
+    {
+     "name": "Poprad",
+     "n": 18,
+     "share": 0.012
+    },
+    {
+     "name": "Rakúsko",
+     "n": 18,
+     "share": 0.012
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "slovak business consultant sofia, bulgaria",
+     "n": 20
+    },
+    {
+     "title": "holič — dánsko",
+     "n": 15
+    },
+    {
+     "title": "holiči pre severské krajiny",
+     "n": 12
+    },
+    {
+     "title": "barber — denmark",
+     "n": 8
+    },
+    {
+     "title": "barbers for the nordics",
+     "n": 8
+    },
+    {
+     "title": "slovak business consultant sofia, bulgaria (with relocation package)",
+     "n": 8
+    },
+    {
+     "title": "field data collection driver",
+     "n": 5
+    },
+    {
+     "title": "lektor it kurzov - prešov / košice / sabinov",
+     "n": 5
+    },
+    {
+     "title": "genai engineer",
+     "n": 4
+    },
+    {
+     "title": "veterinárny lekár",
+     "n": 4
+    },
+    {
+     "title": "výrobný/á operátor/ka - získaj nástupný bonus 1000 €, 13. a 14. plat a stabilné pracovné miesto!",
+     "n": 4
+    },
+    {
+     "title": "czech speaking travel customer support associates for booking agency in greece",
+     "n": 3
+    },
+    {
+     "title": "java developer (medior - senior) | fintech | spring",
+     "n": 3
+    },
+    {
+     "title": "murár (m/ž)",
+     "n": 3
+    },
+    {
+     "title": "oblastný/á zástupca/zástupkyňa",
+     "n": 3
+    }
+   ],
+   "regions": []
+  },
+  {
+   "period": "2026-Q3",
+   "partial": true,
+   "postings_new": 22821,
+   "postings_raw": 27002,
+   "qoq_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 1513,
+    "p25": 1237,
+    "p75": 1841,
+    "mean": 1602,
+    "n": 2955,
+    "share": 0.659,
+    "currency": "EUR"
+   },
+   "remote_share": 0.021,
+   "employment": {
+    "full_time": 0.0,
+    "part_time": 0.0,
+    "contract": 0.0,
+    "other": 0.0,
+    "unknown": 1.0
+   },
+   "by_source": [
+    {
+     "code": "jooble.sk",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 21092
+    },
+    {
+     "code": "careerjet.sk",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 5910
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Bratislava",
+     "n": 5212,
+     "share": 0.193
+    },
+    {
+     "name": "Nemecko",
+     "n": 1329,
+     "share": 0.049
+    },
+    {
+     "name": "Košice",
+     "n": 1224,
+     "share": 0.045
+    },
+    {
+     "name": "Poľsko",
+     "n": 1194,
+     "share": 0.044
+    },
+    {
+     "name": "Česká republika",
+     "n": 1150,
+     "share": 0.043
+    },
+    {
+     "name": "Slovensko",
+     "n": 1125,
+     "share": 0.042
+    },
+    {
+     "name": "Nitra",
+     "n": 769,
+     "share": 0.028
+    },
+    {
+     "name": "Rakúsko",
+     "n": 599,
+     "share": 0.022
+    },
+    {
+     "name": "Na daljavo",
+     "n": 583,
+     "share": 0.022
+    },
+    {
+     "name": "Trnava",
+     "n": 571,
+     "share": 0.021
+    },
+    {
+     "name": "Senec",
+     "n": 512,
+     "share": 0.019
+    },
+    {
+     "name": "Žilina",
+     "n": 502,
+     "share": 0.019
+    },
+    {
+     "name": "Prešov",
+     "n": 464,
+     "share": 0.017
+    },
+    {
+     "name": "Trenčín",
+     "n": 458,
+     "share": 0.017
+    },
+    {
+     "name": "Banská Bystrica",
+     "n": 409,
+     "share": 0.015
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "manipulačné práce vo výrobe",
+     "n": 283
+    },
+    {
+     "title": "pokladník / dokladač tovaru do regálov v obchodnom reťazci",
+     "n": 192
+    },
+    {
+     "title": "manipulačné práce v sklade",
+     "n": 188
+    },
+    {
+     "title": "kuchár/ka (muž/žena)",
+     "n": 180
+    },
+    {
+     "title": "lahôdky, ich dokladanie v obchodnom reťazci",
+     "n": 161
+    },
+    {
+     "title": "kuchár (muž/žena)",
+     "n": 160
+    },
+    {
+     "title": "vodič mkd (muž/žena)",
+     "n": 134
+    },
+    {
+     "title": "opatrovateľka",
+     "n": 128
+    },
+    {
+     "title": "opatrovateľ / ka",
+     "n": 114
+    },
+    {
+     "title": "montážny pracovník (operátor) v strojárskej výrobe (muž/žena)",
+     "n": 96
+    },
+    {
+     "title": "pokladník, pokladníčka v obchodnom reťazci",
+     "n": 89
+    },
+    {
+     "title": "kuchár (okrem šéfkuchára) (muž/žena)",
+     "n": 87
+    },
+    {
+     "title": "závozník pri rozvoze elektrospotrebičov",
+     "n": 61
+    },
+    {
+     "title": "manipulačné práce v sklade s vzv",
+     "n": 50
+    },
+    {
+     "title": "manikér (muž/žena)",
+     "n": 45
+    }
+   ],
+   "regions": []
+  }
+ ],
+ "sources": [
+  {
+   "code": "jooble.sk",
+   "service": "Jooble",
+   "kind": "aggregator",
+   "url": "https://sk.jooble.org",
+   "collecting_since": "2026-08-01",
+   "offers_total": 23874,
+   "share_latest": 0.756,
+   "salary_coverage": 0.692,
+   "description_coverage": 1.0
+  },
+  {
+   "code": "careerjet.sk",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "url": "https://www.careerjet.sk",
+   "collecting_since": "2026-08-03",
+   "offers_total": 7798,
+   "share_latest": 0.244,
+   "salary_coverage": 0.507,
+   "description_coverage": 1.0
+  }
+ ],
+ "quality": {
+  "field_coverage": {
+   "salary_any": 0.647,
+   "city": 1.0,
+   "company": 0.903,
+   "employment_type": 0.0,
+   "remote": 0.754,
+   "posted_at": 1.0
+  },
+  "dedup": {
+   "within_source_rule_pl": "Ta sama oferta w tym samym serwisie liczona raz (klucz: adres URL lub identyfikator ogłoszenia).",
+   "cross_source_estimate": 0.177,
+   "cross_source_note_pl": "Szacunkowy odsetek ogłoszeń widocznych w więcej niż jednym serwisie (ten sam tytuł, firma i miasto w tym samym miesiącu). Wskaźniki liczymy po zdjęciu tych powtórek."
+  }
+ },
+ "highlights": [
+  {
+   "id": "volume",
+   "icon": "trend",
+   "title_pl": "Sierpień: 12 106 ogłoszeń",
+   "text_pl": "12 106 nowych ogłoszeń - najwięcej od początku zbierania.",
+   "title_en": "August: 12,106 postings",
+   "text_en": "12,106 new postings - the most since collection began."
+  },
+  {
+   "id": "mover",
+   "icon": "city",
+   "title_pl": "Największa zmiana: Slovensko +206,1%",
+   "text_pl": "848 ogłoszeń wobec 277 miesiąc wcześniej.",
+   "title_en": "Biggest move: Slovensko +206.1%",
+   "text_en": "848 postings vs 277 a month earlier."
+  },
+  {
+   "id": "salary",
+   "icon": "salary",
+   "title_pl": "Mediana wynagrodzenia: 1 473 EUR",
+   "text_pl": "Połowa ofert z podaną stawką mieści się między 1 193 a 1 800 EUR miesięcznie; stawkę podaje 62% ogłoszeń.",
+   "title_en": "Median pay: 1,473 EUR",
+   "text_en": "Half of the postings with stated pay fall between 1,193 and 1,800 EUR per month; 62% of postings state pay."
+  },
+  {
+   "id": "remote",
+   "icon": "remote",
+   "title_pl": "Praca zdalna: 2,1% ogłoszeń",
+   "text_pl": "309 ogłoszeń oznaczonych jako praca zdalna (+0,0 pkt proc. m/m).",
+   "title_en": "Remote work: 2.1% of postings",
+   "text_en": "309 postings flagged as remote (+0.0 pp m/m)."
+  },
+  {
+   "id": "source",
+   "icon": "source",
+   "title_pl": "Największy serwis: Jooble (76%)",
+   "text_pl": "Dane z 2 serwisów; Jooble dostarcza 11 114 z 14 706 ogłoszeń przed zdjęciem powtórek.",
+   "title_en": "Largest source: Jooble (76%)",
+   "text_en": "Data from 2 sources; Jooble provides 11,114 of 14,706 postings before de-duplication."
+  },
+  {
+   "id": "cities",
+   "icon": "map",
+   "title_pl": "396 miast z ogłoszeniami",
+   "text_pl": "Najwięcej w: Bratislava (19%), Slovensko (6%), Košice (4%).",
+   "title_en": "396 cities with postings",
+   "text_en": "Most in: Bratislava (19%), Slovensko (6%), Košice (4%)."
+  }
+ ],
+ "commentary": null,
+ "skills_demo": {
+  "is_synthetic": true,
+  "note_pl": "Dane demonstracyjne: nazwy umiejętności pochodzą z taksonomii ESCO, wartości są wygenerowane. Docelowo - identyfikacja umiejętności w treści ogłoszeń.",
+  "months": [
+   "2026-03",
+   "2026-04",
+   "2026-05",
+   "2026-06",
+   "2026-07",
+   "2026-08"
+  ],
+  "groups": [
+   {
+    "id": "digital",
+    "name_pl": "Kompetencje cyfrowe",
+    "name_en": "Digital skills",
+    "share": 0.148,
+    "change_pct": 7.6
+   },
+   {
+    "id": "data_ai",
+    "name_pl": "Dane i sztuczna inteligencja",
+    "name_en": "Data & AI",
+    "share": 0.068,
+    "change_pct": 24.9
+   },
+   {
+    "id": "green",
+    "name_pl": "Zielone kompetencje",
+    "name_en": "Green skills",
+    "share": 0.047,
+    "change_pct": 10.7
+   },
+   {
+    "id": "management",
+    "name_pl": "Zarządzanie",
+    "name_en": "Management",
+    "share": 0.132,
+    "change_pct": -0.2
+   },
+   {
+    "id": "communication",
+    "name_pl": "Komunikacja i współpraca",
+    "name_en": "Communication & teamwork",
+    "share": 0.153,
+    "change_pct": -4.6
+   },
+   {
+    "id": "technical_trades",
+    "name_pl": "Zawody techniczne i produkcja",
+    "name_en": "Technical trades",
+    "share": 0.118,
+    "change_pct": -5.4
+   },
+   {
+    "id": "healthcare",
+    "name_pl": "Opieka zdrowotna",
+    "name_en": "Healthcare",
+    "share": 0.085,
+    "change_pct": 1.5
+   },
+   {
+    "id": "finance_admin",
+    "name_pl": "Finanse i administracja",
+    "name_en": "Finance & administration",
+    "share": 0.082,
+    "change_pct": -6.5
+   },
+   {
+    "id": "languages",
+    "name_pl": "Języki obce",
+    "name_en": "Languages",
+    "share": 0.07,
+    "change_pct": -5.5
+   },
+   {
+    "id": "customer_sales",
+    "name_pl": "Obsługa klienta i sprzedaż",
+    "name_en": "Customer service & sales",
+    "share": 0.098,
+    "change_pct": -5.5
+   }
+  ],
+  "skills": [
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/afd49651-9119-4327-91fc-844a6dda1254",
+    "name_pl": "zarządzanie konfliktem",
+    "name_en": "conflict management",
+    "group": "communication",
+    "share": 0.0195,
+    "change_pct": 0.0,
+    "series": [
+     0.0195,
+     0.0193,
+     0.0195,
+     0.0196,
+     0.0191,
+     0.0195
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/60c78287-22eb-4103-9c8c-28deaa460da0",
+    "name_pl": "praca w zespole",
+    "name_en": "work in teams",
+    "group": "communication",
+    "share": 0.0166,
+    "change_pct": 9.2,
+    "series": [
+     0.0152,
+     0.0154,
+     0.0159,
+     0.0162,
+     0.0163,
+     0.0166
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/87de6e49-ca1c-42a4-8751-5ff0b991966b",
+    "name_pl": "negocjacje z interesariuszami",
+    "name_en": "negotiate with stakeholders",
+    "group": "communication",
+    "share": 0.0154,
+    "change_pct": -12.0,
+    "series": [
+     0.0175,
+     0.0169,
+     0.0166,
+     0.0165,
+     0.0159,
+     0.0154
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0",
+    "name_pl": "język angielski",
+    "name_en": "English",
+    "group": "languages",
+    "share": 0.0145,
+    "change_pct": -0.7,
+    "series": [
+     0.0146,
+     0.0149,
+     0.0146,
+     0.0143,
+     0.0146,
+     0.0145
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/c55caed2-de9e-4a25-819e-a0b0e83fba1b",
+    "name_pl": "prowadzenie prezentacji",
+    "name_en": "give live presentation",
+    "group": "communication",
+    "share": 0.0137,
+    "change_pct": 18.1,
+    "series": [
+     0.0116,
+     0.0119,
+     0.0124,
+     0.013,
+     0.0132,
+     0.0137
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/339ac029-066a-4985-9f9d-b3d7c8fea0bb",
+    "name_pl": "zarządzanie personelem",
+    "name_en": "manage staff",
+    "group": "management",
+    "share": 0.0136,
+    "change_pct": 8.8,
+    "series": [
+     0.0125,
+     0.0126,
+     0.013,
+     0.0132,
+     0.0132,
+     0.0136
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+    "name_pl": "JavaScript",
+    "name_en": "JavaScript",
+    "group": "digital",
+    "share": 0.0123,
+    "change_pct": 19.4,
+    "series": [
+     0.0103,
+     0.0109,
+     0.0112,
+     0.0116,
+     0.0118,
+     0.0123
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/c96ab6ac-cf85-4c91-86b5-7ac5bb14eb28",
+    "name_pl": "obsługa dźwigów",
+    "name_en": "operate cranes",
+    "group": "technical_trades",
+    "share": 0.0123,
+    "change_pct": 2.5,
+    "series": [
+     0.012,
+     0.0119,
+     0.0122,
+     0.0123,
+     0.0124,
+     0.0123
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389",
+    "name_pl": "Java (programowanie)",
+    "name_en": "Java (computer programming)",
+    "group": "digital",
+    "share": 0.0121,
+    "change_pct": 6.1,
+    "series": [
+     0.0114,
+     0.0116,
+     0.0119,
+     0.012,
+     0.012,
+     0.0121
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/8b3aefd2-5021-418f-b069-828fb7abc598",
+    "name_pl": "podstawy pielęgniarstwa",
+    "name_en": "nursing principles",
+    "group": "healthcare",
+    "share": 0.0118,
+    "change_pct": 21.6,
+    "series": [
+     0.0097,
+     0.0099,
+     0.0106,
+     0.0104,
+     0.0113,
+     0.0118
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0",
+    "name_pl": "technologie chmurowe",
+    "name_en": "cloud technologies",
+    "group": "digital",
+    "share": 0.0116,
+    "change_pct": 2.7,
+    "series": [
+     0.0113,
+     0.0116,
+     0.0116,
+     0.0114,
+     0.0115,
+     0.0116
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/f929c89e-c363-4132-a918-e021d57b307c",
+    "name_pl": "zarządzanie łańcuchem dostaw",
+    "name_en": "supply chain management",
+    "group": "management",
+    "share": 0.0116,
+    "change_pct": 24.7,
+    "series": [
+     0.0093,
+     0.0098,
+     0.0104,
+     0.0107,
+     0.0112,
+     0.0116
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44",
+    "name_pl": "cyberbezpieczeństwo",
+    "name_en": "cyber security",
+    "group": "digital",
+    "share": 0.0112,
+    "change_pct": -3.4,
+    "series": [
+     0.0116,
+     0.0118,
+     0.0116,
+     0.0116,
+     0.0113,
+     0.0112
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/949ced5f-7536-4614-ac60-563ffc91a2f2",
+    "name_pl": "planowanie strategiczne",
+    "name_en": "strategic planning",
+    "group": "management",
+    "share": 0.0111,
+    "change_pct": -2.6,
+    "series": [
+     0.0114,
+     0.0112,
+     0.011,
+     0.0111,
+     0.0111,
+     0.0111
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/2a82241a-216e-44d8-bb50-6b9a0ef82084",
+    "name_pl": "prowadzenie pojazdów",
+    "name_en": "drive vehicles",
+    "group": "technical_trades",
+    "share": 0.011,
+    "change_pct": 14.6,
+    "series": [
+     0.0096,
+     0.0097,
+     0.0103,
+     0.0107,
+     0.0109,
+     0.011
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/60c544c9-0815-479c-bcec-93c7891815ea",
+    "name_pl": "farmakologia",
+    "name_en": "pharmacology",
+    "group": "healthcare",
+    "share": 0.0102,
+    "change_pct": 10.9,
+    "series": [
+     0.0092,
+     0.0096,
+     0.0098,
+     0.0098,
+     0.01,
+     0.0102
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/15a33d76-4640-438d-ae64-fdc0c1d3eebc",
+    "name_pl": "obsługa klienta",
+    "name_en": "customer service",
+    "group": "customer_sales",
+    "share": 0.01,
+    "change_pct": -13.0,
+    "series": [
+     0.0115,
+     0.0111,
+     0.0107,
+     0.0105,
+     0.0101,
+     0.01
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/29a50780-f81b-429c-b410-7f23a492e19d",
+    "name_pl": "sprzedaż produktów",
+    "name_en": "sell products",
+    "group": "customer_sales",
+    "share": 0.0097,
+    "change_pct": -11.8,
+    "series": [
+     0.011,
+     0.0106,
+     0.0102,
+     0.0099,
+     0.0097,
+     0.0097
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/e437eba1-3e22-41f2-8703-741e94785cba",
+    "name_pl": "zarządzanie zasobami ludzkimi",
+    "name_en": "human resource management",
+    "group": "finance_admin",
+    "share": 0.0086,
+    "change_pct": 3.6,
+    "series": [
+     0.0083,
+     0.0086,
+     0.0085,
+     0.0085,
+     0.0086,
+     0.0086
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/bf942c60-8539-4951-83ee-63f770da1cb8",
+    "name_pl": "programowanie sterowników CNC",
+    "name_en": "program a CNC controller",
+    "group": "technical_trades",
+    "share": 0.0084,
+    "change_pct": -5.6,
+    "series": [
+     0.0089,
+     0.0087,
+     0.0087,
+     0.0089,
+     0.0086,
+     0.0084
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/4a460161-eaea-4fe2-bd0e-164ccc635be1",
+    "name_pl": "sprawozdania finansowe",
+    "name_en": "financial statements",
+    "group": "finance_admin",
+    "share": 0.0076,
+    "change_pct": 1.3,
+    "series": [
+     0.0075,
+     0.0077,
+     0.0079,
+     0.0077,
+     0.0079,
+     0.0076
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/6891bbce-20bf-4afc-bd5e-75bdf54c0165",
+    "name_pl": "język rosyjski",
+    "name_en": "Russian",
+    "group": "languages",
+    "share": 0.0063,
+    "change_pct": -12.5,
+    "series": [
+     0.0072,
+     0.0072,
+     0.0069,
+     0.0067,
+     0.0066,
+     0.0063
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/ecc4552a-92c5-4222-b18d-faf5ac841080",
+    "name_pl": "uczenie głębokie",
+    "name_en": "deep learning",
+    "group": "data_ai",
+    "share": 0.0058,
+    "change_pct": 16.0,
+    "series": [
+     0.005,
+     0.0052,
+     0.0052,
+     0.0055,
+     0.006,
+     0.0058
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5",
+    "name_pl": "analiza dużych zbiorów danych",
+    "name_en": "analyse big data",
+    "group": "data_ai",
+    "share": 0.0054,
+    "change_pct": 25.6,
+    "series": [
+     0.0043,
+     0.0045,
+     0.0047,
+     0.0049,
+     0.0054,
+     0.0054
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/40f65a56-ccbe-4601-9f32-1cc6cdd24f28",
+    "name_pl": "gospodarka odpadami",
+    "name_en": "waste management",
+    "group": "green",
+    "share": 0.0048,
+    "change_pct": 33.3,
+    "series": [
+     0.0036,
+     0.0039,
+     0.0041,
+     0.0043,
+     0.0046,
+     0.0048
+    ]
+   }
+  ]
+ }
+}

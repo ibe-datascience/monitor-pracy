@@ -1,0 +1,940 @@
+{
+ "country": {
+  "code": "MA",
+  "iso3": "MAR",
+  "numeric": 504,
+  "name_pl": "Maroko",
+  "name_en": "Morocco",
+  "continent": "mena",
+  "currency": "MAD"
+ },
+ "generated_at": "2026-09-30T15:36:10+00:00",
+ "coverage": {
+  "first_month": "2026-08",
+  "last_month": "2026-08",
+  "collecting_since": "2026-08-04",
+  "complete_from": "2026-09",
+  "index_base_month": "2026-08",
+  "note_pl": "Zbieranie trwa od 04.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
+ },
+ "headline": {
+  "month": "2026-08",
+  "postings_new": 5511,
+  "postings_raw": 6923,
+  "mom_pct": null,
+  "yoy_pct": null,
+  "postings_active_end": null,
+  "salary_median": null,
+  "salary_currency": "MAD",
+  "salary_share": 0.001,
+  "remote_share": 0.043,
+  "sources": 1,
+  "top_source": {
+   "code": "tanqeeb.ma",
+   "service": "Tanqeeb",
+   "share": 1.0
+  }
+ },
+ "monthly": [
+  {
+   "period": "2026-08",
+   "partial": false,
+   "postings_new": 5511,
+   "postings_raw": 6923,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 100.0,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.001,
+    "currency": "MAD"
+   },
+   "remote_share": 0.043,
+   "employment": {
+    "full_time": 0.007,
+    "part_time": 0.0,
+    "contract": 0.001,
+    "other": 0.0,
+    "unknown": 0.992
+   },
+   "by_source": [
+    {
+     "code": "tanqeeb.ma",
+     "service": "Tanqeeb",
+     "kind": "aggregator",
+     "n": 6923
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Morocco",
+     "n": 4000,
+     "share": 0.578
+    },
+    {
+     "name": "Boulemane",
+     "n": 2263,
+     "share": 0.327
+    },
+    {
+     "name": "Casablanca",
+     "n": 285,
+     "share": 0.041
+    },
+    {
+     "name": "Rabat",
+     "n": 261,
+     "share": 0.038
+    },
+    {
+     "name": "Agadir",
+     "n": 31,
+     "share": 0.004
+    },
+    {
+     "name": "Tangier",
+     "n": 22,
+     "share": 0.003
+    },
+    {
+     "name": "Grand Casablanca",
+     "n": 17,
+     "share": 0.002
+    },
+    {
+     "name": "Marrakech",
+     "n": 11,
+     "share": 0.002
+    },
+    {
+     "name": "Rabat-Salé-Kénitra",
+     "n": 9,
+     "share": 0.001
+    },
+    {
+     "name": "Fes",
+     "n": 6,
+     "share": 0.001
+    },
+    {
+     "name": "Casablanca-Settat",
+     "n": 3,
+     "share": 0.0
+    },
+    {
+     "name": "Meknes",
+     "n": 3,
+     "share": 0.0
+    },
+    {
+     "name": "Kenitra",
+     "n": 2,
+     "share": 0.0
+    },
+    {
+     "name": "Ouarzazate",
+     "n": 2,
+     "share": 0.0
+    },
+    {
+     "name": "Tanger-Tétouan",
+     "n": 2,
+     "share": 0.0
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "product specialist",
+     "n": 94
+    },
+    {
+     "title": "customer advisor",
+     "n": 67
+    },
+    {
+     "title": "intern",
+     "n": 47
+    },
+    {
+     "title": "project manager",
+     "n": 44
+    },
+    {
+     "title": "portfolio manager",
+     "n": 41
+    },
+    {
+     "title": "sales manager",
+     "n": 34
+    },
+    {
+     "title": "accountant",
+     "n": 32
+    },
+    {
+     "title": "sales advisor",
+     "n": 31
+    },
+    {
+     "title": "business development manager",
+     "n": 24
+    },
+    {
+     "title": "sales representative",
+     "n": 24
+    },
+    {
+     "title": "data engineer",
+     "n": 23
+    },
+    {
+     "title": "receptionist",
+     "n": 23
+    },
+    {
+     "title": "commercial advisor",
+     "n": 22
+    },
+    {
+     "title": "customer service advisor",
+     "n": 22
+    },
+    {
+     "title": "branch manager",
+     "n": 21
+    }
+   ],
+   "regions": []
+  }
+ ],
+ "quarterly": [
+  {
+   "period": "2026-Q3",
+   "partial": true,
+   "postings_new": 5511,
+   "postings_raw": 6923,
+   "qoq_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.001,
+    "currency": "MAD"
+   },
+   "remote_share": 0.043,
+   "employment": {
+    "full_time": 0.007,
+    "part_time": 0.0,
+    "contract": 0.001,
+    "other": 0.0,
+    "unknown": 0.992
+   },
+   "by_source": [
+    {
+     "code": "tanqeeb.ma",
+     "service": "Tanqeeb",
+     "kind": "aggregator",
+     "n": 6923
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Morocco",
+     "n": 4000,
+     "share": 0.578
+    },
+    {
+     "name": "Boulemane",
+     "n": 2263,
+     "share": 0.327
+    },
+    {
+     "name": "Casablanca",
+     "n": 285,
+     "share": 0.041
+    },
+    {
+     "name": "Rabat",
+     "n": 261,
+     "share": 0.038
+    },
+    {
+     "name": "Agadir",
+     "n": 31,
+     "share": 0.004
+    },
+    {
+     "name": "Tangier",
+     "n": 22,
+     "share": 0.003
+    },
+    {
+     "name": "Grand Casablanca",
+     "n": 17,
+     "share": 0.002
+    },
+    {
+     "name": "Marrakech",
+     "n": 11,
+     "share": 0.002
+    },
+    {
+     "name": "Rabat-Salé-Kénitra",
+     "n": 9,
+     "share": 0.001
+    },
+    {
+     "name": "Fes",
+     "n": 6,
+     "share": 0.001
+    },
+    {
+     "name": "Casablanca-Settat",
+     "n": 3,
+     "share": 0.0
+    },
+    {
+     "name": "Meknes",
+     "n": 3,
+     "share": 0.0
+    },
+    {
+     "name": "Kenitra",
+     "n": 2,
+     "share": 0.0
+    },
+    {
+     "name": "Ouarzazate",
+     "n": 2,
+     "share": 0.0
+    },
+    {
+     "name": "Tanger-Tétouan",
+     "n": 2,
+     "share": 0.0
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "product specialist",
+     "n": 94
+    },
+    {
+     "title": "customer advisor",
+     "n": 67
+    },
+    {
+     "title": "intern",
+     "n": 47
+    },
+    {
+     "title": "project manager",
+     "n": 44
+    },
+    {
+     "title": "portfolio manager",
+     "n": 41
+    },
+    {
+     "title": "sales manager",
+     "n": 34
+    },
+    {
+     "title": "accountant",
+     "n": 32
+    },
+    {
+     "title": "sales advisor",
+     "n": 31
+    },
+    {
+     "title": "business development manager",
+     "n": 24
+    },
+    {
+     "title": "sales representative",
+     "n": 24
+    },
+    {
+     "title": "data engineer",
+     "n": 23
+    },
+    {
+     "title": "receptionist",
+     "n": 23
+    },
+    {
+     "title": "commercial advisor",
+     "n": 22
+    },
+    {
+     "title": "customer service advisor",
+     "n": 22
+    },
+    {
+     "title": "branch manager",
+     "n": 21
+    }
+   ],
+   "regions": []
+  }
+ ],
+ "sources": [
+  {
+   "code": "tanqeeb.ma",
+   "service": "Tanqeeb",
+   "kind": "aggregator",
+   "url": "https://morocco.tanqeeb.com",
+   "collecting_since": "2026-08-04",
+   "offers_total": 7467,
+   "share_latest": 1.0,
+   "salary_coverage": 0.001,
+   "description_coverage": 0.988
+  }
+ ],
+ "quality": {
+  "field_coverage": {
+   "salary_any": 0.001,
+   "city": 1.0,
+   "company": 1.0,
+   "employment_type": 0.008,
+   "remote": 1.0,
+   "posted_at": 0.165
+  },
+  "dedup": {
+   "within_source_rule_pl": "Ta sama oferta w tym samym serwisie liczona raz (klucz: adres URL lub identyfikator ogłoszenia).",
+   "cross_source_estimate": 0.204,
+   "cross_source_note_pl": "Szacunkowy odsetek ogłoszeń widocznych w więcej niż jednym serwisie (ten sam tytuł, firma i miasto w tym samym miesiącu). Wskaźniki liczymy po zdjęciu tych powtórek."
+  }
+ },
+ "highlights": [
+  {
+   "id": "volume",
+   "icon": "trend",
+   "title_pl": "Sierpień: 5 511 ogłoszeń",
+   "text_pl": "5 511 nowych ogłoszeń.",
+   "title_en": "August: 5,511 postings",
+   "text_en": "5,511 new postings."
+  },
+  {
+   "id": "remote",
+   "icon": "remote",
+   "title_pl": "Praca zdalna: 4,3% ogłoszeń",
+   "text_pl": "298 ogłoszeń oznaczonych jako praca zdalna.",
+   "title_en": "Remote work: 4.3% of postings",
+   "text_en": "298 postings flagged as remote."
+  },
+  {
+   "id": "source",
+   "icon": "source",
+   "title_pl": "Największy serwis: Tanqeeb (100%)",
+   "text_pl": "Dane z 1 serwisu; Tanqeeb dostarcza 6 923 z 6 923 ogłoszeń przed zdjęciem powtórek.",
+   "title_en": "Largest source: Tanqeeb (100%)",
+   "text_en": "Data from 1 source; Tanqeeb provides 6,923 of 6,923 postings before de-duplication."
+  },
+  {
+   "id": "cities",
+   "icon": "map",
+   "title_pl": "21 miast z ogłoszeniami",
+   "text_pl": "Najwięcej w: Morocco (58%), Boulemane (33%), Casablanca (4%).",
+   "title_en": "21 cities with postings",
+   "text_en": "Most in: Morocco (58%), Boulemane (33%), Casablanca (4%)."
+  }
+ ],
+ "commentary": null,
+ "skills_demo": {
+  "is_synthetic": true,
+  "note_pl": "Dane demonstracyjne: nazwy umiejętności pochodzą z taksonomii ESCO, wartości są wygenerowane. Docelowo - identyfikacja umiejętności w treści ogłoszeń.",
+  "months": [
+   "2026-03",
+   "2026-04",
+   "2026-05",
+   "2026-06",
+   "2026-07",
+   "2026-08"
+  ],
+  "groups": [
+   {
+    "id": "digital",
+    "name_pl": "Kompetencje cyfrowe",
+    "name_en": "Digital skills",
+    "share": 0.15,
+    "change_pct": 10.3
+   },
+   {
+    "id": "data_ai",
+    "name_pl": "Dane i sztuczna inteligencja",
+    "name_en": "Data & AI",
+    "share": 0.07,
+    "change_pct": 16.5
+   },
+   {
+    "id": "green",
+    "name_pl": "Zielone kompetencje",
+    "name_en": "Green skills",
+    "share": 0.036,
+    "change_pct": 11.4
+   },
+   {
+    "id": "management",
+    "name_pl": "Zarządzanie",
+    "name_en": "Management",
+    "share": 0.119,
+    "change_pct": -3.7
+   },
+   {
+    "id": "communication",
+    "name_pl": "Komunikacja i współpraca",
+    "name_en": "Communication & teamwork",
+    "share": 0.118,
+    "change_pct": -3.4
+   },
+   {
+    "id": "technical_trades",
+    "name_pl": "Zawody techniczne i produkcja",
+    "name_en": "Technical trades",
+    "share": 0.089,
+    "change_pct": -2.3
+   },
+   {
+    "id": "healthcare",
+    "name_pl": "Opieka zdrowotna",
+    "name_en": "Healthcare",
+    "share": 0.074,
+    "change_pct": 2.8
+   },
+   {
+    "id": "finance_admin",
+    "name_pl": "Finanse i administracja",
+    "name_en": "Finance & administration",
+    "share": 0.098,
+    "change_pct": -5.4
+   },
+   {
+    "id": "languages",
+    "name_pl": "Języki obce",
+    "name_en": "Languages",
+    "share": 0.111,
+    "change_pct": -6.8
+   },
+   {
+    "id": "customer_sales",
+    "name_pl": "Obsługa klienta i sprzedaż",
+    "name_en": "Customer service & sales",
+    "share": 0.135,
+    "change_pct": -3.6
+   }
+  ],
+  "skills": [
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0",
+    "name_pl": "język angielski",
+    "name_en": "English",
+    "group": "languages",
+    "share": 0.0244,
+    "change_pct": -3.2,
+    "series": [
+     0.0252,
+     0.025,
+     0.0241,
+     0.0252,
+     0.0245,
+     0.0244
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/7ff2c668-0e86-418a-a962-4958262ee337",
+    "name_pl": "techniki komunikacji",
+    "name_en": "use communication techniques",
+    "group": "communication",
+    "share": 0.0167,
+    "change_pct": 21.0,
+    "series": [
+     0.0138,
+     0.0144,
+     0.0152,
+     0.0156,
+     0.0159,
+     0.0167
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+    "name_pl": "JavaScript",
+    "name_en": "JavaScript",
+    "group": "digital",
+    "share": 0.0162,
+    "change_pct": 12.5,
+    "series": [
+     0.0144,
+     0.0146,
+     0.0152,
+     0.0156,
+     0.0159,
+     0.0162
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/33859d93-987c-4caa-a0a9-6159ea7bbc2a",
+    "name_pl": "język arabski",
+    "name_en": "Arabic",
+    "group": "languages",
+    "share": 0.0144,
+    "change_pct": 7.5,
+    "series": [
+     0.0134,
+     0.0135,
+     0.0137,
+     0.014,
+     0.0139,
+     0.0144
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+    "name_pl": "zarządzanie projektami",
+    "name_en": "perform project management",
+    "group": "management",
+    "share": 0.0139,
+    "change_pct": -7.9,
+    "series": [
+     0.0151,
+     0.0146,
+     0.0145,
+     0.014,
+     0.0141,
+     0.0139
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/15a33d76-4640-438d-ae64-fdc0c1d3eebc",
+    "name_pl": "obsługa klienta",
+    "name_en": "customer service",
+    "group": "customer_sales",
+    "share": 0.0139,
+    "change_pct": 7.8,
+    "series": [
+     0.0129,
+     0.0131,
+     0.0134,
+     0.0131,
+     0.0134,
+     0.0139
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/68698869-c13c-4563-adc7-118b7644f45d",
+    "name_pl": "rozpoznawanie potrzeb klienta",
+    "name_en": "identify customer's needs",
+    "group": "customer_sales",
+    "share": 0.0133,
+    "change_pct": -2.2,
+    "series": [
+     0.0136,
+     0.0134,
+     0.0136,
+     0.013,
+     0.0131,
+     0.0133
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/f929c89e-c363-4132-a918-e021d57b307c",
+    "name_pl": "zarządzanie łańcuchem dostaw",
+    "name_en": "supply chain management",
+    "group": "management",
+    "share": 0.0129,
+    "change_pct": -15.7,
+    "series": [
+     0.0153,
+     0.0145,
+     0.014,
+     0.0137,
+     0.0135,
+     0.0129
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d",
+    "name_pl": "Python (programowanie)",
+    "name_en": "Python (computer programming)",
+    "group": "digital",
+    "share": 0.0126,
+    "change_pct": -0.8,
+    "series": [
+     0.0127,
+     0.0127,
+     0.0128,
+     0.0126,
+     0.0131,
+     0.0126
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/29a50780-f81b-429c-b410-7f23a492e19d",
+    "name_pl": "sprzedaż produktów",
+    "name_en": "sell products",
+    "group": "customer_sales",
+    "share": 0.0126,
+    "change_pct": -4.5,
+    "series": [
+     0.0132,
+     0.013,
+     0.0129,
+     0.0127,
+     0.0127,
+     0.0126
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+    "name_pl": "obsługa pakietu Microsoft Office",
+    "name_en": "use microsoft office",
+    "group": "digital",
+    "share": 0.0123,
+    "change_pct": 4.2,
+    "series": [
+     0.0118,
+     0.0121,
+     0.0122,
+     0.0123,
+     0.0122,
+     0.0123
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44",
+    "name_pl": "cyberbezpieczeństwo",
+    "name_en": "cyber security",
+    "group": "digital",
+    "share": 0.0114,
+    "change_pct": 26.7,
+    "series": [
+     0.009,
+     0.0094,
+     0.0102,
+     0.0104,
+     0.0111,
+     0.0114
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/c55caed2-de9e-4a25-819e-a0b0e83fba1b",
+    "name_pl": "prowadzenie prezentacji",
+    "name_en": "give live presentation",
+    "group": "communication",
+    "share": 0.0113,
+    "change_pct": -6.6,
+    "series": [
+     0.0121,
+     0.0116,
+     0.0115,
+     0.0116,
+     0.011,
+     0.0113
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/e747e77e-0ea1-4001-8b07-1d11946b5f1b",
+    "name_pl": "język francuski",
+    "name_en": "French",
+    "group": "languages",
+    "share": 0.0113,
+    "change_pct": 7.6,
+    "series": [
+     0.0105,
+     0.0105,
+     0.0106,
+     0.0112,
+     0.0109,
+     0.0113
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/4a460161-eaea-4fe2-bd0e-164ccc635be1",
+    "name_pl": "sprawozdania finansowe",
+    "name_en": "financial statements",
+    "group": "finance_admin",
+    "share": 0.0105,
+    "change_pct": -2.8,
+    "series": [
+     0.0108,
+     0.0105,
+     0.0105,
+     0.0107,
+     0.0107,
+     0.0105
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/e3e42d54-78bd-4337-aa87-bb31a7670c9a",
+    "name_pl": "wystawianie faktur",
+    "name_en": "issue sales invoices",
+    "group": "finance_admin",
+    "share": 0.0103,
+    "change_pct": 5.1,
+    "series": [
+     0.0098,
+     0.0097,
+     0.0098,
+     0.0101,
+     0.0104,
+     0.0103
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4",
+    "name_pl": "zwinne zarządzanie projektami (Agile)",
+    "name_en": "Agile project management",
+    "group": "management",
+    "share": 0.0096,
+    "change_pct": 3.2,
+    "series": [
+     0.0093,
+     0.0092,
+     0.0093,
+     0.0097,
+     0.0096,
+     0.0096
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/918f5211-b99f-4b29-9a34-6e475583ef55",
+    "name_pl": "pisanie raportów",
+    "name_en": "write work-related reports",
+    "group": "communication",
+    "share": 0.0096,
+    "change_pct": -4.0,
+    "series": [
+     0.01,
+     0.0097,
+     0.0097,
+     0.0098,
+     0.0094,
+     0.0096
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43",
+    "name_pl": "uczenie maszynowe",
+    "name_en": "machine learning",
+    "group": "data_ai",
+    "share": 0.0093,
+    "change_pct": 2.2,
+    "series": [
+     0.0091,
+     0.0093,
+     0.0094,
+     0.0094,
+     0.0092,
+     0.0093
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/d15e92c4-c8dc-48cd-a1f6-94fe13347f87",
+    "name_pl": "schematy instalacji elektrycznych",
+    "name_en": "electrical wiring plans",
+    "group": "technical_trades",
+    "share": 0.009,
+    "change_pct": 9.8,
+    "series": [
+     0.0082,
+     0.0088,
+     0.0087,
+     0.0089,
+     0.0088,
+     0.009
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/261e740b-d32d-4356-94a8-3ea29128b70b",
+    "name_pl": "opieka nad osobami starszymi",
+    "name_en": "tend to elderly people",
+    "group": "healthcare",
+    "share": 0.0088,
+    "change_pct": 15.8,
+    "series": [
+     0.0076,
+     0.008,
+     0.0082,
+     0.0083,
+     0.0087,
+     0.0088
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/8755734c-2919-41a3-9ca6-1e3d1f169213",
+    "name_pl": "montaż instalacji hydraulicznych",
+    "name_en": "install plumbing systems",
+    "group": "technical_trades",
+    "share": 0.0082,
+    "change_pct": 12.3,
+    "series": [
+     0.0073,
+     0.0075,
+     0.0076,
+     0.0079,
+     0.0082,
+     0.0082
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/24f980ba-b44f-4739-b563-205104c3190d",
+    "name_pl": "podstawowa opieka nad pacjentem",
+    "name_en": "provide basic support to patients",
+    "group": "healthcare",
+    "share": 0.0082,
+    "change_pct": 5.1,
+    "series": [
+     0.0078,
+     0.008,
+     0.0083,
+     0.008,
+     0.0082,
+     0.0082
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/143769cb-b61e-47d8-a61e-eedfbec1016c",
+    "name_pl": "business intelligence",
+    "name_en": "business intelligence",
+    "group": "data_ai",
+    "share": 0.0073,
+    "change_pct": 40.4,
+    "series": [
+     0.0052,
+     0.0058,
+     0.0062,
+     0.0065,
+     0.0069,
+     0.0073
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/18d3f89a-6ac5-4ca6-bf93-0baec4e13bcd",
+    "name_pl": "montaż instalacji fotowoltaicznych",
+    "name_en": "install photovoltaic systems",
+    "group": "green",
+    "share": 0.0041,
+    "change_pct": 20.6,
+    "series": [
+     0.0034,
+     0.0036,
+     0.0036,
+     0.0038,
+     0.0039,
+     0.0041
+    ]
+   }
+  ]
+ }
+}

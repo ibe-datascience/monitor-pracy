@@ -1,0 +1,1588 @@
+{
+ "country": {
+  "code": "LT",
+  "iso3": "LTU",
+  "numeric": 440,
+  "name_pl": "Litwa",
+  "name_en": "Lithuania",
+  "continent": "europe",
+  "currency": "EUR"
+ },
+ "generated_at": "2026-09-30T15:36:10+00:00",
+ "coverage": {
+  "first_month": "2026-05",
+  "last_month": "2026-08",
+  "collecting_since": "2026-08-03",
+  "complete_from": "2026-09",
+  "index_base_month": "2026-08",
+  "note_pl": "Zbieranie trwa od 03.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
+ },
+ "headline": {
+  "month": "2026-08",
+  "postings_new": 5987,
+  "postings_raw": 5987,
+  "mom_pct": null,
+  "yoy_pct": null,
+  "postings_active_end": null,
+  "salary_median": null,
+  "salary_currency": "EUR",
+  "salary_share": 0.0,
+  "remote_share": 0.0,
+  "sources": 1,
+  "top_source": {
+   "code": "careerjet.lt",
+   "service": "Careerjet",
+   "share": 1.0
+  }
+ },
+ "monthly": [
+  {
+   "period": "2026-05",
+   "partial": false,
+   "postings_new": 202,
+   "postings_raw": 202,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 3.4,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.0,
+    "currency": "EUR"
+   },
+   "remote_share": 0.0,
+   "employment": {
+    "full_time": 0.0,
+    "part_time": 0.0,
+    "contract": 0.0,
+    "other": 0.0,
+    "unknown": 1.0
+   },
+   "by_source": [
+    {
+     "code": "careerjet.lt",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 202
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Vilnius",
+     "n": 124,
+     "share": 0.614
+    },
+    {
+     "name": "Kaunas",
+     "n": 26,
+     "share": 0.129
+    },
+    {
+     "name": "Klaipėda",
+     "n": 14,
+     "share": 0.069
+    },
+    {
+     "name": "Lietuva",
+     "n": 12,
+     "share": 0.059
+    },
+    {
+     "name": "Panevėžys",
+     "n": 5,
+     "share": 0.025
+    },
+    {
+     "name": "Jonava",
+     "n": 4,
+     "share": 0.02
+    },
+    {
+     "name": "Vilnius - Kaunas",
+     "n": 4,
+     "share": 0.02
+    },
+    {
+     "name": "Šiauliai",
+     "n": 3,
+     "share": 0.015
+    },
+    {
+     "name": "Alytus",
+     "n": 2,
+     "share": 0.01
+    },
+    {
+     "name": "Estija - Lietuva",
+     "n": 1,
+     "share": 0.005
+    },
+    {
+     "name": "Gargždai",
+     "n": 1,
+     "share": 0.005
+    },
+    {
+     "name": "Kaišiadorys",
+     "n": 1,
+     "share": 0.005
+    },
+    {
+     "name": "Maišiagala",
+     "n": 1,
+     "share": 0.005
+    },
+    {
+     "name": "Raseiniai",
+     "n": 1,
+     "share": 0.005
+    },
+    {
+     "name": "Utena",
+     "n": 1,
+     "share": 0.005
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-06",
+   "partial": false,
+   "postings_new": 347,
+   "postings_raw": 347,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 5.8,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.0,
+    "currency": "EUR"
+   },
+   "remote_share": 0.0,
+   "employment": {
+    "full_time": 0.0,
+    "part_time": 0.0,
+    "contract": 0.0,
+    "other": 0.0,
+    "unknown": 1.0
+   },
+   "by_source": [
+    {
+     "code": "careerjet.lt",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 347
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Vilnius",
+     "n": 206,
+     "share": 0.594
+    },
+    {
+     "name": "Kaunas",
+     "n": 63,
+     "share": 0.182
+    },
+    {
+     "name": "Lietuva",
+     "n": 20,
+     "share": 0.058
+    },
+    {
+     "name": "Klaipėda",
+     "n": 19,
+     "share": 0.055
+    },
+    {
+     "name": "Šiauliai",
+     "n": 7,
+     "share": 0.02
+    },
+    {
+     "name": "Karmėlava",
+     "n": 4,
+     "share": 0.012
+    },
+    {
+     "name": "Kretinga",
+     "n": 4,
+     "share": 0.012
+    },
+    {
+     "name": "Kazlų Rūda",
+     "n": 3,
+     "share": 0.009
+    },
+    {
+     "name": "Druskininkai",
+     "n": 2,
+     "share": 0.006
+    },
+    {
+     "name": "Palanga",
+     "n": 2,
+     "share": 0.006
+    },
+    {
+     "name": "Vilniaus apskritis",
+     "n": 2,
+     "share": 0.006
+    },
+    {
+     "name": "Alytus",
+     "n": 1,
+     "share": 0.003
+    },
+    {
+     "name": "Elektrėnai",
+     "n": 1,
+     "share": 0.003
+    },
+    {
+     "name": "Estija - Lietuva",
+     "n": 1,
+     "share": 0.003
+    },
+    {
+     "name": "Gargždai",
+     "n": 1,
+     "share": 0.003
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "pardavimų vadybininkas (-ė) (didmeninė prekyba statybinėmis medžiagomis_rinkoje vertinami prekiniai ženklai)",
+     "n": 3
+    },
+    {
+     "title": "parduotuvės direktorius (-ė) klaipėdoje",
+     "n": 3
+    },
+    {
+     "title": "senior data engineer",
+     "n": 3
+    },
+    {
+     "title": "šaltkalvis-taisytojas mokinys (-ė)",
+     "n": 3
+    },
+    {
+     "title": "accountant",
+     "n": 2
+    },
+    {
+     "title": "ai engineer",
+     "n": 2
+    },
+    {
+     "title": "data analyst",
+     "n": 2
+    },
+    {
+     "title": "decision scientist, trust & safety (limited-time relocation bonus)",
+     "n": 2
+    },
+    {
+     "title": "engineering manager, cyber risk and access management",
+     "n": 2
+    },
+    {
+     "title": "engineering manager, marketplace payments",
+     "n": 2
+    },
+    {
+     "title": "lead backend engineer, v-assist platform",
+     "n": 2
+    },
+    {
+     "title": "pv and bess service engineer",
+     "n": 2
+    },
+    {
+     "title": "senior analytics engineer (ai & quality)",
+     "n": 2
+    },
+    {
+     "title": "senior analytics engineer, marketing dsa (limited-time relocation bonus)",
+     "n": 2
+    },
+    {
+     "title": "senior backend engineer, digital growth enablement team",
+     "n": 2
+    }
+   ],
+   "regions": []
+  },
+  {
+   "period": "2026-07",
+   "partial": false,
+   "postings_new": 3173,
+   "postings_raw": 3173,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 53.0,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.0,
+    "currency": "EUR"
+   },
+   "remote_share": 0.0,
+   "employment": {
+    "full_time": 0.0,
+    "part_time": 0.0,
+    "contract": 0.0,
+    "other": 0.0,
+    "unknown": 1.0
+   },
+   "by_source": [
+    {
+     "code": "careerjet.lt",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 3173
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Vilnius",
+     "n": 1276,
+     "share": 0.402
+    },
+    {
+     "name": "Kaunas",
+     "n": 457,
+     "share": 0.144
+    },
+    {
+     "name": "Klaipėda",
+     "n": 222,
+     "share": 0.07
+    },
+    {
+     "name": "Šiauliai",
+     "n": 153,
+     "share": 0.048
+    },
+    {
+     "name": "Panevėžys",
+     "n": 146,
+     "share": 0.046
+    },
+    {
+     "name": "Lietuva",
+     "n": 58,
+     "share": 0.018
+    },
+    {
+     "name": "Jonava",
+     "n": 53,
+     "share": 0.017
+    },
+    {
+     "name": "Alytus",
+     "n": 50,
+     "share": 0.016
+    },
+    {
+     "name": "Marijampolė",
+     "n": 48,
+     "share": 0.015
+    },
+    {
+     "name": "Kėdainiai",
+     "n": 42,
+     "share": 0.013
+    },
+    {
+     "name": "Mažeikiai",
+     "n": 38,
+     "share": 0.012
+    },
+    {
+     "name": "Kaišiadorys",
+     "n": 32,
+     "share": 0.01
+    },
+    {
+     "name": "Gargždai",
+     "n": 27,
+     "share": 0.009
+    },
+    {
+     "name": "Tauragė",
+     "n": 27,
+     "share": 0.009
+    },
+    {
+     "name": "Plungė",
+     "n": 26,
+     "share": 0.008
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "valytoja (-as)",
+     "n": 18
+    },
+    {
+     "title": "gamybos darbuotojas (-a)",
+     "n": 13
+    },
+    {
+     "title": "individualios priežiūros darbuotojas (-a)",
+     "n": 10
+    },
+    {
+     "title": "pagalbinis darbininkas",
+     "n": 10
+    },
+    {
+     "title": "valytojas (-a)",
+     "n": 10
+    },
+    {
+     "title": "operatorius (-ė)",
+     "n": 9
+    },
+    {
+     "title": "sandėlio darbuotojas (-a)",
+     "n": 9
+    },
+    {
+     "title": "sveriamo skyriaus darbuotojas (-a)",
+     "n": 9
+    },
+    {
+     "title": "sandėlininkas (-ė)",
+     "n": 8
+    },
+    {
+     "title": "virėjas (-a)",
+     "n": 8
+    },
+    {
+     "title": "gamybos operatorius (-ė)",
+     "n": 7
+    },
+    {
+     "title": "siuvėja (-as)",
+     "n": 7
+    },
+    {
+     "title": "cnc staklių operatorius (-ė) | apmokome | nemokamas transportas",
+     "n": 6
+    },
+    {
+     "title": "gamybos operatorius (-ė) | apmokome | nemokamas transportas",
+     "n": 6
+    },
+    {
+     "title": "pamainos meistras (-ė)",
+     "n": 6
+    }
+   ],
+   "regions": []
+  },
+  {
+   "period": "2026-08",
+   "partial": false,
+   "postings_new": 5987,
+   "postings_raw": 5987,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 100.0,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.0,
+    "currency": "EUR"
+   },
+   "remote_share": 0.0,
+   "employment": {
+    "full_time": 0.0,
+    "part_time": 0.0,
+    "contract": 0.0,
+    "other": 0.0,
+    "unknown": 1.0
+   },
+   "by_source": [
+    {
+     "code": "careerjet.lt",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 5987
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Vilnius",
+     "n": 2053,
+     "share": 0.343
+    },
+    {
+     "name": "Kaunas",
+     "n": 1030,
+     "share": 0.172
+    },
+    {
+     "name": "Klaipėda",
+     "n": 444,
+     "share": 0.074
+    },
+    {
+     "name": "Šiauliai",
+     "n": 290,
+     "share": 0.048
+    },
+    {
+     "name": "Panevėžys",
+     "n": 224,
+     "share": 0.037
+    },
+    {
+     "name": "Mažeikiai",
+     "n": 124,
+     "share": 0.021
+    },
+    {
+     "name": "Lietuva",
+     "n": 110,
+     "share": 0.018
+    },
+    {
+     "name": "Marijampolė",
+     "n": 96,
+     "share": 0.016
+    },
+    {
+     "name": "Alytus",
+     "n": 87,
+     "share": 0.015
+    },
+    {
+     "name": "Utena",
+     "n": 70,
+     "share": 0.012
+    },
+    {
+     "name": "Kretinga",
+     "n": 67,
+     "share": 0.011
+    },
+    {
+     "name": "Jonava",
+     "n": 64,
+     "share": 0.011
+    },
+    {
+     "name": "Telšiai",
+     "n": 64,
+     "share": 0.011
+    },
+    {
+     "name": "Ukmergė",
+     "n": 60,
+     "share": 0.01
+    },
+    {
+     "name": "Kėdainiai",
+     "n": 59,
+     "share": 0.01
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "virėjas (-a)",
+     "n": 47
+    },
+    {
+     "title": "valytojas (-a)",
+     "n": 27
+    },
+    {
+     "title": "pagalbinis darbininkas",
+     "n": 22
+    },
+    {
+     "title": "sandėlininkas (-ė)",
+     "n": 22
+    },
+    {
+     "title": "plataus profilio statybininkas",
+     "n": 20
+    },
+    {
+     "title": "gamybos darbuotojas (-a)",
+     "n": 19
+    },
+    {
+     "title": "valytoja (-as)",
+     "n": 18
+    },
+    {
+     "title": "operatorius (-ė)",
+     "n": 16
+    },
+    {
+     "title": "elektrikas (-ė)",
+     "n": 13
+    },
+    {
+     "title": "sandėlio darbuotojas (-a)",
+     "n": 13
+    },
+    {
+     "title": "suvirintojas (-a)",
+     "n": 13
+    },
+    {
+     "title": "siuvėjas (-a)",
+     "n": 12
+    },
+    {
+     "title": "suvirintojas",
+     "n": 12
+    },
+    {
+     "title": "administratorius (-ė)",
+     "n": 11
+    },
+    {
+     "title": "elektromontuotojas (-a)",
+     "n": 11
+    }
+   ],
+   "regions": []
+  }
+ ],
+ "quarterly": [
+  {
+   "period": "2026-Q2",
+   "partial": true,
+   "postings_new": 549,
+   "postings_raw": 549,
+   "qoq_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.0,
+    "currency": "EUR"
+   },
+   "remote_share": 0.0,
+   "employment": {
+    "full_time": 0.0,
+    "part_time": 0.0,
+    "contract": 0.0,
+    "other": 0.0,
+    "unknown": 1.0
+   },
+   "by_source": [
+    {
+     "code": "careerjet.lt",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 549
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Vilnius",
+     "n": 330,
+     "share": 0.601
+    },
+    {
+     "name": "Kaunas",
+     "n": 89,
+     "share": 0.162
+    },
+    {
+     "name": "Klaipėda",
+     "n": 33,
+     "share": 0.06
+    },
+    {
+     "name": "Lietuva",
+     "n": 32,
+     "share": 0.058
+    },
+    {
+     "name": "Šiauliai",
+     "n": 10,
+     "share": 0.018
+    },
+    {
+     "name": "Panevėžys",
+     "n": 5,
+     "share": 0.009
+    },
+    {
+     "name": "Jonava",
+     "n": 4,
+     "share": 0.007
+    },
+    {
+     "name": "Karmėlava",
+     "n": 4,
+     "share": 0.007
+    },
+    {
+     "name": "Kretinga",
+     "n": 4,
+     "share": 0.007
+    },
+    {
+     "name": "Vilnius - Kaunas",
+     "n": 4,
+     "share": 0.007
+    },
+    {
+     "name": "Alytus",
+     "n": 3,
+     "share": 0.005
+    },
+    {
+     "name": "Kazlų Rūda",
+     "n": 3,
+     "share": 0.005
+    },
+    {
+     "name": "Druskininkai",
+     "n": 2,
+     "share": 0.004
+    },
+    {
+     "name": "Estija - Lietuva",
+     "n": 2,
+     "share": 0.004
+    },
+    {
+     "name": "Gargždai",
+     "n": 2,
+     "share": 0.004
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "pardavimų vadybininkas (-ė) (didmeninė prekyba statybinėmis medžiagomis_rinkoje vertinami prekiniai ženklai)",
+     "n": 3
+    },
+    {
+     "title": "parduotuvės direktorius (-ė) klaipėdoje",
+     "n": 3
+    },
+    {
+     "title": "senior data engineer",
+     "n": 3
+    },
+    {
+     "title": "šaltkalvis-taisytojas mokinys (-ė)",
+     "n": 3
+    },
+    {
+     "title": "accountant",
+     "n": 2
+    },
+    {
+     "title": "ai engineer",
+     "n": 2
+    },
+    {
+     "title": "data analyst",
+     "n": 2
+    },
+    {
+     "title": "decision scientist, trust & safety (limited-time relocation bonus)",
+     "n": 2
+    },
+    {
+     "title": "engineering manager, cyber risk and access management",
+     "n": 2
+    },
+    {
+     "title": "engineering manager, marketplace payments",
+     "n": 2
+    },
+    {
+     "title": "lead backend engineer, v-assist platform",
+     "n": 2
+    },
+    {
+     "title": "pv and bess service engineer",
+     "n": 2
+    },
+    {
+     "title": "senior analytics engineer (ai & quality)",
+     "n": 2
+    },
+    {
+     "title": "senior analytics engineer, marketing dsa (limited-time relocation bonus)",
+     "n": 2
+    },
+    {
+     "title": "senior backend engineer, digital growth enablement team",
+     "n": 2
+    }
+   ],
+   "regions": []
+  },
+  {
+   "period": "2026-Q3",
+   "partial": true,
+   "postings_new": 9160,
+   "postings_raw": 9160,
+   "qoq_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.0,
+    "currency": "EUR"
+   },
+   "remote_share": 0.0,
+   "employment": {
+    "full_time": 0.0,
+    "part_time": 0.0,
+    "contract": 0.0,
+    "other": 0.0,
+    "unknown": 1.0
+   },
+   "by_source": [
+    {
+     "code": "careerjet.lt",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 9160
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Vilnius",
+     "n": 3329,
+     "share": 0.363
+    },
+    {
+     "name": "Kaunas",
+     "n": 1487,
+     "share": 0.162
+    },
+    {
+     "name": "Klaipėda",
+     "n": 666,
+     "share": 0.073
+    },
+    {
+     "name": "Šiauliai",
+     "n": 443,
+     "share": 0.048
+    },
+    {
+     "name": "Panevėžys",
+     "n": 370,
+     "share": 0.04
+    },
+    {
+     "name": "Lietuva",
+     "n": 168,
+     "share": 0.018
+    },
+    {
+     "name": "Mažeikiai",
+     "n": 162,
+     "share": 0.018
+    },
+    {
+     "name": "Marijampolė",
+     "n": 144,
+     "share": 0.016
+    },
+    {
+     "name": "Alytus",
+     "n": 137,
+     "share": 0.015
+    },
+    {
+     "name": "Jonava",
+     "n": 117,
+     "share": 0.013
+    },
+    {
+     "name": "Kėdainiai",
+     "n": 101,
+     "share": 0.011
+    },
+    {
+     "name": "Utena",
+     "n": 70,
+     "share": 0.008
+    },
+    {
+     "name": "Kretinga",
+     "n": 67,
+     "share": 0.007
+    },
+    {
+     "name": "Telšiai",
+     "n": 64,
+     "share": 0.007
+    },
+    {
+     "name": "Ukmergė",
+     "n": 60,
+     "share": 0.007
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "virėjas (-a)",
+     "n": 55
+    },
+    {
+     "title": "valytojas (-a)",
+     "n": 37
+    },
+    {
+     "title": "valytoja (-as)",
+     "n": 36
+    },
+    {
+     "title": "gamybos darbuotojas (-a)",
+     "n": 32
+    },
+    {
+     "title": "pagalbinis darbininkas",
+     "n": 32
+    },
+    {
+     "title": "sandėlininkas (-ė)",
+     "n": 30
+    },
+    {
+     "title": "operatorius (-ė)",
+     "n": 25
+    },
+    {
+     "title": "sandėlio darbuotojas (-a)",
+     "n": 22
+    },
+    {
+     "title": "plataus profilio statybininkas",
+     "n": 20
+    },
+    {
+     "title": "elektrikas (-ė)",
+     "n": 13
+    },
+    {
+     "title": "suvirintojas (-a)",
+     "n": 13
+    },
+    {
+     "title": "siuvėjas (-a)",
+     "n": 12
+    },
+    {
+     "title": "suvirintojas",
+     "n": 12
+    },
+    {
+     "title": "administratorius (-ė)",
+     "n": 11
+    },
+    {
+     "title": "elektromontuotojas (-a)",
+     "n": 11
+    }
+   ],
+   "regions": []
+  }
+ ],
+ "sources": [
+  {
+   "code": "careerjet.lt",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "url": "https://www.careerjet.lt",
+   "collecting_since": "2026-08-03",
+   "offers_total": 10946,
+   "share_latest": 1.0,
+   "salary_coverage": 0.0,
+   "description_coverage": 1.0
+  }
+ ],
+ "quality": {
+  "field_coverage": {
+   "salary_any": 0.0,
+   "city": 1.0,
+   "company": 0.904,
+   "employment_type": 0.0,
+   "remote": 0.0,
+   "posted_at": 1.0
+  },
+  "dedup": {
+   "within_source_rule_pl": "Ta sama oferta w tym samym serwisie liczona raz (klucz: adres URL lub identyfikator ogłoszenia).",
+   "cross_source_estimate": 0.0,
+   "cross_source_note_pl": "Szacunkowy odsetek ogłoszeń widocznych w więcej niż jednym serwisie (ten sam tytuł, firma i miasto w tym samym miesiącu). Wskaźniki liczymy po zdjęciu tych powtórek."
+  }
+ },
+ "highlights": [
+  {
+   "id": "volume",
+   "icon": "trend",
+   "title_pl": "Sierpień: 5 987 ogłoszeń",
+   "text_pl": "5 987 nowych ogłoszeń (miesiąc wcześniej: 3 173).",
+   "title_en": "August: 5,987 postings",
+   "text_en": "5,987 new postings (a month earlier: 3,173)."
+  },
+  {
+   "id": "mover",
+   "icon": "city",
+   "title_pl": "Największa zmiana: Mažeikiai +226,3%",
+   "text_pl": "124 ogłoszeń wobec 38 miesiąc wcześniej.",
+   "title_en": "Biggest move: Mažeikiai +226.3%",
+   "text_en": "124 postings vs 38 a month earlier."
+  },
+  {
+   "id": "remote",
+   "icon": "remote",
+   "title_pl": "Praca zdalna: 0,0% ogłoszeń",
+   "text_pl": "0 ogłoszeń oznaczonych jako praca zdalna (+0,0 pkt proc. m/m).",
+   "title_en": "Remote work: 0.0% of postings",
+   "text_en": "0 postings flagged as remote (+0.0 pp m/m)."
+  },
+  {
+   "id": "source",
+   "icon": "source",
+   "title_pl": "Największy serwis: Careerjet (100%)",
+   "text_pl": "Dane z 1 serwisu; Careerjet dostarcza 5 987 z 5 987 ogłoszeń przed zdjęciem powtórek.",
+   "title_en": "Largest source: Careerjet (100%)",
+   "text_en": "Data from 1 source; Careerjet provides 5,987 of 5,987 postings before de-duplication."
+  },
+  {
+   "id": "cities",
+   "icon": "map",
+   "title_pl": "92 miasta z ogłoszeniami",
+   "text_pl": "Najwięcej w: Vilnius (34%), Kaunas (17%), Klaipėda (7%).",
+   "title_en": "92 cities with postings",
+   "text_en": "Most in: Vilnius (34%), Kaunas (17%), Klaipėda (7%)."
+  }
+ ],
+ "commentary": null,
+ "skills_demo": {
+  "is_synthetic": true,
+  "note_pl": "Dane demonstracyjne: nazwy umiejętności pochodzą z taksonomii ESCO, wartości są wygenerowane. Docelowo - identyfikacja umiejętności w treści ogłoszeń.",
+  "months": [
+   "2026-03",
+   "2026-04",
+   "2026-05",
+   "2026-06",
+   "2026-07",
+   "2026-08"
+  ],
+  "groups": [
+   {
+    "id": "digital",
+    "name_pl": "Kompetencje cyfrowe",
+    "name_en": "Digital skills",
+    "share": 0.16,
+    "change_pct": 7.1
+   },
+   {
+    "id": "data_ai",
+    "name_pl": "Dane i sztuczna inteligencja",
+    "name_en": "Data & AI",
+    "share": 0.071,
+    "change_pct": 12.6
+   },
+   {
+    "id": "green",
+    "name_pl": "Zielone kompetencje",
+    "name_en": "Green skills",
+    "share": 0.052,
+    "change_pct": 8.5
+   },
+   {
+    "id": "management",
+    "name_pl": "Zarządzanie",
+    "name_en": "Management",
+    "share": 0.114,
+    "change_pct": -3.3
+   },
+   {
+    "id": "communication",
+    "name_pl": "Komunikacja i współpraca",
+    "name_en": "Communication & teamwork",
+    "share": 0.135,
+    "change_pct": -3.8
+   },
+   {
+    "id": "technical_trades",
+    "name_pl": "Zawody techniczne i produkcja",
+    "name_en": "Technical trades",
+    "share": 0.118,
+    "change_pct": -4.3
+   },
+   {
+    "id": "healthcare",
+    "name_pl": "Opieka zdrowotna",
+    "name_en": "Healthcare",
+    "share": 0.079,
+    "change_pct": 2.6
+   },
+   {
+    "id": "finance_admin",
+    "name_pl": "Finanse i administracja",
+    "name_en": "Finance & administration",
+    "share": 0.091,
+    "change_pct": -5.0
+   },
+   {
+    "id": "languages",
+    "name_pl": "Języki obce",
+    "name_en": "Languages",
+    "share": 0.071,
+    "change_pct": -6.5
+   },
+   {
+    "id": "customer_sales",
+    "name_pl": "Obsługa klienta i sprzedaż",
+    "name_en": "Customer service & sales",
+    "share": 0.109,
+    "change_pct": -0.5
+   }
+  ],
+  "skills": [
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0",
+    "name_pl": "technologie chmurowe",
+    "name_en": "cloud technologies",
+    "group": "digital",
+    "share": 0.0155,
+    "change_pct": 0.0,
+    "series": [
+     0.0155,
+     0.0151,
+     0.0151,
+     0.0151,
+     0.0153,
+     0.0155
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/afd49651-9119-4327-91fc-844a6dda1254",
+    "name_pl": "zarządzanie konfliktem",
+    "name_en": "conflict management",
+    "group": "communication",
+    "share": 0.0153,
+    "change_pct": 10.1,
+    "series": [
+     0.0139,
+     0.0141,
+     0.0148,
+     0.0147,
+     0.0147,
+     0.0153
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44",
+    "name_pl": "cyberbezpieczeństwo",
+    "name_en": "cyber security",
+    "group": "digital",
+    "share": 0.015,
+    "change_pct": 21.0,
+    "series": [
+     0.0124,
+     0.0129,
+     0.0131,
+     0.0137,
+     0.0146,
+     0.015
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/60c78287-22eb-4103-9c8c-28deaa460da0",
+    "name_pl": "praca w zespole",
+    "name_en": "work in teams",
+    "group": "communication",
+    "share": 0.0144,
+    "change_pct": -5.9,
+    "series": [
+     0.0153,
+     0.0144,
+     0.0148,
+     0.0143,
+     0.0143,
+     0.0144
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/71152876-b629-4a99-b9ea-0f25a0d07e4e",
+    "name_pl": "negocjowanie umów sprzedaży",
+    "name_en": "negotiate sales contracts",
+    "group": "customer_sales",
+    "share": 0.0143,
+    "change_pct": 18.2,
+    "series": [
+     0.0121,
+     0.0128,
+     0.0133,
+     0.0132,
+     0.0138,
+     0.0143
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/7ff2c668-0e86-418a-a962-4958262ee337",
+    "name_pl": "techniki komunikacji",
+    "name_en": "use communication techniques",
+    "group": "communication",
+    "share": 0.0141,
+    "change_pct": 3.7,
+    "series": [
+     0.0136,
+     0.0134,
+     0.0138,
+     0.0138,
+     0.0143,
+     0.0141
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+    "name_pl": "JavaScript",
+    "name_en": "JavaScript",
+    "group": "digital",
+    "share": 0.0137,
+    "change_pct": 17.1,
+    "series": [
+     0.0117,
+     0.0121,
+     0.0122,
+     0.0128,
+     0.0133,
+     0.0137
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/f0de4973-0a70-4644-8fd4-3a97080476f4",
+    "name_pl": "DevOps",
+    "name_en": "DevOps",
+    "group": "digital",
+    "share": 0.0134,
+    "change_pct": 2.3,
+    "series": [
+     0.0131,
+     0.013,
+     0.0127,
+     0.0129,
+     0.0131,
+     0.0134
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/0da516ee-e70e-4384-be13-f5ff80be8127",
+    "name_pl": "komunikacja z klientami",
+    "name_en": "communicate with customers",
+    "group": "customer_sales",
+    "share": 0.013,
+    "change_pct": 23.8,
+    "series": [
+     0.0105,
+     0.0113,
+     0.0117,
+     0.0118,
+     0.0124,
+     0.013
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/f929c89e-c363-4132-a918-e021d57b307c",
+    "name_pl": "zarządzanie łańcuchem dostaw",
+    "name_en": "supply chain management",
+    "group": "management",
+    "share": 0.0125,
+    "change_pct": 5.0,
+    "series": [
+     0.0119,
+     0.0123,
+     0.0124,
+     0.0126,
+     0.0128,
+     0.0125
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+    "name_pl": "zarządzanie projektami",
+    "name_en": "perform project management",
+    "group": "management",
+    "share": 0.0121,
+    "change_pct": 3.4,
+    "series": [
+     0.0117,
+     0.0119,
+     0.0119,
+     0.0122,
+     0.0122,
+     0.0121
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/c96ab6ac-cf85-4c91-86b5-7ac5bb14eb28",
+    "name_pl": "obsługa dźwigów",
+    "name_en": "operate cranes",
+    "group": "technical_trades",
+    "share": 0.012,
+    "change_pct": 16.5,
+    "series": [
+     0.0103,
+     0.0108,
+     0.011,
+     0.0113,
+     0.0119,
+     0.012
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/8755734c-2919-41a3-9ca6-1e3d1f169213",
+    "name_pl": "montaż instalacji hydraulicznych",
+    "name_en": "install plumbing systems",
+    "group": "technical_trades",
+    "share": 0.0118,
+    "change_pct": 11.3,
+    "series": [
+     0.0106,
+     0.0111,
+     0.0111,
+     0.0111,
+     0.0115,
+     0.0118
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4",
+    "name_pl": "zwinne zarządzanie projektami (Agile)",
+    "name_en": "Agile project management",
+    "group": "management",
+    "share": 0.0117,
+    "change_pct": -4.9,
+    "series": [
+     0.0123,
+     0.0125,
+     0.0123,
+     0.0121,
+     0.0122,
+     0.0117
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/530cb489-d900-46ab-9350-4d50ccd49eea",
+    "name_pl": "techniki spawania",
+    "name_en": "welding techniques",
+    "group": "technical_trades",
+    "share": 0.0117,
+    "change_pct": -2.5,
+    "series": [
+     0.012,
+     0.0122,
+     0.0119,
+     0.0122,
+     0.0122,
+     0.0117
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/261e740b-d32d-4356-94a8-3ea29128b70b",
+    "name_pl": "opieka nad osobami starszymi",
+    "name_en": "tend to elderly people",
+    "group": "healthcare",
+    "share": 0.01,
+    "change_pct": 1.0,
+    "series": [
+     0.0099,
+     0.0098,
+     0.0101,
+     0.0101,
+     0.0099,
+     0.01
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/e437eba1-3e22-41f2-8703-741e94785cba",
+    "name_pl": "zarządzanie zasobami ludzkimi",
+    "name_en": "human resource management",
+    "group": "finance_admin",
+    "share": 0.01,
+    "change_pct": -15.3,
+    "series": [
+     0.0118,
+     0.0111,
+     0.0111,
+     0.0108,
+     0.0104,
+     0.01
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/4812a4ea-dc55-4dc6-b9b0-4a59bba2c647",
+    "name_pl": "język niemiecki",
+    "name_en": "German",
+    "group": "languages",
+    "share": 0.0092,
+    "change_pct": -5.2,
+    "series": [
+     0.0097,
+     0.0096,
+     0.0096,
+     0.0093,
+     0.0093,
+     0.0092
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/28d715e3-3e5b-4fb6-8dd2-4be4919c8587",
+    "name_pl": "obsługa reklamacji",
+    "name_en": "handle customer complaints",
+    "group": "customer_sales",
+    "share": 0.009,
+    "change_pct": 20.0,
+    "series": [
+     0.0075,
+     0.0081,
+     0.0083,
+     0.0083,
+     0.0086,
+     0.009
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/ecc18804-a466-40d9-98b4-fba5cd67dd4b",
+    "name_pl": "rachunkowość",
+    "name_en": "accounting",
+    "group": "finance_admin",
+    "share": 0.0089,
+    "change_pct": -4.3,
+    "series": [
+     0.0093,
+     0.0092,
+     0.0092,
+     0.0089,
+     0.009,
+     0.0089
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/0450eaee-1a00-4622-8f4e-5356fce816d2",
+    "name_pl": "higiena w placówkach ochrony zdrowia",
+    "name_en": "hygiene in a health care setting",
+    "group": "healthcare",
+    "share": 0.0075,
+    "change_pct": -3.8,
+    "series": [
+     0.0078,
+     0.0078,
+     0.0078,
+     0.008,
+     0.0077,
+     0.0075
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/97bd1c21-66b2-4b7e-ad0f-e3cda590e378",
+    "name_pl": "analityka danych",
+    "name_en": "data analytics",
+    "group": "data_ai",
+    "share": 0.0074,
+    "change_pct": 34.5,
+    "series": [
+     0.0055,
+     0.0059,
+     0.0063,
+     0.0066,
+     0.0067,
+     0.0074
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/1fe42b38-cd42-4fc7-ae77-14e4c9e96295",
+    "name_pl": "język chiński",
+    "name_en": "Chinese",
+    "group": "languages",
+    "share": 0.0072,
+    "change_pct": 2.9,
+    "series": [
+     0.007,
+     0.0069,
+     0.0071,
+     0.0071,
+     0.0072,
+     0.0072
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/b7a26b32-c457-49aa-9a78-25ade10090e3",
+    "name_pl": "konserwacja turbin wiatrowych",
+    "name_en": "maintain wind turbines",
+    "group": "green",
+    "share": 0.0063,
+    "change_pct": 21.2,
+    "series": [
+     0.0052,
+     0.0053,
+     0.0057,
+     0.0058,
+     0.0061,
+     0.0063
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+    "name_pl": "analiza danych",
+    "name_en": "perform data analysis",
+    "group": "data_ai",
+    "share": 0.0061,
+    "change_pct": 7.0,
+    "series": [
+     0.0057,
+     0.0059,
+     0.0061,
+     0.0061,
+     0.006,
+     0.0061
+    ]
+   }
+  ]
+ }
+}

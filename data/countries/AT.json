@@ -1,0 +1,3012 @@
+{
+ "country": {
+  "code": "AT",
+  "iso3": "AUT",
+  "numeric": 40,
+  "name_pl": "Austria",
+  "name_en": "Austria",
+  "continent": "europe",
+  "currency": "EUR"
+ },
+ "generated_at": "2026-09-30T15:36:10+00:00",
+ "coverage": {
+  "first_month": "2025-09",
+  "last_month": "2026-08",
+  "collecting_since": "2026-08-01",
+  "complete_from": "2026-08",
+  "index_base_month": "2026-08",
+  "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
+ },
+ "headline": {
+  "month": "2026-08",
+  "postings_new": 66097,
+  "postings_raw": 87787,
+  "mom_pct": null,
+  "yoy_pct": null,
+  "postings_active_end": 110403,
+  "salary_median": 3010,
+  "salary_currency": "EUR",
+  "salary_share": 0.548,
+  "remote_share": 0.009,
+  "sources": 3,
+  "top_source": {
+   "code": "jooble.at",
+   "service": "Jooble",
+   "share": 0.661
+  }
+ },
+ "monthly": [
+  {
+   "period": "2025-09",
+   "partial": false,
+   "postings_new": 839,
+   "postings_raw": 890,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 1.3,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.198,
+    "currency": "EUR"
+   },
+   "remote_share": 0.004,
+   "employment": {
+    "full_time": 0.265,
+    "part_time": 0.107,
+    "contract": 0.004,
+    "other": 0.12,
+    "unknown": 0.503
+   },
+   "by_source": [
+    {
+     "code": "indeed.at",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 596
+    },
+    {
+     "code": "jooble.at",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 294
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Wien",
+     "n": 127,
+     "share": 0.143
+    },
+    {
+     "name": "Deutschland",
+     "n": 44,
+     "share": 0.049
+    },
+    {
+     "name": "Linz",
+     "n": 35,
+     "share": 0.039
+    },
+    {
+     "name": "Graz",
+     "n": 26,
+     "share": 0.029
+    },
+    {
+     "name": "Wels",
+     "n": 26,
+     "share": 0.029
+    },
+    {
+     "name": "Innsbruck",
+     "n": 23,
+     "share": 0.026
+    },
+    {
+     "name": "Leonding",
+     "n": 15,
+     "share": 0.017
+    },
+    {
+     "name": "Salzburg",
+     "n": 13,
+     "share": 0.015
+    },
+    {
+     "name": "Weiz",
+     "n": 13,
+     "share": 0.015
+    },
+    {
+     "name": "Österreich",
+     "n": 12,
+     "share": 0.013
+    },
+    {
+     "name": "Steyr",
+     "n": 11,
+     "share": 0.012
+    },
+    {
+     "name": "Hallein",
+     "n": 10,
+     "share": 0.011
+    },
+    {
+     "name": "Ried im Innkreis",
+     "n": 10,
+     "share": 0.011
+    },
+    {
+     "name": "Gmünd",
+     "n": 9,
+     "share": 0.01
+    },
+    {
+     "name": "Wien (Bundesland)",
+     "n": 9,
+     "share": 0.01
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2025-10",
+   "partial": false,
+   "postings_new": 808,
+   "postings_raw": 832,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 1.2,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.196,
+    "currency": "EUR"
+   },
+   "remote_share": 0.008,
+   "employment": {
+    "full_time": 0.306,
+    "part_time": 0.129,
+    "contract": 0.013,
+    "other": 0.106,
+    "unknown": 0.446
+   },
+   "by_source": [
+    {
+     "code": "indeed.at",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 596
+    },
+    {
+     "code": "jooble.at",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 236
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Wien",
+     "n": 123,
+     "share": 0.148
+    },
+    {
+     "name": "Graz",
+     "n": 39,
+     "share": 0.047
+    },
+    {
+     "name": "Linz",
+     "n": 31,
+     "share": 0.037
+    },
+    {
+     "name": "Innsbruck",
+     "n": 17,
+     "share": 0.02
+    },
+    {
+     "name": "Steyr",
+     "n": 15,
+     "share": 0.018
+    },
+    {
+     "name": "Salzburg",
+     "n": 13,
+     "share": 0.016
+    },
+    {
+     "name": "Deutschland",
+     "n": 12,
+     "share": 0.014
+    },
+    {
+     "name": "Kitzbühel",
+     "n": 11,
+     "share": 0.013
+    },
+    {
+     "name": "Salzburg (Stadt)",
+     "n": 11,
+     "share": 0.013
+    },
+    {
+     "name": "Kirchbach in Steiermark",
+     "n": 10,
+     "share": 0.012
+    },
+    {
+     "name": "Tirol",
+     "n": 10,
+     "share": 0.012
+    },
+    {
+     "name": "Vöcklabruck",
+     "n": 9,
+     "share": 0.011
+    },
+    {
+     "name": "Weiz",
+     "n": 9,
+     "share": 0.011
+    },
+    {
+     "name": "Europa",
+     "n": 8,
+     "share": 0.01
+    },
+    {
+     "name": "Kirchdorf an der Krems",
+     "n": 8,
+     "share": 0.01
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2025-11",
+   "partial": false,
+   "postings_new": 851,
+   "postings_raw": 869,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 1.3,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.244,
+    "currency": "EUR"
+   },
+   "remote_share": 0.009,
+   "employment": {
+    "full_time": 0.291,
+    "part_time": 0.104,
+    "contract": 0.007,
+    "other": 0.079,
+    "unknown": 0.519
+   },
+   "by_source": [
+    {
+     "code": "indeed.at",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 538
+    },
+    {
+     "code": "jooble.at",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 331
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Wien",
+     "n": 145,
+     "share": 0.167
+    },
+    {
+     "name": "Graz",
+     "n": 35,
+     "share": 0.04
+    },
+    {
+     "name": "Linz",
+     "n": 35,
+     "share": 0.04
+    },
+    {
+     "name": "Salzburg",
+     "n": 17,
+     "share": 0.02
+    },
+    {
+     "name": "Innsbruck",
+     "n": 15,
+     "share": 0.017
+    },
+    {
+     "name": "Klagenfurt am Wörthersee",
+     "n": 15,
+     "share": 0.017
+    },
+    {
+     "name": "Horn",
+     "n": 13,
+     "share": 0.015
+    },
+    {
+     "name": "Sankt Pölten",
+     "n": 13,
+     "share": 0.015
+    },
+    {
+     "name": "Amstetten",
+     "n": 12,
+     "share": 0.014
+    },
+    {
+     "name": "Hörsching",
+     "n": 12,
+     "share": 0.014
+    },
+    {
+     "name": "Wels",
+     "n": 11,
+     "share": 0.013
+    },
+    {
+     "name": "Weiz",
+     "n": 10,
+     "share": 0.012
+    },
+    {
+     "name": "Baden",
+     "n": 9,
+     "share": 0.01
+    },
+    {
+     "name": "Mödling",
+     "n": 9,
+     "share": 0.01
+    },
+    {
+     "name": "Tulln an der Donau",
+     "n": 9,
+     "share": 0.01
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2025-12",
+   "partial": false,
+   "postings_new": 1366,
+   "postings_raw": 1415,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 2.1,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.237,
+    "currency": "EUR"
+   },
+   "remote_share": 0.023,
+   "employment": {
+    "full_time": 0.249,
+    "part_time": 0.201,
+    "contract": 0.005,
+    "other": 0.107,
+    "unknown": 0.437
+   },
+   "by_source": [
+    {
+     "code": "indeed.at",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 964
+    },
+    {
+     "code": "jooble.at",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 451
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Wien",
+     "n": 195,
+     "share": 0.138
+    },
+    {
+     "name": "Linz",
+     "n": 63,
+     "share": 0.045
+    },
+    {
+     "name": "Graz",
+     "n": 44,
+     "share": 0.031
+    },
+    {
+     "name": "Salzburg",
+     "n": 36,
+     "share": 0.025
+    },
+    {
+     "name": "Innsbruck",
+     "n": 27,
+     "share": 0.019
+    },
+    {
+     "name": "Hallein",
+     "n": 26,
+     "share": 0.018
+    },
+    {
+     "name": "Salzburg (Stadt)",
+     "n": 26,
+     "share": 0.018
+    },
+    {
+     "name": "Klagenfurt am Wörthersee",
+     "n": 20,
+     "share": 0.014
+    },
+    {
+     "name": "Sankt Georgen bei Salzburg",
+     "n": 19,
+     "share": 0.013
+    },
+    {
+     "name": "Hall in Tirol",
+     "n": 17,
+     "share": 0.012
+    },
+    {
+     "name": "Deutschland",
+     "n": 15,
+     "share": 0.011
+    },
+    {
+     "name": "Wels",
+     "n": 15,
+     "share": 0.011
+    },
+    {
+     "name": "Jenbach",
+     "n": 14,
+     "share": 0.01
+    },
+    {
+     "name": "Tirol",
+     "n": 14,
+     "share": 0.01
+    },
+    {
+     "name": "Feldkirch",
+     "n": 12,
+     "share": 0.008
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-01",
+   "partial": false,
+   "postings_new": 1583,
+   "postings_raw": 1629,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 2.4,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.204,
+    "currency": "EUR"
+   },
+   "remote_share": 0.007,
+   "employment": {
+    "full_time": 0.288,
+    "part_time": 0.132,
+    "contract": 0.011,
+    "other": 0.11,
+    "unknown": 0.459
+   },
+   "by_source": [
+    {
+     "code": "indeed.at",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 1121
+    },
+    {
+     "code": "jooble.at",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 508
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Wien",
+     "n": 237,
+     "share": 0.145
+    },
+    {
+     "name": "Linz",
+     "n": 73,
+     "share": 0.045
+    },
+    {
+     "name": "Deutschland",
+     "n": 72,
+     "share": 0.044
+    },
+    {
+     "name": "Graz",
+     "n": 52,
+     "share": 0.032
+    },
+    {
+     "name": "Innsbruck",
+     "n": 39,
+     "share": 0.024
+    },
+    {
+     "name": "Wels",
+     "n": 23,
+     "share": 0.014
+    },
+    {
+     "name": "Salzburg",
+     "n": 21,
+     "share": 0.013
+    },
+    {
+     "name": "Klagenfurt am Wörthersee",
+     "n": 20,
+     "share": 0.012
+    },
+    {
+     "name": "Leoben",
+     "n": 18,
+     "share": 0.011
+    },
+    {
+     "name": "Dornbirn",
+     "n": 17,
+     "share": 0.01
+    },
+    {
+     "name": "Villach",
+     "n": 17,
+     "share": 0.01
+    },
+    {
+     "name": "Sankt Pölten",
+     "n": 16,
+     "share": 0.01
+    },
+    {
+     "name": "Ried im Innkreis",
+     "n": 15,
+     "share": 0.009
+    },
+    {
+     "name": "Bludenz",
+     "n": 13,
+     "share": 0.008
+    },
+    {
+     "name": "Brunn am Gebirge",
+     "n": 13,
+     "share": 0.008
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-02",
+   "partial": false,
+   "postings_new": 5019,
+   "postings_raw": 5129,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 7.6,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.518,
+    "currency": "EUR"
+   },
+   "remote_share": 0.01,
+   "employment": {
+    "full_time": 0.14,
+    "part_time": 0.063,
+    "contract": 0.003,
+    "other": 0.021,
+    "unknown": 0.773
+   },
+   "by_source": [
+    {
+     "code": "jooble.at",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 3592
+    },
+    {
+     "code": "indeed.at",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 1537
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Wien",
+     "n": 1307,
+     "share": 0.255
+    },
+    {
+     "name": "Linz",
+     "n": 291,
+     "share": 0.057
+    },
+    {
+     "name": "Salzburg (Stadt)",
+     "n": 181,
+     "share": 0.035
+    },
+    {
+     "name": "Graz",
+     "n": 143,
+     "share": 0.028
+    },
+    {
+     "name": "Innsbruck",
+     "n": 131,
+     "share": 0.026
+    },
+    {
+     "name": "Deutschland",
+     "n": 89,
+     "share": 0.017
+    },
+    {
+     "name": "Klagenfurt am Wörthersee",
+     "n": 63,
+     "share": 0.012
+    },
+    {
+     "name": "Wels",
+     "n": 63,
+     "share": 0.012
+    },
+    {
+     "name": "Hall in Tirol",
+     "n": 58,
+     "share": 0.011
+    },
+    {
+     "name": "Villach",
+     "n": 52,
+     "share": 0.01
+    },
+    {
+     "name": "Pasching",
+     "n": 46,
+     "share": 0.009
+    },
+    {
+     "name": "Leoben",
+     "n": 45,
+     "share": 0.009
+    },
+    {
+     "name": "Salzburg",
+     "n": 35,
+     "share": 0.007
+    },
+    {
+     "name": "Dornbirn",
+     "n": 33,
+     "share": 0.006
+    },
+    {
+     "name": "Sankt Pölten",
+     "n": 33,
+     "share": 0.006
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-03",
+   "partial": false,
+   "postings_new": 3296,
+   "postings_raw": 3421,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 5.0,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.179,
+    "currency": "EUR"
+   },
+   "remote_share": 0.019,
+   "employment": {
+    "full_time": 0.302,
+    "part_time": 0.16,
+    "contract": 0.01,
+    "other": 0.046,
+    "unknown": 0.483
+   },
+   "by_source": [
+    {
+     "code": "indeed.at",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 2396
+    },
+    {
+     "code": "jooble.at",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 1025
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Wien",
+     "n": 519,
+     "share": 0.152
+    },
+    {
+     "name": "Linz",
+     "n": 121,
+     "share": 0.035
+    },
+    {
+     "name": "Graz",
+     "n": 77,
+     "share": 0.023
+    },
+    {
+     "name": "Innsbruck",
+     "n": 76,
+     "share": 0.022
+    },
+    {
+     "name": "Deutschland",
+     "n": 45,
+     "share": 0.013
+    },
+    {
+     "name": "Klagenfurt am Wörthersee",
+     "n": 42,
+     "share": 0.012
+    },
+    {
+     "name": "Villach",
+     "n": 42,
+     "share": 0.012
+    },
+    {
+     "name": "Hagenberg im Mühlkreis",
+     "n": 36,
+     "share": 0.011
+    },
+    {
+     "name": "Salzburg",
+     "n": 35,
+     "share": 0.01
+    },
+    {
+     "name": "Wels",
+     "n": 35,
+     "share": 0.01
+    },
+    {
+     "name": "Sankt Pölten",
+     "n": 32,
+     "share": 0.009
+    },
+    {
+     "name": "Salzburg (Stadt)",
+     "n": 31,
+     "share": 0.009
+    },
+    {
+     "name": "Leonding",
+     "n": 26,
+     "share": 0.008
+    },
+    {
+     "name": "Niederösterreich",
+     "n": 24,
+     "share": 0.007
+    },
+    {
+     "name": "Steyr",
+     "n": 22,
+     "share": 0.006
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-04",
+   "partial": false,
+   "postings_new": 3577,
+   "postings_raw": 3754,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 5.4,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.197,
+    "currency": "EUR"
+   },
+   "remote_share": 0.024,
+   "employment": {
+    "full_time": 0.344,
+    "part_time": 0.134,
+    "contract": 0.009,
+    "other": 0.032,
+    "unknown": 0.481
+   },
+   "by_source": [
+    {
+     "code": "indeed.at",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 2631
+    },
+    {
+     "code": "jooble.at",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 1123
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Wien",
+     "n": 710,
+     "share": 0.189
+    },
+    {
+     "name": "Linz",
+     "n": 184,
+     "share": 0.049
+    },
+    {
+     "name": "Graz",
+     "n": 119,
+     "share": 0.032
+    },
+    {
+     "name": "Deutschland",
+     "n": 103,
+     "share": 0.027
+    },
+    {
+     "name": "Innsbruck",
+     "n": 96,
+     "share": 0.026
+    },
+    {
+     "name": "Salzburg",
+     "n": 71,
+     "share": 0.019
+    },
+    {
+     "name": "Wels",
+     "n": 54,
+     "share": 0.014
+    },
+    {
+     "name": "Salzburg (Stadt)",
+     "n": 52,
+     "share": 0.014
+    },
+    {
+     "name": "Klagenfurt am Wörthersee",
+     "n": 47,
+     "share": 0.013
+    },
+    {
+     "name": "Dornbirn",
+     "n": 39,
+     "share": 0.01
+    },
+    {
+     "name": "Villach",
+     "n": 32,
+     "share": 0.009
+    },
+    {
+     "name": "Österreich",
+     "n": 32,
+     "share": 0.009
+    },
+    {
+     "name": "Sankt Pölten",
+     "n": 24,
+     "share": 0.006
+    },
+    {
+     "name": "Gmunden",
+     "n": 22,
+     "share": 0.006
+    },
+    {
+     "name": "Wiener Neustadt",
+     "n": 21,
+     "share": 0.006
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-05",
+   "partial": false,
+   "postings_new": 6733,
+   "postings_raw": 7323,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 10.2,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 3350,
+    "p25": 2702,
+    "p75": 4667,
+    "mean": 3821,
+    "n": 517,
+    "share": 0.353,
+    "currency": "EUR"
+   },
+   "remote_share": 0.012,
+   "employment": {
+    "full_time": 0.252,
+    "part_time": 0.101,
+    "contract": 0.006,
+    "other": 0.02,
+    "unknown": 0.622
+   },
+   "by_source": [
+    {
+     "code": "indeed.at",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 3672
+    },
+    {
+     "code": "jooble.at",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 2771
+    },
+    {
+     "code": "careerjet.at",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 880
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Wien",
+     "n": 1249,
+     "share": 0.171
+    },
+    {
+     "name": "Linz",
+     "n": 420,
+     "share": 0.057
+    },
+    {
+     "name": "Graz",
+     "n": 332,
+     "share": 0.045
+    },
+    {
+     "name": "Innsbruck",
+     "n": 203,
+     "share": 0.028
+    },
+    {
+     "name": "Österreich",
+     "n": 189,
+     "share": 0.026
+    },
+    {
+     "name": "Wels",
+     "n": 151,
+     "share": 0.021
+    },
+    {
+     "name": "Salzburg",
+     "n": 148,
+     "share": 0.02
+    },
+    {
+     "name": "Salzburg (Stadt)",
+     "n": 119,
+     "share": 0.016
+    },
+    {
+     "name": "Villach",
+     "n": 91,
+     "share": 0.012
+    },
+    {
+     "name": "Klagenfurt am Wörthersee",
+     "n": 84,
+     "share": 0.011
+    },
+    {
+     "name": "Oberösterreich",
+     "n": 83,
+     "share": 0.011
+    },
+    {
+     "name": "Sankt Pölten",
+     "n": 79,
+     "share": 0.011
+    },
+    {
+     "name": "Leoben",
+     "n": 75,
+     "share": 0.01
+    },
+    {
+     "name": "Deutschland",
+     "n": 69,
+     "share": 0.009
+    },
+    {
+     "name": "Hart bei Graz",
+     "n": 57,
+     "share": 0.008
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-06",
+   "partial": false,
+   "postings_new": 16149,
+   "postings_raw": 18052,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 24.4,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 3300,
+    "p25": 2707,
+    "p75": 4153,
+    "mean": 3663,
+    "n": 1097,
+    "share": 0.482,
+    "currency": "EUR"
+   },
+   "remote_share": 0.008,
+   "employment": {
+    "full_time": 0.184,
+    "part_time": 0.073,
+    "contract": 0.003,
+    "other": 0.017,
+    "unknown": 0.722
+   },
+   "by_source": [
+    {
+     "code": "jooble.at",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 9464
+    },
+    {
+     "code": "indeed.at",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 6565
+    },
+    {
+     "code": "careerjet.at",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 2023
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Wien",
+     "n": 3008,
+     "share": 0.167
+    },
+    {
+     "name": "Linz",
+     "n": 1182,
+     "share": 0.065
+    },
+    {
+     "name": "Graz",
+     "n": 664,
+     "share": 0.037
+    },
+    {
+     "name": "Innsbruck",
+     "n": 356,
+     "share": 0.02
+    },
+    {
+     "name": "Wels",
+     "n": 336,
+     "share": 0.019
+    },
+    {
+     "name": "Salzburg (Stadt)",
+     "n": 301,
+     "share": 0.017
+    },
+    {
+     "name": "Klagenfurt am Wörthersee",
+     "n": 278,
+     "share": 0.015
+    },
+    {
+     "name": "Salzburg",
+     "n": 271,
+     "share": 0.015
+    },
+    {
+     "name": "Weiz",
+     "n": 260,
+     "share": 0.014
+    },
+    {
+     "name": "Österreich",
+     "n": 225,
+     "share": 0.012
+    },
+    {
+     "name": "Villach",
+     "n": 221,
+     "share": 0.012
+    },
+    {
+     "name": "Dornbirn",
+     "n": 191,
+     "share": 0.011
+    },
+    {
+     "name": "Steyr",
+     "n": 145,
+     "share": 0.008
+    },
+    {
+     "name": "Leoben",
+     "n": 138,
+     "share": 0.008
+    },
+    {
+     "name": "Sankt Pölten",
+     "n": 125,
+     "share": 0.007
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "reinigungshilfe (m/w/d)",
+     "n": 95
+    },
+    {
+     "title": "diplomierte gesundheits- und krankenpflegeperson (w/m/d)",
+     "n": 77
+    },
+    {
+     "title": "pflegeassistenz (w/m/d)",
+     "n": 76
+    },
+    {
+     "title": "produktionsmitarbeiter (m/w/d)",
+     "n": 72
+    },
+    {
+     "title": "fachsozialbetreuung altenarbeit (w/m/d)",
+     "n": 68
+    },
+    {
+     "title": "pflegefachassistenz (w/m/d)",
+     "n": 65
+    },
+    {
+     "title": "heimhilfe (w/m/d)",
+     "n": 62
+    },
+    {
+     "title": "verkäufer:in feinkost",
+     "n": 48
+    },
+    {
+     "title": "reinigungskraft (m/w/d)",
+     "n": 45
+    },
+    {
+     "title": "verkäufer:in fokus kassa",
+     "n": 44
+    },
+    {
+     "title": "kommissionierer (m/w/d)",
+     "n": 37
+    },
+    {
+     "title": "staplerfahrer (m/w/d)",
+     "n": 35
+    },
+    {
+     "title": "verkäufer:in",
+     "n": 30
+    },
+    {
+     "title": "betriebselektriker (m/w/d)",
+     "n": 27
+    },
+    {
+     "title": "german digital marketing client success manager in barcelona w/ relocation",
+     "n": 26
+    }
+   ],
+   "regions": []
+  },
+  {
+   "period": "2026-07",
+   "partial": false,
+   "postings_new": 51907,
+   "postings_raw": 61792,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 78.5,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 3325,
+    "p25": 2681,
+    "p75": 4375,
+    "mean": 3708,
+    "n": 3451,
+    "share": 0.586,
+    "currency": "EUR"
+   },
+   "remote_share": 0.008,
+   "employment": {
+    "full_time": 0.082,
+    "part_time": 0.036,
+    "contract": 0.005,
+    "other": 0.006,
+    "unknown": 0.872
+   },
+   "by_source": [
+    {
+     "code": "jooble.at",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 42695
+    },
+    {
+     "code": "indeed.at",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 10456
+    },
+    {
+     "code": "careerjet.at",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 8641
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Wien",
+     "n": 10833,
+     "share": 0.175
+    },
+    {
+     "name": "Linz",
+     "n": 3801,
+     "share": 0.062
+    },
+    {
+     "name": "Graz",
+     "n": 2581,
+     "share": 0.042
+    },
+    {
+     "name": "Salzburg (Stadt)",
+     "n": 1973,
+     "share": 0.032
+    },
+    {
+     "name": "Innsbruck",
+     "n": 1606,
+     "share": 0.026
+    },
+    {
+     "name": "Wels",
+     "n": 1162,
+     "share": 0.019
+    },
+    {
+     "name": "Salzburg",
+     "n": 845,
+     "share": 0.014
+    },
+    {
+     "name": "Villach",
+     "n": 823,
+     "share": 0.013
+    },
+    {
+     "name": "Klagenfurt am Wörthersee",
+     "n": 794,
+     "share": 0.013
+    },
+    {
+     "name": "Österreich",
+     "n": 765,
+     "share": 0.012
+    },
+    {
+     "name": "Sankt Pölten",
+     "n": 579,
+     "share": 0.009
+    },
+    {
+     "name": "Weiz",
+     "n": 529,
+     "share": 0.009
+    },
+    {
+     "name": "Leoben",
+     "n": 497,
+     "share": 0.008
+    },
+    {
+     "name": "Kärnten",
+     "n": 409,
+     "share": 0.007
+    },
+    {
+     "name": "Oberösterreich",
+     "n": 408,
+     "share": 0.007
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "reinigungshilfe (m/w/d)",
+     "n": 750
+    },
+    {
+     "title": "produktionsmitarbeiter (m/w/d)",
+     "n": 187
+    },
+    {
+     "title": "reinigungskraft (m/w/d)",
+     "n": 134
+    },
+    {
+     "title": "verkäufer:in feinkost",
+     "n": 97
+    },
+    {
+     "title": "staplerfahrer (m/w/d)",
+     "n": 84
+    },
+    {
+     "title": "verkäufer:in fokus kassa",
+     "n": 80
+    },
+    {
+     "title": "chef de partie (m/w/d)",
+     "n": 74
+    },
+    {
+     "title": "elektriker (m/w/d)",
+     "n": 72
+    },
+    {
+     "title": "verkäufer:in",
+     "n": 69
+    },
+    {
+     "title": "lagermitarbeiter (m/w/d)",
+     "n": 66
+    },
+    {
+     "title": "maschinenbautechniker (m/w/d)",
+     "n": 66
+    },
+    {
+     "title": "reinigungskraft",
+     "n": 62
+    },
+    {
+     "title": "koch (m/w/d)",
+     "n": 61
+    },
+    {
+     "title": "bilanzbuchhalter (m/w/d)",
+     "n": 55
+    },
+    {
+     "title": "buchhalter (m/w/d)",
+     "n": 54
+    }
+   ],
+   "regions": []
+  },
+  {
+   "period": "2026-08",
+   "partial": false,
+   "postings_new": 66097,
+   "postings_raw": 87787,
+   "postings_active_end": 110403,
+   "postings_closed": 83266,
+   "index": 100.0,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 3010,
+    "p25": 2367,
+    "p75": 4000,
+    "mean": 3381,
+    "n": 5635,
+    "share": 0.548,
+    "currency": "EUR"
+   },
+   "remote_share": 0.009,
+   "employment": {
+    "full_time": 0.068,
+    "part_time": 0.033,
+    "contract": 0.005,
+    "other": 0.006,
+    "unknown": 0.888
+   },
+   "by_source": [
+    {
+     "code": "jooble.at",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 58068
+    },
+    {
+     "code": "careerjet.at",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 17023
+    },
+    {
+     "code": "indeed.at",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 12696
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Wien",
+     "n": 19971,
+     "share": 0.227
+    },
+    {
+     "name": "Linz",
+     "n": 4774,
+     "share": 0.054
+    },
+    {
+     "name": "Graz",
+     "n": 3039,
+     "share": 0.035
+    },
+    {
+     "name": "Salzburg (Stadt)",
+     "n": 2281,
+     "share": 0.026
+    },
+    {
+     "name": "Innsbruck",
+     "n": 1935,
+     "share": 0.022
+    },
+    {
+     "name": "Österreich",
+     "n": 1523,
+     "share": 0.017
+    },
+    {
+     "name": "Wels",
+     "n": 1515,
+     "share": 0.017
+    },
+    {
+     "name": "Klagenfurt am Wörthersee",
+     "n": 1047,
+     "share": 0.012
+    },
+    {
+     "name": "Salzburg",
+     "n": 1020,
+     "share": 0.012
+    },
+    {
+     "name": "Deutschland",
+     "n": 972,
+     "share": 0.011
+    },
+    {
+     "name": "Villach",
+     "n": 912,
+     "share": 0.01
+    },
+    {
+     "name": "Sankt Pölten",
+     "n": 752,
+     "share": 0.009
+    },
+    {
+     "name": "Tirol",
+     "n": 699,
+     "share": 0.008
+    },
+    {
+     "name": "Kärnten",
+     "n": 661,
+     "share": 0.008
+    },
+    {
+     "name": "Niederösterreich",
+     "n": 638,
+     "share": 0.007
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "reinigungshilfe (m/w/d)",
+     "n": 1146
+    },
+    {
+     "title": "chef de partie (m/w/d)",
+     "n": 296
+    },
+    {
+     "title": "rezeptionist (m/w/d)",
+     "n": 286
+    },
+    {
+     "title": "produktionsmitarbeiter (m/w/d)",
+     "n": 256
+    },
+    {
+     "title": "reinigungskraft (m/w/d)",
+     "n": 225
+    },
+    {
+     "title": "chef de rang (m/w/d)",
+     "n": 150
+    },
+    {
+     "title": "souschef (m/w/d)",
+     "n": 126
+    },
+    {
+     "title": "koch (m/w/d)",
+     "n": 124
+    },
+    {
+     "title": "commis de rang (m/w/d)",
+     "n": 119
+    },
+    {
+     "title": "verkäufer:in fokus kassa",
+     "n": 114
+    },
+    {
+     "title": "staplerfahrer (m/w/d)",
+     "n": 113
+    },
+    {
+     "title": "ausbildung zum verkäufer, fachrichtung lebensmittel (m/w/d) - 2027",
+     "n": 112
+    },
+    {
+     "title": "verkäufer:in feinkost",
+     "n": 108
+    },
+    {
+     "title": "diplomierte gesundheits- und krankenpflegeperson (w/m/d)",
+     "n": 104
+    },
+    {
+     "title": "verkäufer:in",
+     "n": 101
+    }
+   ],
+   "regions": []
+  }
+ ],
+ "quarterly": [
+  {
+   "period": "2025-Q3",
+   "partial": true,
+   "postings_new": 839,
+   "postings_raw": 890,
+   "qoq_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.198,
+    "currency": "EUR"
+   },
+   "remote_share": 0.004,
+   "employment": {
+    "full_time": 0.265,
+    "part_time": 0.107,
+    "contract": 0.004,
+    "other": 0.12,
+    "unknown": 0.503
+   },
+   "by_source": [
+    {
+     "code": "indeed.at",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 596
+    },
+    {
+     "code": "jooble.at",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 294
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Wien",
+     "n": 127,
+     "share": 0.143
+    },
+    {
+     "name": "Deutschland",
+     "n": 44,
+     "share": 0.049
+    },
+    {
+     "name": "Linz",
+     "n": 35,
+     "share": 0.039
+    },
+    {
+     "name": "Graz",
+     "n": 26,
+     "share": 0.029
+    },
+    {
+     "name": "Wels",
+     "n": 26,
+     "share": 0.029
+    },
+    {
+     "name": "Innsbruck",
+     "n": 23,
+     "share": 0.026
+    },
+    {
+     "name": "Leonding",
+     "n": 15,
+     "share": 0.017
+    },
+    {
+     "name": "Salzburg",
+     "n": 13,
+     "share": 0.015
+    },
+    {
+     "name": "Weiz",
+     "n": 13,
+     "share": 0.015
+    },
+    {
+     "name": "Österreich",
+     "n": 12,
+     "share": 0.013
+    },
+    {
+     "name": "Steyr",
+     "n": 11,
+     "share": 0.012
+    },
+    {
+     "name": "Hallein",
+     "n": 10,
+     "share": 0.011
+    },
+    {
+     "name": "Ried im Innkreis",
+     "n": 10,
+     "share": 0.011
+    },
+    {
+     "name": "Gmünd",
+     "n": 9,
+     "share": 0.01
+    },
+    {
+     "name": "Wien (Bundesland)",
+     "n": 9,
+     "share": 0.01
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2025-Q4",
+   "partial": false,
+   "postings_new": 3025,
+   "postings_raw": 3116,
+   "qoq_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.228,
+    "currency": "EUR"
+   },
+   "remote_share": 0.015,
+   "employment": {
+    "full_time": 0.276,
+    "part_time": 0.155,
+    "contract": 0.008,
+    "other": 0.099,
+    "unknown": 0.462
+   },
+   "by_source": [
+    {
+     "code": "indeed.at",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 2098
+    },
+    {
+     "code": "jooble.at",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 1018
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Wien",
+     "n": 463,
+     "share": 0.149
+    },
+    {
+     "name": "Linz",
+     "n": 129,
+     "share": 0.041
+    },
+    {
+     "name": "Graz",
+     "n": 118,
+     "share": 0.038
+    },
+    {
+     "name": "Salzburg",
+     "n": 66,
+     "share": 0.021
+    },
+    {
+     "name": "Innsbruck",
+     "n": 59,
+     "share": 0.019
+    },
+    {
+     "name": "Salzburg (Stadt)",
+     "n": 37,
+     "share": 0.012
+    },
+    {
+     "name": "Klagenfurt am Wörthersee",
+     "n": 35,
+     "share": 0.011
+    },
+    {
+     "name": "Deutschland",
+     "n": 27,
+     "share": 0.009
+    },
+    {
+     "name": "Hallein",
+     "n": 26,
+     "share": 0.008
+    },
+    {
+     "name": "Wels",
+     "n": 26,
+     "share": 0.008
+    },
+    {
+     "name": "Tirol",
+     "n": 24,
+     "share": 0.008
+    },
+    {
+     "name": "Sankt Georgen bei Salzburg",
+     "n": 19,
+     "share": 0.006
+    },
+    {
+     "name": "Weiz",
+     "n": 19,
+     "share": 0.006
+    },
+    {
+     "name": "Hall in Tirol",
+     "n": 17,
+     "share": 0.005
+    },
+    {
+     "name": "Steyr",
+     "n": 15,
+     "share": 0.005
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-Q1",
+   "partial": false,
+   "postings_new": 9898,
+   "postings_raw": 10179,
+   "qoq_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.354,
+    "currency": "EUR"
+   },
+   "remote_share": 0.013,
+   "employment": {
+    "full_time": 0.218,
+    "part_time": 0.107,
+    "contract": 0.007,
+    "other": 0.044,
+    "unknown": 0.625
+   },
+   "by_source": [
+    {
+     "code": "jooble.at",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 5125
+    },
+    {
+     "code": "indeed.at",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 5054
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Wien",
+     "n": 2063,
+     "share": 0.203
+    },
+    {
+     "name": "Linz",
+     "n": 485,
+     "share": 0.048
+    },
+    {
+     "name": "Graz",
+     "n": 272,
+     "share": 0.027
+    },
+    {
+     "name": "Innsbruck",
+     "n": 246,
+     "share": 0.024
+    },
+    {
+     "name": "Salzburg (Stadt)",
+     "n": 212,
+     "share": 0.021
+    },
+    {
+     "name": "Deutschland",
+     "n": 206,
+     "share": 0.02
+    },
+    {
+     "name": "Klagenfurt am Wörthersee",
+     "n": 125,
+     "share": 0.012
+    },
+    {
+     "name": "Wels",
+     "n": 121,
+     "share": 0.012
+    },
+    {
+     "name": "Villach",
+     "n": 111,
+     "share": 0.011
+    },
+    {
+     "name": "Salzburg",
+     "n": 91,
+     "share": 0.009
+    },
+    {
+     "name": "Sankt Pölten",
+     "n": 81,
+     "share": 0.008
+    },
+    {
+     "name": "Leoben",
+     "n": 63,
+     "share": 0.006
+    },
+    {
+     "name": "Hall in Tirol",
+     "n": 58,
+     "share": 0.006
+    },
+    {
+     "name": "Dornbirn",
+     "n": 50,
+     "share": 0.005
+    },
+    {
+     "name": "Pasching",
+     "n": 46,
+     "share": 0.005
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-Q2",
+   "partial": false,
+   "postings_new": 26459,
+   "postings_raw": 29129,
+   "qoq_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 3316,
+    "p25": 2705,
+    "p75": 4318,
+    "mean": 3714,
+    "n": 1614,
+    "share": 0.413,
+    "currency": "EUR"
+   },
+   "remote_share": 0.011,
+   "employment": {
+    "full_time": 0.222,
+    "part_time": 0.088,
+    "contract": 0.005,
+    "other": 0.02,
+    "unknown": 0.666
+   },
+   "by_source": [
+    {
+     "code": "jooble.at",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 13358
+    },
+    {
+     "code": "indeed.at",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 12868
+    },
+    {
+     "code": "careerjet.at",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 2903
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Wien",
+     "n": 4967,
+     "share": 0.171
+    },
+    {
+     "name": "Linz",
+     "n": 1786,
+     "share": 0.061
+    },
+    {
+     "name": "Graz",
+     "n": 1115,
+     "share": 0.038
+    },
+    {
+     "name": "Innsbruck",
+     "n": 655,
+     "share": 0.022
+    },
+    {
+     "name": "Wels",
+     "n": 541,
+     "share": 0.019
+    },
+    {
+     "name": "Salzburg",
+     "n": 490,
+     "share": 0.017
+    },
+    {
+     "name": "Salzburg (Stadt)",
+     "n": 472,
+     "share": 0.016
+    },
+    {
+     "name": "Österreich",
+     "n": 446,
+     "share": 0.015
+    },
+    {
+     "name": "Klagenfurt am Wörthersee",
+     "n": 409,
+     "share": 0.014
+    },
+    {
+     "name": "Villach",
+     "n": 344,
+     "share": 0.012
+    },
+    {
+     "name": "Weiz",
+     "n": 260,
+     "share": 0.009
+    },
+    {
+     "name": "Dornbirn",
+     "n": 230,
+     "share": 0.008
+    },
+    {
+     "name": "Sankt Pölten",
+     "n": 228,
+     "share": 0.008
+    },
+    {
+     "name": "Leoben",
+     "n": 213,
+     "share": 0.007
+    },
+    {
+     "name": "Deutschland",
+     "n": 172,
+     "share": 0.006
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "reinigungshilfe (m/w/d)",
+     "n": 95
+    },
+    {
+     "title": "diplomierte gesundheits- und krankenpflegeperson (w/m/d)",
+     "n": 77
+    },
+    {
+     "title": "pflegeassistenz (w/m/d)",
+     "n": 76
+    },
+    {
+     "title": "produktionsmitarbeiter (m/w/d)",
+     "n": 72
+    },
+    {
+     "title": "fachsozialbetreuung altenarbeit (w/m/d)",
+     "n": 68
+    },
+    {
+     "title": "pflegefachassistenz (w/m/d)",
+     "n": 65
+    },
+    {
+     "title": "heimhilfe (w/m/d)",
+     "n": 62
+    },
+    {
+     "title": "verkäufer:in feinkost",
+     "n": 48
+    },
+    {
+     "title": "reinigungskraft (m/w/d)",
+     "n": 45
+    },
+    {
+     "title": "verkäufer:in fokus kassa",
+     "n": 44
+    },
+    {
+     "title": "kommissionierer (m/w/d)",
+     "n": 37
+    },
+    {
+     "title": "staplerfahrer (m/w/d)",
+     "n": 35
+    },
+    {
+     "title": "verkäufer:in",
+     "n": 30
+    },
+    {
+     "title": "betriebselektriker (m/w/d)",
+     "n": 27
+    },
+    {
+     "title": "german digital marketing client success manager in barcelona w/ relocation",
+     "n": 26
+    }
+   ],
+   "regions": []
+  },
+  {
+   "period": "2026-Q3",
+   "partial": true,
+   "postings_new": 118004,
+   "postings_raw": 149579,
+   "qoq_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 3130,
+    "p25": 2486,
+    "p75": 4142,
+    "mean": 3505,
+    "n": 9086,
+    "share": 0.564,
+    "currency": "EUR"
+   },
+   "remote_share": 0.009,
+   "employment": {
+    "full_time": 0.074,
+    "part_time": 0.034,
+    "contract": 0.005,
+    "other": 0.006,
+    "unknown": 0.881
+   },
+   "by_source": [
+    {
+     "code": "jooble.at",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 100763
+    },
+    {
+     "code": "careerjet.at",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 25664
+    },
+    {
+     "code": "indeed.at",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 23152
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Wien",
+     "n": 30804,
+     "share": 0.206
+    },
+    {
+     "name": "Linz",
+     "n": 8575,
+     "share": 0.057
+    },
+    {
+     "name": "Graz",
+     "n": 5620,
+     "share": 0.038
+    },
+    {
+     "name": "Salzburg (Stadt)",
+     "n": 4254,
+     "share": 0.028
+    },
+    {
+     "name": "Innsbruck",
+     "n": 3541,
+     "share": 0.024
+    },
+    {
+     "name": "Wels",
+     "n": 2677,
+     "share": 0.018
+    },
+    {
+     "name": "Österreich",
+     "n": 2288,
+     "share": 0.015
+    },
+    {
+     "name": "Salzburg",
+     "n": 1865,
+     "share": 0.012
+    },
+    {
+     "name": "Klagenfurt am Wörthersee",
+     "n": 1841,
+     "share": 0.012
+    },
+    {
+     "name": "Villach",
+     "n": 1735,
+     "share": 0.012
+    },
+    {
+     "name": "Sankt Pölten",
+     "n": 1331,
+     "share": 0.009
+    },
+    {
+     "name": "Kärnten",
+     "n": 1070,
+     "share": 0.007
+    },
+    {
+     "name": "Deutschland",
+     "n": 972,
+     "share": 0.006
+    },
+    {
+     "name": "Tirol",
+     "n": 699,
+     "share": 0.005
+    },
+    {
+     "name": "Niederösterreich",
+     "n": 638,
+     "share": 0.004
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "reinigungshilfe (m/w/d)",
+     "n": 1896
+    },
+    {
+     "title": "produktionsmitarbeiter (m/w/d)",
+     "n": 443
+    },
+    {
+     "title": "chef de partie (m/w/d)",
+     "n": 370
+    },
+    {
+     "title": "reinigungskraft (m/w/d)",
+     "n": 359
+    },
+    {
+     "title": "rezeptionist (m/w/d)",
+     "n": 286
+    },
+    {
+     "title": "verkäufer:in feinkost",
+     "n": 205
+    },
+    {
+     "title": "staplerfahrer (m/w/d)",
+     "n": 197
+    },
+    {
+     "title": "verkäufer:in fokus kassa",
+     "n": 194
+    },
+    {
+     "title": "koch (m/w/d)",
+     "n": 185
+    },
+    {
+     "title": "verkäufer:in",
+     "n": 170
+    },
+    {
+     "title": "chef de rang (m/w/d)",
+     "n": 150
+    },
+    {
+     "title": "souschef (m/w/d)",
+     "n": 126
+    },
+    {
+     "title": "commis de rang (m/w/d)",
+     "n": 119
+    },
+    {
+     "title": "ausbildung zum verkäufer, fachrichtung lebensmittel (m/w/d) - 2027",
+     "n": 112
+    },
+    {
+     "title": "diplomierte gesundheits- und krankenpflegeperson (w/m/d)",
+     "n": 104
+    }
+   ],
+   "regions": []
+  }
+ ],
+ "sources": [
+  {
+   "code": "jooble.at",
+   "service": "Jooble",
+   "kind": "aggregator",
+   "url": "https://at.jooble.org",
+   "collecting_since": "2026-08-01",
+   "offers_total": 134353,
+   "share_latest": 0.661,
+   "salary_coverage": 0.742,
+   "description_coverage": 0.999
+  },
+  {
+   "code": "indeed.at",
+   "service": "Indeed",
+   "kind": "aggregator",
+   "url": "https://at.indeed.com",
+   "collecting_since": "2026-08-06",
+   "offers_total": 53789,
+   "share_latest": 0.145,
+   "salary_coverage": 0.0,
+   "description_coverage": 1.0
+  },
+  {
+   "code": "careerjet.at",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "url": "https://www.careerjet.at",
+   "collecting_since": "2026-08-03",
+   "offers_total": 32539,
+   "share_latest": 0.194,
+   "salary_coverage": 0.371,
+   "description_coverage": 1.0
+  }
+ ],
+ "quality": {
+  "field_coverage": {
+   "salary_any": 0.512,
+   "city": 0.977,
+   "company": 0.84,
+   "employment_type": 0.179,
+   "remote": 0.851,
+   "posted_at": 1.0
+  },
+  "dedup": {
+   "within_source_rule_pl": "Ta sama oferta w tym samym serwisie liczona raz (klucz: adres URL lub identyfikator ogłoszenia).",
+   "cross_source_estimate": 0.247,
+   "cross_source_note_pl": "Szacunkowy odsetek ogłoszeń widocznych w więcej niż jednym serwisie (ten sam tytuł, firma i miasto w tym samym miesiącu). Wskaźniki liczymy po zdjęciu tych powtórek."
+  }
+ },
+ "highlights": [
+  {
+   "id": "volume",
+   "icon": "trend",
+   "title_pl": "Sierpień: 66 097 ogłoszeń",
+   "text_pl": "66 097 nowych ogłoszeń - najwięcej od początku zbierania.",
+   "title_en": "August: 66,097 postings",
+   "text_en": "66,097 new postings - the most since collection began."
+  },
+  {
+   "id": "mover",
+   "icon": "city",
+   "title_pl": "Największa zmiana: Österreich +99,1%",
+   "text_pl": "1 523 ogłoszeń wobec 765 miesiąc wcześniej.",
+   "title_en": "Biggest move: Österreich +99.1%",
+   "text_en": "1,523 postings vs 765 a month earlier."
+  },
+  {
+   "id": "salary",
+   "icon": "salary",
+   "title_pl": "Mediana wynagrodzenia: 3 010 EUR",
+   "text_pl": "Połowa ofert z podaną stawką mieści się między 2 367 a 4 000 EUR miesięcznie; stawkę podaje 55% ogłoszeń.",
+   "title_en": "Median pay: 3,010 EUR",
+   "text_en": "Half of the postings with stated pay fall between 2,367 and 4,000 EUR per month; 55% of postings state pay."
+  },
+  {
+   "id": "remote",
+   "icon": "remote",
+   "title_pl": "Praca zdalna: 0,9% ogłoszeń",
+   "text_pl": "790 ogłoszeń oznaczonych jako praca zdalna (+0,1 pkt proc. m/m).",
+   "title_en": "Remote work: 0.9% of postings",
+   "text_en": "790 postings flagged as remote (+0.1 pp m/m)."
+  },
+  {
+   "id": "source",
+   "icon": "source",
+   "title_pl": "Największy serwis: Jooble (66%)",
+   "text_pl": "Dane z 3 serwisów; Jooble dostarcza 58 068 z 87 787 ogłoszeń przed zdjęciem powtórek.",
+   "title_en": "Largest source: Jooble (66%)",
+   "text_en": "Data from 3 sources; Jooble provides 58,068 of 87,787 postings before de-duplication."
+  },
+  {
+   "id": "cities",
+   "icon": "map",
+   "title_pl": "2 226 miast z ogłoszeniami",
+   "text_pl": "Najwięcej w: Wien (23%), Linz (5%), Graz (4%).",
+   "title_en": "2,226 cities with postings",
+   "text_en": "Most in: Wien (23%), Linz (5%), Graz (4%)."
+  }
+ ],
+ "commentary": null,
+ "skills_demo": {
+  "is_synthetic": true,
+  "note_pl": "Dane demonstracyjne: nazwy umiejętności pochodzą z taksonomii ESCO, wartości są wygenerowane. Docelowo - identyfikacja umiejętności w treści ogłoszeń.",
+  "months": [
+   "2026-03",
+   "2026-04",
+   "2026-05",
+   "2026-06",
+   "2026-07",
+   "2026-08"
+  ],
+  "groups": [
+   {
+    "id": "digital",
+    "name_pl": "Kompetencje cyfrowe",
+    "name_en": "Digital skills",
+    "share": 0.157,
+    "change_pct": 7.7
+   },
+   {
+    "id": "data_ai",
+    "name_pl": "Dane i sztuczna inteligencja",
+    "name_en": "Data & AI",
+    "share": 0.062,
+    "change_pct": 25.5
+   },
+   {
+    "id": "green",
+    "name_pl": "Zielone kompetencje",
+    "name_en": "Green skills",
+    "share": 0.055,
+    "change_pct": 8.0
+   },
+   {
+    "id": "management",
+    "name_pl": "Zarządzanie",
+    "name_en": "Management",
+    "share": 0.121,
+    "change_pct": -0.1
+   },
+   {
+    "id": "communication",
+    "name_pl": "Komunikacja i współpraca",
+    "name_en": "Communication & teamwork",
+    "share": 0.124,
+    "change_pct": -6.0
+   },
+   {
+    "id": "technical_trades",
+    "name_pl": "Zawody techniczne i produkcja",
+    "name_en": "Technical trades",
+    "share": 0.152,
+    "change_pct": -4.6
+   },
+   {
+    "id": "healthcare",
+    "name_pl": "Opieka zdrowotna",
+    "name_en": "Healthcare",
+    "share": 0.078,
+    "change_pct": 1.0
+   },
+   {
+    "id": "finance_admin",
+    "name_pl": "Finanse i administracja",
+    "name_en": "Finance & administration",
+    "share": 0.084,
+    "change_pct": -5.0
+   },
+   {
+    "id": "languages",
+    "name_pl": "Języki obce",
+    "name_en": "Languages",
+    "share": 0.063,
+    "change_pct": -4.9
+   },
+   {
+    "id": "customer_sales",
+    "name_pl": "Obsługa klienta i sprzedaż",
+    "name_en": "Customer service & sales",
+    "share": 0.104,
+    "change_pct": -4.8
+   }
+  ],
+  "skills": [
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/60c78287-22eb-4103-9c8c-28deaa460da0",
+    "name_pl": "praca w zespole",
+    "name_en": "work in teams",
+    "group": "communication",
+    "share": 0.0158,
+    "change_pct": 10.5,
+    "series": [
+     0.0143,
+     0.0141,
+     0.0145,
+     0.0146,
+     0.015,
+     0.0158
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/c55caed2-de9e-4a25-819e-a0b0e83fba1b",
+    "name_pl": "prowadzenie prezentacji",
+    "name_en": "give live presentation",
+    "group": "communication",
+    "share": 0.015,
+    "change_pct": -5.7,
+    "series": [
+     0.0159,
+     0.0154,
+     0.0152,
+     0.0153,
+     0.0153,
+     0.015
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+    "name_pl": "JavaScript",
+    "name_en": "JavaScript",
+    "group": "digital",
+    "share": 0.0144,
+    "change_pct": 3.6,
+    "series": [
+     0.0139,
+     0.0141,
+     0.0143,
+     0.0143,
+     0.0146,
+     0.0144
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be",
+    "name_pl": "obsługa arkuszy kalkulacyjnych",
+    "name_en": "use spreadsheets software",
+    "group": "digital",
+    "share": 0.014,
+    "change_pct": -4.1,
+    "series": [
+     0.0146,
+     0.015,
+     0.0145,
+     0.0147,
+     0.0148,
+     0.014
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+    "name_pl": "obsługa pakietu Microsoft Office",
+    "name_en": "use microsoft office",
+    "group": "digital",
+    "share": 0.014,
+    "change_pct": -3.4,
+    "series": [
+     0.0145,
+     0.0145,
+     0.0148,
+     0.0143,
+     0.0148,
+     0.014
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/918f5211-b99f-4b29-9a34-6e475583ef55",
+    "name_pl": "pisanie raportów",
+    "name_en": "write work-related reports",
+    "group": "communication",
+    "share": 0.0122,
+    "change_pct": -8.3,
+    "series": [
+     0.0133,
+     0.0128,
+     0.0127,
+     0.0124,
+     0.0121,
+     0.0122
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/8755734c-2919-41a3-9ca6-1e3d1f169213",
+    "name_pl": "montaż instalacji hydraulicznych",
+    "name_en": "install plumbing systems",
+    "group": "technical_trades",
+    "share": 0.0122,
+    "change_pct": 14.0,
+    "series": [
+     0.0107,
+     0.0108,
+     0.0111,
+     0.0116,
+     0.0115,
+     0.0122
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/f0de4973-0a70-4644-8fd4-3a97080476f4",
+    "name_pl": "DevOps",
+    "name_en": "DevOps",
+    "group": "digital",
+    "share": 0.0121,
+    "change_pct": 11.0,
+    "series": [
+     0.0109,
+     0.0114,
+     0.0114,
+     0.0117,
+     0.0122,
+     0.0121
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/19858dd3-a5fe-4855-b644-6ecfefd1c384",
+    "name_pl": "stolarka",
+    "name_en": "carpentry",
+    "group": "technical_trades",
+    "share": 0.0119,
+    "change_pct": 6.2,
+    "series": [
+     0.0112,
+     0.011,
+     0.0114,
+     0.0115,
+     0.0116,
+     0.0119
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+    "name_pl": "zarządzanie projektami",
+    "name_en": "perform project management",
+    "group": "management",
+    "share": 0.0116,
+    "change_pct": 3.6,
+    "series": [
+     0.0112,
+     0.0115,
+     0.0116,
+     0.0119,
+     0.0115,
+     0.0116
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/21c5790c-0930-4d74-b3b0-84caf5af12ea",
+    "name_pl": "zarządzanie budżetem",
+    "name_en": "manage budgets",
+    "group": "management",
+    "share": 0.0115,
+    "change_pct": 11.7,
+    "series": [
+     0.0103,
+     0.0107,
+     0.0109,
+     0.0115,
+     0.0114,
+     0.0115
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/1f1d2ff8-c4c1-45cc-9812-6a7ee84a73cb",
+    "name_pl": "kierowanie zespołem",
+    "name_en": "lead a team",
+    "group": "management",
+    "share": 0.0114,
+    "change_pct": 20.0,
+    "series": [
+     0.0095,
+     0.01,
+     0.0105,
+     0.0112,
+     0.011,
+     0.0114
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/bf942c60-8539-4951-83ee-63f770da1cb8",
+    "name_pl": "programowanie sterowników CNC",
+    "name_en": "program a CNC controller",
+    "group": "technical_trades",
+    "share": 0.0114,
+    "change_pct": 16.3,
+    "series": [
+     0.0098,
+     0.0101,
+     0.0104,
+     0.0105,
+     0.0111,
+     0.0114
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/d15e92c4-c8dc-48cd-a1f6-94fe13347f87",
+    "name_pl": "schematy instalacji elektrycznych",
+    "name_en": "electrical wiring plans",
+    "group": "technical_trades",
+    "share": 0.011,
+    "change_pct": -13.4,
+    "series": [
+     0.0127,
+     0.0122,
+     0.0118,
+     0.0114,
+     0.0111,
+     0.011
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0",
+    "name_pl": "język angielski",
+    "name_en": "English",
+    "group": "languages",
+    "share": 0.0103,
+    "change_pct": -15.6,
+    "series": [
+     0.0122,
+     0.0121,
+     0.0111,
+     0.0105,
+     0.0106,
+     0.0103
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/15a33d76-4640-438d-ae64-fdc0c1d3eebc",
+    "name_pl": "obsługa klienta",
+    "name_en": "customer service",
+    "group": "customer_sales",
+    "share": 0.0103,
+    "change_pct": -10.4,
+    "series": [
+     0.0115,
+     0.0108,
+     0.0112,
+     0.0106,
+     0.0105,
+     0.0103
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/68698869-c13c-4563-adc7-118b7644f45d",
+    "name_pl": "rozpoznawanie potrzeb klienta",
+    "name_en": "identify customer's needs",
+    "group": "customer_sales",
+    "share": 0.0099,
+    "change_pct": -1.0,
+    "series": [
+     0.01,
+     0.0099,
+     0.0103,
+     0.0099,
+     0.0102,
+     0.0099
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/4a460161-eaea-4fe2-bd0e-164ccc635be1",
+    "name_pl": "sprawozdania finansowe",
+    "name_en": "financial statements",
+    "group": "finance_admin",
+    "share": 0.0097,
+    "change_pct": 14.1,
+    "series": [
+     0.0085,
+     0.0091,
+     0.0093,
+     0.0097,
+     0.0095,
+     0.0097
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/28d715e3-3e5b-4fb6-8dd2-4be4919c8587",
+    "name_pl": "obsługa reklamacji",
+    "name_en": "handle customer complaints",
+    "group": "customer_sales",
+    "share": 0.0097,
+    "change_pct": -2.0,
+    "series": [
+     0.0099,
+     0.0099,
+     0.0103,
+     0.0097,
+     0.0097,
+     0.0097
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/e3e42d54-78bd-4337-aa87-bb31a7670c9a",
+    "name_pl": "wystawianie faktur",
+    "name_en": "issue sales invoices",
+    "group": "finance_admin",
+    "share": 0.0094,
+    "change_pct": -16.8,
+    "series": [
+     0.0113,
+     0.0112,
+     0.0109,
+     0.0105,
+     0.0098,
+     0.0094
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/24f980ba-b44f-4739-b563-205104c3190d",
+    "name_pl": "podstawowa opieka nad pacjentem",
+    "name_en": "provide basic support to patients",
+    "group": "healthcare",
+    "share": 0.0087,
+    "change_pct": -5.4,
+    "series": [
+     0.0092,
+     0.0093,
+     0.0087,
+     0.0086,
+     0.0087,
+     0.0087
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/261e740b-d32d-4356-94a8-3ea29128b70b",
+    "name_pl": "opieka nad osobami starszymi",
+    "name_en": "tend to elderly people",
+    "group": "healthcare",
+    "share": 0.0081,
+    "change_pct": 15.7,
+    "series": [
+     0.007,
+     0.0072,
+     0.0071,
+     0.0074,
+     0.0078,
+     0.0081
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/4812a4ea-dc55-4dc6-b9b0-4a59bba2c647",
+    "name_pl": "język niemiecki",
+    "name_en": "German",
+    "group": "languages",
+    "share": 0.0081,
+    "change_pct": -9.0,
+    "series": [
+     0.0089,
+     0.0089,
+     0.0085,
+     0.0082,
+     0.0081,
+     0.0081
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/f8413360-6114-40de-a276-c59b764b9913",
+    "name_pl": "energetyka odnawialna",
+    "name_en": "renewable energy",
+    "group": "green",
+    "share": 0.0057,
+    "change_pct": -3.4,
+    "series": [
+     0.0059,
+     0.0057,
+     0.0056,
+     0.0058,
+     0.0057,
+     0.0057
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+    "name_pl": "analiza danych",
+    "name_en": "perform data analysis",
+    "group": "data_ai",
+    "share": 0.0046,
+    "change_pct": 53.3,
+    "series": [
+     0.003,
+     0.0034,
+     0.0037,
+     0.004,
+     0.0042,
+     0.0046
+    ]
+   }
+  ]
+ }
+}

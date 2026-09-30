@@ -1,0 +1,5299 @@
+{
+ "country": {
+  "code": "IL",
+  "iso3": "ISR",
+  "numeric": 376,
+  "name_pl": "Izrael",
+  "name_en": "Israel",
+  "continent": "mena",
+  "currency": "ILS"
+ },
+ "generated_at": "2026-09-30T15:36:10+00:00",
+ "coverage": {
+  "first_month": "2024-05",
+  "last_month": "2026-08",
+  "collecting_since": "2026-08-03",
+  "complete_from": "2026-09",
+  "index_base_month": "2026-08",
+  "note_pl": "Zbieranie trwa od 03.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
+ },
+ "headline": {
+  "month": "2026-08",
+  "postings_new": 11440,
+  "postings_raw": 12089,
+  "mom_pct": null,
+  "yoy_pct": null,
+  "postings_active_end": null,
+  "salary_median": 9000,
+  "salary_currency": "ILS",
+  "salary_share": 0.01,
+  "remote_share": 0.0,
+  "sources": 2,
+  "top_source": {
+   "code": "indeed.il",
+   "service": "Indeed",
+   "share": 0.644
+  }
+ },
+ "monthly": [
+  {
+   "period": "2024-05",
+   "partial": false,
+   "postings_new": 229,
+   "postings_raw": 229,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 2.0,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.0,
+    "currency": "ILS"
+   },
+   "remote_share": 0.0,
+   "employment": {
+    "full_time": 0.668,
+    "part_time": 0.148,
+    "contract": 0.031,
+    "other": 0.0,
+    "unknown": 0.153
+   },
+   "by_source": [
+    {
+     "code": "indeed.il",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 229
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "תל אביב -יפו",
+     "n": 41,
+     "share": 0.179
+    },
+    {
+     "name": "ירושלים",
+     "n": 27,
+     "share": 0.118
+    },
+    {
+     "name": "פתח תקווה",
+     "n": 21,
+     "share": 0.092
+    },
+    {
+     "name": "חיפה",
+     "n": 14,
+     "share": 0.061
+    },
+    {
+     "name": "ראשון לציון",
+     "n": 13,
+     "share": 0.057
+    },
+    {
+     "name": "באר שבע",
+     "n": 10,
+     "share": 0.044
+    },
+    {
+     "name": "כפר סבא",
+     "n": 7,
+     "share": 0.031
+    },
+    {
+     "name": "רמת גן",
+     "n": 7,
+     "share": 0.031
+    },
+    {
+     "name": "לוד",
+     "n": 6,
+     "share": 0.026
+    },
+    {
+     "name": "אשדוד",
+     "n": 4,
+     "share": 0.017
+    },
+    {
+     "name": "בית שמש",
+     "n": 4,
+     "share": 0.017
+    },
+    {
+     "name": "הרצליה",
+     "n": 4,
+     "share": 0.017
+    },
+    {
+     "name": "מודיעין מכבים רעות",
+     "n": 4,
+     "share": 0.017
+    },
+    {
+     "name": "ראש העין",
+     "n": 4,
+     "share": 0.017
+    },
+    {
+     "name": "רחובות",
+     "n": 4,
+     "share": 0.017
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2024-06",
+   "partial": false,
+   "postings_new": 232,
+   "postings_raw": 234,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 2.0,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.0,
+    "currency": "ILS"
+   },
+   "remote_share": 0.0,
+   "employment": {
+    "full_time": 0.62,
+    "part_time": 0.15,
+    "contract": 0.021,
+    "other": 0.0,
+    "unknown": 0.209
+   },
+   "by_source": [
+    {
+     "code": "indeed.il",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 234
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "תל אביב -יפו",
+     "n": 58,
+     "share": 0.248
+    },
+    {
+     "name": "פתח תקווה",
+     "n": 18,
+     "share": 0.077
+    },
+    {
+     "name": "ירושלים",
+     "n": 16,
+     "share": 0.068
+    },
+    {
+     "name": "ראשון לציון",
+     "n": 14,
+     "share": 0.06
+    },
+    {
+     "name": "נתניה",
+     "n": 11,
+     "share": 0.047
+    },
+    {
+     "name": "בת ים",
+     "n": 9,
+     "share": 0.038
+    },
+    {
+     "name": "הרצליה",
+     "n": 9,
+     "share": 0.038
+    },
+    {
+     "name": "כפר סבא",
+     "n": 8,
+     "share": 0.034
+    },
+    {
+     "name": "באר שבע",
+     "n": 6,
+     "share": 0.026
+    },
+    {
+     "name": "רמת גן",
+     "n": 6,
+     "share": 0.026
+    },
+    {
+     "name": "בית שמש",
+     "n": 5,
+     "share": 0.021
+    },
+    {
+     "name": "חיפה",
+     "n": 5,
+     "share": 0.021
+    },
+    {
+     "name": "מודיעין מכבים רעות",
+     "n": 4,
+     "share": 0.017
+    },
+    {
+     "name": "רחובות",
+     "n": 4,
+     "share": 0.017
+    },
+    {
+     "name": "קריית אתא",
+     "n": 3,
+     "share": 0.013
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2024-07",
+   "partial": false,
+   "postings_new": 263,
+   "postings_raw": 266,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 2.3,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.0,
+    "currency": "ILS"
+   },
+   "remote_share": 0.0,
+   "employment": {
+    "full_time": 0.684,
+    "part_time": 0.117,
+    "contract": 0.053,
+    "other": 0.0,
+    "unknown": 0.147
+   },
+   "by_source": [
+    {
+     "code": "indeed.il",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 266
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "תל אביב -יפו",
+     "n": 33,
+     "share": 0.124
+    },
+    {
+     "name": "פתח תקווה",
+     "n": 22,
+     "share": 0.083
+    },
+    {
+     "name": "ראשון לציון",
+     "n": 20,
+     "share": 0.075
+    },
+    {
+     "name": "ירושלים",
+     "n": 19,
+     "share": 0.071
+    },
+    {
+     "name": "חיפה",
+     "n": 10,
+     "share": 0.038
+    },
+    {
+     "name": "חולון",
+     "n": 9,
+     "share": 0.034
+    },
+    {
+     "name": "מודיעין מכבים רעות",
+     "n": 9,
+     "share": 0.034
+    },
+    {
+     "name": "אשדוד",
+     "n": 7,
+     "share": 0.026
+    },
+    {
+     "name": "כפר סבא",
+     "n": 7,
+     "share": 0.026
+    },
+    {
+     "name": "בני ברק",
+     "n": 6,
+     "share": 0.023
+    },
+    {
+     "name": "הרצליה",
+     "n": 6,
+     "share": 0.023
+    },
+    {
+     "name": "רמת גן",
+     "n": 6,
+     "share": 0.023
+    },
+    {
+     "name": "רעננה",
+     "n": 6,
+     "share": 0.023
+    },
+    {
+     "name": "באר שבע",
+     "n": 5,
+     "share": 0.019
+    },
+    {
+     "name": "הוד השרון",
+     "n": 5,
+     "share": 0.019
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2024-08",
+   "partial": false,
+   "postings_new": 217,
+   "postings_raw": 219,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 1.9,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.0,
+    "currency": "ILS"
+   },
+   "remote_share": 0.0,
+   "employment": {
+    "full_time": 0.749,
+    "part_time": 0.078,
+    "contract": 0.027,
+    "other": 0.0,
+    "unknown": 0.146
+   },
+   "by_source": [
+    {
+     "code": "indeed.il",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 219
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "תל אביב -יפו",
+     "n": 40,
+     "share": 0.183
+    },
+    {
+     "name": "ראשון לציון",
+     "n": 17,
+     "share": 0.078
+    },
+    {
+     "name": "ירושלים",
+     "n": 13,
+     "share": 0.059
+    },
+    {
+     "name": "מודיעין מכבים רעות",
+     "n": 12,
+     "share": 0.055
+    },
+    {
+     "name": "כפר סבא",
+     "n": 11,
+     "share": 0.05
+    },
+    {
+     "name": "פתח תקווה",
+     "n": 11,
+     "share": 0.05
+    },
+    {
+     "name": "חיפה",
+     "n": 9,
+     "share": 0.041
+    },
+    {
+     "name": "בני ברק",
+     "n": 6,
+     "share": 0.027
+    },
+    {
+     "name": "איירפורט סיטי",
+     "n": 5,
+     "share": 0.023
+    },
+    {
+     "name": "חולון",
+     "n": 5,
+     "share": 0.023
+    },
+    {
+     "name": "פרדס חנה-כרכור",
+     "n": 5,
+     "share": 0.023
+    },
+    {
+     "name": "קריית גת",
+     "n": 5,
+     "share": 0.023
+    },
+    {
+     "name": "אשדוד",
+     "n": 4,
+     "share": 0.018
+    },
+    {
+     "name": "באר שבע",
+     "n": 4,
+     "share": 0.018
+    },
+    {
+     "name": "בית שמש",
+     "n": 4,
+     "share": 0.018
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2024-09",
+   "partial": false,
+   "postings_new": 239,
+   "postings_raw": 239,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 2.1,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.0,
+    "currency": "ILS"
+   },
+   "remote_share": 0.0,
+   "employment": {
+    "full_time": 0.611,
+    "part_time": 0.192,
+    "contract": 0.075,
+    "other": 0.0,
+    "unknown": 0.121
+   },
+   "by_source": [
+    {
+     "code": "indeed.il",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 239
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "תל אביב -יפו",
+     "n": 42,
+     "share": 0.176
+    },
+    {
+     "name": "פתח תקווה",
+     "n": 26,
+     "share": 0.109
+    },
+    {
+     "name": "ירושלים",
+     "n": 21,
+     "share": 0.088
+    },
+    {
+     "name": "באר שבע",
+     "n": 15,
+     "share": 0.063
+    },
+    {
+     "name": "חיפה",
+     "n": 15,
+     "share": 0.063
+    },
+    {
+     "name": "ראשון לציון",
+     "n": 11,
+     "share": 0.046
+    },
+    {
+     "name": "נתניה",
+     "n": 6,
+     "share": 0.025
+    },
+    {
+     "name": "שוהם",
+     "n": 6,
+     "share": 0.025
+    },
+    {
+     "name": "אשדוד",
+     "n": 5,
+     "share": 0.021
+    },
+    {
+     "name": "אשקלון",
+     "n": 5,
+     "share": 0.021
+    },
+    {
+     "name": "בת ים",
+     "n": 5,
+     "share": 0.021
+    },
+    {
+     "name": "הרצליה",
+     "n": 5,
+     "share": 0.021
+    },
+    {
+     "name": "מודיעין מכבים רעות",
+     "n": 5,
+     "share": 0.021
+    },
+    {
+     "name": "בני ברק",
+     "n": 4,
+     "share": 0.017
+    },
+    {
+     "name": "כפר סבא",
+     "n": 4,
+     "share": 0.017
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2024-10",
+   "partial": false,
+   "postings_new": 183,
+   "postings_raw": 185,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 1.6,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.0,
+    "currency": "ILS"
+   },
+   "remote_share": 0.0,
+   "employment": {
+    "full_time": 0.632,
+    "part_time": 0.13,
+    "contract": 0.038,
+    "other": 0.0,
+    "unknown": 0.2
+   },
+   "by_source": [
+    {
+     "code": "indeed.il",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 185
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "תל אביב -יפו",
+     "n": 31,
+     "share": 0.168
+    },
+    {
+     "name": "ירושלים",
+     "n": 20,
+     "share": 0.108
+    },
+    {
+     "name": "ראשון לציון",
+     "n": 15,
+     "share": 0.081
+    },
+    {
+     "name": "חיפה",
+     "n": 12,
+     "share": 0.065
+    },
+    {
+     "name": "פתח תקווה",
+     "n": 8,
+     "share": 0.043
+    },
+    {
+     "name": "הרצליה",
+     "n": 6,
+     "share": 0.032
+    },
+    {
+     "name": "חולון",
+     "n": 6,
+     "share": 0.032
+    },
+    {
+     "name": "באר שבע",
+     "n": 5,
+     "share": 0.027
+    },
+    {
+     "name": "אשדוד",
+     "n": 4,
+     "share": 0.022
+    },
+    {
+     "name": "נתניה",
+     "n": 4,
+     "share": 0.022
+    },
+    {
+     "name": "בת ים",
+     "n": 3,
+     "share": 0.016
+    },
+    {
+     "name": "יסוד המעלה",
+     "n": 3,
+     "share": 0.016
+    },
+    {
+     "name": "יפו",
+     "n": 3,
+     "share": 0.016
+    },
+    {
+     "name": "יקנעם עילית",
+     "n": 3,
+     "share": 0.016
+    },
+    {
+     "name": "כפר סבא",
+     "n": 3,
+     "share": 0.016
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2024-11",
+   "partial": false,
+   "postings_new": 246,
+   "postings_raw": 248,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 2.2,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.0,
+    "currency": "ILS"
+   },
+   "remote_share": 0.0,
+   "employment": {
+    "full_time": 0.694,
+    "part_time": 0.133,
+    "contract": 0.016,
+    "other": 0.004,
+    "unknown": 0.153
+   },
+   "by_source": [
+    {
+     "code": "indeed.il",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 248
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "תל אביב -יפו",
+     "n": 50,
+     "share": 0.202
+    },
+    {
+     "name": "ירושלים",
+     "n": 26,
+     "share": 0.105
+    },
+    {
+     "name": "פתח תקווה",
+     "n": 17,
+     "share": 0.069
+    },
+    {
+     "name": "מודיעין מכבים רעות",
+     "n": 13,
+     "share": 0.052
+    },
+    {
+     "name": "ראשון לציון",
+     "n": 11,
+     "share": 0.044
+    },
+    {
+     "name": "רמת גן",
+     "n": 8,
+     "share": 0.032
+    },
+    {
+     "name": "באר שבע",
+     "n": 7,
+     "share": 0.028
+    },
+    {
+     "name": "חיפה",
+     "n": 7,
+     "share": 0.028
+    },
+    {
+     "name": "יפו",
+     "n": 7,
+     "share": 0.028
+    },
+    {
+     "name": "נתניה",
+     "n": 7,
+     "share": 0.028
+    },
+    {
+     "name": "רחובות",
+     "n": 6,
+     "share": 0.024
+    },
+    {
+     "name": "בני ברק",
+     "n": 5,
+     "share": 0.02
+    },
+    {
+     "name": "יקנעם עילית",
+     "n": 5,
+     "share": 0.02
+    },
+    {
+     "name": "כפר סבא",
+     "n": 5,
+     "share": 0.02
+    },
+    {
+     "name": "בת ים",
+     "n": 4,
+     "share": 0.016
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2024-12",
+   "partial": false,
+   "postings_new": 265,
+   "postings_raw": 269,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 2.3,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.0,
+    "currency": "ILS"
+   },
+   "remote_share": 0.0,
+   "employment": {
+    "full_time": 0.651,
+    "part_time": 0.178,
+    "contract": 0.015,
+    "other": 0.0,
+    "unknown": 0.156
+   },
+   "by_source": [
+    {
+     "code": "indeed.il",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 269
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "תל אביב -יפו",
+     "n": 41,
+     "share": 0.152
+    },
+    {
+     "name": "ירושלים",
+     "n": 30,
+     "share": 0.112
+    },
+    {
+     "name": "פתח תקווה",
+     "n": 29,
+     "share": 0.108
+    },
+    {
+     "name": "ראשון לציון",
+     "n": 15,
+     "share": 0.056
+    },
+    {
+     "name": "בית שמש",
+     "n": 9,
+     "share": 0.033
+    },
+    {
+     "name": "הרצליה",
+     "n": 9,
+     "share": 0.033
+    },
+    {
+     "name": "אשדוד",
+     "n": 8,
+     "share": 0.03
+    },
+    {
+     "name": "מודיעין מכבים רעות",
+     "n": 8,
+     "share": 0.03
+    },
+    {
+     "name": "בני ברק",
+     "n": 7,
+     "share": 0.026
+    },
+    {
+     "name": "חיפה",
+     "n": 7,
+     "share": 0.026
+    },
+    {
+     "name": "רמת גן",
+     "n": 7,
+     "share": 0.026
+    },
+    {
+     "name": "באר שבע",
+     "n": 6,
+     "share": 0.022
+    },
+    {
+     "name": "קריית גת",
+     "n": 5,
+     "share": 0.019
+    },
+    {
+     "name": "חולון",
+     "n": 4,
+     "share": 0.015
+    },
+    {
+     "name": "כרמיאל",
+     "n": 4,
+     "share": 0.015
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2025-01",
+   "partial": false,
+   "postings_new": 413,
+   "postings_raw": 415,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 3.6,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.0,
+    "currency": "ILS"
+   },
+   "remote_share": 0.0,
+   "employment": {
+    "full_time": 0.716,
+    "part_time": 0.113,
+    "contract": 0.031,
+    "other": 0.0,
+    "unknown": 0.14
+   },
+   "by_source": [
+    {
+     "code": "indeed.il",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 415
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "תל אביב -יפו",
+     "n": 83,
+     "share": 0.2
+    },
+    {
+     "name": "פתח תקווה",
+     "n": 55,
+     "share": 0.133
+    },
+    {
+     "name": "ירושלים",
+     "n": 22,
+     "share": 0.053
+    },
+    {
+     "name": "ראשון לציון",
+     "n": 17,
+     "share": 0.041
+    },
+    {
+     "name": "באר שבע",
+     "n": 15,
+     "share": 0.036
+    },
+    {
+     "name": "נתניה",
+     "n": 15,
+     "share": 0.036
+    },
+    {
+     "name": "חיפה",
+     "n": 13,
+     "share": 0.031
+    },
+    {
+     "name": "הרצליה",
+     "n": 11,
+     "share": 0.027
+    },
+    {
+     "name": "חולון",
+     "n": 11,
+     "share": 0.027
+    },
+    {
+     "name": "רעננה",
+     "n": 10,
+     "share": 0.024
+    },
+    {
+     "name": "רמת גן",
+     "n": 9,
+     "share": 0.022
+    },
+    {
+     "name": "בני ברק",
+     "n": 8,
+     "share": 0.019
+    },
+    {
+     "name": "מודיעין מכבים רעות",
+     "n": 8,
+     "share": 0.019
+    },
+    {
+     "name": "קריית גת",
+     "n": 8,
+     "share": 0.019
+    },
+    {
+     "name": "שוהם",
+     "n": 7,
+     "share": 0.017
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2025-02",
+   "partial": false,
+   "postings_new": 370,
+   "postings_raw": 378,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 3.2,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.0,
+    "currency": "ILS"
+   },
+   "remote_share": 0.0,
+   "employment": {
+    "full_time": 0.524,
+    "part_time": 0.132,
+    "contract": 0.008,
+    "other": 0.0,
+    "unknown": 0.336
+   },
+   "by_source": [
+    {
+     "code": "indeed.il",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 378
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "תל אביב -יפו",
+     "n": 66,
+     "share": 0.175
+    },
+    {
+     "name": "ירושלים",
+     "n": 35,
+     "share": 0.093
+    },
+    {
+     "name": "פתח תקווה",
+     "n": 22,
+     "share": 0.058
+    },
+    {
+     "name": "הרצליה",
+     "n": 17,
+     "share": 0.045
+    },
+    {
+     "name": "ראשון לציון",
+     "n": 17,
+     "share": 0.045
+    },
+    {
+     "name": "רמת גן",
+     "n": 17,
+     "share": 0.045
+    },
+    {
+     "name": "אילת",
+     "n": 16,
+     "share": 0.042
+    },
+    {
+     "name": "אשדוד",
+     "n": 12,
+     "share": 0.032
+    },
+    {
+     "name": "חיפה",
+     "n": 12,
+     "share": 0.032
+    },
+    {
+     "name": "חולון",
+     "n": 10,
+     "share": 0.026
+    },
+    {
+     "name": "מצפה רמון",
+     "n": 7,
+     "share": 0.019
+    },
+    {
+     "name": "באר שבע",
+     "n": 6,
+     "share": 0.016
+    },
+    {
+     "name": "ים המלח",
+     "n": 6,
+     "share": 0.016
+    },
+    {
+     "name": "כפר סבא",
+     "n": 6,
+     "share": 0.016
+    },
+    {
+     "name": "מודיעין מכבים רעות",
+     "n": 6,
+     "share": 0.016
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2025-03",
+   "partial": false,
+   "postings_new": 293,
+   "postings_raw": 294,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 2.6,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.0,
+    "currency": "ILS"
+   },
+   "remote_share": 0.0,
+   "employment": {
+    "full_time": 0.609,
+    "part_time": 0.133,
+    "contract": 0.024,
+    "other": 0.0,
+    "unknown": 0.235
+   },
+   "by_source": [
+    {
+     "code": "indeed.il",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 294
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "תל אביב -יפו",
+     "n": 62,
+     "share": 0.211
+    },
+    {
+     "name": "ירושלים",
+     "n": 24,
+     "share": 0.082
+    },
+    {
+     "name": "פתח תקווה",
+     "n": 21,
+     "share": 0.071
+    },
+    {
+     "name": "ראשון לציון",
+     "n": 18,
+     "share": 0.061
+    },
+    {
+     "name": "חולון",
+     "n": 10,
+     "share": 0.034
+    },
+    {
+     "name": "חיפה",
+     "n": 9,
+     "share": 0.031
+    },
+    {
+     "name": "רעננה",
+     "n": 9,
+     "share": 0.031
+    },
+    {
+     "name": "יפו",
+     "n": 7,
+     "share": 0.024
+    },
+    {
+     "name": "גבעתיים",
+     "n": 6,
+     "share": 0.02
+    },
+    {
+     "name": "כפר סבא",
+     "n": 6,
+     "share": 0.02
+    },
+    {
+     "name": "עפולה",
+     "n": 6,
+     "share": 0.02
+    },
+    {
+     "name": "רמת גן",
+     "n": 6,
+     "share": 0.02
+    },
+    {
+     "name": "באר שבע",
+     "n": 5,
+     "share": 0.017
+    },
+    {
+     "name": "מודיעין מכבים רעות",
+     "n": 5,
+     "share": 0.017
+    },
+    {
+     "name": "נצרת עילית",
+     "n": 5,
+     "share": 0.017
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2025-04",
+   "partial": false,
+   "postings_new": 215,
+   "postings_raw": 216,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 1.9,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.0,
+    "currency": "ILS"
+   },
+   "remote_share": 0.0,
+   "employment": {
+    "full_time": 0.667,
+    "part_time": 0.097,
+    "contract": 0.032,
+    "other": 0.0,
+    "unknown": 0.204
+   },
+   "by_source": [
+    {
+     "code": "indeed.il",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 216
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "תל אביב -יפו",
+     "n": 51,
+     "share": 0.236
+    },
+    {
+     "name": "פתח תקווה",
+     "n": 16,
+     "share": 0.074
+    },
+    {
+     "name": "ירושלים",
+     "n": 14,
+     "share": 0.065
+    },
+    {
+     "name": "חיפה",
+     "n": 13,
+     "share": 0.06
+    },
+    {
+     "name": "ראשון לציון",
+     "n": 13,
+     "share": 0.06
+    },
+    {
+     "name": "באר שבע",
+     "n": 10,
+     "share": 0.046
+    },
+    {
+     "name": "רמת גן",
+     "n": 9,
+     "share": 0.042
+    },
+    {
+     "name": "חולון",
+     "n": 5,
+     "share": 0.023
+    },
+    {
+     "name": "נתניה",
+     "n": 5,
+     "share": 0.023
+    },
+    {
+     "name": "רעננה",
+     "n": 5,
+     "share": 0.023
+    },
+    {
+     "name": "אשדוד",
+     "n": 4,
+     "share": 0.019
+    },
+    {
+     "name": "יקנעם עילית",
+     "n": 4,
+     "share": 0.019
+    },
+    {
+     "name": "מודיעין מכבים רעות",
+     "n": 4,
+     "share": 0.019
+    },
+    {
+     "name": "רחובות",
+     "n": 4,
+     "share": 0.019
+    },
+    {
+     "name": "שפלת יהודה",
+     "n": 4,
+     "share": 0.019
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2025-05",
+   "partial": false,
+   "postings_new": 340,
+   "postings_raw": 343,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 3.0,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.0,
+    "currency": "ILS"
+   },
+   "remote_share": 0.0,
+   "employment": {
+    "full_time": 0.671,
+    "part_time": 0.111,
+    "contract": 0.029,
+    "other": 0.0,
+    "unknown": 0.19
+   },
+   "by_source": [
+    {
+     "code": "indeed.il",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 343
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "תל אביב -יפו",
+     "n": 69,
+     "share": 0.201
+    },
+    {
+     "name": "ירושלים",
+     "n": 32,
+     "share": 0.093
+    },
+    {
+     "name": "פתח תקווה",
+     "n": 24,
+     "share": 0.07
+    },
+    {
+     "name": "חיפה",
+     "n": 15,
+     "share": 0.044
+    },
+    {
+     "name": "בית שמש",
+     "n": 12,
+     "share": 0.035
+    },
+    {
+     "name": "ראשון לציון",
+     "n": 11,
+     "share": 0.032
+    },
+    {
+     "name": "אשדוד",
+     "n": 10,
+     "share": 0.029
+    },
+    {
+     "name": "חולון",
+     "n": 10,
+     "share": 0.029
+    },
+    {
+     "name": "בני ברק",
+     "n": 7,
+     "share": 0.02
+    },
+    {
+     "name": "יקנעם עילית",
+     "n": 7,
+     "share": 0.02
+    },
+    {
+     "name": "כפר סבא",
+     "n": 7,
+     "share": 0.02
+    },
+    {
+     "name": "נתניה",
+     "n": 7,
+     "share": 0.02
+    },
+    {
+     "name": "באר שבע",
+     "n": 6,
+     "share": 0.017
+    },
+    {
+     "name": "גוש דן",
+     "n": 6,
+     "share": 0.017
+    },
+    {
+     "name": "יפו",
+     "n": 5,
+     "share": 0.015
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2025-06",
+   "partial": false,
+   "postings_new": 251,
+   "postings_raw": 253,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 2.2,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.004,
+    "currency": "ILS"
+   },
+   "remote_share": 0.0,
+   "employment": {
+    "full_time": 0.549,
+    "part_time": 0.138,
+    "contract": 0.024,
+    "other": 0.0,
+    "unknown": 0.289
+   },
+   "by_source": [
+    {
+     "code": "indeed.il",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 253
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "תל אביב -יפו",
+     "n": 58,
+     "share": 0.229
+    },
+    {
+     "name": "רמת גן",
+     "n": 23,
+     "share": 0.091
+    },
+    {
+     "name": "ירושלים",
+     "n": 21,
+     "share": 0.083
+    },
+    {
+     "name": "חיפה",
+     "n": 14,
+     "share": 0.055
+    },
+    {
+     "name": "פתח תקווה",
+     "n": 12,
+     "share": 0.047
+    },
+    {
+     "name": "ראשון לציון",
+     "n": 12,
+     "share": 0.047
+    },
+    {
+     "name": "מודיעין מכבים רעות",
+     "n": 9,
+     "share": 0.036
+    },
+    {
+     "name": "באר שבע",
+     "n": 6,
+     "share": 0.024
+    },
+    {
+     "name": "בני ברק",
+     "n": 6,
+     "share": 0.024
+    },
+    {
+     "name": "כפר מסריק",
+     "n": 5,
+     "share": 0.02
+    },
+    {
+     "name": "הרצליה",
+     "n": 4,
+     "share": 0.016
+    },
+    {
+     "name": "חולון",
+     "n": 4,
+     "share": 0.016
+    },
+    {
+     "name": "נס ציונה",
+     "n": 4,
+     "share": 0.016
+    },
+    {
+     "name": "ראש העין",
+     "n": 4,
+     "share": 0.016
+    },
+    {
+     "name": "גן יבנה",
+     "n": 3,
+     "share": 0.012
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2025-07",
+   "partial": false,
+   "postings_new": 279,
+   "postings_raw": 283,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 2.4,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.0,
+    "currency": "ILS"
+   },
+   "remote_share": 0.0,
+   "employment": {
+    "full_time": 0.569,
+    "part_time": 0.152,
+    "contract": 0.004,
+    "other": 0.0,
+    "unknown": 0.276
+   },
+   "by_source": [
+    {
+     "code": "indeed.il",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 283
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "תל אביב -יפו",
+     "n": 55,
+     "share": 0.194
+    },
+    {
+     "name": "ירושלים",
+     "n": 31,
+     "share": 0.11
+    },
+    {
+     "name": "פתח תקווה",
+     "n": 16,
+     "share": 0.057
+    },
+    {
+     "name": "רמת גן",
+     "n": 16,
+     "share": 0.057
+    },
+    {
+     "name": "רעננה",
+     "n": 13,
+     "share": 0.046
+    },
+    {
+     "name": "הרצליה",
+     "n": 9,
+     "share": 0.032
+    },
+    {
+     "name": "יקנעם עילית",
+     "n": 9,
+     "share": 0.032
+    },
+    {
+     "name": "ראשון לציון",
+     "n": 9,
+     "share": 0.032
+    },
+    {
+     "name": "חיפה",
+     "n": 7,
+     "share": 0.025
+    },
+    {
+     "name": "נתניה",
+     "n": 7,
+     "share": 0.025
+    },
+    {
+     "name": "שפלת יהודה",
+     "n": 7,
+     "share": 0.025
+    },
+    {
+     "name": "באר שבע",
+     "n": 6,
+     "share": 0.021
+    },
+    {
+     "name": "יפו",
+     "n": 6,
+     "share": 0.021
+    },
+    {
+     "name": "אשקלון",
+     "n": 5,
+     "share": 0.018
+    },
+    {
+     "name": "מודיעין מכבים רעות",
+     "n": 4,
+     "share": 0.014
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2025-08",
+   "partial": false,
+   "postings_new": 282,
+   "postings_raw": 284,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 2.5,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.0,
+    "currency": "ILS"
+   },
+   "remote_share": 0.0,
+   "employment": {
+    "full_time": 0.542,
+    "part_time": 0.144,
+    "contract": 0.018,
+    "other": 0.0,
+    "unknown": 0.296
+   },
+   "by_source": [
+    {
+     "code": "indeed.il",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 284
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "תל אביב -יפו",
+     "n": 49,
+     "share": 0.173
+    },
+    {
+     "name": "ירושלים",
+     "n": 20,
+     "share": 0.07
+    },
+    {
+     "name": "פתח תקווה",
+     "n": 17,
+     "share": 0.06
+    },
+    {
+     "name": "ראשון לציון",
+     "n": 15,
+     "share": 0.053
+    },
+    {
+     "name": "חיפה",
+     "n": 13,
+     "share": 0.046
+    },
+    {
+     "name": "רמת גן",
+     "n": 12,
+     "share": 0.042
+    },
+    {
+     "name": "יפו",
+     "n": 11,
+     "share": 0.039
+    },
+    {
+     "name": "באר שבע",
+     "n": 9,
+     "share": 0.032
+    },
+    {
+     "name": "בית שמש",
+     "n": 9,
+     "share": 0.032
+    },
+    {
+     "name": "אשדוד",
+     "n": 6,
+     "share": 0.021
+    },
+    {
+     "name": "הרצליה",
+     "n": 6,
+     "share": 0.021
+    },
+    {
+     "name": "רעננה",
+     "n": 6,
+     "share": 0.021
+    },
+    {
+     "name": "מודיעין מכבים רעות",
+     "n": 5,
+     "share": 0.018
+    },
+    {
+     "name": "חדרה",
+     "n": 4,
+     "share": 0.014
+    },
+    {
+     "name": "כפר סבא",
+     "n": 4,
+     "share": 0.014
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2025-09",
+   "partial": false,
+   "postings_new": 281,
+   "postings_raw": 287,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 2.5,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.0,
+    "currency": "ILS"
+   },
+   "remote_share": 0.0,
+   "employment": {
+    "full_time": 0.641,
+    "part_time": 0.101,
+    "contract": 0.01,
+    "other": 0.0,
+    "unknown": 0.247
+   },
+   "by_source": [
+    {
+     "code": "indeed.il",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 287
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "תל אביב -יפו",
+     "n": 72,
+     "share": 0.251
+    },
+    {
+     "name": "ירושלים",
+     "n": 33,
+     "share": 0.115
+    },
+    {
+     "name": "פתח תקווה",
+     "n": 17,
+     "share": 0.059
+    },
+    {
+     "name": "חיפה",
+     "n": 16,
+     "share": 0.056
+    },
+    {
+     "name": "ראשון לציון",
+     "n": 14,
+     "share": 0.049
+    },
+    {
+     "name": "רמת גן",
+     "n": 10,
+     "share": 0.035
+    },
+    {
+     "name": "הרצליה",
+     "n": 9,
+     "share": 0.031
+    },
+    {
+     "name": "יפו",
+     "n": 9,
+     "share": 0.031
+    },
+    {
+     "name": "באר שבע",
+     "n": 8,
+     "share": 0.028
+    },
+    {
+     "name": "רעננה",
+     "n": 7,
+     "share": 0.024
+    },
+    {
+     "name": "בני ברק",
+     "n": 5,
+     "share": 0.017
+    },
+    {
+     "name": "הוד השרון",
+     "n": 4,
+     "share": 0.014
+    },
+    {
+     "name": "קיסריה",
+     "n": 4,
+     "share": 0.014
+    },
+    {
+     "name": "קריית אתא",
+     "n": 4,
+     "share": 0.014
+    },
+    {
+     "name": "אשדוד",
+     "n": 3,
+     "share": 0.01
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2025-10",
+   "partial": false,
+   "postings_new": 302,
+   "postings_raw": 310,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 2.6,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.0,
+    "currency": "ILS"
+   },
+   "remote_share": 0.0,
+   "employment": {
+    "full_time": 0.658,
+    "part_time": 0.087,
+    "contract": 0.003,
+    "other": 0.0,
+    "unknown": 0.252
+   },
+   "by_source": [
+    {
+     "code": "indeed.il",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 310
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "תל אביב -יפו",
+     "n": 71,
+     "share": 0.229
+    },
+    {
+     "name": "חיפה",
+     "n": 32,
+     "share": 0.103
+    },
+    {
+     "name": "ירושלים",
+     "n": 26,
+     "share": 0.084
+    },
+    {
+     "name": "ראשון לציון",
+     "n": 17,
+     "share": 0.055
+    },
+    {
+     "name": "פתח תקווה",
+     "n": 16,
+     "share": 0.052
+    },
+    {
+     "name": "רעננה",
+     "n": 13,
+     "share": 0.042
+    },
+    {
+     "name": "יפו",
+     "n": 9,
+     "share": 0.029
+    },
+    {
+     "name": "רחובות",
+     "n": 9,
+     "share": 0.029
+    },
+    {
+     "name": "כפר סבא",
+     "n": 8,
+     "share": 0.026
+    },
+    {
+     "name": "באר שבע",
+     "n": 7,
+     "share": 0.023
+    },
+    {
+     "name": "חולון",
+     "n": 6,
+     "share": 0.019
+    },
+    {
+     "name": "נתניה",
+     "n": 6,
+     "share": 0.019
+    },
+    {
+     "name": "רמת גן",
+     "n": 6,
+     "share": 0.019
+    },
+    {
+     "name": "שפלת יהודה",
+     "n": 6,
+     "share": 0.019
+    },
+    {
+     "name": "הרצליה",
+     "n": 5,
+     "share": 0.016
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2025-11",
+   "partial": false,
+   "postings_new": 408,
+   "postings_raw": 411,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 3.6,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.0,
+    "currency": "ILS"
+   },
+   "remote_share": 0.0,
+   "employment": {
+    "full_time": 0.669,
+    "part_time": 0.085,
+    "contract": 0.015,
+    "other": 0.0,
+    "unknown": 0.231
+   },
+   "by_source": [
+    {
+     "code": "indeed.il",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 411
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "תל אביב -יפו",
+     "n": 109,
+     "share": 0.265
+    },
+    {
+     "name": "ירושלים",
+     "n": 39,
+     "share": 0.095
+    },
+    {
+     "name": "חיפה",
+     "n": 24,
+     "share": 0.058
+    },
+    {
+     "name": "פתח תקווה",
+     "n": 18,
+     "share": 0.044
+    },
+    {
+     "name": "רעננה",
+     "n": 18,
+     "share": 0.044
+    },
+    {
+     "name": "באר שבע",
+     "n": 16,
+     "share": 0.039
+    },
+    {
+     "name": "מודיעין מכבים רעות",
+     "n": 14,
+     "share": 0.034
+    },
+    {
+     "name": "ראשון לציון",
+     "n": 12,
+     "share": 0.029
+    },
+    {
+     "name": "יקנעם עילית",
+     "n": 10,
+     "share": 0.024
+    },
+    {
+     "name": "שפלת יהודה",
+     "n": 10,
+     "share": 0.024
+    },
+    {
+     "name": "יפו",
+     "n": 9,
+     "share": 0.022
+    },
+    {
+     "name": "כפר סבא",
+     "n": 9,
+     "share": 0.022
+    },
+    {
+     "name": "רמת גן",
+     "n": 9,
+     "share": 0.022
+    },
+    {
+     "name": "נתניה",
+     "n": 8,
+     "share": 0.019
+    },
+    {
+     "name": "בני ברק",
+     "n": 6,
+     "share": 0.015
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2025-12",
+   "partial": false,
+   "postings_new": 526,
+   "postings_raw": 538,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 4.6,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.0,
+    "currency": "ILS"
+   },
+   "remote_share": 0.0,
+   "employment": {
+    "full_time": 0.6,
+    "part_time": 0.134,
+    "contract": 0.009,
+    "other": 0.002,
+    "unknown": 0.255
+   },
+   "by_source": [
+    {
+     "code": "indeed.il",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 538
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "תל אביב -יפו",
+     "n": 153,
+     "share": 0.284
+    },
+    {
+     "name": "ירושלים",
+     "n": 53,
+     "share": 0.099
+    },
+    {
+     "name": "חיפה",
+     "n": 38,
+     "share": 0.071
+    },
+    {
+     "name": "רעננה",
+     "n": 25,
+     "share": 0.046
+    },
+    {
+     "name": "יפו",
+     "n": 20,
+     "share": 0.037
+    },
+    {
+     "name": "שפלת יהודה",
+     "n": 18,
+     "share": 0.033
+    },
+    {
+     "name": "ראשון לציון",
+     "n": 17,
+     "share": 0.032
+    },
+    {
+     "name": "באר שבע",
+     "n": 15,
+     "share": 0.028
+    },
+    {
+     "name": "נתניה",
+     "n": 13,
+     "share": 0.024
+    },
+    {
+     "name": "פתח תקווה",
+     "n": 13,
+     "share": 0.024
+    },
+    {
+     "name": "יקנעם עילית",
+     "n": 12,
+     "share": 0.022
+    },
+    {
+     "name": "רמת גן",
+     "n": 12,
+     "share": 0.022
+    },
+    {
+     "name": "הרצליה",
+     "n": 9,
+     "share": 0.017
+    },
+    {
+     "name": "מודיעין מכבים רעות",
+     "n": 7,
+     "share": 0.013
+    },
+    {
+     "name": "בני ברק",
+     "n": 5,
+     "share": 0.009
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-01",
+   "partial": false,
+   "postings_new": 613,
+   "postings_raw": 618,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 5.4,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.0,
+    "currency": "ILS"
+   },
+   "remote_share": 0.0,
+   "employment": {
+    "full_time": 0.61,
+    "part_time": 0.091,
+    "contract": 0.01,
+    "other": 0.0,
+    "unknown": 0.29
+   },
+   "by_source": [
+    {
+     "code": "indeed.il",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 618
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "תל אביב -יפו",
+     "n": 161,
+     "share": 0.261
+    },
+    {
+     "name": "ירושלים",
+     "n": 54,
+     "share": 0.087
+    },
+    {
+     "name": "רעננה",
+     "n": 31,
+     "share": 0.05
+    },
+    {
+     "name": "יפו",
+     "n": 27,
+     "share": 0.044
+    },
+    {
+     "name": "פתח תקווה",
+     "n": 26,
+     "share": 0.042
+    },
+    {
+     "name": "באר שבע",
+     "n": 25,
+     "share": 0.04
+    },
+    {
+     "name": "ראשון לציון",
+     "n": 23,
+     "share": 0.037
+    },
+    {
+     "name": "שפלת יהודה",
+     "n": 22,
+     "share": 0.036
+    },
+    {
+     "name": "חיפה",
+     "n": 21,
+     "share": 0.034
+    },
+    {
+     "name": "יקנעם עילית",
+     "n": 16,
+     "share": 0.026
+    },
+    {
+     "name": "רמת גן",
+     "n": 12,
+     "share": 0.019
+    },
+    {
+     "name": "כפר סבא",
+     "n": 11,
+     "share": 0.018
+    },
+    {
+     "name": "מודיעין מכבים רעות",
+     "n": 10,
+     "share": 0.016
+    },
+    {
+     "name": "פרדס חנה-כרכור",
+     "n": 9,
+     "share": 0.015
+    },
+    {
+     "name": "גוש דן",
+     "n": 7,
+     "share": 0.011
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-02",
+   "partial": false,
+   "postings_new": 671,
+   "postings_raw": 679,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 5.9,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.0,
+    "currency": "ILS"
+   },
+   "remote_share": 0.0,
+   "employment": {
+    "full_time": 0.567,
+    "part_time": 0.11,
+    "contract": 0.01,
+    "other": 0.001,
+    "unknown": 0.311
+   },
+   "by_source": [
+    {
+     "code": "indeed.il",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 679
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "תל אביב -יפו",
+     "n": 179,
+     "share": 0.264
+    },
+    {
+     "name": "ירושלים",
+     "n": 58,
+     "share": 0.085
+    },
+    {
+     "name": "יפו",
+     "n": 38,
+     "share": 0.056
+    },
+    {
+     "name": "שפלת יהודה",
+     "n": 35,
+     "share": 0.052
+    },
+    {
+     "name": "רעננה",
+     "n": 34,
+     "share": 0.05
+    },
+    {
+     "name": "יקנעם עילית",
+     "n": 28,
+     "share": 0.041
+    },
+    {
+     "name": "באר שבע",
+     "n": 23,
+     "share": 0.034
+    },
+    {
+     "name": "פתח תקווה",
+     "n": 23,
+     "share": 0.034
+    },
+    {
+     "name": "חיפה",
+     "n": 22,
+     "share": 0.032
+    },
+    {
+     "name": "רמת גן",
+     "n": 21,
+     "share": 0.031
+    },
+    {
+     "name": "ראשון לציון",
+     "n": 16,
+     "share": 0.024
+    },
+    {
+     "name": "נתניה",
+     "n": 12,
+     "share": 0.018
+    },
+    {
+     "name": "ראש העין",
+     "n": 10,
+     "share": 0.015
+    },
+    {
+     "name": "הרצליה",
+     "n": 9,
+     "share": 0.013
+    },
+    {
+     "name": "מודיעין מכבים רעות",
+     "n": 9,
+     "share": 0.013
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-03",
+   "partial": false,
+   "postings_new": 827,
+   "postings_raw": 839,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 7.2,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.0,
+    "currency": "ILS"
+   },
+   "remote_share": 0.0,
+   "employment": {
+    "full_time": 0.597,
+    "part_time": 0.048,
+    "contract": 0.02,
+    "other": 0.0,
+    "unknown": 0.335
+   },
+   "by_source": [
+    {
+     "code": "indeed.il",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 839
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "תל אביב -יפו",
+     "n": 238,
+     "share": 0.284
+    },
+    {
+     "name": "ירושלים",
+     "n": 67,
+     "share": 0.08
+    },
+    {
+     "name": "רעננה",
+     "n": 58,
+     "share": 0.069
+    },
+    {
+     "name": "שפלת יהודה",
+     "n": 50,
+     "share": 0.06
+    },
+    {
+     "name": "יפו",
+     "n": 36,
+     "share": 0.043
+    },
+    {
+     "name": "יקנעם עילית",
+     "n": 32,
+     "share": 0.038
+    },
+    {
+     "name": "אשדוד",
+     "n": 27,
+     "share": 0.032
+    },
+    {
+     "name": "ראשון לציון",
+     "n": 27,
+     "share": 0.032
+    },
+    {
+     "name": "באר שבע",
+     "n": 26,
+     "share": 0.031
+    },
+    {
+     "name": "רמת גן",
+     "n": 22,
+     "share": 0.026
+    },
+    {
+     "name": "חיפה",
+     "n": 21,
+     "share": 0.025
+    },
+    {
+     "name": "פתח תקווה",
+     "n": 18,
+     "share": 0.021
+    },
+    {
+     "name": "הרצליה",
+     "n": 13,
+     "share": 0.015
+    },
+    {
+     "name": "כפר סבא",
+     "n": 10,
+     "share": 0.012
+    },
+    {
+     "name": "נתניה",
+     "n": 10,
+     "share": 0.012
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-04",
+   "partial": false,
+   "postings_new": 930,
+   "postings_raw": 944,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 8.1,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.0,
+    "currency": "ILS"
+   },
+   "remote_share": 0.0,
+   "employment": {
+    "full_time": 0.637,
+    "part_time": 0.066,
+    "contract": 0.007,
+    "other": 0.003,
+    "unknown": 0.287
+   },
+   "by_source": [
+    {
+     "code": "indeed.il",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 944
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "תל אביב -יפו",
+     "n": 228,
+     "share": 0.242
+    },
+    {
+     "name": "ירושלים",
+     "n": 72,
+     "share": 0.076
+    },
+    {
+     "name": "רעננה",
+     "n": 67,
+     "share": 0.071
+    },
+    {
+     "name": "יפו",
+     "n": 63,
+     "share": 0.067
+    },
+    {
+     "name": "שפלת יהודה",
+     "n": 60,
+     "share": 0.064
+    },
+    {
+     "name": "יקנעם עילית",
+     "n": 44,
+     "share": 0.047
+    },
+    {
+     "name": "חיפה",
+     "n": 33,
+     "share": 0.035
+    },
+    {
+     "name": "פתח תקווה",
+     "n": 30,
+     "share": 0.032
+    },
+    {
+     "name": "רמת גן",
+     "n": 29,
+     "share": 0.031
+    },
+    {
+     "name": "רחובות",
+     "n": 28,
+     "share": 0.03
+    },
+    {
+     "name": "באר שבע",
+     "n": 27,
+     "share": 0.029
+    },
+    {
+     "name": "הרצליה",
+     "n": 23,
+     "share": 0.024
+    },
+    {
+     "name": "גוש דן",
+     "n": 17,
+     "share": 0.018
+    },
+    {
+     "name": "ראשון לציון",
+     "n": 15,
+     "share": 0.016
+    },
+    {
+     "name": "אשדוד",
+     "n": 13,
+     "share": 0.014
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-05",
+   "partial": false,
+   "postings_new": 2151,
+   "postings_raw": 2275,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 18.8,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 8666,
+    "p25": 7000,
+    "p75": 10475,
+    "mean": 9671,
+    "n": 50,
+    "share": 0.024,
+    "currency": "ILS"
+   },
+   "remote_share": 0.0,
+   "employment": {
+    "full_time": 0.463,
+    "part_time": 0.04,
+    "contract": 0.008,
+    "other": 0.0,
+    "unknown": 0.489
+   },
+   "by_source": [
+    {
+     "code": "indeed.il",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 1820
+    },
+    {
+     "code": "careerjet.il",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 455
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "תל אביב -יפו",
+     "n": 472,
+     "share": 0.207
+    },
+    {
+     "name": "ירושלים",
+     "n": 215,
+     "share": 0.095
+    },
+    {
+     "name": "יפו",
+     "n": 117,
+     "share": 0.051
+    },
+    {
+     "name": "רמת גן",
+     "n": 102,
+     "share": 0.045
+    },
+    {
+     "name": "רעננה",
+     "n": 97,
+     "share": 0.043
+    },
+    {
+     "name": "שפלת יהודה",
+     "n": 94,
+     "share": 0.041
+    },
+    {
+     "name": "הרצליה",
+     "n": 93,
+     "share": 0.041
+    },
+    {
+     "name": "תל אביב",
+     "n": 91,
+     "share": 0.04
+    },
+    {
+     "name": "פתח תקווה",
+     "n": 76,
+     "share": 0.033
+    },
+    {
+     "name": "חיפה",
+     "n": 57,
+     "share": 0.025
+    },
+    {
+     "name": "באר שבע",
+     "n": 54,
+     "share": 0.024
+    },
+    {
+     "name": "יקנעם עילית",
+     "n": 54,
+     "share": 0.024
+    },
+    {
+     "name": "ראשון לציון",
+     "n": 41,
+     "share": 0.018
+    },
+    {
+     "name": "ישראל",
+     "n": 33,
+     "share": 0.015
+    },
+    {
+     "name": "יקנעם",
+     "n": 28,
+     "share": 0.012
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-06",
+   "partial": false,
+   "postings_new": 3570,
+   "postings_raw": 3777,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 31.2,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 9000,
+    "p25": 7000,
+    "p75": 9000,
+    "mean": 9065,
+    "n": 117,
+    "share": 0.032,
+    "currency": "ILS"
+   },
+   "remote_share": 0.0,
+   "employment": {
+    "full_time": 0.393,
+    "part_time": 0.043,
+    "contract": 0.007,
+    "other": 0.0,
+    "unknown": 0.556
+   },
+   "by_source": [
+    {
+     "code": "indeed.il",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 2705
+    },
+    {
+     "code": "careerjet.il",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 1072
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "תל אביב -יפו",
+     "n": 614,
+     "share": 0.163
+    },
+    {
+     "name": "ירושלים",
+     "n": 291,
+     "share": 0.077
+    },
+    {
+     "name": "יפו",
+     "n": 236,
+     "share": 0.062
+    },
+    {
+     "name": "תל אביב",
+     "n": 209,
+     "share": 0.055
+    },
+    {
+     "name": "רעננה",
+     "n": 207,
+     "share": 0.055
+    },
+    {
+     "name": "שפלת יהודה",
+     "n": 185,
+     "share": 0.049
+    },
+    {
+     "name": "פתח תקווה",
+     "n": 182,
+     "share": 0.048
+    },
+    {
+     "name": "חיפה",
+     "n": 180,
+     "share": 0.048
+    },
+    {
+     "name": "הרצליה",
+     "n": 122,
+     "share": 0.032
+    },
+    {
+     "name": "רמת גן",
+     "n": 108,
+     "share": 0.029
+    },
+    {
+     "name": "יקנעם עילית",
+     "n": 99,
+     "share": 0.026
+    },
+    {
+     "name": "באר שבע",
+     "n": 77,
+     "share": 0.02
+    },
+    {
+     "name": "ראשון לציון",
+     "n": 76,
+     "share": 0.02
+    },
+    {
+     "name": "המרכז",
+     "n": 64,
+     "share": 0.017
+    },
+    {
+     "name": "נתניה",
+     "n": 61,
+     "share": 0.016
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "devops engineer",
+     "n": 10
+    },
+    {
+     "title": "data engineer",
+     "n": 8
+    },
+    {
+     "title": "embedded software engineer",
+     "n": 8
+    },
+    {
+     "title": "security researcher",
+     "n": 8
+    },
+    {
+     "title": "infrastructure verification engineer",
+     "n": 7
+    },
+    {
+     "title": "integration engineer",
+     "n": 7
+    },
+    {
+     "title": "performance manager / media buyer",
+     "n": 7
+    },
+    {
+     "title": "product manager",
+     "n": 7
+    },
+    {
+     "title": "board design engineer",
+     "n": 6
+    },
+    {
+     "title": "fp&a analyst",
+     "n": 6
+    },
+    {
+     "title": "full stack developer",
+     "n": 6
+    },
+    {
+     "title": "senior devops engineer",
+     "n": 6
+    },
+    {
+     "title": "מחסנאי/ת ממוחשב/ת",
+     "n": 6
+    },
+    {
+     "title": "bookkeeper",
+     "n": 5
+    },
+    {
+     "title": "director of procurement",
+     "n": 5
+    }
+   ],
+   "regions": []
+  },
+  {
+   "period": "2026-07",
+   "partial": false,
+   "postings_new": 7274,
+   "postings_raw": 7577,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 63.6,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 9000,
+    "p25": 7280,
+    "p75": 10550,
+    "mean": 9569,
+    "n": 80,
+    "share": 0.011,
+    "currency": "ILS"
+   },
+   "remote_share": 0.0,
+   "employment": {
+    "full_time": 0.369,
+    "part_time": 0.032,
+    "contract": 0.009,
+    "other": 0.0,
+    "unknown": 0.589
+   },
+   "by_source": [
+    {
+     "code": "indeed.il",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 4775
+    },
+    {
+     "code": "careerjet.il",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 2802
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "תל אביב -יפו",
+     "n": 1206,
+     "share": 0.159
+    },
+    {
+     "name": "ירושלים",
+     "n": 706,
+     "share": 0.093
+    },
+    {
+     "name": "תל אביב",
+     "n": 604,
+     "share": 0.08
+    },
+    {
+     "name": "רעננה",
+     "n": 407,
+     "share": 0.054
+    },
+    {
+     "name": "המרכז",
+     "n": 389,
+     "share": 0.051
+    },
+    {
+     "name": "שפלת יהודה",
+     "n": 380,
+     "share": 0.05
+    },
+    {
+     "name": "חיפה",
+     "n": 262,
+     "share": 0.035
+    },
+    {
+     "name": "יפו",
+     "n": 261,
+     "share": 0.034
+    },
+    {
+     "name": "ישראל",
+     "n": 236,
+     "share": 0.031
+    },
+    {
+     "name": "רמת גן",
+     "n": 213,
+     "share": 0.028
+    },
+    {
+     "name": "פתח תקווה",
+     "n": 201,
+     "share": 0.027
+    },
+    {
+     "name": "הרצליה",
+     "n": 187,
+     "share": 0.025
+    },
+    {
+     "name": "באר שבע",
+     "n": 171,
+     "share": 0.023
+    },
+    {
+     "name": "יקנעם עילית",
+     "n": 162,
+     "share": 0.021
+    },
+    {
+     "name": "ראשון לציון",
+     "n": 97,
+     "share": 0.013
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "beauty advisor/artist beauty advisor",
+     "n": 29
+    },
+    {
+     "title": "senior software engineer",
+     "n": 24
+    },
+    {
+     "title": "devops engineer",
+     "n": 19
+    },
+    {
+     "title": "product manager",
+     "n": 18
+    },
+    {
+     "title": "data scientist",
+     "n": 15
+    },
+    {
+     "title": "מנהל/ת חשבונות",
+     "n": 15
+    },
+    {
+     "title": "assistant controller",
+     "n": 14
+    },
+    {
+     "title": "data engineer",
+     "n": 13
+    },
+    {
+     "title": "senior product manager",
+     "n": 13
+    },
+    {
+     "title": "senior backend engineer",
+     "n": 12
+    },
+    {
+     "title": "bookkeeper",
+     "n": 11
+    },
+    {
+     "title": "software engineer",
+     "n": 11
+    },
+    {
+     "title": "backend engineer",
+     "n": 10
+    },
+    {
+     "title": "senior devops engineer",
+     "n": 10
+    },
+    {
+     "title": "system engineer",
+     "n": 10
+    }
+   ],
+   "regions": []
+  },
+  {
+   "period": "2026-08",
+   "partial": false,
+   "postings_new": 11440,
+   "postings_raw": 12089,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 100.0,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 9000,
+    "p25": 7800,
+    "p75": 13000,
+    "mean": 11025,
+    "n": 121,
+    "share": 0.01,
+    "currency": "ILS"
+   },
+   "remote_share": 0.0,
+   "employment": {
+    "full_time": 0.427,
+    "part_time": 0.035,
+    "contract": 0.009,
+    "other": 0.001,
+    "unknown": 0.528
+   },
+   "by_source": [
+    {
+     "code": "indeed.il",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 7786
+    },
+    {
+     "code": "careerjet.il",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 4303
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "תל אביב -יפו",
+     "n": 1992,
+     "share": 0.165
+    },
+    {
+     "name": "ירושלים",
+     "n": 1128,
+     "share": 0.093
+    },
+    {
+     "name": "המרכז",
+     "n": 826,
+     "share": 0.068
+    },
+    {
+     "name": "שפלת יהודה",
+     "n": 814,
+     "share": 0.067
+    },
+    {
+     "name": "רעננה",
+     "n": 784,
+     "share": 0.065
+    },
+    {
+     "name": "תל אביב",
+     "n": 695,
+     "share": 0.057
+    },
+    {
+     "name": "ישראל",
+     "n": 361,
+     "share": 0.03
+    },
+    {
+     "name": "יפו",
+     "n": 352,
+     "share": 0.029
+    },
+    {
+     "name": "חיפה",
+     "n": 344,
+     "share": 0.028
+    },
+    {
+     "name": "פתח תקווה",
+     "n": 325,
+     "share": 0.027
+    },
+    {
+     "name": "באר שבע",
+     "n": 304,
+     "share": 0.025
+    },
+    {
+     "name": "יקנעם עילית",
+     "n": 279,
+     "share": 0.023
+    },
+    {
+     "name": "רמת גן",
+     "n": 279,
+     "share": 0.023
+    },
+    {
+     "name": "הרצליה",
+     "n": 273,
+     "share": 0.023
+    },
+    {
+     "name": "נתניה",
+     "n": 215,
+     "share": 0.018
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "product manager",
+     "n": 21
+    },
+    {
+     "title": "מפתח/ת full stack",
+     "n": 20
+    },
+    {
+     "title": "devops engineer",
+     "n": 18
+    },
+    {
+     "title": "software development engineer - software development engineering s 4a",
+     "n": 18
+    },
+    {
+     "title": "טכנאי/ת pc",
+     "n": 18
+    },
+    {
+     "title": "system engineer",
+     "n": 17
+    },
+    {
+     "title": "data scientist",
+     "n": 16
+    },
+    {
+     "title": "officer-loss prevention",
+     "n": 15
+    },
+    {
+     "title": "pmo",
+     "n": 14
+    },
+    {
+     "title": "מפתח/ת תוכנה",
+     "n": 14
+    },
+    {
+     "title": "beauty advisor/artist beauty advisor",
+     "n": 13
+    },
+    {
+     "title": "senior devops engineer",
+     "n": 13
+    },
+    {
+     "title": "data engineer",
+     "n": 12
+    },
+    {
+     "title": "developer - application development s 4a",
+     "n": 12
+    },
+    {
+     "title": "מיישם/ת salesforce",
+     "n": 12
+    }
+   ],
+   "regions": []
+  }
+ ],
+ "quarterly": [
+  {
+   "period": "2024-Q2",
+   "partial": true,
+   "postings_new": 461,
+   "postings_raw": 463,
+   "qoq_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.0,
+    "currency": "ILS"
+   },
+   "remote_share": 0.0,
+   "employment": {
+    "full_time": 0.644,
+    "part_time": 0.149,
+    "contract": 0.026,
+    "other": 0.0,
+    "unknown": 0.181
+   },
+   "by_source": [
+    {
+     "code": "indeed.il",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 463
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "תל אביב -יפו",
+     "n": 99,
+     "share": 0.214
+    },
+    {
+     "name": "ירושלים",
+     "n": 43,
+     "share": 0.093
+    },
+    {
+     "name": "פתח תקווה",
+     "n": 39,
+     "share": 0.084
+    },
+    {
+     "name": "ראשון לציון",
+     "n": 27,
+     "share": 0.058
+    },
+    {
+     "name": "חיפה",
+     "n": 19,
+     "share": 0.041
+    },
+    {
+     "name": "באר שבע",
+     "n": 16,
+     "share": 0.035
+    },
+    {
+     "name": "כפר סבא",
+     "n": 15,
+     "share": 0.032
+    },
+    {
+     "name": "הרצליה",
+     "n": 13,
+     "share": 0.028
+    },
+    {
+     "name": "רמת גן",
+     "n": 13,
+     "share": 0.028
+    },
+    {
+     "name": "נתניה",
+     "n": 11,
+     "share": 0.024
+    },
+    {
+     "name": "בית שמש",
+     "n": 9,
+     "share": 0.019
+    },
+    {
+     "name": "בת ים",
+     "n": 9,
+     "share": 0.019
+    },
+    {
+     "name": "מודיעין מכבים רעות",
+     "n": 8,
+     "share": 0.017
+    },
+    {
+     "name": "רחובות",
+     "n": 8,
+     "share": 0.017
+    },
+    {
+     "name": "לוד",
+     "n": 6,
+     "share": 0.013
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2024-Q3",
+   "partial": false,
+   "postings_new": 719,
+   "postings_raw": 724,
+   "qoq_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.0,
+    "currency": "ILS"
+   },
+   "remote_share": 0.0,
+   "employment": {
+    "full_time": 0.68,
+    "part_time": 0.13,
+    "contract": 0.052,
+    "other": 0.0,
+    "unknown": 0.138
+   },
+   "by_source": [
+    {
+     "code": "indeed.il",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 724
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "תל אביב -יפו",
+     "n": 115,
+     "share": 0.159
+    },
+    {
+     "name": "פתח תקווה",
+     "n": 59,
+     "share": 0.081
+    },
+    {
+     "name": "ירושלים",
+     "n": 53,
+     "share": 0.073
+    },
+    {
+     "name": "ראשון לציון",
+     "n": 48,
+     "share": 0.066
+    },
+    {
+     "name": "חיפה",
+     "n": 34,
+     "share": 0.047
+    },
+    {
+     "name": "מודיעין מכבים רעות",
+     "n": 26,
+     "share": 0.036
+    },
+    {
+     "name": "באר שבע",
+     "n": 24,
+     "share": 0.033
+    },
+    {
+     "name": "כפר סבא",
+     "n": 22,
+     "share": 0.03
+    },
+    {
+     "name": "אשדוד",
+     "n": 16,
+     "share": 0.022
+    },
+    {
+     "name": "בני ברק",
+     "n": 16,
+     "share": 0.022
+    },
+    {
+     "name": "חולון",
+     "n": 14,
+     "share": 0.019
+    },
+    {
+     "name": "הרצליה",
+     "n": 11,
+     "share": 0.015
+    },
+    {
+     "name": "נתניה",
+     "n": 6,
+     "share": 0.008
+    },
+    {
+     "name": "רמת גן",
+     "n": 6,
+     "share": 0.008
+    },
+    {
+     "name": "רעננה",
+     "n": 6,
+     "share": 0.008
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2024-Q4",
+   "partial": false,
+   "postings_new": 694,
+   "postings_raw": 702,
+   "qoq_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.0,
+    "currency": "ILS"
+   },
+   "remote_share": 0.0,
+   "employment": {
+    "full_time": 0.661,
+    "part_time": 0.149,
+    "contract": 0.021,
+    "other": 0.001,
+    "unknown": 0.167
+   },
+   "by_source": [
+    {
+     "code": "indeed.il",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 702
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "תל אביב -יפו",
+     "n": 122,
+     "share": 0.174
+    },
+    {
+     "name": "ירושלים",
+     "n": 76,
+     "share": 0.108
+    },
+    {
+     "name": "פתח תקווה",
+     "n": 54,
+     "share": 0.077
+    },
+    {
+     "name": "ראשון לציון",
+     "n": 41,
+     "share": 0.058
+    },
+    {
+     "name": "חיפה",
+     "n": 26,
+     "share": 0.037
+    },
+    {
+     "name": "מודיעין מכבים רעות",
+     "n": 21,
+     "share": 0.03
+    },
+    {
+     "name": "באר שבע",
+     "n": 18,
+     "share": 0.026
+    },
+    {
+     "name": "הרצליה",
+     "n": 15,
+     "share": 0.021
+    },
+    {
+     "name": "רמת גן",
+     "n": 15,
+     "share": 0.021
+    },
+    {
+     "name": "אשדוד",
+     "n": 12,
+     "share": 0.017
+    },
+    {
+     "name": "בני ברק",
+     "n": 12,
+     "share": 0.017
+    },
+    {
+     "name": "נתניה",
+     "n": 11,
+     "share": 0.016
+    },
+    {
+     "name": "חולון",
+     "n": 10,
+     "share": 0.014
+    },
+    {
+     "name": "יפו",
+     "n": 10,
+     "share": 0.014
+    },
+    {
+     "name": "בית שמש",
+     "n": 9,
+     "share": 0.013
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2025-Q1",
+   "partial": false,
+   "postings_new": 1076,
+   "postings_raw": 1087,
+   "qoq_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.0,
+    "currency": "ILS"
+   },
+   "remote_share": 0.0,
+   "employment": {
+    "full_time": 0.62,
+    "part_time": 0.125,
+    "contract": 0.021,
+    "other": 0.0,
+    "unknown": 0.234
+   },
+   "by_source": [
+    {
+     "code": "indeed.il",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 1087
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "תל אביב -יפו",
+     "n": 211,
+     "share": 0.194
+    },
+    {
+     "name": "פתח תקווה",
+     "n": 98,
+     "share": 0.09
+    },
+    {
+     "name": "ירושלים",
+     "n": 81,
+     "share": 0.075
+    },
+    {
+     "name": "ראשון לציון",
+     "n": 52,
+     "share": 0.048
+    },
+    {
+     "name": "חיפה",
+     "n": 34,
+     "share": 0.031
+    },
+    {
+     "name": "רמת גן",
+     "n": 32,
+     "share": 0.029
+    },
+    {
+     "name": "חולון",
+     "n": 31,
+     "share": 0.029
+    },
+    {
+     "name": "הרצליה",
+     "n": 28,
+     "share": 0.026
+    },
+    {
+     "name": "באר שבע",
+     "n": 26,
+     "share": 0.024
+    },
+    {
+     "name": "מודיעין מכבים רעות",
+     "n": 19,
+     "share": 0.017
+    },
+    {
+     "name": "רעננה",
+     "n": 19,
+     "share": 0.017
+    },
+    {
+     "name": "אילת",
+     "n": 16,
+     "share": 0.015
+    },
+    {
+     "name": "נתניה",
+     "n": 15,
+     "share": 0.014
+    },
+    {
+     "name": "אשדוד",
+     "n": 12,
+     "share": 0.011
+    },
+    {
+     "name": "כפר סבא",
+     "n": 12,
+     "share": 0.011
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2025-Q2",
+   "partial": false,
+   "postings_new": 806,
+   "postings_raw": 812,
+   "qoq_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.001,
+    "currency": "ILS"
+   },
+   "remote_share": 0.0,
+   "employment": {
+    "full_time": 0.632,
+    "part_time": 0.116,
+    "contract": 0.028,
+    "other": 0.0,
+    "unknown": 0.225
+   },
+   "by_source": [
+    {
+     "code": "indeed.il",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 812
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "תל אביב -יפו",
+     "n": 178,
+     "share": 0.219
+    },
+    {
+     "name": "ירושלים",
+     "n": 67,
+     "share": 0.083
+    },
+    {
+     "name": "פתח תקווה",
+     "n": 52,
+     "share": 0.064
+    },
+    {
+     "name": "חיפה",
+     "n": 42,
+     "share": 0.052
+    },
+    {
+     "name": "ראשון לציון",
+     "n": 36,
+     "share": 0.044
+    },
+    {
+     "name": "רמת גן",
+     "n": 32,
+     "share": 0.039
+    },
+    {
+     "name": "באר שבע",
+     "n": 22,
+     "share": 0.027
+    },
+    {
+     "name": "חולון",
+     "n": 19,
+     "share": 0.023
+    },
+    {
+     "name": "אשדוד",
+     "n": 14,
+     "share": 0.017
+    },
+    {
+     "name": "בני ברק",
+     "n": 13,
+     "share": 0.016
+    },
+    {
+     "name": "מודיעין מכבים רעות",
+     "n": 13,
+     "share": 0.016
+    },
+    {
+     "name": "בית שמש",
+     "n": 12,
+     "share": 0.015
+    },
+    {
+     "name": "נתניה",
+     "n": 12,
+     "share": 0.015
+    },
+    {
+     "name": "יקנעם עילית",
+     "n": 11,
+     "share": 0.014
+    },
+    {
+     "name": "כפר סבא",
+     "n": 7,
+     "share": 0.009
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2025-Q3",
+   "partial": false,
+   "postings_new": 842,
+   "postings_raw": 854,
+   "qoq_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.0,
+    "currency": "ILS"
+   },
+   "remote_share": 0.0,
+   "employment": {
+    "full_time": 0.584,
+    "part_time": 0.132,
+    "contract": 0.011,
+    "other": 0.0,
+    "unknown": 0.273
+   },
+   "by_source": [
+    {
+     "code": "indeed.il",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 854
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "תל אביב -יפו",
+     "n": 176,
+     "share": 0.206
+    },
+    {
+     "name": "ירושלים",
+     "n": 84,
+     "share": 0.098
+    },
+    {
+     "name": "פתח תקווה",
+     "n": 50,
+     "share": 0.059
+    },
+    {
+     "name": "ראשון לציון",
+     "n": 38,
+     "share": 0.044
+    },
+    {
+     "name": "רמת גן",
+     "n": 38,
+     "share": 0.044
+    },
+    {
+     "name": "חיפה",
+     "n": 36,
+     "share": 0.042
+    },
+    {
+     "name": "יפו",
+     "n": 26,
+     "share": 0.03
+    },
+    {
+     "name": "רעננה",
+     "n": 26,
+     "share": 0.03
+    },
+    {
+     "name": "הרצליה",
+     "n": 24,
+     "share": 0.028
+    },
+    {
+     "name": "באר שבע",
+     "n": 23,
+     "share": 0.027
+    },
+    {
+     "name": "אשדוד",
+     "n": 9,
+     "share": 0.011
+    },
+    {
+     "name": "בית שמש",
+     "n": 9,
+     "share": 0.011
+    },
+    {
+     "name": "יקנעם עילית",
+     "n": 9,
+     "share": 0.011
+    },
+    {
+     "name": "מודיעין מכבים רעות",
+     "n": 9,
+     "share": 0.011
+    },
+    {
+     "name": "נתניה",
+     "n": 7,
+     "share": 0.008
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2025-Q4",
+   "partial": false,
+   "postings_new": 1236,
+   "postings_raw": 1259,
+   "qoq_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.0,
+    "currency": "ILS"
+   },
+   "remote_share": 0.0,
+   "employment": {
+    "full_time": 0.637,
+    "part_time": 0.106,
+    "contract": 0.009,
+    "other": 0.001,
+    "unknown": 0.246
+   },
+   "by_source": [
+    {
+     "code": "indeed.il",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 1259
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "תל אביב -יפו",
+     "n": 333,
+     "share": 0.264
+    },
+    {
+     "name": "ירושלים",
+     "n": 118,
+     "share": 0.094
+    },
+    {
+     "name": "חיפה",
+     "n": 94,
+     "share": 0.075
+    },
+    {
+     "name": "רעננה",
+     "n": 56,
+     "share": 0.044
+    },
+    {
+     "name": "פתח תקווה",
+     "n": 47,
+     "share": 0.037
+    },
+    {
+     "name": "ראשון לציון",
+     "n": 46,
+     "share": 0.037
+    },
+    {
+     "name": "באר שבע",
+     "n": 38,
+     "share": 0.03
+    },
+    {
+     "name": "יפו",
+     "n": 38,
+     "share": 0.03
+    },
+    {
+     "name": "שפלת יהודה",
+     "n": 34,
+     "share": 0.027
+    },
+    {
+     "name": "נתניה",
+     "n": 27,
+     "share": 0.021
+    },
+    {
+     "name": "רמת גן",
+     "n": 27,
+     "share": 0.021
+    },
+    {
+     "name": "יקנעם עילית",
+     "n": 22,
+     "share": 0.017
+    },
+    {
+     "name": "מודיעין מכבים רעות",
+     "n": 21,
+     "share": 0.017
+    },
+    {
+     "name": "כפר סבא",
+     "n": 17,
+     "share": 0.014
+    },
+    {
+     "name": "הרצליה",
+     "n": 14,
+     "share": 0.011
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-Q1",
+   "partial": false,
+   "postings_new": 2111,
+   "postings_raw": 2136,
+   "qoq_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.0,
+    "currency": "ILS"
+   },
+   "remote_share": 0.0,
+   "employment": {
+    "full_time": 0.591,
+    "part_time": 0.08,
+    "contract": 0.014,
+    "other": 0.0,
+    "unknown": 0.314
+   },
+   "by_source": [
+    {
+     "code": "indeed.il",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 2136
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "תל אביב -יפו",
+     "n": 578,
+     "share": 0.271
+    },
+    {
+     "name": "ירושלים",
+     "n": 179,
+     "share": 0.084
+    },
+    {
+     "name": "רעננה",
+     "n": 123,
+     "share": 0.058
+    },
+    {
+     "name": "שפלת יהודה",
+     "n": 107,
+     "share": 0.05
+    },
+    {
+     "name": "יפו",
+     "n": 101,
+     "share": 0.047
+    },
+    {
+     "name": "יקנעם עילית",
+     "n": 76,
+     "share": 0.036
+    },
+    {
+     "name": "באר שבע",
+     "n": 74,
+     "share": 0.035
+    },
+    {
+     "name": "פתח תקווה",
+     "n": 67,
+     "share": 0.031
+    },
+    {
+     "name": "ראשון לציון",
+     "n": 66,
+     "share": 0.031
+    },
+    {
+     "name": "חיפה",
+     "n": 64,
+     "share": 0.03
+    },
+    {
+     "name": "רמת גן",
+     "n": 55,
+     "share": 0.026
+    },
+    {
+     "name": "אשדוד",
+     "n": 27,
+     "share": 0.013
+    },
+    {
+     "name": "הרצליה",
+     "n": 22,
+     "share": 0.01
+    },
+    {
+     "name": "נתניה",
+     "n": 22,
+     "share": 0.01
+    },
+    {
+     "name": "כפר סבא",
+     "n": 21,
+     "share": 0.01
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-Q2",
+   "partial": false,
+   "postings_new": 6651,
+   "postings_raw": 6996,
+   "qoq_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 8900,
+    "p25": 7000,
+    "p75": 9442,
+    "mean": 9246,
+    "n": 167,
+    "share": 0.025,
+    "currency": "ILS"
+   },
+   "remote_share": 0.0,
+   "employment": {
+    "full_time": 0.449,
+    "part_time": 0.045,
+    "contract": 0.007,
+    "other": 0.0,
+    "unknown": 0.498
+   },
+   "by_source": [
+    {
+     "code": "indeed.il",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 5469
+    },
+    {
+     "code": "careerjet.il",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 1527
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "תל אביב -יפו",
+     "n": 1314,
+     "share": 0.188
+    },
+    {
+     "name": "ירושלים",
+     "n": 578,
+     "share": 0.083
+    },
+    {
+     "name": "יפו",
+     "n": 416,
+     "share": 0.059
+    },
+    {
+     "name": "רעננה",
+     "n": 371,
+     "share": 0.053
+    },
+    {
+     "name": "שפלת יהודה",
+     "n": 339,
+     "share": 0.048
+    },
+    {
+     "name": "תל אביב",
+     "n": 300,
+     "share": 0.043
+    },
+    {
+     "name": "פתח תקווה",
+     "n": 288,
+     "share": 0.041
+    },
+    {
+     "name": "חיפה",
+     "n": 270,
+     "share": 0.039
+    },
+    {
+     "name": "רמת גן",
+     "n": 239,
+     "share": 0.034
+    },
+    {
+     "name": "הרצליה",
+     "n": 238,
+     "share": 0.034
+    },
+    {
+     "name": "יקנעם עילית",
+     "n": 197,
+     "share": 0.028
+    },
+    {
+     "name": "באר שבע",
+     "n": 158,
+     "share": 0.023
+    },
+    {
+     "name": "ראשון לציון",
+     "n": 132,
+     "share": 0.019
+    },
+    {
+     "name": "המרכז",
+     "n": 64,
+     "share": 0.009
+    },
+    {
+     "name": "נתניה",
+     "n": 61,
+     "share": 0.009
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "devops engineer",
+     "n": 10
+    },
+    {
+     "title": "data engineer",
+     "n": 8
+    },
+    {
+     "title": "embedded software engineer",
+     "n": 8
+    },
+    {
+     "title": "security researcher",
+     "n": 8
+    },
+    {
+     "title": "infrastructure verification engineer",
+     "n": 7
+    },
+    {
+     "title": "integration engineer",
+     "n": 7
+    },
+    {
+     "title": "performance manager / media buyer",
+     "n": 7
+    },
+    {
+     "title": "product manager",
+     "n": 7
+    },
+    {
+     "title": "board design engineer",
+     "n": 6
+    },
+    {
+     "title": "fp&a analyst",
+     "n": 6
+    },
+    {
+     "title": "full stack developer",
+     "n": 6
+    },
+    {
+     "title": "senior devops engineer",
+     "n": 6
+    },
+    {
+     "title": "מחסנאי/ת ממוחשב/ת",
+     "n": 6
+    },
+    {
+     "title": "bookkeeper",
+     "n": 5
+    },
+    {
+     "title": "director of procurement",
+     "n": 5
+    }
+   ],
+   "regions": []
+  },
+  {
+   "period": "2026-Q3",
+   "partial": true,
+   "postings_new": 18714,
+   "postings_raw": 19666,
+   "qoq_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 9000,
+    "p25": 7593,
+    "p75": 12025,
+    "mean": 10445,
+    "n": 201,
+    "share": 0.01,
+    "currency": "ILS"
+   },
+   "remote_share": 0.0,
+   "employment": {
+    "full_time": 0.405,
+    "part_time": 0.034,
+    "contract": 0.009,
+    "other": 0.001,
+    "unknown": 0.552
+   },
+   "by_source": [
+    {
+     "code": "indeed.il",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 12561
+    },
+    {
+     "code": "careerjet.il",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 7105
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "תל אביב -יפו",
+     "n": 3198,
+     "share": 0.163
+    },
+    {
+     "name": "ירושלים",
+     "n": 1834,
+     "share": 0.093
+    },
+    {
+     "name": "תל אביב",
+     "n": 1299,
+     "share": 0.066
+    },
+    {
+     "name": "המרכז",
+     "n": 1215,
+     "share": 0.062
+    },
+    {
+     "name": "שפלת יהודה",
+     "n": 1194,
+     "share": 0.061
+    },
+    {
+     "name": "רעננה",
+     "n": 1191,
+     "share": 0.061
+    },
+    {
+     "name": "יפו",
+     "n": 613,
+     "share": 0.031
+    },
+    {
+     "name": "חיפה",
+     "n": 606,
+     "share": 0.031
+    },
+    {
+     "name": "ישראל",
+     "n": 597,
+     "share": 0.03
+    },
+    {
+     "name": "פתח תקווה",
+     "n": 526,
+     "share": 0.027
+    },
+    {
+     "name": "רמת גן",
+     "n": 492,
+     "share": 0.025
+    },
+    {
+     "name": "באר שבע",
+     "n": 475,
+     "share": 0.024
+    },
+    {
+     "name": "הרצליה",
+     "n": 460,
+     "share": 0.023
+    },
+    {
+     "name": "יקנעם עילית",
+     "n": 441,
+     "share": 0.022
+    },
+    {
+     "name": "נתניה",
+     "n": 215,
+     "share": 0.011
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "beauty advisor/artist beauty advisor",
+     "n": 42
+    },
+    {
+     "title": "product manager",
+     "n": 39
+    },
+    {
+     "title": "devops engineer",
+     "n": 37
+    },
+    {
+     "title": "data scientist",
+     "n": 31
+    },
+    {
+     "title": "system engineer",
+     "n": 27
+    },
+    {
+     "title": "data engineer",
+     "n": 25
+    },
+    {
+     "title": "senior software engineer",
+     "n": 24
+    },
+    {
+     "title": "senior devops engineer",
+     "n": 23
+    },
+    {
+     "title": "מפתח/ת full stack",
+     "n": 20
+    },
+    {
+     "title": "software development engineer - software development engineering s 4a",
+     "n": 18
+    },
+    {
+     "title": "טכנאי/ת pc",
+     "n": 18
+    },
+    {
+     "title": "officer-loss prevention",
+     "n": 15
+    },
+    {
+     "title": "מנהל/ת חשבונות",
+     "n": 15
+    },
+    {
+     "title": "assistant controller",
+     "n": 14
+    },
+    {
+     "title": "pmo",
+     "n": 14
+    }
+   ],
+   "regions": []
+  }
+ ],
+ "sources": [
+  {
+   "code": "indeed.il",
+   "service": "Indeed",
+   "kind": "aggregator",
+   "url": "https://il.indeed.com",
+   "collecting_since": "2026-08-06",
+   "offers_total": 28442,
+   "share_latest": 0.644,
+   "salary_coverage": 0.0,
+   "description_coverage": 1.0
+  },
+  {
+   "code": "careerjet.il",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "url": "https://www.careerjet.co.il",
+   "collecting_since": "2026-08-03",
+   "offers_total": 9414,
+   "share_latest": 0.356,
+   "salary_coverage": 0.042,
+   "description_coverage": 1.0
+  }
+ ],
+ "quality": {
+  "field_coverage": {
+   "salary_any": 0.011,
+   "city": 0.943,
+   "company": 0.715,
+   "employment_type": 0.53,
+   "remote": 0.748,
+   "posted_at": 1.0
+  },
+  "dedup": {
+   "within_source_rule_pl": "Ta sama oferta w tym samym serwisie liczona raz (klucz: adres URL lub identyfikator ogłoszenia).",
+   "cross_source_estimate": 0.04,
+   "cross_source_note_pl": "Szacunkowy odsetek ogłoszeń widocznych w więcej niż jednym serwisie (ten sam tytuł, firma i miasto w tym samym miesiącu). Wskaźniki liczymy po zdjęciu tych powtórek."
+  }
+ },
+ "highlights": [
+  {
+   "id": "volume",
+   "icon": "trend",
+   "title_pl": "Sierpień: 11 440 ogłoszeń",
+   "text_pl": "11 440 nowych ogłoszeń (miesiąc wcześniej: 7 274).",
+   "title_en": "August: 11,440 postings",
+   "text_en": "11,440 new postings (a month earlier: 7,274)."
+  },
+  {
+   "id": "mover",
+   "icon": "city",
+   "title_pl": "Największa zmiana: שפלת יהודה +114,2%",
+   "text_pl": "814 ogłoszeń wobec 380 miesiąc wcześniej.",
+   "title_en": "Biggest move: שפלת יהודה +114.2%",
+   "text_en": "814 postings vs 380 a month earlier."
+  },
+  {
+   "id": "salary",
+   "icon": "salary",
+   "title_pl": "Mediana wynagrodzenia: 9 000 ILS",
+   "text_pl": "Połowa ofert z podaną stawką mieści się między 7 800 a 13 000 ILS miesięcznie; stawkę podaje 1% ogłoszeń.",
+   "title_en": "Median pay: 9,000 ILS",
+   "text_en": "Half of the postings with stated pay fall between 7,800 and 13,000 ILS per month; 1% of postings state pay."
+  },
+  {
+   "id": "remote",
+   "icon": "remote",
+   "title_pl": "Praca zdalna: 0,0% ogłoszeń",
+   "text_pl": "0 ogłoszeń oznaczonych jako praca zdalna (+0,0 pkt proc. m/m).",
+   "title_en": "Remote work: 0.0% of postings",
+   "text_en": "0 postings flagged as remote (+0.0 pp m/m)."
+  },
+  {
+   "id": "source",
+   "icon": "source",
+   "title_pl": "Największy serwis: Indeed (64%)",
+   "text_pl": "Dane z 2 serwisów; Indeed dostarcza 7 786 z 12 089 ogłoszeń przed zdjęciem powtórek.",
+   "title_en": "Largest source: Indeed (64%)",
+   "text_en": "Data from 2 sources; Indeed provides 7,786 of 12,089 postings before de-duplication."
+  },
+  {
+   "id": "cities",
+   "icon": "map",
+   "title_pl": "227 miast z ogłoszeniami",
+   "text_pl": "Najwięcej w: תל אביב -יפו (16%), ירושלים (9%), המרכז (7%).",
+   "title_en": "227 cities with postings",
+   "text_en": "Most in: תל אביב -יפו (16%), ירושלים (9%), המרכז (7%)."
+  }
+ ],
+ "commentary": null,
+ "skills_demo": {
+  "is_synthetic": true,
+  "note_pl": "Dane demonstracyjne: nazwy umiejętności pochodzą z taksonomii ESCO, wartości są wygenerowane. Docelowo - identyfikacja umiejętności w treści ogłoszeń.",
+  "months": [
+   "2026-03",
+   "2026-04",
+   "2026-05",
+   "2026-06",
+   "2026-07",
+   "2026-08"
+  ],
+  "groups": [
+   {
+    "id": "digital",
+    "name_pl": "Kompetencje cyfrowe",
+    "name_en": "Digital skills",
+    "share": 0.145,
+    "change_pct": 6.9
+   },
+   {
+    "id": "data_ai",
+    "name_pl": "Dane i sztuczna inteligencja",
+    "name_en": "Data & AI",
+    "share": 0.069,
+    "change_pct": 19.9
+   },
+   {
+    "id": "green",
+    "name_pl": "Zielone kompetencje",
+    "name_en": "Green skills",
+    "share": 0.036,
+    "change_pct": 9.8
+   },
+   {
+    "id": "management",
+    "name_pl": "Zarządzanie",
+    "name_en": "Management",
+    "share": 0.119,
+    "change_pct": -1.5
+   },
+   {
+    "id": "communication",
+    "name_pl": "Komunikacja i współpraca",
+    "name_en": "Communication & teamwork",
+    "share": 0.139,
+    "change_pct": -3.8
+   },
+   {
+    "id": "technical_trades",
+    "name_pl": "Zawody techniczne i produkcja",
+    "name_en": "Technical trades",
+    "share": 0.108,
+    "change_pct": -3.5
+   },
+   {
+    "id": "healthcare",
+    "name_pl": "Opieka zdrowotna",
+    "name_en": "Healthcare",
+    "share": 0.071,
+    "change_pct": 5.6
+   },
+   {
+    "id": "finance_admin",
+    "name_pl": "Finanse i administracja",
+    "name_en": "Finance & administration",
+    "share": 0.094,
+    "change_pct": -8.0
+   },
+   {
+    "id": "languages",
+    "name_pl": "Języki obce",
+    "name_en": "Languages",
+    "share": 0.097,
+    "change_pct": -3.6
+   },
+   {
+    "id": "customer_sales",
+    "name_pl": "Obsługa klienta i sprzedaż",
+    "name_en": "Customer service & sales",
+    "share": 0.124,
+    "change_pct": -3.5
+   }
+  ],
+  "skills": [
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/33859d93-987c-4caa-a0a9-6159ea7bbc2a",
+    "name_pl": "język arabski",
+    "name_en": "Arabic",
+    "group": "languages",
+    "share": 0.0282,
+    "change_pct": -13.2,
+    "series": [
+     0.0325,
+     0.0307,
+     0.0307,
+     0.0303,
+     0.0287,
+     0.0282
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/c55caed2-de9e-4a25-819e-a0b0e83fba1b",
+    "name_pl": "prowadzenie prezentacji",
+    "name_en": "give live presentation",
+    "group": "communication",
+    "share": 0.0188,
+    "change_pct": 15.3,
+    "series": [
+     0.0163,
+     0.0163,
+     0.0167,
+     0.0172,
+     0.018,
+     0.0188
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/a17286c5-238d-4f0b-bc24-29e9121345de",
+    "name_pl": "aktywne słuchanie",
+    "name_en": "listen actively",
+    "group": "communication",
+    "share": 0.0149,
+    "change_pct": -13.9,
+    "series": [
+     0.0173,
+     0.0168,
+     0.016,
+     0.0154,
+     0.0154,
+     0.0149
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/60c78287-22eb-4103-9c8c-28deaa460da0",
+    "name_pl": "praca w zespole",
+    "name_en": "work in teams",
+    "group": "communication",
+    "share": 0.0137,
+    "change_pct": 1.5,
+    "series": [
+     0.0135,
+     0.0135,
+     0.0133,
+     0.0133,
+     0.0136,
+     0.0137
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44",
+    "name_pl": "cyberbezpieczeństwo",
+    "name_en": "cyber security",
+    "group": "digital",
+    "share": 0.0134,
+    "change_pct": 19.6,
+    "series": [
+     0.0112,
+     0.0119,
+     0.0119,
+     0.0123,
+     0.0127,
+     0.0134
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/21c5790c-0930-4d74-b3b0-84caf5af12ea",
+    "name_pl": "zarządzanie budżetem",
+    "name_en": "manage budgets",
+    "group": "management",
+    "share": 0.0129,
+    "change_pct": 17.3,
+    "series": [
+     0.011,
+     0.0114,
+     0.0118,
+     0.0121,
+     0.0122,
+     0.0129
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0",
+    "name_pl": "technologie chmurowe",
+    "name_en": "cloud technologies",
+    "group": "digital",
+    "share": 0.0124,
+    "change_pct": 22.8,
+    "series": [
+     0.0101,
+     0.0106,
+     0.0111,
+     0.0111,
+     0.0117,
+     0.0124
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742",
+    "name_pl": "SQL",
+    "name_en": "SQL",
+    "group": "digital",
+    "share": 0.0122,
+    "change_pct": 27.1,
+    "series": [
+     0.0096,
+     0.01,
+     0.0104,
+     0.0109,
+     0.0112,
+     0.0122
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+    "name_pl": "zarządzanie projektami",
+    "name_en": "perform project management",
+    "group": "management",
+    "share": 0.0121,
+    "change_pct": -11.0,
+    "series": [
+     0.0136,
+     0.0131,
+     0.0128,
+     0.0127,
+     0.0123,
+     0.0121
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/dc9a236c-c640-43c3-812f-269403591edb",
+    "name_pl": "zarządzanie relacjami z klientami (CRM)",
+    "name_en": "customer relationship management",
+    "group": "customer_sales",
+    "share": 0.0117,
+    "change_pct": -13.3,
+    "series": [
+     0.0135,
+     0.0132,
+     0.013,
+     0.0125,
+     0.0123,
+     0.0117
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+    "name_pl": "JavaScript",
+    "name_en": "JavaScript",
+    "group": "digital",
+    "share": 0.0116,
+    "change_pct": 3.6,
+    "series": [
+     0.0112,
+     0.0114,
+     0.0115,
+     0.0112,
+     0.0113,
+     0.0116
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/0da516ee-e70e-4384-be13-f5ff80be8127",
+    "name_pl": "komunikacja z klientami",
+    "name_en": "communicate with customers",
+    "group": "customer_sales",
+    "share": 0.0116,
+    "change_pct": 5.5,
+    "series": [
+     0.011,
+     0.0113,
+     0.0116,
+     0.0115,
+     0.0116,
+     0.0116
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/949ced5f-7536-4614-ac60-563ffc91a2f2",
+    "name_pl": "planowanie strategiczne",
+    "name_en": "strategic planning",
+    "group": "management",
+    "share": 0.0113,
+    "change_pct": 1.8,
+    "series": [
+     0.0111,
+     0.0112,
+     0.011,
+     0.0112,
+     0.0111,
+     0.0113
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/15a33d76-4640-438d-ae64-fdc0c1d3eebc",
+    "name_pl": "obsługa klienta",
+    "name_en": "customer service",
+    "group": "customer_sales",
+    "share": 0.0113,
+    "change_pct": -11.7,
+    "series": [
+     0.0128,
+     0.0128,
+     0.0126,
+     0.0122,
+     0.0119,
+     0.0113
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/c96ab6ac-cf85-4c91-86b5-7ac5bb14eb28",
+    "name_pl": "obsługa dźwigów",
+    "name_en": "operate cranes",
+    "group": "technical_trades",
+    "share": 0.0111,
+    "change_pct": -2.6,
+    "series": [
+     0.0114,
+     0.0115,
+     0.0115,
+     0.0115,
+     0.0113,
+     0.0111
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0",
+    "name_pl": "język angielski",
+    "name_en": "English",
+    "group": "languages",
+    "share": 0.011,
+    "change_pct": 0.9,
+    "series": [
+     0.0109,
+     0.0109,
+     0.011,
+     0.0112,
+     0.0109,
+     0.011
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/8755734c-2919-41a3-9ca6-1e3d1f169213",
+    "name_pl": "montaż instalacji hydraulicznych",
+    "name_en": "install plumbing systems",
+    "group": "technical_trades",
+    "share": 0.0098,
+    "change_pct": -3.9,
+    "series": [
+     0.0102,
+     0.0102,
+     0.0101,
+     0.01,
+     0.01,
+     0.0098
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/8b3aefd2-5021-418f-b069-828fb7abc598",
+    "name_pl": "podstawy pielęgniarstwa",
+    "name_en": "nursing principles",
+    "group": "healthcare",
+    "share": 0.0096,
+    "change_pct": 7.9,
+    "series": [
+     0.0089,
+     0.0092,
+     0.0093,
+     0.0094,
+     0.0094,
+     0.0096
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/e437eba1-3e22-41f2-8703-741e94785cba",
+    "name_pl": "zarządzanie zasobami ludzkimi",
+    "name_en": "human resource management",
+    "group": "finance_admin",
+    "share": 0.0094,
+    "change_pct": -6.0,
+    "series": [
+     0.01,
+     0.0101,
+     0.0096,
+     0.0097,
+     0.0097,
+     0.0094
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/6a609f8f-1451-4102-ad2d-62c5270e1237",
+    "name_pl": "administracja biurowa",
+    "name_en": "office administration",
+    "group": "finance_admin",
+    "share": 0.0092,
+    "change_pct": 12.2,
+    "series": [
+     0.0082,
+     0.0083,
+     0.0085,
+     0.0088,
+     0.0091,
+     0.0092
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/f7464f30-662b-4177-85a0-3df9693e9e58",
+    "name_pl": "pierwsza pomoc",
+    "name_en": "first aid",
+    "group": "healthcare",
+    "share": 0.0083,
+    "change_pct": 3.8,
+    "series": [
+     0.008,
+     0.0082,
+     0.0081,
+     0.0083,
+     0.0081,
+     0.0083
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/530cb489-d900-46ab-9350-4d50ccd49eea",
+    "name_pl": "techniki spawania",
+    "name_en": "welding techniques",
+    "group": "technical_trades",
+    "share": 0.008,
+    "change_pct": 17.6,
+    "series": [
+     0.0068,
+     0.007,
+     0.0073,
+     0.0077,
+     0.0079,
+     0.008
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/25f0ea33-b4a2-4f31-b7b4-7d20e827b180",
+    "name_pl": "eksploracja danych",
+    "name_en": "data mining",
+    "group": "data_ai",
+    "share": 0.0062,
+    "change_pct": 21.6,
+    "series": [
+     0.0051,
+     0.0052,
+     0.0055,
+     0.0058,
+     0.0061,
+     0.0062
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/97bd1c21-66b2-4b7e-ad0f-e3cda590e378",
+    "name_pl": "analityka danych",
+    "name_en": "data analytics",
+    "group": "data_ai",
+    "share": 0.0058,
+    "change_pct": 28.9,
+    "series": [
+     0.0045,
+     0.0048,
+     0.005,
+     0.0053,
+     0.0056,
+     0.0058
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/83fc0b2b-6cd2-46af-b1ff-d3fc83604c26",
+    "name_pl": "efektywność energetyczna",
+    "name_en": "energy efficiency",
+    "group": "green",
+    "share": 0.0039,
+    "change_pct": 8.3,
+    "series": [
+     0.0036,
+     0.0036,
+     0.0038,
+     0.0038,
+     0.0039,
+     0.0039
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,1388 @@
+{
+ "generated_at": "2026-09-30T15:36:10+00:00",
+ "totals": {
+  "offers_total": 29810552,
+  "countries": 56,
+  "sources": 134,
+  "collecting_since": "2023-01-01"
+ },
+ "aggregated_at": "2026-09-30T14:08:39.433581+00:00",
+ "sources": [
+  {
+   "code": "tanqeeb.ae",
+   "service": "Tanqeeb",
+   "kind": "aggregator",
+   "country": "AE",
+   "url": "https://uae.tanqeeb.com",
+   "collecting_since": "2026-08-05",
+   "offers_total": 47043,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "careerjet.at",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "country": "AT",
+   "url": "https://www.careerjet.at",
+   "collecting_since": "2026-08-03",
+   "offers_total": 32539,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "indeed.at",
+   "service": "Indeed",
+   "kind": "aggregator",
+   "country": "AT",
+   "url": "https://at.indeed.com",
+   "collecting_since": "2026-08-06",
+   "offers_total": 53789,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "jooble.at",
+   "service": "Jooble",
+   "kind": "aggregator",
+   "country": "AT",
+   "url": "https://at.jooble.org",
+   "collecting_since": "2026-08-01",
+   "offers_total": 134353,
+   "fetch_via_pl": "przepustka Cloudflare: przeglądarka rozwiązuje challenge raz, dalej szybki klient"
+  },
+  {
+   "code": "careerjet.au",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "country": "AU",
+   "url": "https://www.careerjet.com.au",
+   "collecting_since": "2026-08-03",
+   "offers_total": 102778,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "indeed.au",
+   "service": "Indeed",
+   "kind": "aggregator",
+   "country": "AU",
+   "url": "https://au.indeed.com",
+   "collecting_since": "2026-08-06",
+   "offers_total": 246458,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "jooble.au",
+   "service": "Jooble",
+   "kind": "aggregator",
+   "country": "AU",
+   "url": "https://au.jooble.org",
+   "collecting_since": "2026-08-01",
+   "offers_total": 225210,
+   "fetch_via_pl": "przepustka Cloudflare: przeglądarka rozwiązuje challenge raz, dalej szybki klient"
+  },
+  {
+   "code": "careerjet.be",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "country": "BE",
+   "url": "https://www.careerjet.be",
+   "collecting_since": "2026-08-03",
+   "offers_total": 80369,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "indeed.be",
+   "service": "Indeed",
+   "kind": "aggregator",
+   "country": "BE",
+   "url": "https://be.indeed.com",
+   "collecting_since": "2026-08-06",
+   "offers_total": 78138,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "jooble.be",
+   "service": "Jooble",
+   "kind": "aggregator",
+   "country": "BE",
+   "url": "https://be.jooble.org",
+   "collecting_since": "2026-08-01",
+   "offers_total": 190174,
+   "fetch_via_pl": "przepustka Cloudflare: przeglądarka rozwiązuje challenge raz, dalej szybki klient"
+  },
+  {
+   "code": "tanqeeb.bh",
+   "service": "Tanqeeb",
+   "kind": "aggregator",
+   "country": "BH",
+   "url": "https://bahrain.tanqeeb.com",
+   "collecting_since": "2026-08-04",
+   "offers_total": 2817,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "careerjet.ca",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "country": "CA",
+   "url": "https://www.careerjet.ca",
+   "collecting_since": "2026-08-03",
+   "offers_total": 208321,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "indeed.ca",
+   "service": "Indeed",
+   "kind": "aggregator",
+   "country": "CA",
+   "url": "https://ca.indeed.com",
+   "collecting_since": "2026-08-06",
+   "offers_total": 601958,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "jooble.ca",
+   "service": "Jooble",
+   "kind": "aggregator",
+   "country": "CA",
+   "url": "https://ca.jooble.org",
+   "collecting_since": "2026-08-01",
+   "offers_total": 333385,
+   "fetch_via_pl": "przepustka Cloudflare: przeglądarka rozwiązuje challenge raz, dalej szybki klient"
+  },
+  {
+   "code": "careerjet.ch",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "country": "CH",
+   "url": "https://www.careerjet.ch",
+   "collecting_since": "2026-08-03",
+   "offers_total": 148646,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "indeed.ch",
+   "service": "Indeed",
+   "kind": "aggregator",
+   "country": "CH",
+   "url": "https://ch.indeed.com",
+   "collecting_since": "2026-08-06",
+   "offers_total": 74036,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "jooble.ch",
+   "service": "Jooble",
+   "kind": "aggregator",
+   "country": "CH",
+   "url": "https://ch.jooble.org",
+   "collecting_since": "2026-08-01",
+   "offers_total": 131967,
+   "fetch_via_pl": "przepustka Cloudflare: przeglądarka rozwiązuje challenge raz, dalej szybki klient"
+  },
+  {
+   "code": "careerjet.cl",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "country": "CL",
+   "url": "https://www.opcionempleo.cl",
+   "collecting_since": "2026-08-03",
+   "offers_total": 487571,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "indeed.cl",
+   "service": "Indeed",
+   "kind": "aggregator",
+   "country": "CL",
+   "url": "https://cl.indeed.com",
+   "collecting_since": "2026-08-06",
+   "offers_total": 43463,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "jooble.cl",
+   "service": "Jooble",
+   "kind": "aggregator",
+   "country": "CL",
+   "url": "https://cl.jooble.org",
+   "collecting_since": "2026-08-01",
+   "offers_total": 184892,
+   "fetch_via_pl": "przepustka Cloudflare: przeglądarka rozwiązuje challenge raz, dalej szybki klient"
+  },
+  {
+   "code": "careerjet.co",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "country": "CO",
+   "url": "https://www.opcionempleo.com.co",
+   "collecting_since": "2026-08-03",
+   "offers_total": 766205,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "indeed.co",
+   "service": "Indeed",
+   "kind": "aggregator",
+   "country": "CO",
+   "url": "https://co.indeed.com",
+   "collecting_since": "2026-08-06",
+   "offers_total": 35489,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "jooble.co",
+   "service": "Jooble",
+   "kind": "aggregator",
+   "country": "CO",
+   "url": "https://co.jooble.org",
+   "collecting_since": "2026-08-01",
+   "offers_total": 283826,
+   "fetch_via_pl": "przepustka Cloudflare: przeglądarka rozwiązuje challenge raz, dalej szybki klient"
+  },
+  {
+   "code": "careerjet.cr",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "country": "CR",
+   "url": "https://www.opcionempleo.co.cr",
+   "collecting_since": "2026-08-03",
+   "offers_total": 8256,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "indeed.cr",
+   "service": "Indeed",
+   "kind": "aggregator",
+   "country": "CR",
+   "url": "https://cr.indeed.com",
+   "collecting_since": "2026-08-06",
+   "offers_total": 5894,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "jooble.cr",
+   "service": "Jooble",
+   "kind": "aggregator",
+   "country": "CR",
+   "url": "https://cr.jooble.org",
+   "collecting_since": "2026-07-31",
+   "offers_total": 6265,
+   "fetch_via_pl": "przepustka Cloudflare: przeglądarka rozwiązuje challenge raz, dalej szybki klient"
+  },
+  {
+   "code": "careerjet.cz",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "country": "CZ",
+   "url": "https://www.careerjet.cz",
+   "collecting_since": "2026-08-03",
+   "offers_total": 106500,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "indeed.cz",
+   "service": "Indeed",
+   "kind": "aggregator",
+   "country": "CZ",
+   "url": "https://cz.indeed.com",
+   "collecting_since": "2026-08-06",
+   "offers_total": 47404,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "jooble.cz",
+   "service": "Jooble",
+   "kind": "aggregator",
+   "country": "CZ",
+   "url": "https://cz.jooble.org",
+   "collecting_since": "2026-08-01",
+   "offers_total": 213342,
+   "fetch_via_pl": "przepustka Cloudflare: przeglądarka rozwiązuje challenge raz, dalej szybki klient"
+  },
+  {
+   "code": "careerjet.de",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "country": "DE",
+   "url": "https://www.careerjet.de",
+   "collecting_since": "2026-08-03",
+   "offers_total": 589951,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "indeed.de",
+   "service": "Indeed",
+   "kind": "aggregator",
+   "country": "DE",
+   "url": "https://de.indeed.com",
+   "collecting_since": "2026-08-06",
+   "offers_total": 572738,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "jooble.de",
+   "service": "Jooble",
+   "kind": "aggregator",
+   "country": "DE",
+   "url": "https://de.jooble.org",
+   "collecting_since": "2026-08-01",
+   "offers_total": 952349,
+   "fetch_via_pl": "przepustka Cloudflare: przeglądarka rozwiązuje challenge raz, dalej szybki klient"
+  },
+  {
+   "code": "careerjet.dk",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "country": "DK",
+   "url": "https://www.careerjet.dk",
+   "collecting_since": "2026-08-03",
+   "offers_total": 43133,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "indeed.dk",
+   "service": "Indeed",
+   "kind": "aggregator",
+   "country": "DK",
+   "url": "https://dk.indeed.com",
+   "collecting_since": "2026-08-06",
+   "offers_total": 34163,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "jooble.dk",
+   "service": "Jooble",
+   "kind": "aggregator",
+   "country": "DK",
+   "url": "https://dk.jooble.org",
+   "collecting_since": "2026-08-01",
+   "offers_total": 46994,
+   "fetch_via_pl": "przepustka Cloudflare: przeglądarka rozwiązuje challenge raz, dalej szybki klient"
+  },
+  {
+   "code": "tanqeeb.dz",
+   "service": "Tanqeeb",
+   "kind": "aggregator",
+   "country": "DZ",
+   "url": "https://algerie.tanqeeb.com",
+   "collecting_since": "2026-08-04",
+   "offers_total": 3710,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "careerjet.ee",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "country": "EE",
+   "url": "https://www.careerjet.ee",
+   "collecting_since": "2026-08-03",
+   "offers_total": 13553,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "tanqeeb.eg",
+   "service": "Tanqeeb",
+   "kind": "aggregator",
+   "country": "EG",
+   "url": "https://egypt.tanqeeb.com",
+   "collecting_since": "2026-08-05",
+   "offers_total": 46506,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "careerjet.es",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "country": "ES",
+   "url": "https://www.opcionempleo.com",
+   "collecting_since": "2026-08-03",
+   "offers_total": 81025,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "indeed.es",
+   "service": "Indeed",
+   "kind": "aggregator",
+   "country": "ES",
+   "url": "https://es.indeed.com",
+   "collecting_since": "2026-08-06",
+   "offers_total": 146855,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "jooble.es",
+   "service": "Jooble",
+   "kind": "aggregator",
+   "country": "ES",
+   "url": "https://es.jooble.org",
+   "collecting_since": "2026-08-01",
+   "offers_total": 334294,
+   "fetch_via_pl": "przepustka Cloudflare: przeglądarka rozwiązuje challenge raz, dalej szybki klient"
+  },
+  {
+   "code": "careerjet.fi",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "country": "FI",
+   "url": "https://www.careerjet.fi",
+   "collecting_since": "2026-08-03",
+   "offers_total": 41936,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "indeed.fi",
+   "service": "Indeed",
+   "kind": "aggregator",
+   "country": "FI",
+   "url": "https://fi.indeed.com",
+   "collecting_since": "2026-08-06",
+   "offers_total": 13463,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "jooble.fi",
+   "service": "Jooble",
+   "kind": "aggregator",
+   "country": "FI",
+   "url": "https://fi.jooble.org",
+   "collecting_since": "2026-08-01",
+   "offers_total": 34671,
+   "fetch_via_pl": "przepustka Cloudflare: przeglądarka rozwiązuje challenge raz, dalej szybki klient"
+  },
+  {
+   "code": "careerjet.fr",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "country": "FR",
+   "url": "https://www.optioncarriere.com",
+   "collecting_since": "2026-08-03",
+   "offers_total": 548973,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "indeed.fr",
+   "service": "Indeed",
+   "kind": "aggregator",
+   "country": "FR",
+   "url": "https://fr.indeed.com",
+   "collecting_since": "2026-08-06",
+   "offers_total": 627282,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "jooble.fr",
+   "service": "Jooble",
+   "kind": "aggregator",
+   "country": "FR",
+   "url": "https://fr.jooble.org",
+   "collecting_since": "2026-08-01",
+   "offers_total": 920280,
+   "fetch_via_pl": "przepustka Cloudflare: przeglądarka rozwiązuje challenge raz, dalej szybki klient"
+  },
+  {
+   "code": "careerjet.gb",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "country": "GB",
+   "url": "https://www.careerjet.co.uk",
+   "collecting_since": "2026-08-03",
+   "offers_total": 452714,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "indeed.gb",
+   "service": "Indeed",
+   "kind": "aggregator",
+   "country": "GB",
+   "url": "https://uk.indeed.com",
+   "collecting_since": "2026-08-06",
+   "offers_total": 690082,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "jooble.gb",
+   "service": "Jooble",
+   "kind": "aggregator",
+   "country": "GB",
+   "url": "https://uk.jooble.org",
+   "collecting_since": "2026-08-01",
+   "offers_total": 464255,
+   "fetch_via_pl": "przepustka Cloudflare: przeglądarka rozwiązuje challenge raz, dalej szybki klient"
+  },
+  {
+   "code": "careerjet.gr",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "country": "GR",
+   "url": "https://www.careerjet.gr",
+   "collecting_since": "2026-08-03",
+   "offers_total": 42889,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "indeed.gr",
+   "service": "Indeed",
+   "kind": "aggregator",
+   "country": "GR",
+   "url": "https://gr.indeed.com",
+   "collecting_since": "2026-08-06",
+   "offers_total": 33623,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "jooble.gr",
+   "service": "Jooble",
+   "kind": "aggregator",
+   "country": "GR",
+   "url": "https://gr.jooble.org",
+   "collecting_since": "2026-08-01",
+   "offers_total": 50515,
+   "fetch_via_pl": "przepustka Cloudflare: przeglądarka rozwiązuje challenge raz, dalej szybki klient"
+  },
+  {
+   "code": "careerjet.hu",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "country": "HU",
+   "url": "https://www.careerjet.hu",
+   "collecting_since": "2026-08-03",
+   "offers_total": 24506,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "indeed.hu",
+   "service": "Indeed",
+   "kind": "aggregator",
+   "country": "HU",
+   "url": "https://hu.indeed.com",
+   "collecting_since": "2026-08-06",
+   "offers_total": 27451,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "jooble.hu",
+   "service": "Jooble",
+   "kind": "aggregator",
+   "country": "HU",
+   "url": "https://hu.jooble.org",
+   "collecting_since": "2026-08-01",
+   "offers_total": 35517,
+   "fetch_via_pl": "przepustka Cloudflare: przeglądarka rozwiązuje challenge raz, dalej szybki klient"
+  },
+  {
+   "code": "careerjet.ie",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "country": "IE",
+   "url": "https://www.careerjet.ie",
+   "collecting_since": "2026-08-03",
+   "offers_total": 41491,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "indeed.ie",
+   "service": "Indeed",
+   "kind": "aggregator",
+   "country": "IE",
+   "url": "https://ie.indeed.com",
+   "collecting_since": "2026-08-06",
+   "offers_total": 47764,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "jooble.ie",
+   "service": "Jooble",
+   "kind": "aggregator",
+   "country": "IE",
+   "url": "https://ie.jooble.org",
+   "collecting_since": "2026-08-01",
+   "offers_total": 36160,
+   "fetch_via_pl": "przepustka Cloudflare: przeglądarka rozwiązuje challenge raz, dalej szybki klient"
+  },
+  {
+   "code": "careerjet.il",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "country": "IL",
+   "url": "https://www.careerjet.co.il",
+   "collecting_since": "2026-08-03",
+   "offers_total": 9414,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "indeed.il",
+   "service": "Indeed",
+   "kind": "aggregator",
+   "country": "IL",
+   "url": "https://il.indeed.com",
+   "collecting_since": "2026-08-06",
+   "offers_total": 28442,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "tanqeeb.iq",
+   "service": "Tanqeeb",
+   "kind": "aggregator",
+   "country": "IQ",
+   "url": "https://iraq.tanqeeb.com",
+   "collecting_since": "2026-08-04",
+   "offers_total": 2057,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "careerjet.is",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "country": "IS",
+   "url": "https://www.careerjet.com",
+   "collecting_since": "2026-08-03",
+   "offers_total": 442,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "careerjet.it",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "country": "IT",
+   "url": "https://www.careerjet.it",
+   "collecting_since": "2026-08-03",
+   "offers_total": 292750,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "indeed.it",
+   "service": "Indeed",
+   "kind": "aggregator",
+   "country": "IT",
+   "url": "https://it.indeed.com",
+   "collecting_since": "2026-08-06",
+   "offers_total": 145111,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "jooble.it",
+   "service": "Jooble",
+   "kind": "aggregator",
+   "country": "IT",
+   "url": "https://it.jooble.org",
+   "collecting_since": "2026-08-01",
+   "offers_total": 286698,
+   "fetch_via_pl": "przepustka Cloudflare: przeglądarka rozwiązuje challenge raz, dalej szybki klient"
+  },
+  {
+   "code": "tanqeeb.jo",
+   "service": "Tanqeeb",
+   "kind": "aggregator",
+   "country": "JO",
+   "url": "https://jordan.tanqeeb.com",
+   "collecting_since": "2026-08-04",
+   "offers_total": 7711,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "careerjet.jp",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "country": "JP",
+   "url": "https://www.careerjet.jp",
+   "collecting_since": "2026-08-03",
+   "offers_total": 2005064,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "indeed.jp",
+   "service": "Indeed",
+   "kind": "aggregator",
+   "country": "JP",
+   "url": "https://jp.indeed.com",
+   "collecting_since": "2026-08-06",
+   "offers_total": 2044913,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "jooble.jp",
+   "service": "Jooble",
+   "kind": "aggregator",
+   "country": "JP",
+   "url": "https://ja.jooble.org",
+   "collecting_since": "2026-08-01",
+   "offers_total": 719091,
+   "fetch_via_pl": "przepustka Cloudflare: przeglądarka rozwiązuje challenge raz, dalej szybki klient"
+  },
+  {
+   "code": "careerjet.kr",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "country": "KR",
+   "url": "https://www.careerjet.co.kr",
+   "collecting_since": "2026-08-03",
+   "offers_total": 17502,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "indeed.kr",
+   "service": "Indeed",
+   "kind": "aggregator",
+   "country": "KR",
+   "url": "https://kr.indeed.com",
+   "collecting_since": "2026-08-06",
+   "offers_total": 97304,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "jooble.kr",
+   "service": "Jooble",
+   "kind": "aggregator",
+   "country": "KR",
+   "url": "https://kr.jooble.org",
+   "collecting_since": "2026-07-31",
+   "offers_total": 5854,
+   "fetch_via_pl": "przepustka Cloudflare: przeglądarka rozwiązuje challenge raz, dalej szybki klient"
+  },
+  {
+   "code": "tanqeeb.kw",
+   "service": "Tanqeeb",
+   "kind": "aggregator",
+   "country": "KW",
+   "url": "https://kuwait.tanqeeb.com",
+   "collecting_since": "2026-08-04",
+   "offers_total": 5065,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "tanqeeb.lb",
+   "service": "Tanqeeb",
+   "kind": "aggregator",
+   "country": "LB",
+   "url": "https://lebanon.tanqeeb.com",
+   "collecting_since": "2026-08-04",
+   "offers_total": 10070,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "careerjet.lt",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "country": "LT",
+   "url": "https://www.careerjet.lt",
+   "collecting_since": "2026-08-03",
+   "offers_total": 10946,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "careerjet.lu",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "country": "LU",
+   "url": "https://www.careerjet.lu",
+   "collecting_since": "2026-08-03",
+   "offers_total": 9512,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "indeed.lu",
+   "service": "Indeed",
+   "kind": "aggregator",
+   "country": "LU",
+   "url": "https://lu.indeed.com",
+   "collecting_since": "2026-08-06",
+   "offers_total": 8549,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "careerjet.lv",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "country": "LV",
+   "url": "https://www.careerjet.lv",
+   "collecting_since": "2026-08-03",
+   "offers_total": 15421,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "tanqeeb.ly",
+   "service": "Tanqeeb",
+   "kind": "aggregator",
+   "country": "LY",
+   "url": "https://libya.tanqeeb.com",
+   "collecting_since": "2026-08-04",
+   "offers_total": 305,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "tanqeeb.ma",
+   "service": "Tanqeeb",
+   "kind": "aggregator",
+   "country": "MA",
+   "url": "https://morocco.tanqeeb.com",
+   "collecting_since": "2026-08-04",
+   "offers_total": 7467,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "careerjet.mx",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "country": "MX",
+   "url": "https://www.opcionempleo.com.mx",
+   "collecting_since": "2026-08-03",
+   "offers_total": 935123,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "indeed.mx",
+   "service": "Indeed",
+   "kind": "aggregator",
+   "country": "MX",
+   "url": "https://mx.indeed.com",
+   "collecting_since": "2026-08-06",
+   "offers_total": 352759,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "jooble.mx",
+   "service": "Jooble",
+   "kind": "aggregator",
+   "country": "MX",
+   "url": "https://mx.jooble.org",
+   "collecting_since": "2026-08-01",
+   "offers_total": 401549,
+   "fetch_via_pl": "przepustka Cloudflare: przeglądarka rozwiązuje challenge raz, dalej szybki klient"
+  },
+  {
+   "code": "careerjet.nl",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "country": "NL",
+   "url": "https://www.careerjet.nl",
+   "collecting_since": "2026-08-03",
+   "offers_total": 140605,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "indeed.nl",
+   "service": "Indeed",
+   "kind": "aggregator",
+   "country": "NL",
+   "url": "https://nl.indeed.com",
+   "collecting_since": "2026-08-03",
+   "offers_total": 279118,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "jooble.nl",
+   "service": "Jooble",
+   "kind": "aggregator",
+   "country": "NL",
+   "url": "https://nl.jooble.org",
+   "collecting_since": "2026-08-01",
+   "offers_total": 275891,
+   "fetch_via_pl": "przepustka Cloudflare: przeglądarka rozwiązuje challenge raz, dalej szybki klient"
+  },
+  {
+   "code": "careerjet.no",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "country": "NO",
+   "url": "https://www.careerjet.no",
+   "collecting_since": "2026-08-03",
+   "offers_total": 40263,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "indeed.no",
+   "service": "Indeed",
+   "kind": "aggregator",
+   "country": "NO",
+   "url": "https://no.indeed.com",
+   "collecting_since": "2026-08-06",
+   "offers_total": 40906,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "jooble.no",
+   "service": "Jooble",
+   "kind": "aggregator",
+   "country": "NO",
+   "url": "https://no.jooble.org",
+   "collecting_since": "2026-08-01",
+   "offers_total": 17322,
+   "fetch_via_pl": "przepustka Cloudflare: przeglądarka rozwiązuje challenge raz, dalej szybki klient"
+  },
+  {
+   "code": "careerjet.nz",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "country": "NZ",
+   "url": "https://www.careerjet.co.nz",
+   "collecting_since": "2026-08-03",
+   "offers_total": 18984,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "indeed.nz",
+   "service": "Indeed",
+   "kind": "aggregator",
+   "country": "NZ",
+   "url": "https://nz.indeed.com",
+   "collecting_since": "2026-08-06",
+   "offers_total": 24916,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "jooble.nz",
+   "service": "Jooble",
+   "kind": "aggregator",
+   "country": "NZ",
+   "url": "https://nz.jooble.org",
+   "collecting_since": "2026-08-01",
+   "offers_total": 36278,
+   "fetch_via_pl": "przepustka Cloudflare: przeglądarka rozwiązuje challenge raz, dalej szybki klient"
+  },
+  {
+   "code": "tanqeeb.om",
+   "service": "Tanqeeb",
+   "kind": "aggregator",
+   "country": "OM",
+   "url": "https://oman.tanqeeb.com",
+   "collecting_since": "2026-08-04",
+   "offers_total": 5091,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "careerjet.pl",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "country": "PL",
+   "url": "https://www.careerjet.pl",
+   "collecting_since": "2026-08-03",
+   "offers_total": 177143,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "indeed.pl",
+   "service": "Indeed",
+   "kind": "aggregator",
+   "country": "PL",
+   "url": "https://pl.indeed.com",
+   "collecting_since": "2026-08-03",
+   "offers_total": 79894,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "jooble.pl",
+   "service": "Jooble",
+   "kind": "aggregator",
+   "country": "PL",
+   "url": "https://pl.jooble.org",
+   "collecting_since": "2026-08-01",
+   "offers_total": 447303,
+   "fetch_via_pl": "przepustka Cloudflare: przeglądarka rozwiązuje challenge raz, dalej szybki klient"
+  },
+  {
+   "code": "pl.pracuj",
+   "service": "Pracuj.pl",
+   "kind": "portal",
+   "country": "PL",
+   "url": "https://www.pracuj.pl",
+   "collecting_since": null,
+   "offers_total": 0,
+   "fetch_via_pl": "przepustka Cloudflare: przeglądarka rozwiązuje challenge raz, dalej szybki klient"
+  },
+  {
+   "code": "tanqeeb.ps",
+   "service": "Tanqeeb",
+   "kind": "aggregator",
+   "country": "PS",
+   "url": "https://palestine.tanqeeb.com",
+   "collecting_since": "2026-08-04",
+   "offers_total": 2155,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "careerjet.pt",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "country": "PT",
+   "url": "https://www.careerjet.pt",
+   "collecting_since": "2026-08-03",
+   "offers_total": 50788,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "indeed.pt",
+   "service": "Indeed",
+   "kind": "aggregator",
+   "country": "PT",
+   "url": "https://pt.indeed.com",
+   "collecting_since": "2026-08-06",
+   "offers_total": 41318,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "jooble.pt",
+   "service": "Jooble",
+   "kind": "aggregator",
+   "country": "PT",
+   "url": "https://pt.jooble.org",
+   "collecting_since": "2026-08-01",
+   "offers_total": 62589,
+   "fetch_via_pl": "przepustka Cloudflare: przeglądarka rozwiązuje challenge raz, dalej szybki klient"
+  },
+  {
+   "code": "tanqeeb.qa",
+   "service": "Tanqeeb",
+   "kind": "aggregator",
+   "country": "QA",
+   "url": "https://qatar.tanqeeb.com",
+   "collecting_since": "2026-08-04",
+   "offers_total": 18301,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "careerjet.sa",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "country": "SA",
+   "url": "https://www.careerjet.com.sa",
+   "collecting_since": "2023-03-07",
+   "offers_total": 33243,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "indeed.sa",
+   "service": "Indeed",
+   "kind": "aggregator",
+   "country": "SA",
+   "url": "https://sa.indeed.com",
+   "collecting_since": "2023-01-15",
+   "offers_total": 18375,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "jooble.sa",
+   "service": "Jooble",
+   "kind": "aggregator",
+   "country": "SA",
+   "url": "https://sa.jooble.org",
+   "collecting_since": "2025-06-16",
+   "offers_total": 35768,
+   "fetch_via_pl": "przepustka Cloudflare: przeglądarka rozwiązuje challenge raz, dalej szybki klient"
+  },
+  {
+   "code": "sa.arabjobs",
+   "service": "ArabJobs",
+   "kind": "portal",
+   "country": "SA",
+   "url": "https://www.arabjobs.com",
+   "collecting_since": "2023-01-28",
+   "offers_total": 10937,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "sa.bayt",
+   "service": "Bayt.com",
+   "kind": "portal",
+   "country": "SA",
+   "url": "https://www.bayt.com",
+   "collecting_since": "2023-01-01",
+   "offers_total": 18404,
+   "fetch_via_pl": "klient podszywający się pod przeglądarkę (odcisk TLS Chrome)"
+  },
+  {
+   "code": "sa.foundit",
+   "service": "Foundit Gulf",
+   "kind": "portal",
+   "country": "SA",
+   "url": "https://www.founditgulf.com",
+   "collecting_since": "2023-01-28",
+   "offers_total": 23715,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "sa.gulftalent",
+   "service": "GulfTalent",
+   "kind": "portal",
+   "country": "SA",
+   "url": "https://www.gulftalent.com",
+   "collecting_since": "2023-01-16",
+   "offers_total": 22258,
+   "fetch_via_pl": "klient podszywający się pod przeglądarkę (odcisk TLS Chrome)"
+  },
+  {
+   "code": "sa.mejobs",
+   "service": "ME-Jobs",
+   "kind": "portal",
+   "country": "SA",
+   "url": "https://www.me-jobs.com",
+   "collecting_since": "2026-08-21",
+   "offers_total": 2964,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "sa.mihnati",
+   "service": "Mihnati",
+   "kind": "portal",
+   "country": "SA",
+   "url": "https://www.mihnati.com",
+   "collecting_since": "2023-01-29",
+   "offers_total": 1708,
+   "fetch_via_pl": "przepustka Cloudflare: przeglądarka rozwiązuje challenge raz, dalej szybki klient"
+  },
+  {
+   "code": "sa.naukrigulf",
+   "service": "Naukrigulf",
+   "kind": "portal",
+   "country": "SA",
+   "url": "https://www.naukrigulf.com",
+   "collecting_since": "2026-07-31",
+   "offers_total": 12949,
+   "fetch_via_pl": "klient podszywający się pod przeglądarkę (odcisk TLS Chrome)"
+  },
+  {
+   "code": "sa.sabbar",
+   "service": "Sabbar",
+   "kind": "portal",
+   "country": "SA",
+   "url": "https://sabbar.com",
+   "collecting_since": "2024-02-20",
+   "offers_total": 23018,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "smartrecruiters.sa",
+   "service": "SmartRecruiters",
+   "kind": "aggregator",
+   "country": "SA",
+   "url": "https://jobs.smartrecruiters.com",
+   "collecting_since": "2026-08-21",
+   "offers_total": 700,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "tanqeeb.sa",
+   "service": "Tanqeeb",
+   "kind": "aggregator",
+   "country": "SA",
+   "url": "https://saudi.tanqeeb.com",
+   "collecting_since": "2026-08-04",
+   "offers_total": 48147,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "workable.sa",
+   "service": "Workable",
+   "kind": "aggregator",
+   "country": "SA",
+   "url": "https://jobs.workable.com",
+   "collecting_since": "2026-08-21",
+   "offers_total": 3060,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "workday.sa",
+   "service": "Workday",
+   "kind": "aggregator",
+   "country": "SA",
+   "url": "https://www.myworkdayjobs.com",
+   "collecting_since": "2026-08-21",
+   "offers_total": 723,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "tanqeeb.sd",
+   "service": "Tanqeeb",
+   "kind": "aggregator",
+   "country": "SD",
+   "url": "https://sudan.tanqeeb.com",
+   "collecting_since": "2026-08-04",
+   "offers_total": 121,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "careerjet.se",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "country": "SE",
+   "url": "https://www.careerjet.se",
+   "collecting_since": "2026-08-03",
+   "offers_total": 102689,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "indeed.se",
+   "service": "Indeed",
+   "kind": "aggregator",
+   "country": "SE",
+   "url": "https://se.indeed.com",
+   "collecting_since": "2026-08-06",
+   "offers_total": 109861,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "jooble.se",
+   "service": "Jooble",
+   "kind": "aggregator",
+   "country": "SE",
+   "url": "https://se.jooble.org",
+   "collecting_since": "2026-08-01",
+   "offers_total": 115308,
+   "fetch_via_pl": "przepustka Cloudflare: przeglądarka rozwiązuje challenge raz, dalej szybki klient"
+  },
+  {
+   "code": "careerjet.si",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "country": "SI",
+   "url": "https://www.careerjet.si",
+   "collecting_since": "2026-08-03",
+   "offers_total": 18713,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "careerjet.sk",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "country": "SK",
+   "url": "https://www.careerjet.sk",
+   "collecting_since": "2026-08-03",
+   "offers_total": 7798,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "jooble.sk",
+   "service": "Jooble",
+   "kind": "aggregator",
+   "country": "SK",
+   "url": "https://sk.jooble.org",
+   "collecting_since": "2026-08-01",
+   "offers_total": 23874,
+   "fetch_via_pl": "przepustka Cloudflare: przeglądarka rozwiązuje challenge raz, dalej szybki klient"
+  },
+  {
+   "code": "tanqeeb.sy",
+   "service": "Tanqeeb",
+   "kind": "aggregator",
+   "country": "SY",
+   "url": "https://syria.tanqeeb.com",
+   "collecting_since": "2026-08-04",
+   "offers_total": 23,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "tanqeeb.tn",
+   "service": "Tanqeeb",
+   "kind": "aggregator",
+   "country": "TN",
+   "url": "https://tunisia.tanqeeb.com",
+   "collecting_since": "2026-08-04",
+   "offers_total": 1748,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "careerjet.tr",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "country": "TR",
+   "url": "https://www.careerjet.com.tr",
+   "collecting_since": "2026-08-03",
+   "offers_total": 46015,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "indeed.tr",
+   "service": "Indeed",
+   "kind": "aggregator",
+   "country": "TR",
+   "url": "https://tr.indeed.com",
+   "collecting_since": "2026-08-06",
+   "offers_total": 32968,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "jooble.tr",
+   "service": "Jooble",
+   "kind": "aggregator",
+   "country": "TR",
+   "url": "https://tr.jooble.org",
+   "collecting_since": "2026-07-31",
+   "offers_total": 19559,
+   "fetch_via_pl": "przepustka Cloudflare: przeglądarka rozwiązuje challenge raz, dalej szybki klient"
+  },
+  {
+   "code": "careerjet.us",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "country": "US",
+   "url": "https://www.careerjet.com",
+   "collecting_since": "2026-08-03",
+   "offers_total": 1842596,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "indeed.us",
+   "service": "Indeed",
+   "kind": "aggregator",
+   "country": "US",
+   "url": "https://www.indeed.com",
+   "collecting_since": "2026-08-03",
+   "offers_total": 5042224,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  },
+  {
+   "code": "jooble.us",
+   "service": "Jooble",
+   "kind": "aggregator",
+   "country": "US",
+   "url": "https://jooble.org",
+   "collecting_since": "2026-08-01",
+   "offers_total": 1132943,
+   "fetch_via_pl": "przepustka Cloudflare: przeglądarka rozwiązuje challenge raz, dalej szybki klient"
+  },
+  {
+   "code": "tanqeeb.ye",
+   "service": "Tanqeeb",
+   "kind": "aggregator",
+   "country": "YE",
+   "url": "https://yemen.tanqeeb.com",
+   "collecting_since": "2026-08-04",
+   "offers_total": 228,
+   "fetch_via_pl": "bezpośrednio (zwykły klient HTTP)"
+  }
+ ],
+ "field_coverage": {
+  "title": 1.0,
+  "company": 0.92,
+  "city": 0.974,
+  "location_raw": 1.0,
+  "country": 1.0,
+  "external_id": 1.0,
+  "employment_type": 0.345,
+  "remote": 0.683,
+  "description": 0.999,
+  "posted_at": 0.995,
+  "salary_any": 0.355,
+  "salary_raw": 0.355,
+  "salary_min": 0.242,
+  "salary_max": 0.242,
+  "salary_currency": 0.241
+ },
+ "field_coverage_computed_at": "2026-09-15T13:27:57.549197+00:00",
+ "pipeline_pl": [
+  "Codziennie scrapery pobierają listingi i strony ogłoszeń z każdego serwisu; surowy HTML trafia do datalake (MinIO), a sparsowane pola - do tabeli ofert w Postgresie.",
+  "Ta sama oferta w tym samym serwisie jest liczona raz (klucz: adres URL lub identyfikator ogłoszenia); kolejne przebiegi tylko odnotowują, że nadal jest widoczna.",
+  "Oferta znika z serwisu -> dostaje datę zamknięcia; stąd liczba ogłoszeń dostępnych na koniec miesiąca.",
+  "Raz na dobę jeden przegląd całej tabeli ofert buduje agregaty (kraj x serwis x miesiąc); wskaźniki na stronie liczone są wyłącznie z tych agregatów.",
+  "Miesiąc ogłoszenia to data publikacji w serwisie, a gdy jej brak - dzień, w którym zobaczyliśmy je pierwszy raz (czas polski).",
+  "Powtórki między serwisami (ten sam tytuł, firma i miasto w tym samym miesiącu) zdejmujemy z liczby nowych ogłoszeń; odsetek powtórek pokazujemy osobno.",
+  "Wynagrodzenia sprowadzamy do stawki miesięcznej (godzina x 173,33, dzień x 21,67, tydzień x 4,333, rok / 12), bierzemy środek przedziału i odcinamy 1% skrajnych wartości."
+ ],
+ "limitations_pl": [
+  "Zbieranie trwa od lata 2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne (starsze ogłoszenia zdążyły zniknąć).",
+  "Obserwujemy wybrane serwisy, nie cały rynek; udział portali różni się między krajami.",
+  "Wynagrodzenie podaje mniejszość ogłoszeń, a te, które je podają, nie są losową próbką.",
+  "Oznaczenie pracy zdalnej zależy od serwisu; brak oznaczenia nie znaczy, że praca jest stacjonarna.",
+  "Deduplikacja między serwisami jest szacunkowa: opiera się na tytule, firmie i mieście.",
+  "Regiony liczymy tylko tam, gdzie mamy słownik miast (Polska); ogłoszenia z mniejszych miejscowości nie wchodzą do udziałów województw.",
+  "Kursy walut w porównaniu krajów są stałe i orientacyjne."
+ ]
+}

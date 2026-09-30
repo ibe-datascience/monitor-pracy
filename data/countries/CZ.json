@@ -1,0 +1,2171 @@
+{
+ "country": {
+  "code": "CZ",
+  "iso3": "CZE",
+  "numeric": 203,
+  "name_pl": "Czechy",
+  "name_en": "Czechia",
+  "continent": "europe",
+  "currency": "CZK"
+ },
+ "generated_at": "2026-09-30T15:36:10+00:00",
+ "coverage": {
+  "first_month": "2026-02",
+  "last_month": "2026-08",
+  "collecting_since": "2026-08-01",
+  "complete_from": "2026-08",
+  "index_base_month": "2026-08",
+  "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
+ },
+ "headline": {
+  "month": "2026-08",
+  "postings_new": 116685,
+  "postings_raw": 156503,
+  "mom_pct": null,
+  "yoy_pct": null,
+  "postings_active_end": 247676,
+  "salary_median": 36000,
+  "salary_currency": "CZK",
+  "salary_share": 0.617,
+  "remote_share": 0.008,
+  "sources": 3,
+  "top_source": {
+   "code": "jooble.cz",
+   "service": "Jooble",
+   "share": 0.575
+  }
+ },
+ "monthly": [
+  {
+   "period": "2026-02",
+   "partial": false,
+   "postings_new": 3704,
+   "postings_raw": 4262,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 3.2,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.68,
+    "currency": "CZK"
+   },
+   "remote_share": 0.005,
+   "employment": {
+    "full_time": 0.093,
+    "part_time": 0.007,
+    "contract": 0.022,
+    "other": 0.001,
+    "unknown": 0.878
+   },
+   "by_source": [
+    {
+     "code": "jooble.cz",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 3116
+    },
+    {
+     "code": "indeed.cz",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 1146
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Praha",
+     "n": 1007,
+     "share": 0.236
+    },
+    {
+     "name": "Brno",
+     "n": 138,
+     "share": 0.032
+    },
+    {
+     "name": "Ostrava",
+     "n": 104,
+     "share": 0.024
+    },
+    {
+     "name": "České Budějovice",
+     "n": 76,
+     "share": 0.018
+    },
+    {
+     "name": "Hradec Králové",
+     "n": 66,
+     "share": 0.015
+    },
+    {
+     "name": "Plzeň",
+     "n": 61,
+     "share": 0.014
+    },
+    {
+     "name": "Olomouc",
+     "n": 57,
+     "share": 0.013
+    },
+    {
+     "name": "Písek",
+     "n": 44,
+     "share": 0.01
+    },
+    {
+     "name": "Pardubice",
+     "n": 43,
+     "share": 0.01
+    },
+    {
+     "name": "Jihlava",
+     "n": 41,
+     "share": 0.01
+    },
+    {
+     "name": "Kutná Hora",
+     "n": 41,
+     "share": 0.01
+    },
+    {
+     "name": "Tábor",
+     "n": 36,
+     "share": 0.008
+    },
+    {
+     "name": "Uherské Hradiště",
+     "n": 35,
+     "share": 0.008
+    },
+    {
+     "name": "Příbram",
+     "n": 34,
+     "share": 0.008
+    },
+    {
+     "name": "Kladno",
+     "n": 33,
+     "share": 0.008
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-03",
+   "partial": false,
+   "postings_new": 4942,
+   "postings_raw": 5694,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 4.2,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.707,
+    "currency": "CZK"
+   },
+   "remote_share": 0.002,
+   "employment": {
+    "full_time": 0.098,
+    "part_time": 0.004,
+    "contract": 0.022,
+    "other": 0.002,
+    "unknown": 0.875
+   },
+   "by_source": [
+    {
+     "code": "jooble.cz",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 4290
+    },
+    {
+     "code": "indeed.cz",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 1404
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Praha",
+     "n": 1253,
+     "share": 0.22
+    },
+    {
+     "name": "Brno",
+     "n": 201,
+     "share": 0.035
+    },
+    {
+     "name": "Ostrava",
+     "n": 139,
+     "share": 0.024
+    },
+    {
+     "name": "Pardubice",
+     "n": 106,
+     "share": 0.019
+    },
+    {
+     "name": "České Budějovice",
+     "n": 102,
+     "share": 0.018
+    },
+    {
+     "name": "Olomouc",
+     "n": 95,
+     "share": 0.017
+    },
+    {
+     "name": "Hradec Králové",
+     "n": 94,
+     "share": 0.017
+    },
+    {
+     "name": "Plzeň",
+     "n": 71,
+     "share": 0.012
+    },
+    {
+     "name": "Jihlava",
+     "n": 63,
+     "share": 0.011
+    },
+    {
+     "name": "Mladá Boleslav",
+     "n": 53,
+     "share": 0.009
+    },
+    {
+     "name": "Uherské Hradiště",
+     "n": 49,
+     "share": 0.009
+    },
+    {
+     "name": "Příbram",
+     "n": 41,
+     "share": 0.007
+    },
+    {
+     "name": "Benešov",
+     "n": 40,
+     "share": 0.007
+    },
+    {
+     "name": "Chomutov",
+     "n": 39,
+     "share": 0.007
+    },
+    {
+     "name": "Tábor",
+     "n": 39,
+     "share": 0.007
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-04",
+   "partial": false,
+   "postings_new": 6536,
+   "postings_raw": 7507,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 5.6,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.696,
+    "currency": "CZK"
+   },
+   "remote_share": 0.001,
+   "employment": {
+    "full_time": 0.099,
+    "part_time": 0.005,
+    "contract": 0.016,
+    "other": 0.0,
+    "unknown": 0.879
+   },
+   "by_source": [
+    {
+     "code": "jooble.cz",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 5639
+    },
+    {
+     "code": "indeed.cz",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 1868
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Praha",
+     "n": 1705,
+     "share": 0.227
+    },
+    {
+     "name": "Brno",
+     "n": 269,
+     "share": 0.036
+    },
+    {
+     "name": "Ostrava",
+     "n": 177,
+     "share": 0.024
+    },
+    {
+     "name": "České Budějovice",
+     "n": 127,
+     "share": 0.017
+    },
+    {
+     "name": "Mladá Boleslav",
+     "n": 103,
+     "share": 0.014
+    },
+    {
+     "name": "Plzeň",
+     "n": 102,
+     "share": 0.014
+    },
+    {
+     "name": "Pardubice",
+     "n": 98,
+     "share": 0.013
+    },
+    {
+     "name": "Hradec Králové",
+     "n": 96,
+     "share": 0.013
+    },
+    {
+     "name": "Frýdek-Místek",
+     "n": 83,
+     "share": 0.011
+    },
+    {
+     "name": "Olomouc",
+     "n": 76,
+     "share": 0.01
+    },
+    {
+     "name": "Jihlava",
+     "n": 60,
+     "share": 0.008
+    },
+    {
+     "name": "Příbram",
+     "n": 51,
+     "share": 0.007
+    },
+    {
+     "name": "Uherské Hradiště",
+     "n": 50,
+     "share": 0.007
+    },
+    {
+     "name": "Karlovy Vary",
+     "n": 49,
+     "share": 0.007
+    },
+    {
+     "name": "Chomutov",
+     "n": 48,
+     "share": 0.006
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-05",
+   "partial": false,
+   "postings_new": 22605,
+   "postings_raw": 25920,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 19.4,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 32500,
+    "p25": 26000,
+    "p75": 40000,
+    "mean": 35562,
+    "n": 5092,
+    "share": 0.577,
+    "currency": "CZK"
+   },
+   "remote_share": 0.0,
+   "employment": {
+    "full_time": 0.044,
+    "part_time": 0.003,
+    "contract": 0.008,
+    "other": 0.0,
+    "unknown": 0.945
+   },
+   "by_source": [
+    {
+     "code": "jooble.cz",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 16186
+    },
+    {
+     "code": "careerjet.cz",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 7139
+    },
+    {
+     "code": "indeed.cz",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 2595
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Praha",
+     "n": 4862,
+     "share": 0.188
+    },
+    {
+     "name": "Brno",
+     "n": 699,
+     "share": 0.027
+    },
+    {
+     "name": "Plzeň",
+     "n": 598,
+     "share": 0.023
+    },
+    {
+     "name": "Ostrava",
+     "n": 584,
+     "share": 0.023
+    },
+    {
+     "name": "Hradec Králové",
+     "n": 408,
+     "share": 0.016
+    },
+    {
+     "name": "Liberec",
+     "n": 391,
+     "share": 0.015
+    },
+    {
+     "name": "České Budějovice",
+     "n": 388,
+     "share": 0.015
+    },
+    {
+     "name": "Pardubice",
+     "n": 371,
+     "share": 0.014
+    },
+    {
+     "name": "Olomouc",
+     "n": 308,
+     "share": 0.012
+    },
+    {
+     "name": "Karlovy Vary",
+     "n": 239,
+     "share": 0.009
+    },
+    {
+     "name": "Brno-město",
+     "n": 213,
+     "share": 0.008
+    },
+    {
+     "name": "Jihlava",
+     "n": 208,
+     "share": 0.008
+    },
+    {
+     "name": "Zlín",
+     "n": 186,
+     "share": 0.007
+    },
+    {
+     "name": "Mladá Boleslav",
+     "n": 164,
+     "share": 0.006
+    },
+    {
+     "name": "Praha 5",
+     "n": 163,
+     "share": 0.006
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-06",
+   "partial": false,
+   "postings_new": 25308,
+   "postings_raw": 28922,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 21.7,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 35000,
+    "p25": 27328,
+    "p75": 45000,
+    "mean": 38485,
+    "n": 4177,
+    "share": 0.658,
+    "currency": "CZK"
+   },
+   "remote_share": 0.001,
+   "employment": {
+    "full_time": 0.085,
+    "part_time": 0.004,
+    "contract": 0.015,
+    "other": 0.0,
+    "unknown": 0.896
+   },
+   "by_source": [
+    {
+     "code": "jooble.cz",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 16471
+    },
+    {
+     "code": "careerjet.cz",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 7822
+    },
+    {
+     "code": "indeed.cz",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 4629
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Praha",
+     "n": 4628,
+     "share": 0.16
+    },
+    {
+     "name": "Brno",
+     "n": 1535,
+     "share": 0.053
+    },
+    {
+     "name": "Ostrava",
+     "n": 688,
+     "share": 0.024
+    },
+    {
+     "name": "Plzeň",
+     "n": 688,
+     "share": 0.024
+    },
+    {
+     "name": "Olomouc",
+     "n": 575,
+     "share": 0.02
+    },
+    {
+     "name": "Pardubice",
+     "n": 464,
+     "share": 0.016
+    },
+    {
+     "name": "Liberec",
+     "n": 370,
+     "share": 0.013
+    },
+    {
+     "name": "České Budějovice",
+     "n": 364,
+     "share": 0.013
+    },
+    {
+     "name": "Jihomoravský kraj",
+     "n": 347,
+     "share": 0.012
+    },
+    {
+     "name": "Hradec Králové",
+     "n": 334,
+     "share": 0.012
+    },
+    {
+     "name": "Jihlava",
+     "n": 257,
+     "share": 0.009
+    },
+    {
+     "name": "Přerov",
+     "n": 202,
+     "share": 0.007
+    },
+    {
+     "name": "Uherské Hradiště",
+     "n": 194,
+     "share": 0.007
+    },
+    {
+     "name": "Prostějov",
+     "n": 182,
+     "share": 0.006
+    },
+    {
+     "name": "Havlíčkův Brod",
+     "n": 173,
+     "share": 0.006
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "kuchař/pizzař",
+     "n": 189
+    },
+    {
+     "title": "uklízeč, uklízečka",
+     "n": 164
+    },
+    {
+     "title": "administrativní pracovník",
+     "n": 149
+    },
+    {
+     "title": "prodavač, prodejce",
+     "n": 144
+    },
+    {
+     "title": "učitel základní školy",
+     "n": 98
+    },
+    {
+     "title": "všeobecní administrativní pracovníci",
+     "n": 93
+    },
+    {
+     "title": "řidič skupiny b",
+     "n": 90
+    },
+    {
+     "title": "účetní",
+     "n": 85
+    },
+    {
+     "title": "ostatní uklízeči a pomocníci",
+     "n": 82
+    },
+    {
+     "title": "skladník",
+     "n": 82
+    },
+    {
+     "title": "zedník",
+     "n": 79
+    },
+    {
+     "title": "maséři (kromě odborných masérů ve zdravotnictví)",
+     "n": 74
+    },
+    {
+     "title": "zdravotní sestra",
+     "n": 74
+    },
+    {
+     "title": "číšníci a servírky",
+     "n": 70
+    },
+    {
+     "title": "pomocní kuchaři",
+     "n": 66
+    }
+   ],
+   "regions": []
+  },
+  {
+   "period": "2026-07",
+   "partial": false,
+   "postings_new": 81481,
+   "postings_raw": 98431,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 69.8,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 37500,
+    "p25": 29466,
+    "p75": 47500,
+    "mean": 40465,
+    "n": 16881,
+    "share": 0.619,
+    "currency": "CZK"
+   },
+   "remote_share": 0.008,
+   "employment": {
+    "full_time": 0.04,
+    "part_time": 0.004,
+    "contract": 0.006,
+    "other": 0.0,
+    "unknown": 0.95
+   },
+   "by_source": [
+    {
+     "code": "jooble.cz",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 59498
+    },
+    {
+     "code": "careerjet.cz",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 28482
+    },
+    {
+     "code": "indeed.cz",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 10451
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Praha",
+     "n": 12720,
+     "share": 0.129
+    },
+    {
+     "name": "Brno",
+     "n": 5545,
+     "share": 0.056
+    },
+    {
+     "name": "Ostrava",
+     "n": 2632,
+     "share": 0.027
+    },
+    {
+     "name": "Plzeň",
+     "n": 2023,
+     "share": 0.021
+    },
+    {
+     "name": "Pardubice",
+     "n": 1620,
+     "share": 0.016
+    },
+    {
+     "name": "Olomouc",
+     "n": 1532,
+     "share": 0.016
+    },
+    {
+     "name": "Liberec",
+     "n": 1454,
+     "share": 0.015
+    },
+    {
+     "name": "Hradec Králové",
+     "n": 1426,
+     "share": 0.014
+    },
+    {
+     "name": "České Budějovice",
+     "n": 1419,
+     "share": 0.014
+    },
+    {
+     "name": "Zlín",
+     "n": 1212,
+     "share": 0.012
+    },
+    {
+     "name": "Jihlava",
+     "n": 992,
+     "share": 0.01
+    },
+    {
+     "name": "Prostějov",
+     "n": 828,
+     "share": 0.008
+    },
+    {
+     "name": "Karlovy Vary",
+     "n": 813,
+     "share": 0.008
+    },
+    {
+     "name": "Zahraničí",
+     "n": 770,
+     "share": 0.008
+    },
+    {
+     "name": "Kladno",
+     "n": 732,
+     "share": 0.007
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "uklízeč, uklízečka",
+     "n": 479
+    },
+    {
+     "title": "kuchař/pizzař",
+     "n": 436
+    },
+    {
+     "title": "prodavač, prodejce",
+     "n": 355
+    },
+    {
+     "title": "administrativní pracovník",
+     "n": 343
+    },
+    {
+     "title": "skladník",
+     "n": 247
+    },
+    {
+     "title": "obsluha strojů",
+     "n": 208
+    },
+    {
+     "title": "zdravotní sestra",
+     "n": 200
+    },
+    {
+     "title": "kuchař/ka",
+     "n": 195
+    },
+    {
+     "title": "pomocní kuchaři",
+     "n": 194
+    },
+    {
+     "title": "zedník",
+     "n": 188
+    },
+    {
+     "title": "účetní",
+     "n": 185
+    },
+    {
+     "title": "řidič skupiny b",
+     "n": 185
+    },
+    {
+     "title": "číšník, servírka",
+     "n": 180
+    },
+    {
+     "title": "skladníci, obsluha manipulačních vozíků",
+     "n": 177
+    },
+    {
+     "title": "všeobecní administrativní pracovníci",
+     "n": 174
+    }
+   ],
+   "regions": []
+  },
+  {
+   "period": "2026-08",
+   "partial": false,
+   "postings_new": 116685,
+   "postings_raw": 156503,
+   "postings_active_end": 247676,
+   "postings_closed": 84080,
+   "index": 100.0,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 36000,
+    "p25": 30000,
+    "p75": 45000,
+    "mean": 39265,
+    "n": 34085,
+    "share": 0.617,
+    "currency": "CZK"
+   },
+   "remote_share": 0.008,
+   "employment": {
+    "full_time": 0.034,
+    "part_time": 0.004,
+    "contract": 0.008,
+    "other": 0.0,
+    "unknown": 0.954
+   },
+   "by_source": [
+    {
+     "code": "jooble.cz",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 89920
+    },
+    {
+     "code": "careerjet.cz",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 53582
+    },
+    {
+     "code": "indeed.cz",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 13001
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Praha",
+     "n": 19292,
+     "share": 0.123
+    },
+    {
+     "name": "Brno",
+     "n": 11267,
+     "share": 0.072
+    },
+    {
+     "name": "Ostrava",
+     "n": 5803,
+     "share": 0.037
+    },
+    {
+     "name": "Plzeň",
+     "n": 3509,
+     "share": 0.022
+    },
+    {
+     "name": "Olomouc",
+     "n": 3208,
+     "share": 0.02
+    },
+    {
+     "name": "Pardubice",
+     "n": 2824,
+     "share": 0.018
+    },
+    {
+     "name": "Hradec Králové",
+     "n": 2417,
+     "share": 0.015
+    },
+    {
+     "name": "České Budějovice",
+     "n": 2183,
+     "share": 0.014
+    },
+    {
+     "name": "Liberec",
+     "n": 2129,
+     "share": 0.014
+    },
+    {
+     "name": "Zlín",
+     "n": 2085,
+     "share": 0.013
+    },
+    {
+     "name": "Jihlava",
+     "n": 1590,
+     "share": 0.01
+    },
+    {
+     "name": "Frýdek-Místek",
+     "n": 1465,
+     "share": 0.009
+    },
+    {
+     "name": "Nový Jičín",
+     "n": 1388,
+     "share": 0.009
+    },
+    {
+     "name": "Karlovy Vary",
+     "n": 1327,
+     "share": 0.008
+    },
+    {
+     "name": "Přerov",
+     "n": 1308,
+     "share": 0.008
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "uklízeč, uklízečka",
+     "n": 489
+    },
+    {
+     "title": "administrativní pracovník",
+     "n": 380
+    },
+    {
+     "title": "skladník",
+     "n": 374
+    },
+    {
+     "title": "kuchař/ka",
+     "n": 308
+    },
+    {
+     "title": "prodavač, prodejce",
+     "n": 262
+    },
+    {
+     "title": "prodavač/ka",
+     "n": 240
+    },
+    {
+     "title": "účetní",
+     "n": 234
+    },
+    {
+     "title": "číšníci a servírky",
+     "n": 232
+    },
+    {
+     "title": "doučujte s námi až za 350 kč / 45 min",
+     "n": 220
+    },
+    {
+     "title": "pomocní kuchaři",
+     "n": 220
+    },
+    {
+     "title": "kuchař/pizzař",
+     "n": 217
+    },
+    {
+     "title": "číšník/servírka",
+     "n": 216
+    },
+    {
+     "title": "uklízeč/ka",
+     "n": 212
+    },
+    {
+     "title": "recepční",
+     "n": 203
+    },
+    {
+     "title": "obsluha strojů",
+     "n": 202
+    }
+   ],
+   "regions": []
+  }
+ ],
+ "quarterly": [
+  {
+   "period": "2026-Q1",
+   "partial": true,
+   "postings_new": 8646,
+   "postings_raw": 9956,
+   "qoq_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.695,
+    "currency": "CZK"
+   },
+   "remote_share": 0.003,
+   "employment": {
+    "full_time": 0.096,
+    "part_time": 0.005,
+    "contract": 0.022,
+    "other": 0.002,
+    "unknown": 0.876
+   },
+   "by_source": [
+    {
+     "code": "jooble.cz",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 7406
+    },
+    {
+     "code": "indeed.cz",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 2550
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Praha",
+     "n": 2260,
+     "share": 0.227
+    },
+    {
+     "name": "Brno",
+     "n": 339,
+     "share": 0.034
+    },
+    {
+     "name": "Ostrava",
+     "n": 243,
+     "share": 0.024
+    },
+    {
+     "name": "České Budějovice",
+     "n": 178,
+     "share": 0.018
+    },
+    {
+     "name": "Hradec Králové",
+     "n": 160,
+     "share": 0.016
+    },
+    {
+     "name": "Olomouc",
+     "n": 152,
+     "share": 0.015
+    },
+    {
+     "name": "Pardubice",
+     "n": 149,
+     "share": 0.015
+    },
+    {
+     "name": "Plzeň",
+     "n": 132,
+     "share": 0.013
+    },
+    {
+     "name": "Jihlava",
+     "n": 104,
+     "share": 0.01
+    },
+    {
+     "name": "Uherské Hradiště",
+     "n": 84,
+     "share": 0.008
+    },
+    {
+     "name": "Příbram",
+     "n": 75,
+     "share": 0.008
+    },
+    {
+     "name": "Tábor",
+     "n": 75,
+     "share": 0.008
+    },
+    {
+     "name": "Mladá Boleslav",
+     "n": 53,
+     "share": 0.005
+    },
+    {
+     "name": "Písek",
+     "n": 44,
+     "share": 0.004
+    },
+    {
+     "name": "Kutná Hora",
+     "n": 41,
+     "share": 0.004
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-Q2",
+   "partial": false,
+   "postings_new": 54449,
+   "postings_raw": 62349,
+   "qoq_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 33627,
+    "p25": 26598,
+    "p75": 42253,
+    "mean": 36879,
+    "n": 9269,
+    "share": 0.629,
+    "currency": "CZK"
+   },
+   "remote_share": 0.001,
+   "employment": {
+    "full_time": 0.07,
+    "part_time": 0.004,
+    "contract": 0.012,
+    "other": 0.0,
+    "unknown": 0.914
+   },
+   "by_source": [
+    {
+     "code": "jooble.cz",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 38296
+    },
+    {
+     "code": "careerjet.cz",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 14961
+    },
+    {
+     "code": "indeed.cz",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 9092
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Praha",
+     "n": 11195,
+     "share": 0.18
+    },
+    {
+     "name": "Brno",
+     "n": 2503,
+     "share": 0.04
+    },
+    {
+     "name": "Ostrava",
+     "n": 1449,
+     "share": 0.023
+    },
+    {
+     "name": "Plzeň",
+     "n": 1388,
+     "share": 0.022
+    },
+    {
+     "name": "Olomouc",
+     "n": 959,
+     "share": 0.015
+    },
+    {
+     "name": "Pardubice",
+     "n": 933,
+     "share": 0.015
+    },
+    {
+     "name": "České Budějovice",
+     "n": 879,
+     "share": 0.014
+    },
+    {
+     "name": "Hradec Králové",
+     "n": 838,
+     "share": 0.013
+    },
+    {
+     "name": "Liberec",
+     "n": 761,
+     "share": 0.012
+    },
+    {
+     "name": "Jihlava",
+     "n": 525,
+     "share": 0.008
+    },
+    {
+     "name": "Jihomoravský kraj",
+     "n": 347,
+     "share": 0.006
+    },
+    {
+     "name": "Karlovy Vary",
+     "n": 288,
+     "share": 0.005
+    },
+    {
+     "name": "Mladá Boleslav",
+     "n": 267,
+     "share": 0.004
+    },
+    {
+     "name": "Uherské Hradiště",
+     "n": 244,
+     "share": 0.004
+    },
+    {
+     "name": "Brno-město",
+     "n": 213,
+     "share": 0.003
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "kuchař/pizzař",
+     "n": 189
+    },
+    {
+     "title": "uklízeč, uklízečka",
+     "n": 164
+    },
+    {
+     "title": "administrativní pracovník",
+     "n": 149
+    },
+    {
+     "title": "prodavač, prodejce",
+     "n": 144
+    },
+    {
+     "title": "učitel základní školy",
+     "n": 98
+    },
+    {
+     "title": "všeobecní administrativní pracovníci",
+     "n": 93
+    },
+    {
+     "title": "řidič skupiny b",
+     "n": 90
+    },
+    {
+     "title": "účetní",
+     "n": 85
+    },
+    {
+     "title": "ostatní uklízeči a pomocníci",
+     "n": 82
+    },
+    {
+     "title": "skladník",
+     "n": 82
+    },
+    {
+     "title": "zedník",
+     "n": 79
+    },
+    {
+     "title": "maséři (kromě odborných masérů ve zdravotnictví)",
+     "n": 74
+    },
+    {
+     "title": "zdravotní sestra",
+     "n": 74
+    },
+    {
+     "title": "číšníci a servírky",
+     "n": 70
+    },
+    {
+     "title": "pomocní kuchaři",
+     "n": 66
+    }
+   ],
+   "regions": []
+  },
+  {
+   "period": "2026-Q3",
+   "partial": true,
+   "postings_new": 198166,
+   "postings_raw": 254934,
+   "qoq_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 36497,
+    "p25": 29823,
+    "p75": 45828,
+    "mean": 39662,
+    "n": 50966,
+    "share": 0.618,
+    "currency": "CZK"
+   },
+   "remote_share": 0.008,
+   "employment": {
+    "full_time": 0.036,
+    "part_time": 0.004,
+    "contract": 0.007,
+    "other": 0.0,
+    "unknown": 0.952
+   },
+   "by_source": [
+    {
+     "code": "jooble.cz",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 149418
+    },
+    {
+     "code": "careerjet.cz",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 82064
+    },
+    {
+     "code": "indeed.cz",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 23452
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Praha",
+     "n": 32012,
+     "share": 0.126
+    },
+    {
+     "name": "Brno",
+     "n": 16812,
+     "share": 0.066
+    },
+    {
+     "name": "Ostrava",
+     "n": 8435,
+     "share": 0.033
+    },
+    {
+     "name": "Plzeň",
+     "n": 5532,
+     "share": 0.022
+    },
+    {
+     "name": "Olomouc",
+     "n": 4740,
+     "share": 0.019
+    },
+    {
+     "name": "Pardubice",
+     "n": 4444,
+     "share": 0.017
+    },
+    {
+     "name": "Hradec Králové",
+     "n": 3843,
+     "share": 0.015
+    },
+    {
+     "name": "České Budějovice",
+     "n": 3602,
+     "share": 0.014
+    },
+    {
+     "name": "Liberec",
+     "n": 3583,
+     "share": 0.014
+    },
+    {
+     "name": "Zlín",
+     "n": 3297,
+     "share": 0.013
+    },
+    {
+     "name": "Jihlava",
+     "n": 2582,
+     "share": 0.01
+    },
+    {
+     "name": "Karlovy Vary",
+     "n": 2140,
+     "share": 0.008
+    },
+    {
+     "name": "Frýdek-Místek",
+     "n": 1465,
+     "share": 0.006
+    },
+    {
+     "name": "Nový Jičín",
+     "n": 1388,
+     "share": 0.005
+    },
+    {
+     "name": "Přerov",
+     "n": 1308,
+     "share": 0.005
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "uklízeč, uklízečka",
+     "n": 968
+    },
+    {
+     "title": "administrativní pracovník",
+     "n": 723
+    },
+    {
+     "title": "kuchař/pizzař",
+     "n": 653
+    },
+    {
+     "title": "skladník",
+     "n": 621
+    },
+    {
+     "title": "prodavač, prodejce",
+     "n": 617
+    },
+    {
+     "title": "kuchař/ka",
+     "n": 503
+    },
+    {
+     "title": "účetní",
+     "n": 419
+    },
+    {
+     "title": "pomocní kuchaři",
+     "n": 414
+    },
+    {
+     "title": "obsluha strojů",
+     "n": 410
+    },
+    {
+     "title": "prodavač/ka",
+     "n": 240
+    },
+    {
+     "title": "číšníci a servírky",
+     "n": 232
+    },
+    {
+     "title": "doučujte s námi až za 350 kč / 45 min",
+     "n": 220
+    },
+    {
+     "title": "číšník/servírka",
+     "n": 216
+    },
+    {
+     "title": "uklízeč/ka",
+     "n": 212
+    },
+    {
+     "title": "recepční",
+     "n": 203
+    }
+   ],
+   "regions": []
+  }
+ ],
+ "sources": [
+  {
+   "code": "jooble.cz",
+   "service": "Jooble",
+   "kind": "aggregator",
+   "url": "https://cz.jooble.org",
+   "collecting_since": "2026-08-01",
+   "offers_total": 213342,
+   "share_latest": 0.575,
+   "salary_coverage": 0.729,
+   "description_coverage": 1.0
+  },
+  {
+   "code": "careerjet.cz",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "url": "https://www.careerjet.cz",
+   "collecting_since": "2026-08-03",
+   "offers_total": 106500,
+   "share_latest": 0.342,
+   "salary_coverage": 0.63,
+   "description_coverage": 1.0
+  },
+  {
+   "code": "indeed.cz",
+   "service": "Indeed",
+   "kind": "aggregator",
+   "url": "https://cz.indeed.com",
+   "collecting_since": "2026-08-06",
+   "offers_total": 47404,
+   "share_latest": 0.083,
+   "salary_coverage": 0.0,
+   "description_coverage": 1.0
+  }
+ ],
+ "quality": {
+  "field_coverage": {
+   "salary_any": 0.612,
+   "city": 0.99,
+   "company": 0.904,
+   "employment_type": 0.062,
+   "remote": 0.707,
+   "posted_at": 1.0
+  },
+  "dedup": {
+   "within_source_rule_pl": "Ta sama oferta w tym samym serwisie liczona raz (klucz: adres URL lub identyfikator ogłoszenia).",
+   "cross_source_estimate": 0.254,
+   "cross_source_note_pl": "Szacunkowy odsetek ogłoszeń widocznych w więcej niż jednym serwisie (ten sam tytuł, firma i miasto w tym samym miesiącu). Wskaźniki liczymy po zdjęciu tych powtórek."
+  }
+ },
+ "highlights": [
+  {
+   "id": "volume",
+   "icon": "trend",
+   "title_pl": "Sierpień: 116 685 ogłoszeń",
+   "text_pl": "116 685 nowych ogłoszeń - najwięcej od początku zbierania.",
+   "title_en": "August: 116,685 postings",
+   "text_en": "116,685 new postings - the most since collection began."
+  },
+  {
+   "id": "mover",
+   "icon": "city",
+   "title_pl": "Największa zmiana: Ostrava +120,5%",
+   "text_pl": "5 803 ogłoszeń wobec 2 632 miesiąc wcześniej.",
+   "title_en": "Biggest move: Ostrava +120.5%",
+   "text_en": "5,803 postings vs 2,632 a month earlier."
+  },
+  {
+   "id": "salary",
+   "icon": "salary",
+   "title_pl": "Mediana wynagrodzenia: 36 000 CZK",
+   "text_pl": "Połowa ofert z podaną stawką mieści się między 30 000 a 45 000 CZK miesięcznie; stawkę podaje 62% ogłoszeń.",
+   "title_en": "Median pay: 36,000 CZK",
+   "text_en": "Half of the postings with stated pay fall between 30,000 and 45,000 CZK per month; 62% of postings state pay."
+  },
+  {
+   "id": "remote",
+   "icon": "remote",
+   "title_pl": "Praca zdalna: 0,8% ogłoszeń",
+   "text_pl": "1 252 ogłoszeń oznaczonych jako praca zdalna (+0,0 pkt proc. m/m).",
+   "title_en": "Remote work: 0.8% of postings",
+   "text_en": "1,252 postings flagged as remote (+0.0 pp m/m)."
+  },
+  {
+   "id": "source",
+   "icon": "source",
+   "title_pl": "Największy serwis: Jooble (57%)",
+   "text_pl": "Dane z 3 serwisów; Jooble dostarcza 89 920 z 156 503 ogłoszeń przed zdjęciem powtórek.",
+   "title_en": "Largest source: Jooble (57%)",
+   "text_en": "Data from 3 sources; Jooble provides 89,920 of 156,503 postings before de-duplication."
+  },
+  {
+   "id": "cities",
+   "icon": "map",
+   "title_pl": "4 106 miast z ogłoszeniami",
+   "text_pl": "Najwięcej w: Praha (12%), Brno (7%), Ostrava (4%).",
+   "title_en": "4,106 cities with postings",
+   "text_en": "Most in: Praha (12%), Brno (7%), Ostrava (4%)."
+  }
+ ],
+ "commentary": null,
+ "skills_demo": {
+  "is_synthetic": true,
+  "note_pl": "Dane demonstracyjne: nazwy umiejętności pochodzą z taksonomii ESCO, wartości są wygenerowane. Docelowo - identyfikacja umiejętności w treści ogłoszeń.",
+  "months": [
+   "2026-03",
+   "2026-04",
+   "2026-05",
+   "2026-06",
+   "2026-07",
+   "2026-08"
+  ],
+  "groups": [
+   {
+    "id": "digital",
+    "name_pl": "Kompetencje cyfrowe",
+    "name_en": "Digital skills",
+    "share": 0.148,
+    "change_pct": 6.9
+   },
+   {
+    "id": "data_ai",
+    "name_pl": "Dane i sztuczna inteligencja",
+    "name_en": "Data & AI",
+    "share": 0.064,
+    "change_pct": 10.3
+   },
+   {
+    "id": "green",
+    "name_pl": "Zielone kompetencje",
+    "name_en": "Green skills",
+    "share": 0.049,
+    "change_pct": 8.8
+   },
+   {
+    "id": "management",
+    "name_pl": "Zarządzanie",
+    "name_en": "Management",
+    "share": 0.118,
+    "change_pct": -1.6
+   },
+   {
+    "id": "communication",
+    "name_pl": "Komunikacja i współpraca",
+    "name_en": "Communication & teamwork",
+    "share": 0.146,
+    "change_pct": -1.1
+   },
+   {
+    "id": "technical_trades",
+    "name_pl": "Zawody techniczne i produkcja",
+    "name_en": "Technical trades",
+    "share": 0.142,
+    "change_pct": -2.6
+   },
+   {
+    "id": "healthcare",
+    "name_pl": "Opieka zdrowotna",
+    "name_en": "Healthcare",
+    "share": 0.082,
+    "change_pct": -2.1
+   },
+   {
+    "id": "finance_admin",
+    "name_pl": "Finanse i administracja",
+    "name_en": "Finance & administration",
+    "share": 0.084,
+    "change_pct": -4.9
+   },
+   {
+    "id": "languages",
+    "name_pl": "Języki obce",
+    "name_en": "Languages",
+    "share": 0.071,
+    "change_pct": -3.8
+   },
+   {
+    "id": "customer_sales",
+    "name_pl": "Obsługa klienta i sprzedaż",
+    "name_en": "Customer service & sales",
+    "share": 0.096,
+    "change_pct": -3.4
+   }
+  ],
+  "skills": [
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/a17286c5-238d-4f0b-bc24-29e9121345de",
+    "name_pl": "aktywne słuchanie",
+    "name_en": "listen actively",
+    "group": "communication",
+    "share": 0.0184,
+    "change_pct": 1.7,
+    "series": [
+     0.0181,
+     0.018,
+     0.0178,
+     0.0183,
+     0.0179,
+     0.0184
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/87de6e49-ca1c-42a4-8751-5ff0b991966b",
+    "name_pl": "negocjacje z interesariuszami",
+    "name_en": "negotiate with stakeholders",
+    "group": "communication",
+    "share": 0.0173,
+    "change_pct": -1.1,
+    "series": [
+     0.0175,
+     0.0168,
+     0.0168,
+     0.0169,
+     0.0169,
+     0.0173
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/c55caed2-de9e-4a25-819e-a0b0e83fba1b",
+    "name_pl": "prowadzenie prezentacji",
+    "name_en": "give live presentation",
+    "group": "communication",
+    "share": 0.017,
+    "change_pct": 3.7,
+    "series": [
+     0.0164,
+     0.0159,
+     0.0163,
+     0.0167,
+     0.0164,
+     0.017
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/7ff2c668-0e86-418a-a962-4958262ee337",
+    "name_pl": "techniki komunikacji",
+    "name_en": "use communication techniques",
+    "group": "communication",
+    "share": 0.0158,
+    "change_pct": 13.7,
+    "series": [
+     0.0139,
+     0.014,
+     0.0141,
+     0.0148,
+     0.0151,
+     0.0158
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/8a4e99e0-f259-4931-888f-604cfdc15b31",
+    "name_pl": "konserwacja maszyn",
+    "name_en": "perform machine maintenance",
+    "group": "technical_trades",
+    "share": 0.0148,
+    "change_pct": 10.4,
+    "series": [
+     0.0134,
+     0.0137,
+     0.0137,
+     0.0143,
+     0.0146,
+     0.0148
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0",
+    "name_pl": "technologie chmurowe",
+    "name_en": "cloud technologies",
+    "group": "digital",
+    "share": 0.0146,
+    "change_pct": -3.3,
+    "series": [
+     0.0151,
+     0.0148,
+     0.0151,
+     0.0149,
+     0.0148,
+     0.0146
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/8755734c-2919-41a3-9ca6-1e3d1f169213",
+    "name_pl": "montaż instalacji hydraulicznych",
+    "name_en": "install plumbing systems",
+    "group": "technical_trades",
+    "share": 0.0142,
+    "change_pct": -11.2,
+    "series": [
+     0.016,
+     0.0157,
+     0.0151,
+     0.0147,
+     0.0145,
+     0.0142
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+    "name_pl": "obsługa pakietu Microsoft Office",
+    "name_en": "use microsoft office",
+    "group": "digital",
+    "share": 0.0141,
+    "change_pct": -6.0,
+    "series": [
+     0.015,
+     0.0144,
+     0.0146,
+     0.0143,
+     0.0143,
+     0.0141
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+    "name_pl": "zarządzanie projektami",
+    "name_en": "perform project management",
+    "group": "management",
+    "share": 0.0141,
+    "change_pct": 9.3,
+    "series": [
+     0.0129,
+     0.0134,
+     0.0137,
+     0.014,
+     0.0142,
+     0.0141
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/21c5790c-0930-4d74-b3b0-84caf5af12ea",
+    "name_pl": "zarządzanie budżetem",
+    "name_en": "manage budgets",
+    "group": "management",
+    "share": 0.0125,
+    "change_pct": 0.8,
+    "series": [
+     0.0124,
+     0.0124,
+     0.0127,
+     0.0128,
+     0.0128,
+     0.0125
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d",
+    "name_pl": "Python (programowanie)",
+    "name_en": "Python (computer programming)",
+    "group": "digital",
+    "share": 0.0124,
+    "change_pct": -3.9,
+    "series": [
+     0.0129,
+     0.0127,
+     0.0127,
+     0.0125,
+     0.0126,
+     0.0124
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/6eff134b-e34f-4d6e-a6e8-5e47cf2228d0",
+    "name_pl": "zarządzanie ryzykiem",
+    "name_en": "risk management",
+    "group": "management",
+    "share": 0.0123,
+    "change_pct": 10.8,
+    "series": [
+     0.0111,
+     0.0114,
+     0.0119,
+     0.012,
+     0.0125,
+     0.0123
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0",
+    "name_pl": "język angielski",
+    "name_en": "English",
+    "group": "languages",
+    "share": 0.0123,
+    "change_pct": -3.1,
+    "series": [
+     0.0127,
+     0.0129,
+     0.0131,
+     0.0123,
+     0.0121,
+     0.0123
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389",
+    "name_pl": "Java (programowanie)",
+    "name_en": "Java (computer programming)",
+    "group": "digital",
+    "share": 0.0119,
+    "change_pct": 25.3,
+    "series": [
+     0.0095,
+     0.0099,
+     0.0104,
+     0.0107,
+     0.0114,
+     0.0119
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/19858dd3-a5fe-4855-b644-6ecfefd1c384",
+    "name_pl": "stolarka",
+    "name_en": "carpentry",
+    "group": "technical_trades",
+    "share": 0.0114,
+    "change_pct": -8.8,
+    "series": [
+     0.0125,
+     0.0124,
+     0.0118,
+     0.0119,
+     0.0118,
+     0.0114
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/530cb489-d900-46ab-9350-4d50ccd49eea",
+    "name_pl": "techniki spawania",
+    "name_en": "welding techniques",
+    "group": "technical_trades",
+    "share": 0.0109,
+    "change_pct": -9.2,
+    "series": [
+     0.012,
+     0.0121,
+     0.0113,
+     0.0116,
+     0.0113,
+     0.0109
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/28d715e3-3e5b-4fb6-8dd2-4be4919c8587",
+    "name_pl": "obsługa reklamacji",
+    "name_en": "handle customer complaints",
+    "group": "customer_sales",
+    "share": 0.0107,
+    "change_pct": -1.8,
+    "series": [
+     0.0109,
+     0.0114,
+     0.0111,
+     0.0106,
+     0.0109,
+     0.0107
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/71152876-b629-4a99-b9ea-0f25a0d07e4e",
+    "name_pl": "negocjowanie umów sprzedaży",
+    "name_en": "negotiate sales contracts",
+    "group": "customer_sales",
+    "share": 0.0095,
+    "change_pct": -12.8,
+    "series": [
+     0.0109,
+     0.0112,
+     0.0105,
+     0.0099,
+     0.0098,
+     0.0095
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/f7464f30-662b-4177-85a0-3df9693e9e58",
+    "name_pl": "pierwsza pomoc",
+    "name_en": "first aid",
+    "group": "healthcare",
+    "share": 0.0091,
+    "change_pct": -1.1,
+    "series": [
+     0.0092,
+     0.0093,
+     0.0091,
+     0.0094,
+     0.0092,
+     0.0091
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/e3e42d54-78bd-4337-aa87-bb31a7670c9a",
+    "name_pl": "wystawianie faktur",
+    "name_en": "issue sales invoices",
+    "group": "finance_admin",
+    "share": 0.0086,
+    "change_pct": 3.6,
+    "series": [
+     0.0083,
+     0.0082,
+     0.0085,
+     0.0085,
+     0.0084,
+     0.0086
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/0450eaee-1a00-4622-8f4e-5356fce816d2",
+    "name_pl": "higiena w placówkach ochrony zdrowia",
+    "name_en": "hygiene in a health care setting",
+    "group": "healthcare",
+    "share": 0.0084,
+    "change_pct": -1.2,
+    "series": [
+     0.0085,
+     0.0081,
+     0.0082,
+     0.0085,
+     0.0083,
+     0.0084
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/92721092-fe7c-4689-96bd-4f02385bc0e7",
+    "name_pl": "zarządzanie umowami",
+    "name_en": "manage contracts",
+    "group": "finance_admin",
+    "share": 0.0084,
+    "change_pct": -9.7,
+    "series": [
+     0.0093,
+     0.0089,
+     0.0091,
+     0.0089,
+     0.0086,
+     0.0084
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/4812a4ea-dc55-4dc6-b9b0-4a59bba2c647",
+    "name_pl": "język niemiecki",
+    "name_en": "German",
+    "group": "languages",
+    "share": 0.0072,
+    "change_pct": 0.0,
+    "series": [
+     0.0072,
+     0.0074,
+     0.0075,
+     0.0074,
+     0.0073,
+     0.0072
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833",
+    "name_pl": "statystyka",
+    "name_en": "statistics",
+    "group": "data_ai",
+    "share": 0.0063,
+    "change_pct": 14.5,
+    "series": [
+     0.0055,
+     0.0058,
+     0.0058,
+     0.0061,
+     0.0063,
+     0.0063
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/18d3f89a-6ac5-4ca6-bf93-0baec4e13bcd",
+    "name_pl": "montaż instalacji fotowoltaicznych",
+    "name_en": "install photovoltaic systems",
+    "group": "green",
+    "share": 0.0058,
+    "change_pct": 28.9,
+    "series": [
+     0.0045,
+     0.0047,
+     0.005,
+     0.0052,
+     0.0055,
+     0.0058
+    ]
+   }
+  ]
+ }
+}

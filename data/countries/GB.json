@@ -1,0 +1,2793 @@
+{
+ "country": {
+  "code": "GB",
+  "iso3": "GBR",
+  "numeric": 826,
+  "name_pl": "Wielka Brytania",
+  "name_en": "United Kingdom",
+  "continent": "europe",
+  "currency": "GBP"
+ },
+ "generated_at": "2026-09-30T15:36:10+00:00",
+ "coverage": {
+  "first_month": "2025-10",
+  "last_month": "2026-08",
+  "collecting_since": "2026-08-01",
+  "complete_from": "2026-08",
+  "index_base_month": "2026-08",
+  "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
+ },
+ "headline": {
+  "month": "2026-08",
+  "postings_new": 633298,
+  "postings_raw": 769842,
+  "mom_pct": null,
+  "yoy_pct": null,
+  "postings_active_end": 1335770,
+  "salary_median": 2772,
+  "salary_currency": "GBP",
+  "salary_share": 0.33,
+  "remote_share": 0.014,
+  "sources": 3,
+  "top_source": {
+   "code": "indeed.gb",
+   "service": "Indeed",
+   "share": 0.429
+  }
+ },
+ "monthly": [
+  {
+   "period": "2025-10",
+   "partial": false,
+   "postings_new": 9341,
+   "postings_raw": 10406,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 1.5,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 6933,
+    "p25": 2600,
+    "p75": 6933,
+    "mean": 5249,
+    "n": 433,
+    "share": 0.08,
+    "currency": "GBP"
+   },
+   "remote_share": 0.007,
+   "employment": {
+    "full_time": 0.056,
+    "part_time": 0.009,
+    "contract": 0.004,
+    "other": 0.025,
+    "unknown": 0.907
+   },
+   "by_source": [
+    {
+     "code": "jooble.gb",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 9035
+    },
+    {
+     "code": "indeed.gb",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 1371
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "London",
+     "n": 2265,
+     "share": 0.218
+    },
+    {
+     "name": "Birmingham",
+     "n": 243,
+     "share": 0.023
+    },
+    {
+     "name": "Manchester",
+     "n": 228,
+     "share": 0.022
+    },
+    {
+     "name": "Reading, Berkshire",
+     "n": 196,
+     "share": 0.019
+    },
+    {
+     "name": "Croydon, Greater London",
+     "n": 193,
+     "share": 0.019
+    },
+    {
+     "name": "Harrow, Greater London",
+     "n": 158,
+     "share": 0.015
+    },
+    {
+     "name": "Hounslow, Greater London",
+     "n": 157,
+     "share": 0.015
+    },
+    {
+     "name": "Cambridge, Cambridgeshire",
+     "n": 154,
+     "share": 0.015
+    },
+    {
+     "name": "Oxford, Oxfordshire",
+     "n": 154,
+     "share": 0.015
+    },
+    {
+     "name": "Brent, Greater London",
+     "n": 148,
+     "share": 0.014
+    },
+    {
+     "name": "Liverpool",
+     "n": 147,
+     "share": 0.014
+    },
+    {
+     "name": "Bristol",
+     "n": 140,
+     "share": 0.013
+    },
+    {
+     "name": "Barnet, Greater London",
+     "n": 128,
+     "share": 0.012
+    },
+    {
+     "name": "Havering, Greater London",
+     "n": 118,
+     "share": 0.011
+    },
+    {
+     "name": "Hillingdon, Greater London",
+     "n": 115,
+     "share": 0.011
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2025-11",
+   "partial": false,
+   "postings_new": 7008,
+   "postings_raw": 7602,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 1.1,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 3250,
+    "p25": 2492,
+    "p75": 6933,
+    "mean": 4716,
+    "n": 296,
+    "share": 0.093,
+    "currency": "GBP"
+   },
+   "remote_share": 0.007,
+   "employment": {
+    "full_time": 0.102,
+    "part_time": 0.012,
+    "contract": 0.009,
+    "other": 0.031,
+    "unknown": 0.847
+   },
+   "by_source": [
+    {
+     "code": "jooble.gb",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 6069
+    },
+    {
+     "code": "indeed.gb",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 1533
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "London",
+     "n": 1492,
+     "share": 0.196
+    },
+    {
+     "name": "Birmingham",
+     "n": 221,
+     "share": 0.029
+    },
+    {
+     "name": "Manchester",
+     "n": 186,
+     "share": 0.024
+    },
+    {
+     "name": "Cambridge, Cambridgeshire",
+     "n": 159,
+     "share": 0.021
+    },
+    {
+     "name": "Croydon, Greater London",
+     "n": 128,
+     "share": 0.017
+    },
+    {
+     "name": "Bristol",
+     "n": 127,
+     "share": 0.017
+    },
+    {
+     "name": "Reading, Berkshire",
+     "n": 107,
+     "share": 0.014
+    },
+    {
+     "name": "Nottingham",
+     "n": 102,
+     "share": 0.013
+    },
+    {
+     "name": "Liverpool",
+     "n": 97,
+     "share": 0.013
+    },
+    {
+     "name": "Brent, Greater London",
+     "n": 91,
+     "share": 0.012
+    },
+    {
+     "name": "Harrow, Greater London",
+     "n": 90,
+     "share": 0.012
+    },
+    {
+     "name": "Oxford, Oxfordshire",
+     "n": 89,
+     "share": 0.012
+    },
+    {
+     "name": "Watford, Hertfordshire",
+     "n": 82,
+     "share": 0.011
+    },
+    {
+     "name": "Hounslow, Greater London",
+     "n": 81,
+     "share": 0.011
+    },
+    {
+     "name": "Leeds",
+     "n": 80,
+     "share": 0.011
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2025-12",
+   "partial": false,
+   "postings_new": 6173,
+   "postings_raw": 6699,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 1.0,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 3120,
+    "p25": 2384,
+    "p75": 6933,
+    "mean": 4448,
+    "n": 280,
+    "share": 0.107,
+    "currency": "GBP"
+   },
+   "remote_share": 0.031,
+   "employment": {
+    "full_time": 0.125,
+    "part_time": 0.02,
+    "contract": 0.008,
+    "other": 0.024,
+    "unknown": 0.823
+   },
+   "by_source": [
+    {
+     "code": "jooble.gb",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 5152
+    },
+    {
+     "code": "indeed.gb",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 1547
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "London",
+     "n": 1406,
+     "share": 0.21
+    },
+    {
+     "name": "Birmingham",
+     "n": 188,
+     "share": 0.028
+    },
+    {
+     "name": "Manchester",
+     "n": 181,
+     "share": 0.027
+    },
+    {
+     "name": "Remote",
+     "n": 155,
+     "share": 0.023
+    },
+    {
+     "name": "Bristol",
+     "n": 104,
+     "share": 0.016
+    },
+    {
+     "name": "Oxford, Oxfordshire",
+     "n": 100,
+     "share": 0.015
+    },
+    {
+     "name": "Croydon, Greater London",
+     "n": 96,
+     "share": 0.014
+    },
+    {
+     "name": "Cambridge, Cambridgeshire",
+     "n": 89,
+     "share": 0.013
+    },
+    {
+     "name": "Nottingham",
+     "n": 86,
+     "share": 0.013
+    },
+    {
+     "name": "Reading, Berkshire",
+     "n": 85,
+     "share": 0.013
+    },
+    {
+     "name": "Brent, Greater London",
+     "n": 79,
+     "share": 0.012
+    },
+    {
+     "name": "Barnet, Greater London",
+     "n": 74,
+     "share": 0.011
+    },
+    {
+     "name": "Leicester",
+     "n": 74,
+     "share": 0.011
+    },
+    {
+     "name": "Harrow, Greater London",
+     "n": 63,
+     "share": 0.009
+    },
+    {
+     "name": "Slough, Berkshire",
+     "n": 63,
+     "share": 0.009
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-01",
+   "partial": false,
+   "postings_new": 5939,
+   "postings_raw": 6346,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 0.9,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 2817,
+    "p25": 2492,
+    "p75": 4853,
+    "mean": 4459,
+    "n": 404,
+    "share": 0.169,
+    "currency": "GBP"
+   },
+   "remote_share": 0.028,
+   "employment": {
+    "full_time": 0.245,
+    "part_time": 0.031,
+    "contract": 0.025,
+    "other": 0.055,
+    "unknown": 0.645
+   },
+   "by_source": [
+    {
+     "code": "jooble.gb",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 3328
+    },
+    {
+     "code": "indeed.gb",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 3018
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "London",
+     "n": 1359,
+     "share": 0.214
+    },
+    {
+     "name": "Manchester",
+     "n": 209,
+     "share": 0.033
+    },
+    {
+     "name": "Birmingham",
+     "n": 190,
+     "share": 0.03
+    },
+    {
+     "name": "Bristol",
+     "n": 121,
+     "share": 0.019
+    },
+    {
+     "name": "Glasgow",
+     "n": 74,
+     "share": 0.012
+    },
+    {
+     "name": "Leicester",
+     "n": 73,
+     "share": 0.012
+    },
+    {
+     "name": "Leeds",
+     "n": 67,
+     "share": 0.011
+    },
+    {
+     "name": "Barnet, Greater London",
+     "n": 60,
+     "share": 0.009
+    },
+    {
+     "name": "Remote",
+     "n": 56,
+     "share": 0.009
+    },
+    {
+     "name": "Reading, Berkshire",
+     "n": 54,
+     "share": 0.009
+    },
+    {
+     "name": "Nottingham",
+     "n": 49,
+     "share": 0.008
+    },
+    {
+     "name": "Essex",
+     "n": 48,
+     "share": 0.008
+    },
+    {
+     "name": "Liverpool",
+     "n": 46,
+     "share": 0.007
+    },
+    {
+     "name": "York, North Yorkshire",
+     "n": 45,
+     "share": 0.007
+    },
+    {
+     "name": "Derby, Derbyshire",
+     "n": 42,
+     "share": 0.007
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-02",
+   "partial": false,
+   "postings_new": 6304,
+   "postings_raw": 6685,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 1.0,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 5200,
+    "p25": 2817,
+    "p75": 10835,
+    "mean": 7626,
+    "n": 431,
+    "share": 0.188,
+    "currency": "GBP"
+   },
+   "remote_share": 0.043,
+   "employment": {
+    "full_time": 0.262,
+    "part_time": 0.038,
+    "contract": 0.024,
+    "other": 0.024,
+    "unknown": 0.652
+   },
+   "by_source": [
+    {
+     "code": "jooble.gb",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 3383
+    },
+    {
+     "code": "indeed.gb",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 3302
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "London",
+     "n": 1212,
+     "share": 0.181
+    },
+    {
+     "name": "Birmingham",
+     "n": 173,
+     "share": 0.026
+    },
+    {
+     "name": "Remote",
+     "n": 166,
+     "share": 0.025
+    },
+    {
+     "name": "Manchester",
+     "n": 160,
+     "share": 0.024
+    },
+    {
+     "name": "Bristol",
+     "n": 145,
+     "share": 0.022
+    },
+    {
+     "name": "Leeds",
+     "n": 93,
+     "share": 0.014
+    },
+    {
+     "name": "Nottingham",
+     "n": 83,
+     "share": 0.012
+    },
+    {
+     "name": "Glasgow",
+     "n": 82,
+     "share": 0.012
+    },
+    {
+     "name": "Leicester",
+     "n": 62,
+     "share": 0.009
+    },
+    {
+     "name": "Sheffield",
+     "n": 61,
+     "share": 0.009
+    },
+    {
+     "name": "Cambridge",
+     "n": 53,
+     "share": 0.008
+    },
+    {
+     "name": "Liverpool",
+     "n": 50,
+     "share": 0.007
+    },
+    {
+     "name": "Reading, Berkshire",
+     "n": 47,
+     "share": 0.007
+    },
+    {
+     "name": "Edinburgh",
+     "n": 45,
+     "share": 0.007
+    },
+    {
+     "name": "Aberdeen",
+     "n": 41,
+     "share": 0.006
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-03",
+   "partial": false,
+   "postings_new": 12486,
+   "postings_raw": 13227,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 2.0,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 5482,
+    "p25": 2773,
+    "p75": 10835,
+    "mean": 7932,
+    "n": 476,
+    "share": 0.109,
+    "currency": "GBP"
+   },
+   "remote_share": 0.061,
+   "employment": {
+    "full_time": 0.442,
+    "part_time": 0.05,
+    "contract": 0.042,
+    "other": 0.027,
+    "unknown": 0.439
+   },
+   "by_source": [
+    {
+     "code": "indeed.gb",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 9747
+    },
+    {
+     "code": "jooble.gb",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 3480
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "London",
+     "n": 2624,
+     "share": 0.198
+    },
+    {
+     "name": "Manchester",
+     "n": 380,
+     "share": 0.029
+    },
+    {
+     "name": "Bristol",
+     "n": 379,
+     "share": 0.029
+    },
+    {
+     "name": "Birmingham",
+     "n": 361,
+     "share": 0.027
+    },
+    {
+     "name": "Leeds",
+     "n": 217,
+     "share": 0.016
+    },
+    {
+     "name": "Glasgow",
+     "n": 168,
+     "share": 0.013
+    },
+    {
+     "name": "Remote",
+     "n": 156,
+     "share": 0.012
+    },
+    {
+     "name": "Edinburgh",
+     "n": 122,
+     "share": 0.009
+    },
+    {
+     "name": "Belfast",
+     "n": 100,
+     "share": 0.008
+    },
+    {
+     "name": "Nottingham",
+     "n": 99,
+     "share": 0.007
+    },
+    {
+     "name": "Liverpool",
+     "n": 97,
+     "share": 0.007
+    },
+    {
+     "name": "Sheffield",
+     "n": 97,
+     "share": 0.007
+    },
+    {
+     "name": "Cambridge",
+     "n": 93,
+     "share": 0.007
+    },
+    {
+     "name": "Newcastle upon Tyne",
+     "n": 92,
+     "share": 0.007
+    },
+    {
+     "name": "Southampton",
+     "n": 74,
+     "share": 0.006
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-04",
+   "partial": false,
+   "postings_new": 17305,
+   "postings_raw": 18406,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 2.7,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 4883,
+    "p25": 2600,
+    "p75": 8320,
+    "mean": 6520,
+    "n": 1036,
+    "share": 0.118,
+    "currency": "GBP"
+   },
+   "remote_share": 0.053,
+   "employment": {
+    "full_time": 0.448,
+    "part_time": 0.055,
+    "contract": 0.035,
+    "other": 0.019,
+    "unknown": 0.443
+   },
+   "by_source": [
+    {
+     "code": "indeed.gb",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 13266
+    },
+    {
+     "code": "jooble.gb",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 5140
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "London",
+     "n": 3565,
+     "share": 0.194
+    },
+    {
+     "name": "Manchester",
+     "n": 403,
+     "share": 0.022
+    },
+    {
+     "name": "Bristol",
+     "n": 382,
+     "share": 0.021
+    },
+    {
+     "name": "Birmingham",
+     "n": 364,
+     "share": 0.02
+    },
+    {
+     "name": "Glasgow",
+     "n": 285,
+     "share": 0.015
+    },
+    {
+     "name": "Leeds",
+     "n": 282,
+     "share": 0.015
+    },
+    {
+     "name": "Remote",
+     "n": 240,
+     "share": 0.013
+    },
+    {
+     "name": "Edinburgh",
+     "n": 209,
+     "share": 0.011
+    },
+    {
+     "name": "Belfast",
+     "n": 155,
+     "share": 0.008
+    },
+    {
+     "name": "Nottingham",
+     "n": 148,
+     "share": 0.008
+    },
+    {
+     "name": "Cardiff",
+     "n": 144,
+     "share": 0.008
+    },
+    {
+     "name": "Liverpool",
+     "n": 144,
+     "share": 0.008
+    },
+    {
+     "name": "Newcastle upon Tyne",
+     "n": 142,
+     "share": 0.008
+    },
+    {
+     "name": "Sheffield",
+     "n": 116,
+     "share": 0.006
+    },
+    {
+     "name": "Cambridge",
+     "n": 115,
+     "share": 0.006
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-05",
+   "partial": false,
+   "postings_new": 30058,
+   "postings_raw": 32520,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 4.7,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 3333,
+    "p25": 2454,
+    "p75": 5000,
+    "mean": 4266,
+    "n": 4841,
+    "share": 0.237,
+    "currency": "GBP"
+   },
+   "remote_share": 0.036,
+   "employment": {
+    "full_time": 0.355,
+    "part_time": 0.041,
+    "contract": 0.031,
+    "other": 0.026,
+    "unknown": 0.547
+   },
+   "by_source": [
+    {
+     "code": "indeed.gb",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 19043
+    },
+    {
+     "code": "jooble.gb",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 7680
+    },
+    {
+     "code": "careerjet.gb",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 5797
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "London",
+     "n": 6410,
+     "share": 0.197
+    },
+    {
+     "name": "Manchester",
+     "n": 798,
+     "share": 0.025
+    },
+    {
+     "name": "Birmingham",
+     "n": 664,
+     "share": 0.02
+    },
+    {
+     "name": "Bristol",
+     "n": 608,
+     "share": 0.019
+    },
+    {
+     "name": "Leeds",
+     "n": 542,
+     "share": 0.017
+    },
+    {
+     "name": "Glasgow",
+     "n": 473,
+     "share": 0.015
+    },
+    {
+     "name": "Edinburgh",
+     "n": 385,
+     "share": 0.012
+    },
+    {
+     "name": "United Kingdom",
+     "n": 346,
+     "share": 0.011
+    },
+    {
+     "name": "Remote",
+     "n": 332,
+     "share": 0.01
+    },
+    {
+     "name": "Liverpool",
+     "n": 287,
+     "share": 0.009
+    },
+    {
+     "name": "Nottingham",
+     "n": 258,
+     "share": 0.008
+    },
+    {
+     "name": "Newcastle upon Tyne",
+     "n": 236,
+     "share": 0.007
+    },
+    {
+     "name": "Belfast",
+     "n": 225,
+     "share": 0.007
+    },
+    {
+     "name": "Reading",
+     "n": 221,
+     "share": 0.007
+    },
+    {
+     "name": "Southampton",
+     "n": 210,
+     "share": 0.006
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-06",
+   "partial": false,
+   "postings_new": 68413,
+   "postings_raw": 75142,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 10.8,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 3120,
+    "p25": 2387,
+    "p75": 4680,
+    "mean": 3997,
+    "n": 12093,
+    "share": 0.244,
+    "currency": "GBP"
+   },
+   "remote_share": 0.029,
+   "employment": {
+    "full_time": 0.325,
+    "part_time": 0.054,
+    "contract": 0.027,
+    "other": 0.008,
+    "unknown": 0.585
+   },
+   "by_source": [
+    {
+     "code": "indeed.gb",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 39892
+    },
+    {
+     "code": "jooble.gb",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 21320
+    },
+    {
+     "code": "careerjet.gb",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 13930
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "London",
+     "n": 14875,
+     "share": 0.198
+    },
+    {
+     "name": "Manchester",
+     "n": 1845,
+     "share": 0.025
+    },
+    {
+     "name": "Birmingham",
+     "n": 1318,
+     "share": 0.018
+    },
+    {
+     "name": "Bristol",
+     "n": 1176,
+     "share": 0.016
+    },
+    {
+     "name": "Glasgow",
+     "n": 999,
+     "share": 0.013
+    },
+    {
+     "name": "Leeds",
+     "n": 978,
+     "share": 0.013
+    },
+    {
+     "name": "United Kingdom",
+     "n": 864,
+     "share": 0.011
+    },
+    {
+     "name": "Edinburgh",
+     "n": 785,
+     "share": 0.01
+    },
+    {
+     "name": "Remote",
+     "n": 646,
+     "share": 0.009
+    },
+    {
+     "name": "Belfast",
+     "n": 562,
+     "share": 0.007
+    },
+    {
+     "name": "Nottingham",
+     "n": 506,
+     "share": 0.007
+    },
+    {
+     "name": "Liverpool",
+     "n": 501,
+     "share": 0.007
+    },
+    {
+     "name": "Cambridge",
+     "n": 458,
+     "share": 0.006
+    },
+    {
+     "name": "Aberdeen",
+     "n": 440,
+     "share": 0.006
+    },
+    {
+     "name": "Reading",
+     "n": 429,
+     "share": 0.006
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "care assistant",
+     "n": 527
+    },
+    {
+     "title": "bar & waiting staff",
+     "n": 464
+    },
+    {
+     "title": "chef",
+     "n": 448
+    },
+    {
+     "title": "cleaner",
+     "n": 431
+    },
+    {
+     "title": "estate agent",
+     "n": 366
+    },
+    {
+     "title": "kitchen assistant",
+     "n": 362
+    },
+    {
+     "title": "team leader",
+     "n": 344
+    },
+    {
+     "title": "support worker",
+     "n": 284
+    },
+    {
+     "title": "project manager",
+     "n": 169
+    },
+    {
+     "title": "kitchen team leader",
+     "n": 158
+    },
+    {
+     "title": "chef de partie",
+     "n": 155
+    },
+    {
+     "title": "assistant manager",
+     "n": 143
+    },
+    {
+     "title": "teaching assistant",
+     "n": 135
+    },
+    {
+     "title": "apprentice",
+     "n": 131
+    },
+    {
+     "title": "sales executive",
+     "n": 131
+    }
+   ],
+   "regions": []
+  },
+  {
+   "period": "2026-07",
+   "partial": false,
+   "postings_new": 358850,
+   "postings_raw": 411518,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 56.7,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 2829,
+    "p25": 2340,
+    "p75": 4063,
+    "mean": 3513,
+    "n": 91214,
+    "share": 0.352,
+    "currency": "GBP"
+   },
+   "remote_share": 0.016,
+   "employment": {
+    "full_time": 0.266,
+    "part_time": 0.057,
+    "contract": 0.036,
+    "other": 0.005,
+    "unknown": 0.636
+   },
+   "by_source": [
+    {
+     "code": "indeed.gb",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 173558
+    },
+    {
+     "code": "jooble.gb",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 156716
+    },
+    {
+     "code": "careerjet.gb",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 81244
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "London",
+     "n": 50550,
+     "share": 0.123
+    },
+    {
+     "name": "Manchester",
+     "n": 8652,
+     "share": 0.021
+    },
+    {
+     "name": "Birmingham",
+     "n": 7627,
+     "share": 0.019
+    },
+    {
+     "name": "Bristol",
+     "n": 6239,
+     "share": 0.015
+    },
+    {
+     "name": "Leeds",
+     "n": 5454,
+     "share": 0.013
+    },
+    {
+     "name": "Glasgow",
+     "n": 5311,
+     "share": 0.013
+    },
+    {
+     "name": "Edinburgh",
+     "n": 4630,
+     "share": 0.011
+    },
+    {
+     "name": "United Kingdom",
+     "n": 4420,
+     "share": 0.011
+    },
+    {
+     "name": "Belfast",
+     "n": 3955,
+     "share": 0.01
+    },
+    {
+     "name": "Liverpool",
+     "n": 3652,
+     "share": 0.009
+    },
+    {
+     "name": "Nottingham",
+     "n": 3622,
+     "share": 0.009
+    },
+    {
+     "name": "Sheffield",
+     "n": 2994,
+     "share": 0.007
+    },
+    {
+     "name": "Cardiff",
+     "n": 2830,
+     "share": 0.007
+    },
+    {
+     "name": "Southampton",
+     "n": 2823,
+     "share": 0.007
+    },
+    {
+     "name": "Leicester",
+     "n": 2716,
+     "share": 0.007
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "care assistant",
+     "n": 2627
+    },
+    {
+     "title": "cleaner",
+     "n": 2545
+    },
+    {
+     "title": "support worker",
+     "n": 1963
+    },
+    {
+     "title": "chef",
+     "n": 1531
+    },
+    {
+     "title": "chef de partie",
+     "n": 1310
+    },
+    {
+     "title": "catering assistant",
+     "n": 1069
+    },
+    {
+     "title": "assistant manager",
+     "n": 1036
+    },
+    {
+     "title": "kitchen assistant",
+     "n": 1034
+    },
+    {
+     "title": "team member",
+     "n": 962
+    },
+    {
+     "title": "warehouse operative",
+     "n": 952
+    },
+    {
+     "title": "sous chef",
+     "n": 921
+    },
+    {
+     "title": "team leader",
+     "n": 917
+    },
+    {
+     "title": "project manager",
+     "n": 901
+    },
+    {
+     "title": "kitchen porter",
+     "n": 831
+    },
+    {
+     "title": "electrician",
+     "n": 789
+    }
+   ],
+   "regions": []
+  },
+  {
+   "period": "2026-08",
+   "partial": false,
+   "postings_new": 633298,
+   "postings_raw": 769842,
+   "postings_active_end": 1335770,
+   "postings_closed": 7447,
+   "index": 100.0,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 2772,
+    "p25": 2331,
+    "p75": 3958,
+    "mean": 3433,
+    "n": 182176,
+    "share": 0.33,
+    "currency": "GBP"
+   },
+   "remote_share": 0.014,
+   "employment": {
+    "full_time": 0.266,
+    "part_time": 0.075,
+    "contract": 0.038,
+    "other": 0.004,
+    "unknown": 0.616
+   },
+   "by_source": [
+    {
+     "code": "indeed.gb",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 330608
+    },
+    {
+     "code": "careerjet.gb",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 241054
+    },
+    {
+     "code": "jooble.gb",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 198180
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "London",
+     "n": 86164,
+     "share": 0.112
+    },
+    {
+     "name": "Manchester",
+     "n": 15626,
+     "share": 0.02
+    },
+    {
+     "name": "Birmingham",
+     "n": 13308,
+     "share": 0.017
+    },
+    {
+     "name": "United Kingdom",
+     "n": 12560,
+     "share": 0.016
+    },
+    {
+     "name": "Glasgow",
+     "n": 12181,
+     "share": 0.016
+    },
+    {
+     "name": "Edinburgh",
+     "n": 11276,
+     "share": 0.015
+    },
+    {
+     "name": "Leeds",
+     "n": 9613,
+     "share": 0.012
+    },
+    {
+     "name": "Bristol",
+     "n": 8486,
+     "share": 0.011
+    },
+    {
+     "name": "Belfast",
+     "n": 8240,
+     "share": 0.011
+    },
+    {
+     "name": "Liverpool",
+     "n": 6641,
+     "share": 0.009
+    },
+    {
+     "name": "Nottingham",
+     "n": 5402,
+     "share": 0.007
+    },
+    {
+     "name": "Sheffield",
+     "n": 5227,
+     "share": 0.007
+    },
+    {
+     "name": "Southampton",
+     "n": 4491,
+     "share": 0.006
+    },
+    {
+     "name": "Cardiff",
+     "n": 4441,
+     "share": 0.006
+    },
+    {
+     "name": "Leicester",
+     "n": 4198,
+     "share": 0.005
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "cleaner",
+     "n": 5711
+    },
+    {
+     "title": "care assistant",
+     "n": 4965
+    },
+    {
+     "title": "team member",
+     "n": 4153
+    },
+    {
+     "title": "chef",
+     "n": 3692
+    },
+    {
+     "title": "support worker",
+     "n": 3388
+    },
+    {
+     "title": "kitchen assistant",
+     "n": 2641
+    },
+    {
+     "title": "team leader",
+     "n": 2479
+    },
+    {
+     "title": "sales assistant",
+     "n": 2408
+    },
+    {
+     "title": "chef de partie",
+     "n": 2279
+    },
+    {
+     "title": "assistant manager",
+     "n": 2267
+    },
+    {
+     "title": "sous chef",
+     "n": 2077
+    },
+    {
+     "title": "barista",
+     "n": 2024
+    },
+    {
+     "title": "kitchen porter",
+     "n": 1934
+    },
+    {
+     "title": "warehouse operative",
+     "n": 1850
+    },
+    {
+     "title": "catering assistant",
+     "n": 1768
+    }
+   ],
+   "regions": []
+  }
+ ],
+ "quarterly": [
+  {
+   "period": "2025-Q4",
+   "partial": false,
+   "postings_new": 22522,
+   "postings_raw": 24707,
+   "qoq_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 4794,
+    "p25": 2508,
+    "p75": 6933,
+    "mean": 4870,
+    "n": 1009,
+    "share": 0.091,
+    "currency": "GBP"
+   },
+   "remote_share": 0.014,
+   "employment": {
+    "full_time": 0.089,
+    "part_time": 0.013,
+    "contract": 0.007,
+    "other": 0.027,
+    "unknown": 0.866
+   },
+   "by_source": [
+    {
+     "code": "jooble.gb",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 20256
+    },
+    {
+     "code": "indeed.gb",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 4451
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "London",
+     "n": 5163,
+     "share": 0.209
+    },
+    {
+     "name": "Birmingham",
+     "n": 652,
+     "share": 0.026
+    },
+    {
+     "name": "Manchester",
+     "n": 595,
+     "share": 0.024
+    },
+    {
+     "name": "Croydon, Greater London",
+     "n": 417,
+     "share": 0.017
+    },
+    {
+     "name": "Cambridge, Cambridgeshire",
+     "n": 402,
+     "share": 0.016
+    },
+    {
+     "name": "Reading, Berkshire",
+     "n": 388,
+     "share": 0.016
+    },
+    {
+     "name": "Bristol",
+     "n": 371,
+     "share": 0.015
+    },
+    {
+     "name": "Oxford, Oxfordshire",
+     "n": 343,
+     "share": 0.014
+    },
+    {
+     "name": "Brent, Greater London",
+     "n": 318,
+     "share": 0.013
+    },
+    {
+     "name": "Harrow, Greater London",
+     "n": 311,
+     "share": 0.013
+    },
+    {
+     "name": "Liverpool",
+     "n": 244,
+     "share": 0.01
+    },
+    {
+     "name": "Hounslow, Greater London",
+     "n": 238,
+     "share": 0.01
+    },
+    {
+     "name": "Barnet, Greater London",
+     "n": 202,
+     "share": 0.008
+    },
+    {
+     "name": "Nottingham",
+     "n": 188,
+     "share": 0.008
+    },
+    {
+     "name": "Remote",
+     "n": 155,
+     "share": 0.006
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-Q1",
+   "partial": false,
+   "postings_new": 24729,
+   "postings_raw": 26258,
+   "qoq_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 4568,
+    "p25": 2701,
+    "p75": 8992,
+    "mean": 6761,
+    "n": 1311,
+    "share": 0.144,
+    "currency": "GBP"
+   },
+   "remote_share": 0.048,
+   "employment": {
+    "full_time": 0.349,
+    "part_time": 0.042,
+    "contract": 0.033,
+    "other": 0.033,
+    "unknown": 0.543
+   },
+   "by_source": [
+    {
+     "code": "indeed.gb",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 16067
+    },
+    {
+     "code": "jooble.gb",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 10191
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "London",
+     "n": 5195,
+     "share": 0.198
+    },
+    {
+     "name": "Manchester",
+     "n": 749,
+     "share": 0.029
+    },
+    {
+     "name": "Birmingham",
+     "n": 724,
+     "share": 0.028
+    },
+    {
+     "name": "Bristol",
+     "n": 645,
+     "share": 0.025
+    },
+    {
+     "name": "Remote",
+     "n": 378,
+     "share": 0.014
+    },
+    {
+     "name": "Leeds",
+     "n": 377,
+     "share": 0.014
+    },
+    {
+     "name": "Glasgow",
+     "n": 324,
+     "share": 0.012
+    },
+    {
+     "name": "Nottingham",
+     "n": 231,
+     "share": 0.009
+    },
+    {
+     "name": "Liverpool",
+     "n": 193,
+     "share": 0.007
+    },
+    {
+     "name": "Edinburgh",
+     "n": 167,
+     "share": 0.006
+    },
+    {
+     "name": "Sheffield",
+     "n": 158,
+     "share": 0.006
+    },
+    {
+     "name": "Cambridge",
+     "n": 146,
+     "share": 0.006
+    },
+    {
+     "name": "Leicester",
+     "n": 135,
+     "share": 0.005
+    },
+    {
+     "name": "Reading, Berkshire",
+     "n": 101,
+     "share": 0.004
+    },
+    {
+     "name": "Belfast",
+     "n": 100,
+     "share": 0.004
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-Q2",
+   "partial": false,
+   "postings_new": 115776,
+   "postings_raw": 126068,
+   "qoq_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 3279,
+    "p25": 2417,
+    "p75": 4976,
+    "mean": 4215,
+    "n": 17970,
+    "share": 0.224,
+    "currency": "GBP"
+   },
+   "remote_share": 0.034,
+   "employment": {
+    "full_time": 0.351,
+    "part_time": 0.051,
+    "contract": 0.029,
+    "other": 0.014,
+    "unknown": 0.554
+   },
+   "by_source": [
+    {
+     "code": "indeed.gb",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 72201
+    },
+    {
+     "code": "jooble.gb",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 34140
+    },
+    {
+     "code": "careerjet.gb",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 19727
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "London",
+     "n": 24850,
+     "share": 0.197
+    },
+    {
+     "name": "Manchester",
+     "n": 3046,
+     "share": 0.024
+    },
+    {
+     "name": "Birmingham",
+     "n": 2346,
+     "share": 0.019
+    },
+    {
+     "name": "Bristol",
+     "n": 2166,
+     "share": 0.017
+    },
+    {
+     "name": "Leeds",
+     "n": 1802,
+     "share": 0.014
+    },
+    {
+     "name": "Glasgow",
+     "n": 1757,
+     "share": 0.014
+    },
+    {
+     "name": "Edinburgh",
+     "n": 1379,
+     "share": 0.011
+    },
+    {
+     "name": "Remote",
+     "n": 1218,
+     "share": 0.01
+    },
+    {
+     "name": "United Kingdom",
+     "n": 1210,
+     "share": 0.01
+    },
+    {
+     "name": "Belfast",
+     "n": 942,
+     "share": 0.007
+    },
+    {
+     "name": "Liverpool",
+     "n": 932,
+     "share": 0.007
+    },
+    {
+     "name": "Nottingham",
+     "n": 912,
+     "share": 0.007
+    },
+    {
+     "name": "Reading",
+     "n": 650,
+     "share": 0.005
+    },
+    {
+     "name": "Cambridge",
+     "n": 573,
+     "share": 0.005
+    },
+    {
+     "name": "Aberdeen",
+     "n": 440,
+     "share": 0.003
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "care assistant",
+     "n": 527
+    },
+    {
+     "title": "bar & waiting staff",
+     "n": 464
+    },
+    {
+     "title": "chef",
+     "n": 448
+    },
+    {
+     "title": "cleaner",
+     "n": 431
+    },
+    {
+     "title": "estate agent",
+     "n": 366
+    },
+    {
+     "title": "kitchen assistant",
+     "n": 362
+    },
+    {
+     "title": "team leader",
+     "n": 344
+    },
+    {
+     "title": "support worker",
+     "n": 284
+    },
+    {
+     "title": "project manager",
+     "n": 169
+    },
+    {
+     "title": "kitchen team leader",
+     "n": 158
+    },
+    {
+     "title": "chef de partie",
+     "n": 155
+    },
+    {
+     "title": "assistant manager",
+     "n": 143
+    },
+    {
+     "title": "teaching assistant",
+     "n": 135
+    },
+    {
+     "title": "apprentice",
+     "n": 131
+    },
+    {
+     "title": "sales executive",
+     "n": 131
+    }
+   ],
+   "regions": []
+  },
+  {
+   "period": "2026-Q3",
+   "partial": true,
+   "postings_new": 992148,
+   "postings_raw": 1181360,
+   "qoq_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 2791,
+    "p25": 2334,
+    "p75": 3993,
+    "mean": 3460,
+    "n": 273390,
+    "share": 0.338,
+    "currency": "GBP"
+   },
+   "remote_share": 0.015,
+   "employment": {
+    "full_time": 0.266,
+    "part_time": 0.069,
+    "contract": 0.037,
+    "other": 0.004,
+    "unknown": 0.623
+   },
+   "by_source": [
+    {
+     "code": "indeed.gb",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 504166
+    },
+    {
+     "code": "jooble.gb",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 354896
+    },
+    {
+     "code": "careerjet.gb",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 322298
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "London",
+     "n": 136714,
+     "share": 0.116
+    },
+    {
+     "name": "Manchester",
+     "n": 24278,
+     "share": 0.021
+    },
+    {
+     "name": "Birmingham",
+     "n": 20935,
+     "share": 0.018
+    },
+    {
+     "name": "Glasgow",
+     "n": 17492,
+     "share": 0.015
+    },
+    {
+     "name": "United Kingdom",
+     "n": 16980,
+     "share": 0.014
+    },
+    {
+     "name": "Edinburgh",
+     "n": 15906,
+     "share": 0.013
+    },
+    {
+     "name": "Leeds",
+     "n": 15067,
+     "share": 0.013
+    },
+    {
+     "name": "Bristol",
+     "n": 14725,
+     "share": 0.012
+    },
+    {
+     "name": "Belfast",
+     "n": 12195,
+     "share": 0.01
+    },
+    {
+     "name": "Liverpool",
+     "n": 10293,
+     "share": 0.009
+    },
+    {
+     "name": "Nottingham",
+     "n": 9024,
+     "share": 0.008
+    },
+    {
+     "name": "Sheffield",
+     "n": 8221,
+     "share": 0.007
+    },
+    {
+     "name": "Southampton",
+     "n": 7314,
+     "share": 0.006
+    },
+    {
+     "name": "Cardiff",
+     "n": 7271,
+     "share": 0.006
+    },
+    {
+     "name": "Leicester",
+     "n": 6914,
+     "share": 0.006
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "cleaner",
+     "n": 8256
+    },
+    {
+     "title": "care assistant",
+     "n": 7592
+    },
+    {
+     "title": "support worker",
+     "n": 5351
+    },
+    {
+     "title": "chef",
+     "n": 5223
+    },
+    {
+     "title": "team member",
+     "n": 5115
+    },
+    {
+     "title": "kitchen assistant",
+     "n": 3675
+    },
+    {
+     "title": "chef de partie",
+     "n": 3589
+    },
+    {
+     "title": "team leader",
+     "n": 3396
+    },
+    {
+     "title": "assistant manager",
+     "n": 3303
+    },
+    {
+     "title": "sous chef",
+     "n": 2998
+    },
+    {
+     "title": "catering assistant",
+     "n": 2837
+    },
+    {
+     "title": "warehouse operative",
+     "n": 2802
+    },
+    {
+     "title": "kitchen porter",
+     "n": 2765
+    },
+    {
+     "title": "sales assistant",
+     "n": 2408
+    },
+    {
+     "title": "barista",
+     "n": 2024
+    }
+   ],
+   "regions": []
+  }
+ ],
+ "sources": [
+  {
+   "code": "indeed.gb",
+   "service": "Indeed",
+   "kind": "aggregator",
+   "url": "https://uk.indeed.com",
+   "collecting_since": "2026-08-06",
+   "offers_total": 690082,
+   "share_latest": 0.429,
+   "salary_coverage": 0.0,
+   "description_coverage": 1.0
+  },
+  {
+   "code": "jooble.gb",
+   "service": "Jooble",
+   "kind": "aggregator",
+   "url": "https://uk.jooble.org",
+   "collecting_since": "2026-08-01",
+   "offers_total": 464255,
+   "share_latest": 0.257,
+   "salary_coverage": 0.585,
+   "description_coverage": 1.0
+  },
+  {
+   "code": "careerjet.gb",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "url": "https://www.careerjet.co.uk",
+   "collecting_since": "2026-08-03",
+   "offers_total": 452714,
+   "share_latest": 0.313,
+   "salary_coverage": 0.55,
+   "description_coverage": 1.0
+  }
+ ],
+ "quality": {
+  "field_coverage": {
+   "salary_any": 0.324,
+   "city": 0.998,
+   "company": 0.935,
+   "employment_type": 0.373,
+   "remote": 0.718,
+   "posted_at": 1.0
+  },
+  "dedup": {
+   "within_source_rule_pl": "Ta sama oferta w tym samym serwisie liczona raz (klucz: adres URL lub identyfikator ogłoszenia).",
+   "cross_source_estimate": 0.177,
+   "cross_source_note_pl": "Szacunkowy odsetek ogłoszeń widocznych w więcej niż jednym serwisie (ten sam tytuł, firma i miasto w tym samym miesiącu). Wskaźniki liczymy po zdjęciu tych powtórek."
+  }
+ },
+ "highlights": [
+  {
+   "id": "volume",
+   "icon": "trend",
+   "title_pl": "Sierpień: 633 298 ogłoszeń",
+   "text_pl": "633 298 nowych ogłoszeń - najwięcej od początku zbierania.",
+   "title_en": "August: 633,298 postings",
+   "text_en": "633,298 new postings - the most since collection began."
+  },
+  {
+   "id": "mover",
+   "icon": "city",
+   "title_pl": "Największa zmiana: United Kingdom +184,2%",
+   "text_pl": "12 560 ogłoszeń wobec 4 420 miesiąc wcześniej.",
+   "title_en": "Biggest move: United Kingdom +184.2%",
+   "text_en": "12,560 postings vs 4,420 a month earlier."
+  },
+  {
+   "id": "salary",
+   "icon": "salary",
+   "title_pl": "Mediana wynagrodzenia: 2 772 GBP",
+   "text_pl": "Połowa ofert z podaną stawką mieści się między 2 331 a 3 958 GBP miesięcznie; stawkę podaje 33% ogłoszeń.",
+   "title_en": "Median pay: 2,772 GBP",
+   "text_en": "Half of the postings with stated pay fall between 2,331 and 3,958 GBP per month; 33% of postings state pay."
+  },
+  {
+   "id": "remote",
+   "icon": "remote",
+   "title_pl": "Praca zdalna: 1,4% ogłoszeń",
+   "text_pl": "10 778 ogłoszeń oznaczonych jako praca zdalna (-0,2 pkt proc. m/m).",
+   "title_en": "Remote work: 1.4% of postings",
+   "text_en": "10,778 postings flagged as remote (-0.2 pp m/m)."
+  },
+  {
+   "id": "source",
+   "icon": "source",
+   "title_pl": "Największy serwis: Indeed (43%)",
+   "text_pl": "Dane z 3 serwisów; Indeed dostarcza 330 608 z 769 842 ogłoszeń przed zdjęciem powtórek.",
+   "title_en": "Largest source: Indeed (43%)",
+   "text_en": "Data from 3 sources; Indeed provides 330,608 of 769,842 postings before de-duplication."
+  },
+  {
+   "id": "cities",
+   "icon": "map",
+   "title_pl": "15 797 miast z ogłoszeniami",
+   "text_pl": "Najwięcej w: London (11%), Manchester (2%), Birmingham (2%).",
+   "title_en": "15,797 cities with postings",
+   "text_en": "Most in: London (11%), Manchester (2%), Birmingham (2%)."
+  }
+ ],
+ "commentary": {
+  "month": "2026-08",
+  "generated_at": "2026-09-30T15:37:50+00:00",
+  "model": "claude-opus-5-5",
+  "is_ai": true,
+  "lead_pl": "W sierpniu 2026 r. w Wielkiej Brytanii pojawiło się 633 298 nowych internetowych ogłoszeń o pracę. To pierwszy pełny miesiąc pomiaru i baza indeksu (100).",
+  "body_pl": "W sierpniu 2026 r. w trzech monitorowanych serwisach pojawiło się 633 298 nowych ogłoszeń o pracę w Wielkiej Brytanii, po zdjęciu powtórek między serwisami. Przed deduplikacją było ich 769 842, a szacunkowo 17,7% ogłoszeń występowało w więcej niż jednym serwisie. Na koniec miesiąca aktywnych było 1 335 770 ogłoszeń. Sierpień to pierwszy pełny miesiąc zbierania danych i baza indeksu, dlatego nie ma porównania miesiąc do miesiąca ani rok do roku.\n\nMediana wynagrodzenia wyniosła 2 772 GBP miesięcznie. Połowa stawek mieściła się między 2 331 a 3 958 GBP. Dotyczy to tylko ogłoszeń z podaną kwotą, czyli 33% ofert (182 176 ogłoszeń). Pracę zdalną oznaczono w 1,4% ogłoszeń.\n\nPełny etat wskazano w 26,6% ogłoszeń, część etatu w 7,5%, a kontrakt w 3,8%. W 61,6% ogłoszeń rodzaju zatrudnienia nie podano, więc strukturę umów trzeba traktować ostrożnie.\n\nNajwięcej ogłoszeń dotyczyło Londynu: 86 164, czyli 11,2%. Kolejne były Manchester (15 626; 2,0%), Birmingham (13 308; 1,7%) i Glasgow (12 181; 1,6%). W 12 560 ogłoszeniach jako lokalizację podano cały kraj. Największym źródłem był Indeed z 330 608 ogłoszeniami (42,9% przed zdjęciem powtórek). Za nim znalazły się Careerjet (241 054) i Jooble (198 180). Wszystkie trzy to agregatory.",
+  "bullets_pl": [
+   "633 298 nowych ogłoszeń w sierpniu 2026 r. (indeks = 100)",
+   "Mediana wynagrodzenia: 2 772 GBP miesięcznie, przy stawce podanej w 33% ogłoszeń",
+   "Praca zdalna: 1,4% ogłoszeń"
+  ],
+  "caveats_pl": "Dane obejmują wyłącznie ogłoszenia z trzech agregatorów internetowych, zbierane od 1 sierpnia 2026 r. (miesiące wcześniejsze są niepełne, a wrzesień pominięto z powodu przerwy w zbieraniu), a mediana wynagrodzenia opiera się tylko na 33% ogłoszeń z podaną stawką.",
+  "lead_en": "In August 2026, 633,298 new online job postings appeared in the United Kingdom. It is the first complete month of measurement and the index base (100).",
+  "body_en": "In August 2026, 633,298 new job postings for the United Kingdom appeared across three monitored services, after removing cross-service duplicates. Before deduplication there were 769,842, and an estimated 17.7% of postings appeared on more than one service. At month-end, 1,335,770 postings were active. August is the first complete month of data collection and the index base, so there is no month-on-month or year-on-year comparison.\n\nThe median salary was GBP 2,772 per month. Half of the stated pay rates fell between GBP 2,331 and GBP 3,958. This covers only postings with a stated amount, which was 33% of postings (182,176). Remote work was flagged in 1.4% of postings.\n\nFull-time work was indicated in 26.6% of postings, part-time in 7.5% and contract in 3.8%. In 61.6% of postings the employment type was not stated, so the contract structure should be treated with caution.\n\nLondon had the most postings: 86,164, or 11.2%. It was followed by Manchester (15,626; 2.0%), Birmingham (13,308; 1.7%) and Glasgow (12,181; 1.6%). In 12,560 postings the location given was the country as a whole. The largest source was Indeed with 330,608 postings (42.9% before deduplication). It was followed by Careerjet (241,054) and Jooble (198,180). All three are aggregators.",
+  "bullets_en": [
+   "633,298 new postings in August 2026 (index = 100)",
+   "Median salary: GBP 2,772 per month, with pay stated in 33% of postings",
+   "Remote work: 1.4% of postings"
+  ]
+ },
+ "skills_demo": {
+  "is_synthetic": true,
+  "note_pl": "Dane demonstracyjne: nazwy umiejętności pochodzą z taksonomii ESCO, wartości są wygenerowane. Docelowo - identyfikacja umiejętności w treści ogłoszeń.",
+  "months": [
+   "2026-03",
+   "2026-04",
+   "2026-05",
+   "2026-06",
+   "2026-07",
+   "2026-08"
+  ],
+  "groups": [
+   {
+    "id": "digital",
+    "name_pl": "Kompetencje cyfrowe",
+    "name_en": "Digital skills",
+    "share": 0.17,
+    "change_pct": 8.3
+   },
+   {
+    "id": "data_ai",
+    "name_pl": "Dane i sztuczna inteligencja",
+    "name_en": "Data & AI",
+    "share": 0.066,
+    "change_pct": 23.8
+   },
+   {
+    "id": "green",
+    "name_pl": "Zielone kompetencje",
+    "name_en": "Green skills",
+    "share": 0.054,
+    "change_pct": 11.9
+   },
+   {
+    "id": "management",
+    "name_pl": "Zarządzanie",
+    "name_en": "Management",
+    "share": 0.125,
+    "change_pct": -3.4
+   },
+   {
+    "id": "communication",
+    "name_pl": "Komunikacja i współpraca",
+    "name_en": "Communication & teamwork",
+    "share": 0.128,
+    "change_pct": -5.1
+   },
+   {
+    "id": "technical_trades",
+    "name_pl": "Zawody techniczne i produkcja",
+    "name_en": "Technical trades",
+    "share": 0.127,
+    "change_pct": -3.5
+   },
+   {
+    "id": "healthcare",
+    "name_pl": "Opieka zdrowotna",
+    "name_en": "Healthcare",
+    "share": 0.086,
+    "change_pct": 1.6
+   },
+   {
+    "id": "finance_admin",
+    "name_pl": "Finanse i administracja",
+    "name_en": "Finance & administration",
+    "share": 0.093,
+    "change_pct": -7.6
+   },
+   {
+    "id": "languages",
+    "name_pl": "Języki obce",
+    "name_en": "Languages",
+    "share": 0.064,
+    "change_pct": -4.2
+   },
+   {
+    "id": "customer_sales",
+    "name_pl": "Obsługa klienta i sprzedaż",
+    "name_en": "Customer service & sales",
+    "share": 0.089,
+    "change_pct": -7.0
+   }
+  ],
+  "skills": [
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/a17286c5-238d-4f0b-bc24-29e9121345de",
+    "name_pl": "aktywne słuchanie",
+    "name_en": "listen actively",
+    "group": "communication",
+    "share": 0.0185,
+    "change_pct": 1.1,
+    "series": [
+     0.0183,
+     0.0178,
+     0.0182,
+     0.0187,
+     0.0182,
+     0.0185
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/c55caed2-de9e-4a25-819e-a0b0e83fba1b",
+    "name_pl": "prowadzenie prezentacji",
+    "name_en": "give live presentation",
+    "group": "communication",
+    "share": 0.0166,
+    "change_pct": 4.4,
+    "series": [
+     0.0159,
+     0.015,
+     0.0157,
+     0.0165,
+     0.016,
+     0.0166
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/19858dd3-a5fe-4855-b644-6ecfefd1c384",
+    "name_pl": "stolarka",
+    "name_en": "carpentry",
+    "group": "technical_trades",
+    "share": 0.015,
+    "change_pct": 13.6,
+    "series": [
+     0.0132,
+     0.014,
+     0.014,
+     0.0145,
+     0.0146,
+     0.015
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389",
+    "name_pl": "Java (programowanie)",
+    "name_en": "Java (computer programming)",
+    "group": "digital",
+    "share": 0.0139,
+    "change_pct": 35.0,
+    "series": [
+     0.0103,
+     0.0108,
+     0.0118,
+     0.0123,
+     0.0132,
+     0.0139
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+    "name_pl": "obsługa pakietu Microsoft Office",
+    "name_en": "use microsoft office",
+    "group": "digital",
+    "share": 0.0134,
+    "change_pct": 30.1,
+    "series": [
+     0.0103,
+     0.0109,
+     0.0115,
+     0.0119,
+     0.0125,
+     0.0134
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742",
+    "name_pl": "SQL",
+    "name_en": "SQL",
+    "group": "digital",
+    "share": 0.013,
+    "change_pct": 6.6,
+    "series": [
+     0.0122,
+     0.0121,
+     0.0124,
+     0.0125,
+     0.0127,
+     0.013
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/28cb374e-6261-4133-8371-f9a5470145da",
+    "name_pl": "obsługa wózka widłowego",
+    "name_en": "operate forklift",
+    "group": "technical_trades",
+    "share": 0.013,
+    "change_pct": 3.2,
+    "series": [
+     0.0126,
+     0.0132,
+     0.013,
+     0.013,
+     0.0133,
+     0.013
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+    "name_pl": "JavaScript",
+    "name_en": "JavaScript",
+    "group": "digital",
+    "share": 0.0127,
+    "change_pct": 6.7,
+    "series": [
+     0.0119,
+     0.0121,
+     0.0125,
+     0.0125,
+     0.0127,
+     0.0127
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0",
+    "name_pl": "technologie chmurowe",
+    "name_en": "cloud technologies",
+    "group": "digital",
+    "share": 0.0126,
+    "change_pct": 26.0,
+    "series": [
+     0.01,
+     0.0102,
+     0.011,
+     0.0115,
+     0.012,
+     0.0126
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/6eff134b-e34f-4d6e-a6e8-5e47cf2228d0",
+    "name_pl": "zarządzanie ryzykiem",
+    "name_en": "risk management",
+    "group": "management",
+    "share": 0.0122,
+    "change_pct": -3.9,
+    "series": [
+     0.0127,
+     0.0127,
+     0.0125,
+     0.0126,
+     0.0121,
+     0.0122
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/f929c89e-c363-4132-a918-e021d57b307c",
+    "name_pl": "zarządzanie łańcuchem dostaw",
+    "name_en": "supply chain management",
+    "group": "management",
+    "share": 0.0116,
+    "change_pct": 14.9,
+    "series": [
+     0.0101,
+     0.0104,
+     0.0109,
+     0.011,
+     0.0112,
+     0.0116
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/afd49651-9119-4327-91fc-844a6dda1254",
+    "name_pl": "zarządzanie konfliktem",
+    "name_en": "conflict management",
+    "group": "communication",
+    "share": 0.0112,
+    "change_pct": 8.7,
+    "series": [
+     0.0103,
+     0.01,
+     0.0105,
+     0.0106,
+     0.0108,
+     0.0112
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/949ced5f-7536-4614-ac60-563ffc91a2f2",
+    "name_pl": "planowanie strategiczne",
+    "name_en": "strategic planning",
+    "group": "management",
+    "share": 0.0105,
+    "change_pct": 4.0,
+    "series": [
+     0.0101,
+     0.0102,
+     0.0105,
+     0.0104,
+     0.0103,
+     0.0105
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/d15e92c4-c8dc-48cd-a1f6-94fe13347f87",
+    "name_pl": "schematy instalacji elektrycznych",
+    "name_en": "electrical wiring plans",
+    "group": "technical_trades",
+    "share": 0.0102,
+    "change_pct": 4.1,
+    "series": [
+     0.0098,
+     0.0101,
+     0.0099,
+     0.0102,
+     0.0102,
+     0.0102
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/261e740b-d32d-4356-94a8-3ea29128b70b",
+    "name_pl": "opieka nad osobami starszymi",
+    "name_en": "tend to elderly people",
+    "group": "healthcare",
+    "share": 0.0096,
+    "change_pct": 12.9,
+    "series": [
+     0.0085,
+     0.0087,
+     0.0089,
+     0.0088,
+     0.009,
+     0.0096
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/24f980ba-b44f-4739-b563-205104c3190d",
+    "name_pl": "podstawowa opieka nad pacjentem",
+    "name_en": "provide basic support to patients",
+    "group": "healthcare",
+    "share": 0.009,
+    "change_pct": 2.3,
+    "series": [
+     0.0088,
+     0.0086,
+     0.0087,
+     0.0087,
+     0.0086,
+     0.009
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/d669af41-756c-48d9-a286-1443253f54b1",
+    "name_pl": "prawo podatkowe",
+    "name_en": "tax legislation",
+    "group": "finance_admin",
+    "share": 0.0089,
+    "change_pct": 7.2,
+    "series": [
+     0.0083,
+     0.0083,
+     0.0085,
+     0.0084,
+     0.0087,
+     0.0089
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/9d916d7c-89b3-4084-a6d9-e2b0b3091404",
+    "name_pl": "obsługa płac",
+    "name_en": "manage payroll",
+    "group": "finance_admin",
+    "share": 0.0086,
+    "change_pct": -14.0,
+    "series": [
+     0.01,
+     0.0098,
+     0.0096,
+     0.0089,
+     0.0091,
+     0.0086
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d",
+    "name_pl": "działania sprzedażowe",
+    "name_en": "sales activities",
+    "group": "customer_sales",
+    "share": 0.0084,
+    "change_pct": 6.3,
+    "series": [
+     0.0079,
+     0.0081,
+     0.0084,
+     0.0084,
+     0.0086,
+     0.0084
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/71152876-b629-4a99-b9ea-0f25a0d07e4e",
+    "name_pl": "negocjowanie umów sprzedaży",
+    "name_en": "negotiate sales contracts",
+    "group": "customer_sales",
+    "share": 0.0084,
+    "change_pct": 16.7,
+    "series": [
+     0.0072,
+     0.0075,
+     0.008,
+     0.008,
+     0.0085,
+     0.0084
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/1fe42b38-cd42-4fc7-ae77-14e4c9e96295",
+    "name_pl": "język chiński",
+    "name_en": "Chinese",
+    "group": "languages",
+    "share": 0.0082,
+    "change_pct": -2.4,
+    "series": [
+     0.0084,
+     0.0085,
+     0.0085,
+     0.0084,
+     0.0083,
+     0.0082
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/e747e77e-0ea1-4001-8b07-1d11946b5f1b",
+    "name_pl": "język francuski",
+    "name_en": "French",
+    "group": "languages",
+    "share": 0.0074,
+    "change_pct": 19.4,
+    "series": [
+     0.0062,
+     0.0066,
+     0.0067,
+     0.007,
+     0.0073,
+     0.0074
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/22c45bf7-e52b-475f-847b-c32a87f65a5d",
+    "name_pl": "gospodarka obiegu zamkniętego",
+    "name_en": "circular economy",
+    "group": "green",
+    "share": 0.0067,
+    "change_pct": 11.7,
+    "series": [
+     0.006,
+     0.0062,
+     0.0062,
+     0.0064,
+     0.0066,
+     0.0067
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+    "name_pl": "analiza danych",
+    "name_en": "perform data analysis",
+    "group": "data_ai",
+    "share": 0.0059,
+    "change_pct": 11.3,
+    "series": [
+     0.0053,
+     0.0055,
+     0.0057,
+     0.0057,
+     0.006,
+     0.0059
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/fff0e2cd-d0bd-4b02-9daf-158b79d9688a",
+    "name_pl": "przetwarzanie języka naturalnego",
+    "name_en": "natural language processing",
+    "group": "data_ai",
+    "share": 0.0059,
+    "change_pct": 43.9,
+    "series": [
+     0.0041,
+     0.0045,
+     0.005,
+     0.0051,
+     0.0055,
+     0.0059
+    ]
+   }
+  ]
+ }
+}

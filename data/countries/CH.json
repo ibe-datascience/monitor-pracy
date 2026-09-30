@@ -1,0 +1,2171 @@
+{
+ "country": {
+  "code": "CH",
+  "iso3": "CHE",
+  "numeric": 756,
+  "name_pl": "Szwajcaria",
+  "name_en": "Switzerland",
+  "continent": "europe",
+  "currency": "CHF"
+ },
+ "generated_at": "2026-09-30T15:36:10+00:00",
+ "coverage": {
+  "first_month": "2026-02",
+  "last_month": "2026-08",
+  "collecting_since": "2026-08-01",
+  "complete_from": "2026-08",
+  "index_base_month": "2026-08",
+  "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
+ },
+ "headline": {
+  "month": "2026-08",
+  "postings_new": 145629,
+  "postings_raw": 168970,
+  "mom_pct": null,
+  "yoy_pct": null,
+  "postings_active_end": 201232,
+  "salary_median": 7500,
+  "salary_currency": "CHF",
+  "salary_share": 0.07,
+  "remote_share": 0.017,
+  "sources": 3,
+  "top_source": {
+   "code": "careerjet.ch",
+   "service": "Careerjet",
+   "share": 0.45
+  }
+ },
+ "monthly": [
+  {
+   "period": "2026-02",
+   "partial": false,
+   "postings_new": 1739,
+   "postings_raw": 1771,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 1.2,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.005,
+    "currency": "CHF"
+   },
+   "remote_share": 0.162,
+   "employment": {
+    "full_time": 0.404,
+    "part_time": 0.139,
+    "contract": 0.033,
+    "other": 0.047,
+    "unknown": 0.377
+   },
+   "by_source": [
+    {
+     "code": "indeed.ch",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 1457
+    },
+    {
+     "code": "jooble.ch",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 314
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Zürich",
+     "n": 176,
+     "share": 0.099
+    },
+    {
+     "name": "Bern",
+     "n": 81,
+     "share": 0.046
+    },
+    {
+     "name": "Zürich ZH",
+     "n": 47,
+     "share": 0.027
+    },
+    {
+     "name": "Basel",
+     "n": 45,
+     "share": 0.025
+    },
+    {
+     "name": "Basel BS",
+     "n": 39,
+     "share": 0.022
+    },
+    {
+     "name": "Genève",
+     "n": 39,
+     "share": 0.022
+    },
+    {
+     "name": "Lausanne",
+     "n": 29,
+     "share": 0.016
+    },
+    {
+     "name": "St. Gallen",
+     "n": 26,
+     "share": 0.015
+    },
+    {
+     "name": "Zug",
+     "n": 25,
+     "share": 0.014
+    },
+    {
+     "name": "Luzern",
+     "n": 24,
+     "share": 0.014
+    },
+    {
+     "name": "Biel/Bienne",
+     "n": 17,
+     "share": 0.01
+    },
+    {
+     "name": "Home Office",
+     "n": 17,
+     "share": 0.01
+    },
+    {
+     "name": "Wil",
+     "n": 15,
+     "share": 0.008
+    },
+    {
+     "name": "Zollikofen",
+     "n": 15,
+     "share": 0.008
+    },
+    {
+     "name": "Liestal",
+     "n": 13,
+     "share": 0.007
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-03",
+   "partial": false,
+   "postings_new": 2678,
+   "postings_raw": 2744,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 1.8,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.007,
+    "currency": "CHF"
+   },
+   "remote_share": 0.105,
+   "employment": {
+    "full_time": 0.374,
+    "part_time": 0.129,
+    "contract": 0.016,
+    "other": 0.027,
+    "unknown": 0.454
+   },
+   "by_source": [
+    {
+     "code": "indeed.ch",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 2023
+    },
+    {
+     "code": "jooble.ch",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 721
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Zürich",
+     "n": 289,
+     "share": 0.105
+    },
+    {
+     "name": "Bern",
+     "n": 94,
+     "share": 0.034
+    },
+    {
+     "name": "Zürich ZH",
+     "n": 81,
+     "share": 0.03
+    },
+    {
+     "name": "Genève",
+     "n": 70,
+     "share": 0.026
+    },
+    {
+     "name": "Basel",
+     "n": 64,
+     "share": 0.023
+    },
+    {
+     "name": "Bern BE",
+     "n": 62,
+     "share": 0.023
+    },
+    {
+     "name": "Basel BS",
+     "n": 46,
+     "share": 0.017
+    },
+    {
+     "name": "Stans NW",
+     "n": 46,
+     "share": 0.017
+    },
+    {
+     "name": "Genf GE",
+     "n": 39,
+     "share": 0.014
+    },
+    {
+     "name": "Luzern",
+     "n": 38,
+     "share": 0.014
+    },
+    {
+     "name": "Zug",
+     "n": 35,
+     "share": 0.013
+    },
+    {
+     "name": "Lausanne",
+     "n": 29,
+     "share": 0.011
+    },
+    {
+     "name": "Winterthur",
+     "n": 26,
+     "share": 0.009
+    },
+    {
+     "name": "Biel/Bienne",
+     "n": 24,
+     "share": 0.009
+    },
+    {
+     "name": "Baden",
+     "n": 22,
+     "share": 0.008
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-04",
+   "partial": false,
+   "postings_new": 3591,
+   "postings_raw": 3674,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 2.5,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.012,
+    "currency": "CHF"
+   },
+   "remote_share": 0.135,
+   "employment": {
+    "full_time": 0.434,
+    "part_time": 0.123,
+    "contract": 0.013,
+    "other": 0.053,
+    "unknown": 0.376
+   },
+   "by_source": [
+    {
+     "code": "indeed.ch",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 2949
+    },
+    {
+     "code": "jooble.ch",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 725
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Zürich",
+     "n": 415,
+     "share": 0.113
+    },
+    {
+     "name": "Bern",
+     "n": 122,
+     "share": 0.033
+    },
+    {
+     "name": "Basel",
+     "n": 89,
+     "share": 0.024
+    },
+    {
+     "name": "Zürich ZH",
+     "n": 86,
+     "share": 0.023
+    },
+    {
+     "name": "Genève",
+     "n": 69,
+     "share": 0.019
+    },
+    {
+     "name": "Bern BE",
+     "n": 58,
+     "share": 0.016
+    },
+    {
+     "name": "Lausanne",
+     "n": 56,
+     "share": 0.015
+    },
+    {
+     "name": "Luzern",
+     "n": 45,
+     "share": 0.012
+    },
+    {
+     "name": "St. Gallen",
+     "n": 42,
+     "share": 0.011
+    },
+    {
+     "name": "Winterthur",
+     "n": 39,
+     "share": 0.011
+    },
+    {
+     "name": "Biel/Bienne",
+     "n": 33,
+     "share": 0.009
+    },
+    {
+     "name": "Fribourg",
+     "n": 31,
+     "share": 0.008
+    },
+    {
+     "name": "Sankt Gallen SG",
+     "n": 31,
+     "share": 0.008
+    },
+    {
+     "name": "Aarau",
+     "n": 30,
+     "share": 0.008
+    },
+    {
+     "name": "Langenthal",
+     "n": 30,
+     "share": 0.008
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-05",
+   "partial": false,
+   "postings_new": 6448,
+   "postings_raw": 6787,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 4.4,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 7500,
+    "p25": 6276,
+    "p75": 8854,
+    "mean": 7765,
+    "n": 20,
+    "share": 0.015,
+    "currency": "CHF"
+   },
+   "remote_share": 0.106,
+   "employment": {
+    "full_time": 0.325,
+    "part_time": 0.089,
+    "contract": 0.014,
+    "other": 0.035,
+    "unknown": 0.537
+   },
+   "by_source": [
+    {
+     "code": "indeed.ch",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 4095
+    },
+    {
+     "code": "jooble.ch",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 1347
+    },
+    {
+     "code": "careerjet.ch",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 1345
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Zürich",
+     "n": 620,
+     "share": 0.091
+    },
+    {
+     "name": "Bern",
+     "n": 196,
+     "share": 0.029
+    },
+    {
+     "name": "Basel",
+     "n": 184,
+     "share": 0.027
+    },
+    {
+     "name": "Zürich ZH",
+     "n": 171,
+     "share": 0.025
+    },
+    {
+     "name": "Genève",
+     "n": 151,
+     "share": 0.022
+    },
+    {
+     "name": "Schweiz",
+     "n": 109,
+     "share": 0.016
+    },
+    {
+     "name": "St. Gallen",
+     "n": 105,
+     "share": 0.015
+    },
+    {
+     "name": "Luzern",
+     "n": 99,
+     "share": 0.015
+    },
+    {
+     "name": "Lausanne",
+     "n": 85,
+     "share": 0.013
+    },
+    {
+     "name": "Luzern LU",
+     "n": 85,
+     "share": 0.013
+    },
+    {
+     "name": "Lugano",
+     "n": 80,
+     "share": 0.012
+    },
+    {
+     "name": "Winterthur",
+     "n": 71,
+     "share": 0.01
+    },
+    {
+     "name": "Bern BE",
+     "n": 67,
+     "share": 0.01
+    },
+    {
+     "name": "Sankt Gallen SG",
+     "n": 55,
+     "share": 0.008
+    },
+    {
+     "name": "Aarau",
+     "n": 54,
+     "share": 0.008
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-06",
+   "partial": false,
+   "postings_new": 13358,
+   "postings_raw": 14151,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 9.2,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 8938,
+    "p25": 7083,
+    "p75": 10854,
+    "mean": 8615,
+    "n": 51,
+    "share": 0.023,
+    "currency": "CHF"
+   },
+   "remote_share": 0.051,
+   "employment": {
+    "full_time": 0.273,
+    "part_time": 0.083,
+    "contract": 0.012,
+    "other": 0.029,
+    "unknown": 0.603
+   },
+   "by_source": [
+    {
+     "code": "indeed.ch",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 7200
+    },
+    {
+     "code": "jooble.ch",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 3984
+    },
+    {
+     "code": "careerjet.ch",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 2967
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Zürich",
+     "n": 1363,
+     "share": 0.096
+    },
+    {
+     "name": "Bern",
+     "n": 465,
+     "share": 0.033
+    },
+    {
+     "name": "Zürich ZH",
+     "n": 450,
+     "share": 0.032
+    },
+    {
+     "name": "Basel",
+     "n": 361,
+     "share": 0.026
+    },
+    {
+     "name": "Genève",
+     "n": 285,
+     "share": 0.02
+    },
+    {
+     "name": "Basel BS",
+     "n": 272,
+     "share": 0.019
+    },
+    {
+     "name": "St. Gallen",
+     "n": 229,
+     "share": 0.016
+    },
+    {
+     "name": "Bern BE",
+     "n": 206,
+     "share": 0.015
+    },
+    {
+     "name": "Luzern",
+     "n": 199,
+     "share": 0.014
+    },
+    {
+     "name": "Schweiz",
+     "n": 194,
+     "share": 0.014
+    },
+    {
+     "name": "Lausanne",
+     "n": 176,
+     "share": 0.012
+    },
+    {
+     "name": "Genf GE",
+     "n": 136,
+     "share": 0.01
+    },
+    {
+     "name": "Zug",
+     "n": 129,
+     "share": 0.009
+    },
+    {
+     "name": "Winterthur",
+     "n": 126,
+     "share": 0.009
+    },
+    {
+     "name": "Luzern LU",
+     "n": 123,
+     "share": 0.009
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "stv. filialleiter / stv. filialleiterin (m/w/d) 80-100%",
+     "n": 37
+    },
+    {
+     "title": "verkäufer / verkäuferin mit schichtverantwortung (m/w/d) 60-80%",
+     "n": 33
+    },
+    {
+     "title": "allrounder verkauf (m/w/d) 20-40% 1",
+     "n": 20
+    },
+    {
+     "title": "verkäuferin / verkäufer (m/w/d)",
+     "n": 16
+    },
+    {
+     "title": "frühzustellung werktag oder sonntag",
+     "n": 15
+    },
+    {
+     "title": "flexible teilzeitverkäuferin",
+     "n": 14
+    },
+    {
+     "title": "elektroinstallateur efz oder montage elektriker efz | lehrabgänger und rs abgänger willkommen",
+     "n": 12
+    },
+    {
+     "title": "verkäufer / verkäuferin (m/w/d) 20-80%",
+     "n": 12
+    },
+    {
+     "title": "frühzustellung werktag",
+     "n": 10
+    },
+    {
+     "title": "german speaking online ads account manager in barcelona w/relocation bonus",
+     "n": 10
+    },
+    {
+     "title": "head of information security governance, risk and compliance ((m/w/d)",
+     "n": 10
+    },
+    {
+     "title": "lehrstelle als detailhandelsfachfrau/mann efz lebensmittel 2027",
+     "n": 10
+    },
+    {
+     "title": "verkäufer / verkäuferin (m/w/d) 20-40%",
+     "n": 10
+    },
+    {
+     "title": "verkäufer / verkäuferin mit schichtverantwortung (m/w/d) 60-80% 1",
+     "n": 10
+    },
+    {
+     "title": "verkäufer*​in",
+     "n": 10
+    }
+   ],
+   "regions": []
+  },
+  {
+   "period": "2026-07",
+   "partial": false,
+   "postings_new": 82280,
+   "postings_raw": 88400,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 56.5,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 7333,
+    "p25": 6235,
+    "p75": 8958,
+    "mean": 7513,
+    "n": 568,
+    "share": 0.093,
+    "currency": "CHF"
+   },
+   "remote_share": 0.022,
+   "employment": {
+    "full_time": 0.109,
+    "part_time": 0.03,
+    "contract": 0.01,
+    "other": 0.016,
+    "unknown": 0.835
+   },
+   "by_source": [
+    {
+     "code": "jooble.ch",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 38056
+    },
+    {
+     "code": "careerjet.ch",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 32816
+    },
+    {
+     "code": "indeed.ch",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 17528
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Zürich",
+     "n": 5397,
+     "share": 0.061
+    },
+    {
+     "name": "Zürich ZH",
+     "n": 4113,
+     "share": 0.047
+    },
+    {
+     "name": "Bern",
+     "n": 2472,
+     "share": 0.028
+    },
+    {
+     "name": "Basel",
+     "n": 1773,
+     "share": 0.02
+    },
+    {
+     "name": "Schweiz",
+     "n": 1583,
+     "share": 0.018
+    },
+    {
+     "name": "Lausanne",
+     "n": 1320,
+     "share": 0.015
+    },
+    {
+     "name": "Bern BE",
+     "n": 1312,
+     "share": 0.015
+    },
+    {
+     "name": "St. Gallen",
+     "n": 1118,
+     "share": 0.013
+    },
+    {
+     "name": "Basel BS",
+     "n": 1091,
+     "share": 0.012
+    },
+    {
+     "name": "Sankt Gallen SG",
+     "n": 1014,
+     "share": 0.011
+    },
+    {
+     "name": "Luzern LU",
+     "n": 923,
+     "share": 0.01
+    },
+    {
+     "name": "Luzern",
+     "n": 905,
+     "share": 0.01
+    },
+    {
+     "name": "Winterthur",
+     "n": 899,
+     "share": 0.01
+    },
+    {
+     "name": "Genf GE",
+     "n": 872,
+     "share": 0.01
+    },
+    {
+     "name": "Genève",
+     "n": 697,
+     "share": 0.008
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "elektroinstallateur",
+     "n": 421
+    },
+    {
+     "title": "verkäufer:in food",
+     "n": 257
+    },
+    {
+     "title": "anlagenführer",
+     "n": 140
+    },
+    {
+     "title": "sanitärinstallateur efz",
+     "n": 139
+    },
+    {
+     "title": "metzger:in (fleischfachfrau / fleischfachmann)",
+     "n": 132
+    },
+    {
+     "title": "zimmermann efz",
+     "n": 131
+    },
+    {
+     "title": "zimmermann",
+     "n": 126
+    },
+    {
+     "title": "elektroinstallateur efz",
+     "n": 111
+    },
+    {
+     "title": "logistiker",
+     "n": 103
+    },
+    {
+     "title": "schlosser / metallbauer",
+     "n": 101
+    },
+    {
+     "title": "servicetechniker",
+     "n": 100
+    },
+    {
+     "title": "küchenmonteur",
+     "n": 96
+    },
+    {
+     "title": "verkäufer:in kassen/services",
+     "n": 95
+    },
+    {
+     "title": "baumaschinenmechaniker",
+     "n": 94
+    },
+    {
+     "title": "exportsachbearbeiter",
+     "n": 89
+    }
+   ],
+   "regions": []
+  },
+  {
+   "period": "2026-08",
+   "partial": false,
+   "postings_new": 145629,
+   "postings_raw": 168970,
+   "postings_active_end": 201232,
+   "postings_closed": 91103,
+   "index": 100.0,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 7500,
+    "p25": 6667,
+    "p75": 8750,
+    "mean": 7626,
+    "n": 1391,
+    "share": 0.07,
+    "currency": "CHF"
+   },
+   "remote_share": 0.017,
+   "employment": {
+    "full_time": 0.074,
+    "part_time": 0.023,
+    "contract": 0.007,
+    "other": 0.009,
+    "unknown": 0.886
+   },
+   "by_source": [
+    {
+     "code": "careerjet.ch",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 75980
+    },
+    {
+     "code": "jooble.ch",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 69539
+    },
+    {
+     "code": "indeed.ch",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 23451
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Zürich",
+     "n": 12630,
+     "share": 0.075
+    },
+    {
+     "name": "Zürich ZH",
+     "n": 7286,
+     "share": 0.043
+    },
+    {
+     "name": "Bern",
+     "n": 6167,
+     "share": 0.036
+    },
+    {
+     "name": "Basel",
+     "n": 4206,
+     "share": 0.025
+    },
+    {
+     "name": "Genf",
+     "n": 3053,
+     "share": 0.018
+    },
+    {
+     "name": "Schweiz",
+     "n": 2946,
+     "share": 0.017
+    },
+    {
+     "name": "Lausanne",
+     "n": 2898,
+     "share": 0.017
+    },
+    {
+     "name": "Bern BE",
+     "n": 2339,
+     "share": 0.014
+    },
+    {
+     "name": "St. Gallen",
+     "n": 2129,
+     "share": 0.013
+    },
+    {
+     "name": "Thun BE",
+     "n": 1816,
+     "share": 0.011
+    },
+    {
+     "name": "Basel BS",
+     "n": 1726,
+     "share": 0.01
+    },
+    {
+     "name": "Luzern",
+     "n": 1618,
+     "share": 0.01
+    },
+    {
+     "name": "Winterthur",
+     "n": 1610,
+     "share": 0.01
+    },
+    {
+     "name": "Schaffhausen - Zürich",
+     "n": 1414,
+     "share": 0.008
+    },
+    {
+     "name": "Luzern LU",
+     "n": 1358,
+     "share": 0.008
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "elektroinstallateur",
+     "n": 460
+    },
+    {
+     "title": "elektroplaner",
+     "n": 342
+    },
+    {
+     "title": "verkäufer:in food",
+     "n": 334
+    },
+    {
+     "title": "sanitärinstallateur efz",
+     "n": 259
+    },
+    {
+     "title": "storenmonteur",
+     "n": 236
+    },
+    {
+     "title": "detailhandelsfachfrau:mann efz «gestalten von einkaufserlebnissen",
+     "n": 207
+    },
+    {
+     "title": "verkäufer:in kassen/services",
+     "n": 202
+    },
+    {
+     "title": "heizungsinstallateur",
+     "n": 189
+    },
+    {
+     "title": "detailhandelsassistent:in eba",
+     "n": 174
+    },
+    {
+     "title": "verkäufer:in frischprodukte",
+     "n": 162
+    },
+    {
+     "title": "lüftungsanlagenbauer",
+     "n": 158
+    },
+    {
+     "title": "zimmermann efz",
+     "n": 142
+    },
+    {
+     "title": "immobilienvermarkter",
+     "n": 141
+    },
+    {
+     "title": "elektroinstallateur efz",
+     "n": 140
+    },
+    {
+     "title": "metzger:in (fleischfachfrau / fleischfachmann)",
+     "n": 139
+    }
+   ],
+   "regions": []
+  }
+ ],
+ "quarterly": [
+  {
+   "period": "2026-Q1",
+   "partial": true,
+   "postings_new": 4417,
+   "postings_raw": 4515,
+   "qoq_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.006,
+    "currency": "CHF"
+   },
+   "remote_share": 0.127,
+   "employment": {
+    "full_time": 0.386,
+    "part_time": 0.133,
+    "contract": 0.023,
+    "other": 0.035,
+    "unknown": 0.424
+   },
+   "by_source": [
+    {
+     "code": "indeed.ch",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 3480
+    },
+    {
+     "code": "jooble.ch",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 1035
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Zürich",
+     "n": 465,
+     "share": 0.103
+    },
+    {
+     "name": "Bern",
+     "n": 175,
+     "share": 0.039
+    },
+    {
+     "name": "Zürich ZH",
+     "n": 128,
+     "share": 0.028
+    },
+    {
+     "name": "Basel",
+     "n": 109,
+     "share": 0.024
+    },
+    {
+     "name": "Genève",
+     "n": 109,
+     "share": 0.024
+    },
+    {
+     "name": "Basel BS",
+     "n": 85,
+     "share": 0.019
+    },
+    {
+     "name": "Bern BE",
+     "n": 62,
+     "share": 0.014
+    },
+    {
+     "name": "Luzern",
+     "n": 62,
+     "share": 0.014
+    },
+    {
+     "name": "Zug",
+     "n": 60,
+     "share": 0.013
+    },
+    {
+     "name": "Lausanne",
+     "n": 58,
+     "share": 0.013
+    },
+    {
+     "name": "Stans NW",
+     "n": 46,
+     "share": 0.01
+    },
+    {
+     "name": "Biel/Bienne",
+     "n": 41,
+     "share": 0.009
+    },
+    {
+     "name": "Genf GE",
+     "n": 39,
+     "share": 0.009
+    },
+    {
+     "name": "St. Gallen",
+     "n": 26,
+     "share": 0.006
+    },
+    {
+     "name": "Winterthur",
+     "n": 26,
+     "share": 0.006
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-Q2",
+   "partial": false,
+   "postings_new": 23397,
+   "postings_raw": 24612,
+   "qoq_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 8533,
+    "p25": 6856,
+    "p75": 10291,
+    "mean": 8376,
+    "n": 71,
+    "share": 0.019,
+    "currency": "CHF"
+   },
+   "remote_share": 0.079,
+   "employment": {
+    "full_time": 0.311,
+    "part_time": 0.091,
+    "contract": 0.013,
+    "other": 0.034,
+    "unknown": 0.551
+   },
+   "by_source": [
+    {
+     "code": "indeed.ch",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 14244
+    },
+    {
+     "code": "jooble.ch",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 6056
+    },
+    {
+     "code": "careerjet.ch",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 4312
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Zürich",
+     "n": 2398,
+     "share": 0.097
+    },
+    {
+     "name": "Bern",
+     "n": 783,
+     "share": 0.032
+    },
+    {
+     "name": "Zürich ZH",
+     "n": 707,
+     "share": 0.029
+    },
+    {
+     "name": "Basel",
+     "n": 634,
+     "share": 0.026
+    },
+    {
+     "name": "Genève",
+     "n": 505,
+     "share": 0.021
+    },
+    {
+     "name": "St. Gallen",
+     "n": 376,
+     "share": 0.015
+    },
+    {
+     "name": "Luzern",
+     "n": 343,
+     "share": 0.014
+    },
+    {
+     "name": "Bern BE",
+     "n": 331,
+     "share": 0.013
+    },
+    {
+     "name": "Lausanne",
+     "n": 317,
+     "share": 0.013
+    },
+    {
+     "name": "Schweiz",
+     "n": 303,
+     "share": 0.012
+    },
+    {
+     "name": "Basel BS",
+     "n": 272,
+     "share": 0.011
+    },
+    {
+     "name": "Winterthur",
+     "n": 236,
+     "share": 0.01
+    },
+    {
+     "name": "Luzern LU",
+     "n": 208,
+     "share": 0.008
+    },
+    {
+     "name": "Genf GE",
+     "n": 136,
+     "share": 0.006
+    },
+    {
+     "name": "Zug",
+     "n": 129,
+     "share": 0.005
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "stv. filialleiter / stv. filialleiterin (m/w/d) 80-100%",
+     "n": 37
+    },
+    {
+     "title": "verkäufer / verkäuferin mit schichtverantwortung (m/w/d) 60-80%",
+     "n": 33
+    },
+    {
+     "title": "allrounder verkauf (m/w/d) 20-40% 1",
+     "n": 20
+    },
+    {
+     "title": "verkäuferin / verkäufer (m/w/d)",
+     "n": 16
+    },
+    {
+     "title": "frühzustellung werktag oder sonntag",
+     "n": 15
+    },
+    {
+     "title": "flexible teilzeitverkäuferin",
+     "n": 14
+    },
+    {
+     "title": "elektroinstallateur efz oder montage elektriker efz | lehrabgänger und rs abgänger willkommen",
+     "n": 12
+    },
+    {
+     "title": "verkäufer / verkäuferin (m/w/d) 20-80%",
+     "n": 12
+    },
+    {
+     "title": "frühzustellung werktag",
+     "n": 10
+    },
+    {
+     "title": "german speaking online ads account manager in barcelona w/relocation bonus",
+     "n": 10
+    },
+    {
+     "title": "head of information security governance, risk and compliance ((m/w/d)",
+     "n": 10
+    },
+    {
+     "title": "lehrstelle als detailhandelsfachfrau/mann efz lebensmittel 2027",
+     "n": 10
+    },
+    {
+     "title": "verkäufer / verkäuferin (m/w/d) 20-40%",
+     "n": 10
+    },
+    {
+     "title": "verkäufer / verkäuferin mit schichtverantwortung (m/w/d) 60-80% 1",
+     "n": 10
+    },
+    {
+     "title": "verkäufer*​in",
+     "n": 10
+    }
+   ],
+   "regions": []
+  },
+  {
+   "period": "2026-Q3",
+   "partial": true,
+   "postings_new": 227909,
+   "postings_raw": 257370,
+   "qoq_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 7452,
+    "p25": 6542,
+    "p75": 8810,
+    "mean": 7593,
+    "n": 1959,
+    "share": 0.078,
+    "currency": "CHF"
+   },
+   "remote_share": 0.019,
+   "employment": {
+    "full_time": 0.086,
+    "part_time": 0.025,
+    "contract": 0.008,
+    "other": 0.011,
+    "unknown": 0.868
+   },
+   "by_source": [
+    {
+     "code": "careerjet.ch",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 108796
+    },
+    {
+     "code": "jooble.ch",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 107595
+    },
+    {
+     "code": "indeed.ch",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 40979
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Zürich",
+     "n": 18027,
+     "share": 0.07
+    },
+    {
+     "name": "Zürich ZH",
+     "n": 11399,
+     "share": 0.044
+    },
+    {
+     "name": "Bern",
+     "n": 8639,
+     "share": 0.034
+    },
+    {
+     "name": "Basel",
+     "n": 5979,
+     "share": 0.023
+    },
+    {
+     "name": "Schweiz",
+     "n": 4529,
+     "share": 0.018
+    },
+    {
+     "name": "Lausanne",
+     "n": 4218,
+     "share": 0.016
+    },
+    {
+     "name": "Bern BE",
+     "n": 3651,
+     "share": 0.014
+    },
+    {
+     "name": "St. Gallen",
+     "n": 3247,
+     "share": 0.013
+    },
+    {
+     "name": "Genf",
+     "n": 3053,
+     "share": 0.012
+    },
+    {
+     "name": "Basel BS",
+     "n": 2817,
+     "share": 0.011
+    },
+    {
+     "name": "Luzern",
+     "n": 2523,
+     "share": 0.01
+    },
+    {
+     "name": "Winterthur",
+     "n": 2509,
+     "share": 0.01
+    },
+    {
+     "name": "Luzern LU",
+     "n": 2281,
+     "share": 0.009
+    },
+    {
+     "name": "Thun BE",
+     "n": 1816,
+     "share": 0.007
+    },
+    {
+     "name": "Schaffhausen - Zürich",
+     "n": 1414,
+     "share": 0.005
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "elektroinstallateur",
+     "n": 881
+    },
+    {
+     "title": "verkäufer:in food",
+     "n": 591
+    },
+    {
+     "title": "sanitärinstallateur efz",
+     "n": 398
+    },
+    {
+     "title": "elektroplaner",
+     "n": 342
+    },
+    {
+     "title": "verkäufer:in kassen/services",
+     "n": 297
+    },
+    {
+     "title": "zimmermann efz",
+     "n": 273
+    },
+    {
+     "title": "metzger:in (fleischfachfrau / fleischfachmann)",
+     "n": 271
+    },
+    {
+     "title": "elektroinstallateur efz",
+     "n": 251
+    },
+    {
+     "title": "storenmonteur",
+     "n": 236
+    },
+    {
+     "title": "detailhandelsfachfrau:mann efz «gestalten von einkaufserlebnissen",
+     "n": 207
+    },
+    {
+     "title": "heizungsinstallateur",
+     "n": 189
+    },
+    {
+     "title": "detailhandelsassistent:in eba",
+     "n": 174
+    },
+    {
+     "title": "verkäufer:in frischprodukte",
+     "n": 162
+    },
+    {
+     "title": "lüftungsanlagenbauer",
+     "n": 158
+    },
+    {
+     "title": "immobilienvermarkter",
+     "n": 141
+    }
+   ],
+   "regions": []
+  }
+ ],
+ "sources": [
+  {
+   "code": "careerjet.ch",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "url": "https://www.careerjet.ch",
+   "collecting_since": "2026-08-03",
+   "offers_total": 148646,
+   "share_latest": 0.45,
+   "salary_coverage": 0.021,
+   "description_coverage": 1.0
+  },
+  {
+   "code": "jooble.ch",
+   "service": "Jooble",
+   "kind": "aggregator",
+   "url": "https://ch.jooble.org",
+   "collecting_since": "2026-08-01",
+   "offers_total": 131967,
+   "share_latest": 0.412,
+   "salary_coverage": 0.15,
+   "description_coverage": 1.0
+  },
+  {
+   "code": "indeed.ch",
+   "service": "Indeed",
+   "kind": "aggregator",
+   "url": "https://ch.indeed.com",
+   "collecting_since": "2026-08-06",
+   "offers_total": 74036,
+   "share_latest": 0.139,
+   "salary_coverage": 0.0,
+   "description_coverage": 1.0
+  }
+ ],
+ "quality": {
+  "field_coverage": {
+   "salary_any": 0.065,
+   "city": 0.999,
+   "company": 0.921,
+   "employment_type": 0.163,
+   "remote": 0.578,
+   "posted_at": 1.0
+  },
+  "dedup": {
+   "within_source_rule_pl": "Ta sama oferta w tym samym serwisie liczona raz (klucz: adres URL lub identyfikator ogłoszenia).",
+   "cross_source_estimate": 0.138,
+   "cross_source_note_pl": "Szacunkowy odsetek ogłoszeń widocznych w więcej niż jednym serwisie (ten sam tytuł, firma i miasto w tym samym miesiącu). Wskaźniki liczymy po zdjęciu tych powtórek."
+  }
+ },
+ "highlights": [
+  {
+   "id": "volume",
+   "icon": "trend",
+   "title_pl": "Sierpień: 145 629 ogłoszeń",
+   "text_pl": "145 629 nowych ogłoszeń - najwięcej od początku zbierania.",
+   "title_en": "August: 145,629 postings",
+   "text_en": "145,629 new postings - the most since collection began."
+  },
+  {
+   "id": "mover",
+   "icon": "city",
+   "title_pl": "Największa zmiana: Bern +149,5%",
+   "text_pl": "6 167 ogłoszeń wobec 2 472 miesiąc wcześniej.",
+   "title_en": "Biggest move: Bern +149.5%",
+   "text_en": "6,167 postings vs 2,472 a month earlier."
+  },
+  {
+   "id": "salary",
+   "icon": "salary",
+   "title_pl": "Mediana wynagrodzenia: 7 500 CHF",
+   "text_pl": "Połowa ofert z podaną stawką mieści się między 6 667 a 8 750 CHF miesięcznie; stawkę podaje 7% ogłoszeń.",
+   "title_en": "Median pay: 7,500 CHF",
+   "text_en": "Half of the postings with stated pay fall between 6,667 and 8,750 CHF per month; 7% of postings state pay."
+  },
+  {
+   "id": "remote",
+   "icon": "remote",
+   "title_pl": "Praca zdalna: 1,7% ogłoszeń",
+   "text_pl": "2 872 ogłoszeń oznaczonych jako praca zdalna (-0,5 pkt proc. m/m).",
+   "title_en": "Remote work: 1.7% of postings",
+   "text_en": "2,872 postings flagged as remote (-0.5 pp m/m)."
+  },
+  {
+   "id": "source",
+   "icon": "source",
+   "title_pl": "Największy serwis: Careerjet (45%)",
+   "text_pl": "Dane z 3 serwisów; Careerjet dostarcza 75 980 z 168 970 ogłoszeń przed zdjęciem powtórek.",
+   "title_en": "Largest source: Careerjet (45%)",
+   "text_en": "Data from 3 sources; Careerjet provides 75,980 of 168,970 postings before de-duplication."
+  },
+  {
+   "id": "cities",
+   "icon": "map",
+   "title_pl": "4 579 miast z ogłoszeniami",
+   "text_pl": "Najwięcej w: Zürich (8%), Zürich ZH (4%), Bern (4%).",
+   "title_en": "4,579 cities with postings",
+   "text_en": "Most in: Zürich (8%), Zürich ZH (4%), Bern (4%)."
+  }
+ ],
+ "commentary": null,
+ "skills_demo": {
+  "is_synthetic": true,
+  "note_pl": "Dane demonstracyjne: nazwy umiejętności pochodzą z taksonomii ESCO, wartości są wygenerowane. Docelowo - identyfikacja umiejętności w treści ogłoszeń.",
+  "months": [
+   "2026-03",
+   "2026-04",
+   "2026-05",
+   "2026-06",
+   "2026-07",
+   "2026-08"
+  ],
+  "groups": [
+   {
+    "id": "digital",
+    "name_pl": "Kompetencje cyfrowe",
+    "name_en": "Digital skills",
+    "share": 0.153,
+    "change_pct": 8.9
+   },
+   {
+    "id": "data_ai",
+    "name_pl": "Dane i sztuczna inteligencja",
+    "name_en": "Data & AI",
+    "share": 0.062,
+    "change_pct": 21.8
+   },
+   {
+    "id": "green",
+    "name_pl": "Zielone kompetencje",
+    "name_en": "Green skills",
+    "share": 0.049,
+    "change_pct": 8.7
+   },
+   {
+    "id": "management",
+    "name_pl": "Zarządzanie",
+    "name_en": "Management",
+    "share": 0.117,
+    "change_pct": -2.7
+   },
+   {
+    "id": "communication",
+    "name_pl": "Komunikacja i współpraca",
+    "name_en": "Communication & teamwork",
+    "share": 0.136,
+    "change_pct": -4.3
+   },
+   {
+    "id": "technical_trades",
+    "name_pl": "Zawody techniczne i produkcja",
+    "name_en": "Technical trades",
+    "share": 0.108,
+    "change_pct": -5.6
+   },
+   {
+    "id": "healthcare",
+    "name_pl": "Opieka zdrowotna",
+    "name_en": "Healthcare",
+    "share": 0.08,
+    "change_pct": 0.7
+   },
+   {
+    "id": "finance_admin",
+    "name_pl": "Finanse i administracja",
+    "name_en": "Finance & administration",
+    "share": 0.108,
+    "change_pct": -4.6
+   },
+   {
+    "id": "languages",
+    "name_pl": "Języki obce",
+    "name_en": "Languages",
+    "share": 0.088,
+    "change_pct": -4.4
+   },
+   {
+    "id": "customer_sales",
+    "name_pl": "Obsługa klienta i sprzedaż",
+    "name_en": "Customer service & sales",
+    "share": 0.099,
+    "change_pct": -3.0
+   }
+  ],
+  "skills": [
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0",
+    "name_pl": "język angielski",
+    "name_en": "English",
+    "group": "languages",
+    "share": 0.0188,
+    "change_pct": -7.4,
+    "series": [
+     0.0203,
+     0.0201,
+     0.0201,
+     0.0199,
+     0.0194,
+     0.0188
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/918f5211-b99f-4b29-9a34-6e475583ef55",
+    "name_pl": "pisanie raportów",
+    "name_en": "write work-related reports",
+    "group": "communication",
+    "share": 0.0162,
+    "change_pct": 1.2,
+    "series": [
+     0.016,
+     0.0159,
+     0.0158,
+     0.0158,
+     0.0167,
+     0.0162
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/60c78287-22eb-4103-9c8c-28deaa460da0",
+    "name_pl": "praca w zespole",
+    "name_en": "work in teams",
+    "group": "communication",
+    "share": 0.0161,
+    "change_pct": 10.3,
+    "series": [
+     0.0146,
+     0.0147,
+     0.0151,
+     0.0153,
+     0.0161,
+     0.0161
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0",
+    "name_pl": "technologie chmurowe",
+    "name_en": "cloud technologies",
+    "group": "digital",
+    "share": 0.016,
+    "change_pct": 22.1,
+    "series": [
+     0.0131,
+     0.0137,
+     0.0144,
+     0.0147,
+     0.0155,
+     0.016
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742",
+    "name_pl": "SQL",
+    "name_en": "SQL",
+    "group": "digital",
+    "share": 0.0141,
+    "change_pct": 35.6,
+    "series": [
+     0.0104,
+     0.011,
+     0.0119,
+     0.0124,
+     0.0133,
+     0.0141
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/c55caed2-de9e-4a25-819e-a0b0e83fba1b",
+    "name_pl": "prowadzenie prezentacji",
+    "name_en": "give live presentation",
+    "group": "communication",
+    "share": 0.014,
+    "change_pct": -10.3,
+    "series": [
+     0.0156,
+     0.0151,
+     0.0147,
+     0.0143,
+     0.0144,
+     0.014
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44",
+    "name_pl": "cyberbezpieczeństwo",
+    "name_en": "cyber security",
+    "group": "digital",
+    "share": 0.0128,
+    "change_pct": 10.3,
+    "series": [
+     0.0116,
+     0.0119,
+     0.0122,
+     0.0121,
+     0.0122,
+     0.0128
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+    "name_pl": "obsługa pakietu Microsoft Office",
+    "name_en": "use microsoft office",
+    "group": "digital",
+    "share": 0.0125,
+    "change_pct": 11.6,
+    "series": [
+     0.0112,
+     0.0117,
+     0.0118,
+     0.012,
+     0.0122,
+     0.0125
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4",
+    "name_pl": "zwinne zarządzanie projektami (Agile)",
+    "name_en": "Agile project management",
+    "group": "management",
+    "share": 0.0106,
+    "change_pct": 17.8,
+    "series": [
+     0.009,
+     0.0095,
+     0.0098,
+     0.0102,
+     0.0104,
+     0.0106
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/e437eba1-3e22-41f2-8703-741e94785cba",
+    "name_pl": "zarządzanie zasobami ludzkimi",
+    "name_en": "human resource management",
+    "group": "finance_admin",
+    "share": 0.0104,
+    "change_pct": 9.5,
+    "series": [
+     0.0095,
+     0.0099,
+     0.0099,
+     0.01,
+     0.0101,
+     0.0104
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/d669af41-756c-48d9-a286-1443253f54b1",
+    "name_pl": "prawo podatkowe",
+    "name_en": "tax legislation",
+    "group": "finance_admin",
+    "share": 0.0104,
+    "change_pct": -10.3,
+    "series": [
+     0.0116,
+     0.0115,
+     0.011,
+     0.0106,
+     0.0105,
+     0.0104
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/f929c89e-c363-4132-a918-e021d57b307c",
+    "name_pl": "zarządzanie łańcuchem dostaw",
+    "name_en": "supply chain management",
+    "group": "management",
+    "share": 0.0103,
+    "change_pct": -1.9,
+    "series": [
+     0.0105,
+     0.0103,
+     0.0105,
+     0.0103,
+     0.0105,
+     0.0103
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/c96ab6ac-cf85-4c91-86b5-7ac5bb14eb28",
+    "name_pl": "obsługa dźwigów",
+    "name_en": "operate cranes",
+    "group": "technical_trades",
+    "share": 0.0101,
+    "change_pct": 13.5,
+    "series": [
+     0.0089,
+     0.009,
+     0.0092,
+     0.0097,
+     0.0096,
+     0.0101
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/9d916d7c-89b3-4084-a6d9-e2b0b3091404",
+    "name_pl": "obsługa płac",
+    "name_en": "manage payroll",
+    "group": "finance_admin",
+    "share": 0.0101,
+    "change_pct": -13.7,
+    "series": [
+     0.0117,
+     0.0114,
+     0.0112,
+     0.0108,
+     0.0104,
+     0.0101
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/29a50780-f81b-429c-b410-7f23a492e19d",
+    "name_pl": "sprzedaż produktów",
+    "name_en": "sell products",
+    "group": "customer_sales",
+    "share": 0.0099,
+    "change_pct": -4.8,
+    "series": [
+     0.0104,
+     0.0106,
+     0.0104,
+     0.0102,
+     0.0103,
+     0.0099
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/949ced5f-7536-4614-ac60-563ffc91a2f2",
+    "name_pl": "planowanie strategiczne",
+    "name_en": "strategic planning",
+    "group": "management",
+    "share": 0.0096,
+    "change_pct": 4.3,
+    "series": [
+     0.0092,
+     0.0091,
+     0.0091,
+     0.0094,
+     0.0096,
+     0.0096
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/71152876-b629-4a99-b9ea-0f25a0d07e4e",
+    "name_pl": "negocjowanie umów sprzedaży",
+    "name_en": "negotiate sales contracts",
+    "group": "customer_sales",
+    "share": 0.0094,
+    "change_pct": 11.9,
+    "series": [
+     0.0084,
+     0.0088,
+     0.009,
+     0.0092,
+     0.0094,
+     0.0094
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/f7464f30-662b-4177-85a0-3df9693e9e58",
+    "name_pl": "pierwsza pomoc",
+    "name_en": "first aid",
+    "group": "healthcare",
+    "share": 0.0093,
+    "change_pct": 24.0,
+    "series": [
+     0.0075,
+     0.008,
+     0.0081,
+     0.0086,
+     0.009,
+     0.0093
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/261e740b-d32d-4356-94a8-3ea29128b70b",
+    "name_pl": "opieka nad osobami starszymi",
+    "name_en": "tend to elderly people",
+    "group": "healthcare",
+    "share": 0.0093,
+    "change_pct": 17.7,
+    "series": [
+     0.0079,
+     0.008,
+     0.0082,
+     0.0086,
+     0.0088,
+     0.0093
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/8a4e99e0-f259-4931-888f-604cfdc15b31",
+    "name_pl": "konserwacja maszyn",
+    "name_en": "perform machine maintenance",
+    "group": "technical_trades",
+    "share": 0.0089,
+    "change_pct": -2.2,
+    "series": [
+     0.0091,
+     0.0088,
+     0.0088,
+     0.0087,
+     0.0087,
+     0.0089
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/530cb489-d900-46ab-9350-4d50ccd49eea",
+    "name_pl": "techniki spawania",
+    "name_en": "welding techniques",
+    "group": "technical_trades",
+    "share": 0.0088,
+    "change_pct": -9.3,
+    "series": [
+     0.0097,
+     0.0091,
+     0.009,
+     0.0089,
+     0.0086,
+     0.0088
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/e747e77e-0ea1-4001-8b07-1d11946b5f1b",
+    "name_pl": "język francuski",
+    "name_en": "French",
+    "group": "languages",
+    "share": 0.0067,
+    "change_pct": 6.3,
+    "series": [
+     0.0063,
+     0.0065,
+     0.0067,
+     0.0066,
+     0.0066,
+     0.0067
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/83fc0b2b-6cd2-46af-b1ff-d3fc83604c26",
+    "name_pl": "efektywność energetyczna",
+    "name_en": "energy efficiency",
+    "group": "green",
+    "share": 0.0054,
+    "change_pct": 31.7,
+    "series": [
+     0.0041,
+     0.0043,
+     0.0046,
+     0.0049,
+     0.0052,
+     0.0054
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/fff0e2cd-d0bd-4b02-9daf-158b79d9688a",
+    "name_pl": "przetwarzanie języka naturalnego",
+    "name_en": "natural language processing",
+    "group": "data_ai",
+    "share": 0.0049,
+    "change_pct": 14.0,
+    "series": [
+     0.0043,
+     0.0044,
+     0.0047,
+     0.0047,
+     0.0048,
+     0.0049
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+    "name_pl": "analiza danych",
+    "name_en": "perform data analysis",
+    "group": "data_ai",
+    "share": 0.0049,
+    "change_pct": 22.5,
+    "series": [
+     0.004,
+     0.0042,
+     0.0045,
+     0.0046,
+     0.0048,
+     0.0049
+    ]
+   }
+  ]
+ }
+}

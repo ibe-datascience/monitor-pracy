@@ -1,0 +1,1811 @@
+{
+ "country": {
+  "code": "MX",
+  "iso3": "MEX",
+  "numeric": 484,
+  "name_pl": "Meksyk",
+  "name_en": "Mexico",
+  "continent": "north_america",
+  "currency": "MXN"
+ },
+ "generated_at": "2026-09-30T15:36:10+00:00",
+ "coverage": {
+  "first_month": "2026-04",
+  "last_month": "2026-08",
+  "collecting_since": "2026-08-01",
+  "complete_from": "2026-08",
+  "index_base_month": "2026-08",
+  "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
+ },
+ "headline": {
+  "month": "2026-08",
+  "postings_new": 958818,
+  "postings_raw": 1067448,
+  "mom_pct": null,
+  "yoy_pct": null,
+  "postings_active_end": 1072634,
+  "salary_median": 12000,
+  "salary_currency": "MXN",
+  "salary_share": 0.16,
+  "remote_share": 0.005,
+  "sources": 3,
+  "top_source": {
+   "code": "careerjet.mx",
+   "service": "Careerjet",
+   "share": 0.67
+  }
+ },
+ "monthly": [
+  {
+   "period": "2026-04",
+   "partial": false,
+   "postings_new": 12117,
+   "postings_raw": 12579,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 1.3,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.158,
+    "currency": "MXN"
+   },
+   "remote_share": 0.025,
+   "employment": {
+    "full_time": 0.58,
+    "part_time": 0.021,
+    "contract": 0.015,
+    "other": 0.006,
+    "unknown": 0.377
+   },
+   "by_source": [
+    {
+     "code": "indeed.mx",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 8935
+    },
+    {
+     "code": "jooble.mx",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 3644
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Ciudad de México",
+     "n": 995,
+     "share": 0.079
+    },
+    {
+     "name": "Monterrey",
+     "n": 272,
+     "share": 0.022
+    },
+    {
+     "name": "Guadalajara",
+     "n": 269,
+     "share": 0.021
+    },
+    {
+     "name": "Toluca, Toluca, Méx.",
+     "n": 182,
+     "share": 0.014
+    },
+    {
+     "name": "Cuauhtémoc, Ciudad de México",
+     "n": 180,
+     "share": 0.014
+    },
+    {
+     "name": "Querétaro",
+     "n": 172,
+     "share": 0.014
+    },
+    {
+     "name": "Guadalajara, Jal.",
+     "n": 161,
+     "share": 0.013
+    },
+    {
+     "name": "Querétaro, Qro.",
+     "n": 149,
+     "share": 0.012
+    },
+    {
+     "name": "Cuauhtémoc",
+     "n": 127,
+     "share": 0.01
+    },
+    {
+     "name": "Monterrey, N.L.",
+     "n": 127,
+     "share": 0.01
+    },
+    {
+     "name": "Zapopan, Jal.",
+     "n": 123,
+     "share": 0.01
+    },
+    {
+     "name": "Tijuana",
+     "n": 112,
+     "share": 0.009
+    },
+    {
+     "name": "Zapopan",
+     "n": 111,
+     "share": 0.009
+    },
+    {
+     "name": "Miguel Hidalgo, Ciudad de México",
+     "n": 110,
+     "share": 0.009
+    },
+    {
+     "name": "Miguel Hidalgo",
+     "n": 106,
+     "share": 0.008
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-05",
+   "partial": false,
+   "postings_new": 21634,
+   "postings_raw": 25070,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 2.3,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 9863,
+    "p25": 9198,
+    "p75": 13250,
+    "mean": 11823,
+    "n": 96,
+    "share": 0.243,
+    "currency": "MXN"
+   },
+   "remote_share": 0.023,
+   "employment": {
+    "full_time": 0.385,
+    "part_time": 0.014,
+    "contract": 0.01,
+    "other": 0.007,
+    "unknown": 0.585
+   },
+   "by_source": [
+    {
+     "code": "jooble.mx",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 12092
+    },
+    {
+     "code": "indeed.mx",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 12024
+    },
+    {
+     "code": "careerjet.mx",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 954
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Ciudad de México",
+     "n": 1790,
+     "share": 0.071
+    },
+    {
+     "name": "Cuauhtémoc, Ciudad de México",
+     "n": 486,
+     "share": 0.019
+    },
+    {
+     "name": "Miguel Hidalgo, Ciudad de México",
+     "n": 439,
+     "share": 0.018
+    },
+    {
+     "name": "Monterrey",
+     "n": 438,
+     "share": 0.017
+    },
+    {
+     "name": "Benito Juárez, Ciudad de México",
+     "n": 436,
+     "share": 0.017
+    },
+    {
+     "name": "Guadalajara",
+     "n": 434,
+     "share": 0.017
+    },
+    {
+     "name": "Querétaro, Qro.",
+     "n": 426,
+     "share": 0.017
+    },
+    {
+     "name": "Guadalajara, Jal.",
+     "n": 415,
+     "share": 0.017
+    },
+    {
+     "name": "Monterrey, N.L.",
+     "n": 358,
+     "share": 0.014
+    },
+    {
+     "name": "Zapopan, Jal.",
+     "n": 337,
+     "share": 0.013
+    },
+    {
+     "name": "Toluca, Toluca, Méx.",
+     "n": 304,
+     "share": 0.012
+    },
+    {
+     "name": "Querétaro",
+     "n": 301,
+     "share": 0.012
+    },
+    {
+     "name": "Álvaro Obregón, Ciudad de México",
+     "n": 259,
+     "share": 0.01
+    },
+    {
+     "name": "Naucalpan de Juárez, Méx.",
+     "n": 255,
+     "share": 0.01
+    },
+    {
+     "name": "Puebla de Zaragoza, Pue.",
+     "n": 238,
+     "share": 0.009
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-06",
+   "partial": false,
+   "postings_new": 64433,
+   "postings_raw": 74225,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 6.7,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 10500,
+    "p25": 7917,
+    "p75": 19000,
+    "mean": 13905,
+    "n": 167,
+    "share": 0.385,
+    "currency": "MXN"
+   },
+   "remote_share": 0.012,
+   "employment": {
+    "full_time": 0.262,
+    "part_time": 0.01,
+    "contract": 0.006,
+    "other": 0.003,
+    "unknown": 0.72
+   },
+   "by_source": [
+    {
+     "code": "jooble.mx",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 48153
+    },
+    {
+     "code": "indeed.mx",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 24052
+    },
+    {
+     "code": "careerjet.mx",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 2020
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Ciudad de México",
+     "n": 4953,
+     "share": 0.067
+    },
+    {
+     "name": "Querétaro, Qro.",
+     "n": 1948,
+     "share": 0.026
+    },
+    {
+     "name": "Guadalajara, Jal.",
+     "n": 1790,
+     "share": 0.024
+    },
+    {
+     "name": "Miguel Hidalgo, Ciudad de México",
+     "n": 1658,
+     "share": 0.022
+    },
+    {
+     "name": "Cuauhtémoc, Ciudad de México",
+     "n": 1572,
+     "share": 0.021
+    },
+    {
+     "name": "Benito Juárez, Ciudad de México",
+     "n": 1513,
+     "share": 0.02
+    },
+    {
+     "name": "Monterrey, N.L.",
+     "n": 1362,
+     "share": 0.018
+    },
+    {
+     "name": "Zapopan, Jal.",
+     "n": 1351,
+     "share": 0.018
+    },
+    {
+     "name": "Puebla de Zaragoza, Pue.",
+     "n": 1155,
+     "share": 0.016
+    },
+    {
+     "name": "Guadalajara",
+     "n": 995,
+     "share": 0.013
+    },
+    {
+     "name": "León de los Aldama, Gto.",
+     "n": 924,
+     "share": 0.012
+    },
+    {
+     "name": "Monterrey",
+     "n": 916,
+     "share": 0.012
+    },
+    {
+     "name": "Naucalpan de Juárez, Méx.",
+     "n": 915,
+     "share": 0.012
+    },
+    {
+     "name": "Mérida, Yuc.",
+     "n": 894,
+     "share": 0.012
+    },
+    {
+     "name": "Veracruz, Ver.",
+     "n": 881,
+     "share": 0.012
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "asesor de ventas",
+     "n": 229
+    },
+    {
+     "title": "recepcionista",
+     "n": 185
+    },
+    {
+     "title": "asesor financiero",
+     "n": 180
+    },
+    {
+     "title": "auxiliar de almacén",
+     "n": 167
+    },
+    {
+     "title": "ayudante general",
+     "n": 161
+    },
+    {
+     "title": "auxiliar de mantenimiento",
+     "n": 155
+    },
+    {
+     "title": "gestor de cobranza",
+     "n": 155
+    },
+    {
+     "title": "auxiliar contable",
+     "n": 141
+    },
+    {
+     "title": "auxiliar administrativo a",
+     "n": 140
+    },
+    {
+     "title": "auxiliar de limpieza",
+     "n": 136
+    },
+    {
+     "title": "montacarguista",
+     "n": 120
+    },
+    {
+     "title": "almacenista",
+     "n": 114
+    },
+    {
+     "title": "contador general",
+     "n": 109
+    },
+    {
+     "title": "chofer",
+     "n": 105
+    },
+    {
+     "title": "chofer repartidor",
+     "n": 100
+    }
+   ],
+   "regions": []
+  },
+  {
+   "period": "2026-07",
+   "partial": false,
+   "postings_new": 220085,
+   "postings_raw": 254756,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 23.0,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 12250,
+    "p25": 10100,
+    "p75": 15000,
+    "mean": 12943,
+    "n": 11127,
+    "share": 0.284,
+    "currency": "MXN"
+   },
+   "remote_share": 0.01,
+   "employment": {
+    "full_time": 0.303,
+    "part_time": 0.01,
+    "contract": 0.009,
+    "other": 0.004,
+    "unknown": 0.674
+   },
+   "by_source": [
+    {
+     "code": "jooble.mx",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 111641
+    },
+    {
+     "code": "indeed.mx",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 91234
+    },
+    {
+     "code": "careerjet.mx",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 51881
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Ciudad de México",
+     "n": 13034,
+     "share": 0.051
+    },
+    {
+     "name": "Guadalajara",
+     "n": 4597,
+     "share": 0.018
+    },
+    {
+     "name": "Querétaro, Qro.",
+     "n": 4506,
+     "share": 0.018
+    },
+    {
+     "name": "Monterrey",
+     "n": 4296,
+     "share": 0.017
+    },
+    {
+     "name": "Guadalajara, Jal.",
+     "n": 4139,
+     "share": 0.016
+    },
+    {
+     "name": "Cuauhtémoc, Ciudad de México",
+     "n": 3933,
+     "share": 0.015
+    },
+    {
+     "name": "Miguel Hidalgo, Ciudad de México",
+     "n": 3923,
+     "share": 0.015
+    },
+    {
+     "name": "Monterrey, N.L.",
+     "n": 3518,
+     "share": 0.014
+    },
+    {
+     "name": "Benito Juárez, Ciudad de México",
+     "n": 3495,
+     "share": 0.014
+    },
+    {
+     "name": "Benito Juárez",
+     "n": 3452,
+     "share": 0.014
+    },
+    {
+     "name": "Querétaro",
+     "n": 3232,
+     "share": 0.013
+    },
+    {
+     "name": "Cuauhtémoc",
+     "n": 3031,
+     "share": 0.012
+    },
+    {
+     "name": "Zapopan, Jal.",
+     "n": 2921,
+     "share": 0.011
+    },
+    {
+     "name": "Miguel Hidalgo",
+     "n": 2802,
+     "share": 0.011
+    },
+    {
+     "name": "México",
+     "n": 2734,
+     "share": 0.011
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "ayudante general",
+     "n": 1097
+    },
+    {
+     "title": "auxiliar contable",
+     "n": 1035
+    },
+    {
+     "title": "asesor de ventas",
+     "n": 866
+    },
+    {
+     "title": "almacenista",
+     "n": 861
+    },
+    {
+     "title": "auxiliar de almacén",
+     "n": 688
+    },
+    {
+     "title": "auxiliar administrativo",
+     "n": 640
+    },
+    {
+     "title": "auxiliar de mantenimiento",
+     "n": 597
+    },
+    {
+     "title": "chofer repartidor",
+     "n": 560
+    },
+    {
+     "title": "ejecutivo de ventas",
+     "n": 542
+    },
+    {
+     "title": "asesor financiero",
+     "n": 486
+    },
+    {
+     "title": "auxiliar de limpieza",
+     "n": 476
+    },
+    {
+     "title": "gerente de sucursal",
+     "n": 460
+    },
+    {
+     "title": "recepcionista",
+     "n": 441
+    },
+    {
+     "title": "montacarguista",
+     "n": 406
+    },
+    {
+     "title": "guardia de seguridad",
+     "n": 392
+    }
+   ],
+   "regions": []
+  },
+  {
+   "period": "2026-08",
+   "partial": false,
+   "postings_new": 958818,
+   "postings_raw": 1067448,
+   "postings_active_end": 1072634,
+   "postings_closed": 315603,
+   "index": 100.0,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 12000,
+    "p25": 9600,
+    "p75": 15000,
+    "mean": 12727,
+    "n": 88947,
+    "share": 0.16,
+    "currency": "MXN"
+   },
+   "remote_share": 0.005,
+   "employment": {
+    "full_time": 0.129,
+    "part_time": 0.005,
+    "contract": 0.004,
+    "other": 0.002,
+    "unknown": 0.861
+   },
+   "by_source": [
+    {
+     "code": "careerjet.mx",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 714759
+    },
+    {
+     "code": "jooble.mx",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 190651
+    },
+    {
+     "code": "indeed.mx",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 162038
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Veracruz",
+     "n": 151558,
+     "share": 0.142
+    },
+    {
+     "name": "Jalisco",
+     "n": 63776,
+     "share": 0.06
+    },
+    {
+     "name": "Estado de México",
+     "n": 56858,
+     "share": 0.053
+    },
+    {
+     "name": "Nuevo Leon",
+     "n": 49579,
+     "share": 0.046
+    },
+    {
+     "name": "México",
+     "n": 33769,
+     "share": 0.032
+    },
+    {
+     "name": "Ciudad de México",
+     "n": 31908,
+     "share": 0.03
+    },
+    {
+     "name": "Querétaro",
+     "n": 31868,
+     "share": 0.03
+    },
+    {
+     "name": "Baja California",
+     "n": 29042,
+     "share": 0.027
+    },
+    {
+     "name": "Guanajuato",
+     "n": 26310,
+     "share": 0.025
+    },
+    {
+     "name": "Coahuila",
+     "n": 18894,
+     "share": 0.018
+    },
+    {
+     "name": "Chihuahua",
+     "n": 18808,
+     "share": 0.018
+    },
+    {
+     "name": "Yucatán",
+     "n": 16097,
+     "share": 0.015
+    },
+    {
+     "name": "Quintana Roo",
+     "n": 15206,
+     "share": 0.014
+    },
+    {
+     "name": "San Luis Potosí",
+     "n": 15195,
+     "share": 0.014
+    },
+    {
+     "name": "Morelos",
+     "n": 13761,
+     "share": 0.013
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "auxiliar administrativo",
+     "n": 5382
+    },
+    {
+     "title": "auxiliar contable",
+     "n": 5081
+    },
+    {
+     "title": "ayudante general",
+     "n": 5060
+    },
+    {
+     "title": "almacenista",
+     "n": 4272
+    },
+    {
+     "title": "auxiliar de almacén",
+     "n": 4109
+    },
+    {
+     "title": "asesor de ventas",
+     "n": 3500
+    },
+    {
+     "title": "ejecutivo de ventas",
+     "n": 3207
+    },
+    {
+     "title": "chofer repartidor",
+     "n": 2738
+    },
+    {
+     "title": "auxiliar de limpieza",
+     "n": 2232
+    },
+    {
+     "title": "recepcionista",
+     "n": 2225
+    },
+    {
+     "title": "auxiliar de mantenimiento",
+     "n": 1980
+    },
+    {
+     "title": "auxiliar de recursos humanos",
+     "n": 1590
+    },
+    {
+     "title": "gerente de sucursal",
+     "n": 1504
+    },
+    {
+     "title": "montacarguista",
+     "n": 1429
+    },
+    {
+     "title": "asistente administrativo",
+     "n": 1410
+    }
+   ],
+   "regions": []
+  }
+ ],
+ "quarterly": [
+  {
+   "period": "2026-Q2",
+   "partial": false,
+   "postings_new": 98184,
+   "postings_raw": 111874,
+   "qoq_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 10267,
+    "p25": 8385,
+    "p75": 16901,
+    "mean": 13145,
+    "n": 263,
+    "share": 0.328,
+    "currency": "MXN"
+   },
+   "remote_share": 0.016,
+   "employment": {
+    "full_time": 0.325,
+    "part_time": 0.012,
+    "contract": 0.008,
+    "other": 0.004,
+    "unknown": 0.651
+   },
+   "by_source": [
+    {
+     "code": "jooble.mx",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 63889
+    },
+    {
+     "code": "indeed.mx",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 45011
+    },
+    {
+     "code": "careerjet.mx",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 2974
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Ciudad de México",
+     "n": 7738,
+     "share": 0.069
+    },
+    {
+     "name": "Querétaro, Qro.",
+     "n": 2523,
+     "share": 0.023
+    },
+    {
+     "name": "Guadalajara, Jal.",
+     "n": 2366,
+     "share": 0.021
+    },
+    {
+     "name": "Cuauhtémoc, Ciudad de México",
+     "n": 2238,
+     "share": 0.02
+    },
+    {
+     "name": "Miguel Hidalgo, Ciudad de México",
+     "n": 2207,
+     "share": 0.02
+    },
+    {
+     "name": "Benito Juárez, Ciudad de México",
+     "n": 1949,
+     "share": 0.017
+    },
+    {
+     "name": "Monterrey, N.L.",
+     "n": 1847,
+     "share": 0.017
+    },
+    {
+     "name": "Zapopan, Jal.",
+     "n": 1811,
+     "share": 0.016
+    },
+    {
+     "name": "Guadalajara",
+     "n": 1698,
+     "share": 0.015
+    },
+    {
+     "name": "Monterrey",
+     "n": 1626,
+     "share": 0.015
+    },
+    {
+     "name": "Puebla de Zaragoza, Pue.",
+     "n": 1393,
+     "share": 0.012
+    },
+    {
+     "name": "Naucalpan de Juárez, Méx.",
+     "n": 1170,
+     "share": 0.01
+    },
+    {
+     "name": "León de los Aldama, Gto.",
+     "n": 924,
+     "share": 0.008
+    },
+    {
+     "name": "Mérida, Yuc.",
+     "n": 894,
+     "share": 0.008
+    },
+    {
+     "name": "Veracruz, Ver.",
+     "n": 881,
+     "share": 0.008
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "asesor de ventas",
+     "n": 229
+    },
+    {
+     "title": "recepcionista",
+     "n": 185
+    },
+    {
+     "title": "asesor financiero",
+     "n": 180
+    },
+    {
+     "title": "auxiliar de almacén",
+     "n": 167
+    },
+    {
+     "title": "ayudante general",
+     "n": 161
+    },
+    {
+     "title": "auxiliar de mantenimiento",
+     "n": 155
+    },
+    {
+     "title": "gestor de cobranza",
+     "n": 155
+    },
+    {
+     "title": "auxiliar contable",
+     "n": 141
+    },
+    {
+     "title": "auxiliar administrativo a",
+     "n": 140
+    },
+    {
+     "title": "auxiliar de limpieza",
+     "n": 136
+    },
+    {
+     "title": "montacarguista",
+     "n": 120
+    },
+    {
+     "title": "almacenista",
+     "n": 114
+    },
+    {
+     "title": "contador general",
+     "n": 109
+    },
+    {
+     "title": "chofer",
+     "n": 105
+    },
+    {
+     "title": "chofer repartidor",
+     "n": 100
+    }
+   ],
+   "regions": []
+  },
+  {
+   "period": "2026-Q3",
+   "partial": true,
+   "postings_new": 1178903,
+   "postings_raw": 1322204,
+   "qoq_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 12028,
+    "p25": 9656,
+    "p75": 15000,
+    "mean": 12751,
+    "n": 100074,
+    "share": 0.184,
+    "currency": "MXN"
+   },
+   "remote_share": 0.006,
+   "employment": {
+    "full_time": 0.163,
+    "part_time": 0.006,
+    "contract": 0.005,
+    "other": 0.002,
+    "unknown": 0.825
+   },
+   "by_source": [
+    {
+     "code": "careerjet.mx",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 766640
+    },
+    {
+     "code": "jooble.mx",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 302292
+    },
+    {
+     "code": "indeed.mx",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 253272
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Veracruz",
+     "n": 151558,
+     "share": 0.115
+    },
+    {
+     "name": "Jalisco",
+     "n": 63776,
+     "share": 0.048
+    },
+    {
+     "name": "Estado de México",
+     "n": 56858,
+     "share": 0.043
+    },
+    {
+     "name": "Nuevo Leon",
+     "n": 49579,
+     "share": 0.037
+    },
+    {
+     "name": "Ciudad de México",
+     "n": 44942,
+     "share": 0.034
+    },
+    {
+     "name": "México",
+     "n": 36503,
+     "share": 0.028
+    },
+    {
+     "name": "Querétaro",
+     "n": 35100,
+     "share": 0.027
+    },
+    {
+     "name": "Baja California",
+     "n": 29042,
+     "share": 0.022
+    },
+    {
+     "name": "Guanajuato",
+     "n": 26310,
+     "share": 0.02
+    },
+    {
+     "name": "Coahuila",
+     "n": 18894,
+     "share": 0.014
+    },
+    {
+     "name": "Chihuahua",
+     "n": 18808,
+     "share": 0.014
+    },
+    {
+     "name": "Yucatán",
+     "n": 16097,
+     "share": 0.012
+    },
+    {
+     "name": "Quintana Roo",
+     "n": 15206,
+     "share": 0.012
+    },
+    {
+     "name": "San Luis Potosí",
+     "n": 15195,
+     "share": 0.011
+    },
+    {
+     "name": "Morelos",
+     "n": 13761,
+     "share": 0.01
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "ayudante general",
+     "n": 6157
+    },
+    {
+     "title": "auxiliar contable",
+     "n": 6116
+    },
+    {
+     "title": "auxiliar administrativo",
+     "n": 6022
+    },
+    {
+     "title": "almacenista",
+     "n": 5133
+    },
+    {
+     "title": "auxiliar de almacén",
+     "n": 4797
+    },
+    {
+     "title": "asesor de ventas",
+     "n": 4366
+    },
+    {
+     "title": "ejecutivo de ventas",
+     "n": 3749
+    },
+    {
+     "title": "chofer repartidor",
+     "n": 3298
+    },
+    {
+     "title": "auxiliar de limpieza",
+     "n": 2708
+    },
+    {
+     "title": "recepcionista",
+     "n": 2666
+    },
+    {
+     "title": "auxiliar de mantenimiento",
+     "n": 2577
+    },
+    {
+     "title": "gerente de sucursal",
+     "n": 1964
+    },
+    {
+     "title": "montacarguista",
+     "n": 1835
+    },
+    {
+     "title": "auxiliar de recursos humanos",
+     "n": 1590
+    },
+    {
+     "title": "asistente administrativo",
+     "n": 1410
+    }
+   ],
+   "regions": []
+  }
+ ],
+ "sources": [
+  {
+   "code": "careerjet.mx",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "url": "https://www.opcionempleo.com.mx",
+   "collecting_since": "2026-08-03",
+   "offers_total": 935123,
+   "share_latest": 0.67,
+   "salary_coverage": 0.135,
+   "description_coverage": 1.0
+  },
+  {
+   "code": "jooble.mx",
+   "service": "Jooble",
+   "kind": "aggregator",
+   "url": "https://mx.jooble.org",
+   "collecting_since": "2026-08-01",
+   "offers_total": 401549,
+   "share_latest": 0.179,
+   "salary_coverage": 0.475,
+   "description_coverage": 1.0
+  },
+  {
+   "code": "indeed.mx",
+   "service": "Indeed",
+   "kind": "aggregator",
+   "url": "https://mx.indeed.com",
+   "collecting_since": "2026-08-06",
+   "offers_total": 352759,
+   "share_latest": 0.152,
+   "salary_coverage": 0.0,
+   "description_coverage": 1.0
+  }
+ ],
+ "quality": {
+  "field_coverage": {
+   "salary_any": 0.188,
+   "city": 0.997,
+   "company": 0.952,
+   "employment_type": 0.187,
+   "remote": 0.446,
+   "posted_at": 1.0
+  },
+  "dedup": {
+   "within_source_rule_pl": "Ta sama oferta w tym samym serwisie liczona raz (klucz: adres URL lub identyfikator ogłoszenia).",
+   "cross_source_estimate": 0.102,
+   "cross_source_note_pl": "Szacunkowy odsetek ogłoszeń widocznych w więcej niż jednym serwisie (ten sam tytuł, firma i miasto w tym samym miesiącu). Wskaźniki liczymy po zdjęciu tych powtórek."
+  }
+ },
+ "highlights": [
+  {
+   "id": "volume",
+   "icon": "trend",
+   "title_pl": "Sierpień: 958 818 ogłoszeń",
+   "text_pl": "958 818 nowych ogłoszeń - najwięcej od początku zbierania.",
+   "title_en": "August: 958,818 postings",
+   "text_en": "958,818 new postings - the most since collection began."
+  },
+  {
+   "id": "mover",
+   "icon": "city",
+   "title_pl": "Największa zmiana: México +1135,1%",
+   "text_pl": "33 769 ogłoszeń wobec 2 734 miesiąc wcześniej.",
+   "title_en": "Biggest move: México +1135.1%",
+   "text_en": "33,769 postings vs 2,734 a month earlier."
+  },
+  {
+   "id": "salary",
+   "icon": "salary",
+   "title_pl": "Mediana wynagrodzenia: 12 000 MXN",
+   "text_pl": "Połowa ofert z podaną stawką mieści się między 9 600 a 15 000 MXN miesięcznie; stawkę podaje 16% ogłoszeń.",
+   "title_en": "Median pay: 12,000 MXN",
+   "text_en": "Half of the postings with stated pay fall between 9,600 and 15,000 MXN per month; 16% of postings state pay."
+  },
+  {
+   "id": "remote",
+   "icon": "remote",
+   "title_pl": "Praca zdalna: 0,5% ogłoszeń",
+   "text_pl": "5 337 ogłoszeń oznaczonych jako praca zdalna (-0,5 pkt proc. m/m).",
+   "title_en": "Remote work: 0.5% of postings",
+   "text_en": "5,337 postings flagged as remote (-0.5 pp m/m)."
+  },
+  {
+   "id": "source",
+   "icon": "source",
+   "title_pl": "Największy serwis: Careerjet (67%)",
+   "text_pl": "Dane z 3 serwisów; Careerjet dostarcza 714 759 z 1 067 448 ogłoszeń przed zdjęciem powtórek.",
+   "title_en": "Largest source: Careerjet (67%)",
+   "text_en": "Data from 3 sources; Careerjet provides 714,759 of 1,067,448 postings before de-duplication."
+  },
+  {
+   "id": "cities",
+   "icon": "map",
+   "title_pl": "9 697 miast z ogłoszeniami",
+   "text_pl": "Najwięcej w: Veracruz (14%), Jalisco (6%), Estado de México (5%).",
+   "title_en": "9,697 cities with postings",
+   "text_en": "Most in: Veracruz (14%), Jalisco (6%), Estado de México (5%)."
+  }
+ ],
+ "commentary": null,
+ "skills_demo": {
+  "is_synthetic": true,
+  "note_pl": "Dane demonstracyjne: nazwy umiejętności pochodzą z taksonomii ESCO, wartości są wygenerowane. Docelowo - identyfikacja umiejętności w treści ogłoszeń.",
+  "months": [
+   "2026-03",
+   "2026-04",
+   "2026-05",
+   "2026-06",
+   "2026-07",
+   "2026-08"
+  ],
+  "groups": [
+   {
+    "id": "digital",
+    "name_pl": "Kompetencje cyfrowe",
+    "name_en": "Digital skills",
+    "share": 0.163,
+    "change_pct": 5.0
+   },
+   {
+    "id": "data_ai",
+    "name_pl": "Dane i sztuczna inteligencja",
+    "name_en": "Data & AI",
+    "share": 0.083,
+    "change_pct": 14.5
+   },
+   {
+    "id": "green",
+    "name_pl": "Zielone kompetencje",
+    "name_en": "Green skills",
+    "share": 0.044,
+    "change_pct": 5.7
+   },
+   {
+    "id": "management",
+    "name_pl": "Zarządzanie",
+    "name_en": "Management",
+    "share": 0.121,
+    "change_pct": -1.0
+   },
+   {
+    "id": "communication",
+    "name_pl": "Komunikacja i współpraca",
+    "name_en": "Communication & teamwork",
+    "share": 0.144,
+    "change_pct": -3.1
+   },
+   {
+    "id": "technical_trades",
+    "name_pl": "Zawody techniczne i produkcja",
+    "name_en": "Technical trades",
+    "share": 0.131,
+    "change_pct": -3.6
+   },
+   {
+    "id": "healthcare",
+    "name_pl": "Opieka zdrowotna",
+    "name_en": "Healthcare",
+    "share": 0.091,
+    "change_pct": 1.6
+   },
+   {
+    "id": "finance_admin",
+    "name_pl": "Finanse i administracja",
+    "name_en": "Finance & administration",
+    "share": 0.086,
+    "change_pct": -5.1
+   },
+   {
+    "id": "languages",
+    "name_pl": "Języki obce",
+    "name_en": "Languages",
+    "share": 0.048,
+    "change_pct": -6.1
+   },
+   {
+    "id": "customer_sales",
+    "name_pl": "Obsługa klienta i sprzedaż",
+    "name_en": "Customer service & sales",
+    "share": 0.089,
+    "change_pct": -4.0
+   }
+  ],
+  "skills": [
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/afd49651-9119-4327-91fc-844a6dda1254",
+    "name_pl": "zarządzanie konfliktem",
+    "name_en": "conflict management",
+    "group": "communication",
+    "share": 0.0193,
+    "change_pct": 9.7,
+    "series": [
+     0.0176,
+     0.0178,
+     0.0185,
+     0.018,
+     0.0186,
+     0.0193
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/a17286c5-238d-4f0b-bc24-29e9121345de",
+    "name_pl": "aktywne słuchanie",
+    "name_en": "listen actively",
+    "group": "communication",
+    "share": 0.0162,
+    "change_pct": -8.0,
+    "series": [
+     0.0176,
+     0.0177,
+     0.017,
+     0.0168,
+     0.016,
+     0.0162
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/8a4e99e0-f259-4931-888f-604cfdc15b31",
+    "name_pl": "konserwacja maszyn",
+    "name_en": "perform machine maintenance",
+    "group": "technical_trades",
+    "share": 0.0156,
+    "change_pct": 13.0,
+    "series": [
+     0.0138,
+     0.0143,
+     0.0144,
+     0.0147,
+     0.0149,
+     0.0156
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44",
+    "name_pl": "cyberbezpieczeństwo",
+    "name_en": "cyber security",
+    "group": "digital",
+    "share": 0.0151,
+    "change_pct": 1.3,
+    "series": [
+     0.0149,
+     0.015,
+     0.0149,
+     0.015,
+     0.015,
+     0.0151
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/949ced5f-7536-4614-ac60-563ffc91a2f2",
+    "name_pl": "planowanie strategiczne",
+    "name_en": "strategic planning",
+    "group": "management",
+    "share": 0.015,
+    "change_pct": -10.7,
+    "series": [
+     0.0168,
+     0.0163,
+     0.0157,
+     0.0159,
+     0.0162,
+     0.015
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742",
+    "name_pl": "SQL",
+    "name_en": "SQL",
+    "group": "digital",
+    "share": 0.0142,
+    "change_pct": 6.8,
+    "series": [
+     0.0133,
+     0.0133,
+     0.0133,
+     0.0139,
+     0.014,
+     0.0142
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be",
+    "name_pl": "obsługa arkuszy kalkulacyjnych",
+    "name_en": "use spreadsheets software",
+    "group": "digital",
+    "share": 0.0139,
+    "change_pct": -3.5,
+    "series": [
+     0.0144,
+     0.0143,
+     0.0142,
+     0.014,
+     0.0142,
+     0.0139
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/7ff2c668-0e86-418a-a962-4958262ee337",
+    "name_pl": "techniki komunikacji",
+    "name_en": "use communication techniques",
+    "group": "communication",
+    "share": 0.0131,
+    "change_pct": 18.0,
+    "series": [
+     0.0111,
+     0.0117,
+     0.0121,
+     0.0125,
+     0.0128,
+     0.0131
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/19858dd3-a5fe-4855-b644-6ecfefd1c384",
+    "name_pl": "stolarka",
+    "name_en": "carpentry",
+    "group": "technical_trades",
+    "share": 0.0121,
+    "change_pct": 0.0,
+    "series": [
+     0.0121,
+     0.0118,
+     0.0121,
+     0.0121,
+     0.0119,
+     0.0121
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0",
+    "name_pl": "technologie chmurowe",
+    "name_en": "cloud technologies",
+    "group": "digital",
+    "share": 0.012,
+    "change_pct": 1.7,
+    "series": [
+     0.0118,
+     0.0119,
+     0.0118,
+     0.012,
+     0.012,
+     0.012
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/f7464f30-662b-4177-85a0-3df9693e9e58",
+    "name_pl": "pierwsza pomoc",
+    "name_en": "first aid",
+    "group": "healthcare",
+    "share": 0.012,
+    "change_pct": 13.2,
+    "series": [
+     0.0106,
+     0.0107,
+     0.0112,
+     0.0114,
+     0.0116,
+     0.012
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+    "name_pl": "JavaScript",
+    "name_en": "JavaScript",
+    "group": "digital",
+    "share": 0.0119,
+    "change_pct": -0.8,
+    "series": [
+     0.012,
+     0.0121,
+     0.0117,
+     0.0119,
+     0.0122,
+     0.0119
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/339ac029-066a-4985-9f9d-b3d7c8fea0bb",
+    "name_pl": "zarządzanie personelem",
+    "name_en": "manage staff",
+    "group": "management",
+    "share": 0.0115,
+    "change_pct": -7.3,
+    "series": [
+     0.0124,
+     0.0122,
+     0.0118,
+     0.012,
+     0.0116,
+     0.0115
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/c55caed2-de9e-4a25-819e-a0b0e83fba1b",
+    "name_pl": "prowadzenie prezentacji",
+    "name_en": "give live presentation",
+    "group": "communication",
+    "share": 0.0109,
+    "change_pct": 3.8,
+    "series": [
+     0.0105,
+     0.0109,
+     0.0108,
+     0.0107,
+     0.0104,
+     0.0109
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/60c544c9-0815-479c-bcec-93c7891815ea",
+    "name_pl": "farmakologia",
+    "name_en": "pharmacology",
+    "group": "healthcare",
+    "share": 0.0109,
+    "change_pct": -6.8,
+    "series": [
+     0.0117,
+     0.0112,
+     0.0113,
+     0.0109,
+     0.011,
+     0.0109
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d",
+    "name_pl": "działania sprzedażowe",
+    "name_en": "sales activities",
+    "group": "customer_sales",
+    "share": 0.0104,
+    "change_pct": -7.1,
+    "series": [
+     0.0112,
+     0.0114,
+     0.0112,
+     0.0109,
+     0.0107,
+     0.0104
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/21c5790c-0930-4d74-b3b0-84caf5af12ea",
+    "name_pl": "zarządzanie budżetem",
+    "name_en": "manage budgets",
+    "group": "management",
+    "share": 0.0102,
+    "change_pct": -1.0,
+    "series": [
+     0.0103,
+     0.0101,
+     0.0099,
+     0.0101,
+     0.0107,
+     0.0102
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/28cb374e-6261-4133-8371-f9a5470145da",
+    "name_pl": "obsługa wózka widłowego",
+    "name_en": "operate forklift",
+    "group": "technical_trades",
+    "share": 0.0096,
+    "change_pct": -4.0,
+    "series": [
+     0.01,
+     0.0099,
+     0.0095,
+     0.0097,
+     0.0094,
+     0.0096
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/28d715e3-3e5b-4fb6-8dd2-4be4919c8587",
+    "name_pl": "obsługa reklamacji",
+    "name_en": "handle customer complaints",
+    "group": "customer_sales",
+    "share": 0.0096,
+    "change_pct": -11.1,
+    "series": [
+     0.0108,
+     0.0105,
+     0.0107,
+     0.0102,
+     0.0099,
+     0.0096
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/92721092-fe7c-4689-96bd-4f02385bc0e7",
+    "name_pl": "zarządzanie umowami",
+    "name_en": "manage contracts",
+    "group": "finance_admin",
+    "share": 0.0095,
+    "change_pct": -2.1,
+    "series": [
+     0.0097,
+     0.0094,
+     0.0096,
+     0.0096,
+     0.0096,
+     0.0095
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/9d916d7c-89b3-4084-a6d9-e2b0b3091404",
+    "name_pl": "obsługa płac",
+    "name_en": "manage payroll",
+    "group": "finance_admin",
+    "share": 0.0095,
+    "change_pct": 8.0,
+    "series": [
+     0.0088,
+     0.0088,
+     0.0091,
+     0.0089,
+     0.0093,
+     0.0095
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43",
+    "name_pl": "uczenie maszynowe",
+    "name_en": "machine learning",
+    "group": "data_ai",
+    "share": 0.0086,
+    "change_pct": 4.9,
+    "series": [
+     0.0082,
+     0.0084,
+     0.0084,
+     0.0085,
+     0.0084,
+     0.0086
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5",
+    "name_pl": "analiza dużych zbiorów danych",
+    "name_en": "analyse big data",
+    "group": "data_ai",
+    "share": 0.0085,
+    "change_pct": 11.8,
+    "series": [
+     0.0076,
+     0.0078,
+     0.0078,
+     0.0082,
+     0.0082,
+     0.0085
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/e747e77e-0ea1-4001-8b07-1d11946b5f1b",
+    "name_pl": "język francuski",
+    "name_en": "French",
+    "group": "languages",
+    "share": 0.0058,
+    "change_pct": -13.4,
+    "series": [
+     0.0067,
+     0.0066,
+     0.0064,
+     0.0062,
+     0.006,
+     0.0058
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/f8413360-6114-40de-a276-c59b764b9913",
+    "name_pl": "energetyka odnawialna",
+    "name_en": "renewable energy",
+    "group": "green",
+    "share": 0.0046,
+    "change_pct": 24.3,
+    "series": [
+     0.0037,
+     0.0037,
+     0.0041,
+     0.0042,
+     0.0044,
+     0.0046
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,1710 @@
+{
+ "country": {
+  "code": "DE",
+  "iso3": "DEU",
+  "numeric": 276,
+  "name_pl": "Niemcy",
+  "name_en": "Germany",
+  "continent": "europe",
+  "currency": "EUR"
+ },
+ "generated_at": "2026-09-30T15:36:10+00:00",
+ "coverage": {
+  "first_month": "2026-05",
+  "last_month": "2026-08",
+  "collecting_since": "2026-08-01",
+  "complete_from": "2026-08",
+  "index_base_month": "2026-08",
+  "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
+ },
+ "headline": {
+  "month": "2026-08",
+  "postings_new": 877394,
+  "postings_raw": 1193846,
+  "mom_pct": null,
+  "yoy_pct": null,
+  "postings_active_end": 1780860,
+  "salary_median": 3553,
+  "salary_currency": "EUR",
+  "salary_share": 0.19,
+  "remote_share": 0.025,
+  "sources": 3,
+  "top_source": {
+   "code": "jooble.de",
+   "service": "Jooble",
+   "share": 0.447
+  }
+ },
+ "monthly": [
+  {
+   "period": "2026-05",
+   "partial": false,
+   "postings_new": 13396,
+   "postings_raw": 13723,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 1.5,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 4160,
+    "p25": 3050,
+    "p75": 5117,
+    "mean": 4583,
+    "n": 410,
+    "share": 0.153,
+    "currency": "EUR"
+   },
+   "remote_share": 0.036,
+   "employment": {
+    "full_time": 0.104,
+    "part_time": 0.03,
+    "contract": 0.004,
+    "other": 0.007,
+    "unknown": 0.855
+   },
+   "by_source": [
+    {
+     "code": "jooble.de",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 7907
+    },
+    {
+     "code": "careerjet.de",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 3573
+    },
+    {
+     "code": "indeed.de",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 2243
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Berlin",
+     "n": 707,
+     "share": 0.052
+    },
+    {
+     "name": "München",
+     "n": 478,
+     "share": 0.035
+    },
+    {
+     "name": "Hamburg",
+     "n": 417,
+     "share": 0.03
+    },
+    {
+     "name": "Köln",
+     "n": 331,
+     "share": 0.024
+    },
+    {
+     "name": "Frankfurt am Main",
+     "n": 282,
+     "share": 0.021
+    },
+    {
+     "name": "Düsseldorf",
+     "n": 245,
+     "share": 0.018
+    },
+    {
+     "name": "Deutschland",
+     "n": 221,
+     "share": 0.016
+    },
+    {
+     "name": "Stuttgart",
+     "n": 197,
+     "share": 0.014
+    },
+    {
+     "name": "Dresden",
+     "n": 148,
+     "share": 0.011
+    },
+    {
+     "name": "Nürnberg",
+     "n": 135,
+     "share": 0.01
+    },
+    {
+     "name": "Leipzig",
+     "n": 128,
+     "share": 0.009
+    },
+    {
+     "name": "Hannover",
+     "n": 121,
+     "share": 0.009
+    },
+    {
+     "name": "Essen",
+     "n": 107,
+     "share": 0.008
+    },
+    {
+     "name": "Bonn",
+     "n": 103,
+     "share": 0.008
+    },
+    {
+     "name": "Aachen",
+     "n": 97,
+     "share": 0.007
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-06",
+   "partial": false,
+   "postings_new": 86794,
+   "postings_raw": 93513,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 9.9,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 3833,
+    "p25": 3153,
+    "p75": 4781,
+    "mean": 4202,
+    "n": 1194,
+    "share": 0.064,
+    "currency": "EUR"
+   },
+   "remote_share": 0.053,
+   "employment": {
+    "full_time": 0.334,
+    "part_time": 0.148,
+    "contract": 0.032,
+    "other": 0.038,
+    "unknown": 0.448
+   },
+   "by_source": [
+    {
+     "code": "indeed.de",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 61601
+    },
+    {
+     "code": "jooble.de",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 22518
+    },
+    {
+     "code": "careerjet.de",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 9394
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Berlin",
+     "n": 5580,
+     "share": 0.06
+    },
+    {
+     "name": "München",
+     "n": 4024,
+     "share": 0.043
+    },
+    {
+     "name": "Hamburg",
+     "n": 3560,
+     "share": 0.038
+    },
+    {
+     "name": "Frankfurt am Main",
+     "n": 2233,
+     "share": 0.024
+    },
+    {
+     "name": "Köln",
+     "n": 1820,
+     "share": 0.019
+    },
+    {
+     "name": "Düsseldorf",
+     "n": 1364,
+     "share": 0.015
+    },
+    {
+     "name": "Stuttgart",
+     "n": 1346,
+     "share": 0.014
+    },
+    {
+     "name": "Hannover",
+     "n": 877,
+     "share": 0.009
+    },
+    {
+     "name": "Bremen",
+     "n": 867,
+     "share": 0.009
+    },
+    {
+     "name": "Dresden",
+     "n": 816,
+     "share": 0.009
+    },
+    {
+     "name": "Leipzig",
+     "n": 807,
+     "share": 0.009
+    },
+    {
+     "name": "Nürnberg",
+     "n": 705,
+     "share": 0.008
+    },
+    {
+     "name": "Mannheim",
+     "n": 629,
+     "share": 0.007
+    },
+    {
+     "name": "Essen",
+     "n": 590,
+     "share": 0.006
+    },
+    {
+     "name": "Dortmund",
+     "n": 557,
+     "share": 0.006
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "verkäufer (m/w/d)",
+     "n": 410
+    },
+    {
+     "title": "stellvertretender filialleiter (m/w/d)",
+     "n": 280
+    },
+    {
+     "title": "verkäufer teilzeit (m/w/d)",
+     "n": 264
+    },
+    {
+     "title": "studentenjob im verkauf teilzeit (m/w/d)",
+     "n": 246
+    },
+    {
+     "title": "reinigungskraft (m/w/d)",
+     "n": 179
+    },
+    {
+     "title": "filialleiter (m/w/d)",
+     "n": 158
+    },
+    {
+     "title": "bäckereiverkäufer (m/w/d)",
+     "n": 153
+    },
+    {
+     "title": "verkäufer mit stellvertretung teilzeit (m/w/d)",
+     "n": 152
+    },
+    {
+     "title": "pflegefachkraft (m/w/d)",
+     "n": 147
+    },
+    {
+     "title": "verkäufer / kassierer (m/w/d)",
+     "n": 142
+    },
+    {
+     "title": "studentenjob verkauf (m/w/d)",
+     "n": 139
+    },
+    {
+     "title": "kassierer (m/w/d)",
+     "n": 121
+    },
+    {
+     "title": "mitarbeiter warenverräumung (m/w/d)",
+     "n": 118
+    },
+    {
+     "title": "immobilienmakler/-in nebenberuflich 40% (m/w/d)",
+     "n": 113
+    },
+    {
+     "title": "immobilienmakler/-in hauptberuflich 100% (m/w/d)",
+     "n": 110
+    }
+   ],
+   "regions": []
+  },
+  {
+   "period": "2026-07",
+   "partial": false,
+   "postings_new": 436648,
+   "postings_raw": 516725,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 49.8,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 3813,
+    "p25": 2860,
+    "p75": 5417,
+    "mean": 4500,
+    "n": 12849,
+    "share": 0.149,
+    "currency": "EUR"
+   },
+   "remote_share": 0.038,
+   "employment": {
+    "full_time": 0.192,
+    "part_time": 0.087,
+    "contract": 0.024,
+    "other": 0.023,
+    "unknown": 0.674
+   },
+   "by_source": [
+    {
+     "code": "jooble.de",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 252726
+    },
+    {
+     "code": "indeed.de",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 194700
+    },
+    {
+     "code": "careerjet.de",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 69299
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Berlin",
+     "n": 33185,
+     "share": 0.064
+    },
+    {
+     "name": "München",
+     "n": 16299,
+     "share": 0.032
+    },
+    {
+     "name": "Hamburg",
+     "n": 15695,
+     "share": 0.03
+    },
+    {
+     "name": "Frankfurt am Main",
+     "n": 8799,
+     "share": 0.017
+    },
+    {
+     "name": "Köln",
+     "n": 8334,
+     "share": 0.016
+    },
+    {
+     "name": "Düsseldorf",
+     "n": 7245,
+     "share": 0.014
+    },
+    {
+     "name": "Stuttgart",
+     "n": 6520,
+     "share": 0.013
+    },
+    {
+     "name": "Bremen",
+     "n": 5819,
+     "share": 0.011
+    },
+    {
+     "name": "Hannover",
+     "n": 4775,
+     "share": 0.009
+    },
+    {
+     "name": "Nürnberg",
+     "n": 4772,
+     "share": 0.009
+    },
+    {
+     "name": "Dresden",
+     "n": 4331,
+     "share": 0.008
+    },
+    {
+     "name": "Leipzig",
+     "n": 4183,
+     "share": 0.008
+    },
+    {
+     "name": "Essen",
+     "n": 3662,
+     "share": 0.007
+    },
+    {
+     "name": "Dortmund",
+     "n": 3545,
+     "share": 0.007
+    },
+    {
+     "name": "Mannheim",
+     "n": 3497,
+     "share": 0.007
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "abiturientenprogramm vertrieb inkl. handelsfachwirt 2027 (m/w/d)",
+     "n": 1647
+    },
+    {
+     "title": "reinigungskraft (m/w/d)",
+     "n": 1335
+    },
+    {
+     "title": "verkäufer (m/w/d)",
+     "n": 1234
+    },
+    {
+     "title": "produktionshelfer (m/w/d)",
+     "n": 1081
+    },
+    {
+     "title": "ausbildung zum augenoptiker (w/m/d) für 2027",
+     "n": 1072
+    },
+    {
+     "title": "abiturientenprogramm handelsfachwirt 2027 (m/w/d)",
+     "n": 959
+    },
+    {
+     "title": "kommissionierer (m/w/d)",
+     "n": 739
+    },
+    {
+     "title": "produktionsmitarbeiter (m/w/d)",
+     "n": 717
+    },
+    {
+     "title": "pflegefachkraft (m/w/d)",
+     "n": 683
+    },
+    {
+     "title": "famulatur",
+     "n": 647
+    },
+    {
+     "title": "praktisches jahr",
+     "n": 619
+    },
+    {
+     "title": "stellvertretender filialleiter (m/w/d)",
+     "n": 569
+    },
+    {
+     "title": "kfz-mechatroniker (m/w/d)",
+     "n": 565
+    },
+    {
+     "title": "verkäufer teilzeit (m/w/d)",
+     "n": 561
+    },
+    {
+     "title": "schülerpraktikum in der filiale (m/w/d)",
+     "n": 554
+    }
+   ],
+   "regions": []
+  },
+  {
+   "period": "2026-08",
+   "partial": false,
+   "postings_new": 877394,
+   "postings_raw": 1193846,
+   "postings_active_end": 1780860,
+   "postings_closed": 17387,
+   "index": 100.0,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 3553,
+    "p25": 2787,
+    "p75": 4583,
+    "mean": 3906,
+    "n": 86517,
+    "share": 0.19,
+    "currency": "EUR"
+   },
+   "remote_share": 0.025,
+   "employment": {
+    "full_time": 0.097,
+    "part_time": 0.047,
+    "contract": 0.012,
+    "other": 0.015,
+    "unknown": 0.828
+   },
+   "by_source": [
+    {
+     "code": "jooble.de",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 533863
+    },
+    {
+     "code": "careerjet.de",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 422195
+    },
+    {
+     "code": "indeed.de",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 237788
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Berlin",
+     "n": 72033,
+     "share": 0.06
+    },
+    {
+     "name": "Hamburg",
+     "n": 36861,
+     "share": 0.031
+    },
+    {
+     "name": "München",
+     "n": 34878,
+     "share": 0.029
+    },
+    {
+     "name": "Frankfurt am Main",
+     "n": 20691,
+     "share": 0.017
+    },
+    {
+     "name": "Köln",
+     "n": 18612,
+     "share": 0.016
+    },
+    {
+     "name": "Düsseldorf",
+     "n": 16612,
+     "share": 0.014
+    },
+    {
+     "name": "Bremen",
+     "n": 15534,
+     "share": 0.013
+    },
+    {
+     "name": "Stuttgart",
+     "n": 14007,
+     "share": 0.012
+    },
+    {
+     "name": "Bayern",
+     "n": 13234,
+     "share": 0.011
+    },
+    {
+     "name": "Baden-Württemberg",
+     "n": 12706,
+     "share": 0.011
+    },
+    {
+     "name": "Hannover",
+     "n": 12451,
+     "share": 0.01
+    },
+    {
+     "name": "Nordrhein-Westfalen",
+     "n": 10592,
+     "share": 0.009
+    },
+    {
+     "name": "Nürnberg",
+     "n": 9830,
+     "share": 0.008
+    },
+    {
+     "name": "Leipzig",
+     "n": 9575,
+     "share": 0.008
+    },
+    {
+     "name": "Dresden",
+     "n": 9237,
+     "share": 0.008
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "produktionshelfer (m/w/d)",
+     "n": 3919
+    },
+    {
+     "title": "staplerfahrer (m/w/d)",
+     "n": 3410
+    },
+    {
+     "title": "produktionsmitarbeiter (m/w/d)",
+     "n": 3157
+    },
+    {
+     "title": "reinigungskraft (m/w/d)",
+     "n": 3047
+    },
+    {
+     "title": "kommissionierer (m/w/d)",
+     "n": 2513
+    },
+    {
+     "title": "landschaftsgärtner / gärtner (m/w/d)",
+     "n": 2505
+    },
+    {
+     "title": "postbote für pakete und briefe (m/w/d)",
+     "n": 2289
+    },
+    {
+     "title": "produktionshelfer (m/w/d).",
+     "n": 2065
+    },
+    {
+     "title": "verkäufer (m/w/d)",
+     "n": 1971
+    },
+    {
+     "title": "pflegefachkraft (m/w/d)",
+     "n": 1809
+    },
+    {
+     "title": "industriemechaniker (m/w/d)",
+     "n": 1661
+    },
+    {
+     "title": "kfz-mechatroniker (m/w/d)",
+     "n": 1615
+    },
+    {
+     "title": "lagerhelfer (m/w/d)",
+     "n": 1612
+    },
+    {
+     "title": "lagermitarbeiter (m/w/d)",
+     "n": 1612
+    },
+    {
+     "title": "lagerist (m/w/d).",
+     "n": 1523
+    }
+   ],
+   "regions": []
+  }
+ ],
+ "quarterly": [
+  {
+   "period": "2026-Q2",
+   "partial": true,
+   "postings_new": 100190,
+   "postings_raw": 107236,
+   "qoq_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 3917,
+    "p25": 3127,
+    "p75": 4867,
+    "mean": 4299,
+    "n": 1604,
+    "share": 0.075,
+    "currency": "EUR"
+   },
+   "remote_share": 0.051,
+   "employment": {
+    "full_time": 0.305,
+    "part_time": 0.133,
+    "contract": 0.028,
+    "other": 0.034,
+    "unknown": 0.5
+   },
+   "by_source": [
+    {
+     "code": "indeed.de",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 63844
+    },
+    {
+     "code": "jooble.de",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 30425
+    },
+    {
+     "code": "careerjet.de",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 12967
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Berlin",
+     "n": 6287,
+     "share": 0.059
+    },
+    {
+     "name": "München",
+     "n": 4502,
+     "share": 0.042
+    },
+    {
+     "name": "Hamburg",
+     "n": 3977,
+     "share": 0.037
+    },
+    {
+     "name": "Frankfurt am Main",
+     "n": 2515,
+     "share": 0.023
+    },
+    {
+     "name": "Köln",
+     "n": 2151,
+     "share": 0.02
+    },
+    {
+     "name": "Düsseldorf",
+     "n": 1609,
+     "share": 0.015
+    },
+    {
+     "name": "Stuttgart",
+     "n": 1543,
+     "share": 0.014
+    },
+    {
+     "name": "Hannover",
+     "n": 998,
+     "share": 0.009
+    },
+    {
+     "name": "Dresden",
+     "n": 964,
+     "share": 0.009
+    },
+    {
+     "name": "Leipzig",
+     "n": 935,
+     "share": 0.009
+    },
+    {
+     "name": "Bremen",
+     "n": 867,
+     "share": 0.008
+    },
+    {
+     "name": "Nürnberg",
+     "n": 840,
+     "share": 0.008
+    },
+    {
+     "name": "Essen",
+     "n": 697,
+     "share": 0.006
+    },
+    {
+     "name": "Mannheim",
+     "n": 629,
+     "share": 0.006
+    },
+    {
+     "name": "Dortmund",
+     "n": 557,
+     "share": 0.005
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "verkäufer (m/w/d)",
+     "n": 410
+    },
+    {
+     "title": "stellvertretender filialleiter (m/w/d)",
+     "n": 280
+    },
+    {
+     "title": "verkäufer teilzeit (m/w/d)",
+     "n": 264
+    },
+    {
+     "title": "studentenjob im verkauf teilzeit (m/w/d)",
+     "n": 246
+    },
+    {
+     "title": "reinigungskraft (m/w/d)",
+     "n": 179
+    },
+    {
+     "title": "filialleiter (m/w/d)",
+     "n": 158
+    },
+    {
+     "title": "bäckereiverkäufer (m/w/d)",
+     "n": 153
+    },
+    {
+     "title": "verkäufer mit stellvertretung teilzeit (m/w/d)",
+     "n": 152
+    },
+    {
+     "title": "pflegefachkraft (m/w/d)",
+     "n": 147
+    },
+    {
+     "title": "verkäufer / kassierer (m/w/d)",
+     "n": 142
+    },
+    {
+     "title": "studentenjob verkauf (m/w/d)",
+     "n": 139
+    },
+    {
+     "title": "kassierer (m/w/d)",
+     "n": 121
+    },
+    {
+     "title": "mitarbeiter warenverräumung (m/w/d)",
+     "n": 118
+    },
+    {
+     "title": "immobilienmakler/-in nebenberuflich 40% (m/w/d)",
+     "n": 113
+    },
+    {
+     "title": "immobilienmakler/-in hauptberuflich 100% (m/w/d)",
+     "n": 110
+    }
+   ],
+   "regions": []
+  },
+  {
+   "period": "2026-Q3",
+   "partial": true,
+   "postings_new": 1314042,
+   "postings_raw": 1710571,
+   "qoq_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 3587,
+    "p25": 2796,
+    "p75": 4691,
+    "mean": 3983,
+    "n": 99366,
+    "share": 0.178,
+    "currency": "EUR"
+   },
+   "remote_share": 0.029,
+   "employment": {
+    "full_time": 0.126,
+    "part_time": 0.059,
+    "contract": 0.016,
+    "other": 0.017,
+    "unknown": 0.781
+   },
+   "by_source": [
+    {
+     "code": "jooble.de",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 786589
+    },
+    {
+     "code": "careerjet.de",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 491494
+    },
+    {
+     "code": "indeed.de",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 432488
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Berlin",
+     "n": 105218,
+     "share": 0.062
+    },
+    {
+     "name": "Hamburg",
+     "n": 52556,
+     "share": 0.031
+    },
+    {
+     "name": "München",
+     "n": 51177,
+     "share": 0.03
+    },
+    {
+     "name": "Frankfurt am Main",
+     "n": 29490,
+     "share": 0.017
+    },
+    {
+     "name": "Köln",
+     "n": 26946,
+     "share": 0.016
+    },
+    {
+     "name": "Düsseldorf",
+     "n": 23857,
+     "share": 0.014
+    },
+    {
+     "name": "Bremen",
+     "n": 21353,
+     "share": 0.012
+    },
+    {
+     "name": "Stuttgart",
+     "n": 20527,
+     "share": 0.012
+    },
+    {
+     "name": "Hannover",
+     "n": 17226,
+     "share": 0.01
+    },
+    {
+     "name": "Nürnberg",
+     "n": 14602,
+     "share": 0.009
+    },
+    {
+     "name": "Leipzig",
+     "n": 13758,
+     "share": 0.008
+    },
+    {
+     "name": "Dresden",
+     "n": 13568,
+     "share": 0.008
+    },
+    {
+     "name": "Bayern",
+     "n": 13234,
+     "share": 0.008
+    },
+    {
+     "name": "Baden-Württemberg",
+     "n": 12706,
+     "share": 0.007
+    },
+    {
+     "name": "Nordrhein-Westfalen",
+     "n": 10592,
+     "share": 0.006
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "produktionshelfer (m/w/d)",
+     "n": 5000
+    },
+    {
+     "title": "reinigungskraft (m/w/d)",
+     "n": 4382
+    },
+    {
+     "title": "produktionsmitarbeiter (m/w/d)",
+     "n": 3874
+    },
+    {
+     "title": "staplerfahrer (m/w/d)",
+     "n": 3410
+    },
+    {
+     "title": "kommissionierer (m/w/d)",
+     "n": 3252
+    },
+    {
+     "title": "verkäufer (m/w/d)",
+     "n": 3205
+    },
+    {
+     "title": "landschaftsgärtner / gärtner (m/w/d)",
+     "n": 2505
+    },
+    {
+     "title": "pflegefachkraft (m/w/d)",
+     "n": 2492
+    },
+    {
+     "title": "postbote für pakete und briefe (m/w/d)",
+     "n": 2289
+    },
+    {
+     "title": "kfz-mechatroniker (m/w/d)",
+     "n": 2180
+    },
+    {
+     "title": "produktionshelfer (m/w/d).",
+     "n": 2065
+    },
+    {
+     "title": "industriemechaniker (m/w/d)",
+     "n": 1661
+    },
+    {
+     "title": "abiturientenprogramm vertrieb inkl. handelsfachwirt 2027 (m/w/d)",
+     "n": 1647
+    },
+    {
+     "title": "lagerhelfer (m/w/d)",
+     "n": 1612
+    },
+    {
+     "title": "lagermitarbeiter (m/w/d)",
+     "n": 1612
+    }
+   ],
+   "regions": []
+  }
+ ],
+ "sources": [
+  {
+   "code": "jooble.de",
+   "service": "Jooble",
+   "kind": "aggregator",
+   "url": "https://de.jooble.org",
+   "collecting_since": "2026-08-01",
+   "offers_total": 952349,
+   "share_latest": 0.447,
+   "salary_coverage": 0.255,
+   "description_coverage": 1.0
+  },
+  {
+   "code": "careerjet.de",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "url": "https://www.careerjet.de",
+   "collecting_since": "2026-08-03",
+   "offers_total": 589951,
+   "share_latest": 0.354,
+   "salary_coverage": 0.2,
+   "description_coverage": 1.0
+  },
+  {
+   "code": "indeed.de",
+   "service": "Indeed",
+   "kind": "aggregator",
+   "url": "https://de.indeed.com",
+   "collecting_since": "2026-08-06",
+   "offers_total": 572738,
+   "share_latest": 0.199,
+   "salary_coverage": 0.0,
+   "description_coverage": 1.0
+  }
+ ],
+ "quality": {
+  "field_coverage": {
+   "salary_any": 0.171,
+   "city": 0.995,
+   "company": 0.952,
+   "employment_type": 0.232,
+   "remote": 0.721,
+   "posted_at": 1.0
+  },
+  "dedup": {
+   "within_source_rule_pl": "Ta sama oferta w tym samym serwisie liczona raz (klucz: adres URL lub identyfikator ogłoszenia).",
+   "cross_source_estimate": 0.265,
+   "cross_source_note_pl": "Szacunkowy odsetek ogłoszeń widocznych w więcej niż jednym serwisie (ten sam tytuł, firma i miasto w tym samym miesiącu). Wskaźniki liczymy po zdjęciu tych powtórek."
+  }
+ },
+ "highlights": [
+  {
+   "id": "volume",
+   "icon": "trend",
+   "title_pl": "Sierpień: 877 394 ogłoszeń",
+   "text_pl": "877 394 nowych ogłoszeń - najwięcej od początku zbierania.",
+   "title_en": "August: 877,394 postings",
+   "text_en": "877,394 new postings - the most since collection began."
+  },
+  {
+   "id": "mover",
+   "icon": "city",
+   "title_pl": "Największa zmiana: Bremen +167,0%",
+   "text_pl": "15 534 ogłoszeń wobec 5 819 miesiąc wcześniej.",
+   "title_en": "Biggest move: Bremen +167.0%",
+   "text_en": "15,534 postings vs 5,819 a month earlier."
+  },
+  {
+   "id": "salary",
+   "icon": "salary",
+   "title_pl": "Mediana wynagrodzenia: 3 553 EUR",
+   "text_pl": "Połowa ofert z podaną stawką mieści się między 2 787 a 4 583 EUR miesięcznie; stawkę podaje 19% ogłoszeń.",
+   "title_en": "Median pay: 3,553 EUR",
+   "text_en": "Half of the postings with stated pay fall between 2,787 and 4,583 EUR per month; 19% of postings state pay."
+  },
+  {
+   "id": "remote",
+   "icon": "remote",
+   "title_pl": "Praca zdalna: 2,5% ogłoszeń",
+   "text_pl": "29 846 ogłoszeń oznaczonych jako praca zdalna (-1,3 pkt proc. m/m).",
+   "title_en": "Remote work: 2.5% of postings",
+   "text_en": "29,846 postings flagged as remote (-1.3 pp m/m)."
+  },
+  {
+   "id": "source",
+   "icon": "source",
+   "title_pl": "Największy serwis: Jooble (45%)",
+   "text_pl": "Dane z 3 serwisów; Jooble dostarcza 533 863 z 1 193 846 ogłoszeń przed zdjęciem powtórek.",
+   "title_en": "Largest source: Jooble (45%)",
+   "text_en": "Data from 3 sources; Jooble provides 533,863 of 1,193,846 postings before de-duplication."
+  },
+  {
+   "id": "cities",
+   "icon": "map",
+   "title_pl": "12 923 miasta z ogłoszeniami",
+   "text_pl": "Najwięcej w: Berlin (6%), Hamburg (3%), München (3%).",
+   "title_en": "12,923 cities with postings",
+   "text_en": "Most in: Berlin (6%), Hamburg (3%), München (3%)."
+  }
+ ],
+ "commentary": {
+  "month": "2026-08",
+  "generated_at": "2026-09-30T15:37:27+00:00",
+  "model": "claude-opus-5-5",
+  "is_ai": true,
+  "lead_pl": "W sierpniu 2026 r. w Niemczech opublikowano w internecie 877 394 nowych ogłoszeń o pracę. To pierwszy pełny miesiąc danych i baza indeksu (100).",
+  "body_pl": "W sierpniu 2026 r. serwisy internetowe z ogłoszeniami o pracę w Niemczech pokazały 877 394 nowych ogłoszeń. Liczba ta nie obejmuje powtórek między serwisami. Na koniec miesiąca aktywnych było 1 780 860 ogłoszeń. Sierpień to pierwszy pełny miesiąc zbierania danych i baza indeksu (100). Nie ma więc jeszcze porównania miesiąc do miesiąca ani rok do roku. Dane dotyczą ogłoszeń w internecie, a nie całego rynku pracy.\n\nMediana wynagrodzenia wyniosła 3 553 EUR miesięcznie. Połowa ofert ze stawką mieściła się między 2 787 a 4 583 EUR. Kwotę podało 19% ogłoszeń (86 517), więc mediana nie opisuje wszystkich ofert.\n\nPracę zdalną oznaczono w 2,5% ogłoszeń. Pełny etat wskazano w 9,7% ogłoszeń, część etatu w 4,7%. W 82,8% ogłoszeń nie było informacji o formie zatrudnienia.\n\nOgłoszenia dotyczyły 12 923 miast. Najwięcej przypadło na Berlin (72 033, czyli 6,0%), Hamburg (36 861, 3,1%) i Monachium (34 878, 2,9%). Dane pochodzą z 3 agregatorów: Jooble (533 863), Careerjet (422 195) i Indeed (237 788). Łącznie dają one 1 193 846 ogłoszeń przed zdjęciem powtórek. Szacunkowo 26,5% ogłoszeń było widocznych w więcej niż jednym serwisie.",
+  "bullets_pl": [
+   "877 394 nowych ogłoszeń i 1 780 860 aktywnych na koniec sierpnia",
+   "Mediana wynagrodzenia: 3 553 EUR (stawkę podało 19% ogłoszeń)",
+   "Praca zdalna: 2,5% ogłoszeń"
+  ],
+  "caveats_pl": "Pełne dane obejmują dopiero sierpień 2026 r. i pochodzą wyłącznie z ogłoszeń w 3 internetowych agregatorach, a wynagrodzenie podaje tylko 19% ogłoszeń, więc wskaźniki nie opisują całego niemieckiego rynku pracy.",
+  "lead_en": "In August 2026, 877,394 new job postings were published online in Germany. It is the first complete month of data and the index base (100).",
+  "body_en": "In August 2026, online job boards in Germany showed 877,394 new postings. This figure excludes duplicates across sites. At the end of the month, 1,780,860 postings were active. August is the first complete month of data collection and the index base (100). There is therefore no month-on-month or year-on-year comparison yet. The data cover online job postings, not the entire labour market.\n\nThe median salary was 3,553 EUR per month. Half of the postings with a stated rate fell between 2,787 and 4,583 EUR. A salary was given in 19% of postings (86,517), so the median does not describe all offers.\n\nRemote work was marked in 2.5% of postings. Full-time work was indicated in 9.7% of postings and part-time in 4.7%. In 82.8% of postings, the employment type was not stated.\n\nThe postings covered 12,923 cities. The most were in Berlin (72,033, or 6.0%), Hamburg (36,861, 3.1%) and Munich (34,878, 2.9%). The data come from 3 aggregators: Jooble (533,863), Careerjet (422,195) and Indeed (237,788). Together they give 1,193,846 postings before duplicates are removed. An estimated 26.5% of postings appeared on more than one site.",
+  "bullets_en": [
+   "877,394 new postings and 1,780,860 active at the end of August",
+   "Median salary: 3,553 EUR (19% of postings stated a salary)",
+   "Remote work: 2.5% of postings"
+  ]
+ },
+ "skills_demo": {
+  "is_synthetic": true,
+  "note_pl": "Dane demonstracyjne: nazwy umiejętności pochodzą z taksonomii ESCO, wartości są wygenerowane. Docelowo - identyfikacja umiejętności w treści ogłoszeń.",
+  "months": [
+   "2026-03",
+   "2026-04",
+   "2026-05",
+   "2026-06",
+   "2026-07",
+   "2026-08"
+  ],
+  "groups": [
+   {
+    "id": "digital",
+    "name_pl": "Kompetencje cyfrowe",
+    "name_en": "Digital skills",
+    "share": 0.14,
+    "change_pct": 10.1
+   },
+   {
+    "id": "data_ai",
+    "name_pl": "Dane i sztuczna inteligencja",
+    "name_en": "Data & AI",
+    "share": 0.067,
+    "change_pct": 25.1
+   },
+   {
+    "id": "green",
+    "name_pl": "Zielone kompetencje",
+    "name_en": "Green skills",
+    "share": 0.059,
+    "change_pct": 7.3
+   },
+   {
+    "id": "management",
+    "name_pl": "Zarządzanie",
+    "name_en": "Management",
+    "share": 0.106,
+    "change_pct": -3.2
+   },
+   {
+    "id": "communication",
+    "name_pl": "Komunikacja i współpraca",
+    "name_en": "Communication & teamwork",
+    "share": 0.123,
+    "change_pct": -1.6
+   },
+   {
+    "id": "technical_trades",
+    "name_pl": "Zawody techniczne i produkcja",
+    "name_en": "Technical trades",
+    "share": 0.173,
+    "change_pct": -6.5
+   },
+   {
+    "id": "healthcare",
+    "name_pl": "Opieka zdrowotna",
+    "name_en": "Healthcare",
+    "share": 0.079,
+    "change_pct": -0.1
+   },
+   {
+    "id": "finance_admin",
+    "name_pl": "Finanse i administracja",
+    "name_en": "Finance & administration",
+    "share": 0.079,
+    "change_pct": -4.6
+   },
+   {
+    "id": "languages",
+    "name_pl": "Języki obce",
+    "name_en": "Languages",
+    "share": 0.079,
+    "change_pct": -6.8
+   },
+   {
+    "id": "customer_sales",
+    "name_pl": "Obsługa klienta i sprzedaż",
+    "name_en": "Customer service & sales",
+    "share": 0.096,
+    "change_pct": -3.1
+   }
+  ],
+  "skills": [
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0",
+    "name_pl": "język angielski",
+    "name_en": "English",
+    "group": "languages",
+    "share": 0.0227,
+    "change_pct": 1.3,
+    "series": [
+     0.0224,
+     0.0221,
+     0.0231,
+     0.0225,
+     0.0234,
+     0.0227
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/530cb489-d900-46ab-9350-4d50ccd49eea",
+    "name_pl": "techniki spawania",
+    "name_en": "welding techniques",
+    "group": "technical_trades",
+    "share": 0.019,
+    "change_pct": -12.0,
+    "series": [
+     0.0216,
+     0.0204,
+     0.0207,
+     0.0201,
+     0.0191,
+     0.019
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/bf942c60-8539-4951-83ee-63f770da1cb8",
+    "name_pl": "programowanie sterowników CNC",
+    "name_en": "program a CNC controller",
+    "group": "technical_trades",
+    "share": 0.0167,
+    "change_pct": -9.7,
+    "series": [
+     0.0185,
+     0.0178,
+     0.0176,
+     0.0175,
+     0.0164,
+     0.0167
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/28cb374e-6261-4133-8371-f9a5470145da",
+    "name_pl": "obsługa wózka widłowego",
+    "name_en": "operate forklift",
+    "group": "technical_trades",
+    "share": 0.016,
+    "change_pct": -15.3,
+    "series": [
+     0.0189,
+     0.0181,
+     0.0178,
+     0.0173,
+     0.0166,
+     0.016
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/918f5211-b99f-4b29-9a34-6e475583ef55",
+    "name_pl": "pisanie raportów",
+    "name_en": "write work-related reports",
+    "group": "communication",
+    "share": 0.0155,
+    "change_pct": -5.5,
+    "series": [
+     0.0164,
+     0.0163,
+     0.0159,
+     0.0155,
+     0.015,
+     0.0155
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/afd49651-9119-4327-91fc-844a6dda1254",
+    "name_pl": "zarządzanie konfliktem",
+    "name_en": "conflict management",
+    "group": "communication",
+    "share": 0.0153,
+    "change_pct": -7.3,
+    "series": [
+     0.0165,
+     0.017,
+     0.0165,
+     0.0155,
+     0.0154,
+     0.0153
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+    "name_pl": "JavaScript",
+    "name_en": "JavaScript",
+    "group": "digital",
+    "share": 0.015,
+    "change_pct": 19.0,
+    "series": [
+     0.0126,
+     0.0134,
+     0.0129,
+     0.0142,
+     0.0145,
+     0.015
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44",
+    "name_pl": "cyberbezpieczeństwo",
+    "name_en": "cyber security",
+    "group": "digital",
+    "share": 0.0127,
+    "change_pct": 4.1,
+    "series": [
+     0.0122,
+     0.0126,
+     0.012,
+     0.0127,
+     0.0126,
+     0.0127
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/949ced5f-7536-4614-ac60-563ffc91a2f2",
+    "name_pl": "planowanie strategiczne",
+    "name_en": "strategic planning",
+    "group": "management",
+    "share": 0.0122,
+    "change_pct": 0.8,
+    "series": [
+     0.0121,
+     0.012,
+     0.0125,
+     0.0123,
+     0.0124,
+     0.0122
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/87de6e49-ca1c-42a4-8751-5ff0b991966b",
+    "name_pl": "negocjacje z interesariuszami",
+    "name_en": "negotiate with stakeholders",
+    "group": "communication",
+    "share": 0.012,
+    "change_pct": -11.1,
+    "series": [
+     0.0135,
+     0.0136,
+     0.0129,
+     0.0125,
+     0.0123,
+     0.012
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/19858dd3-a5fe-4855-b644-6ecfefd1c384",
+    "name_pl": "stolarka",
+    "name_en": "carpentry",
+    "group": "technical_trades",
+    "share": 0.0114,
+    "change_pct": -12.3,
+    "series": [
+     0.013,
+     0.0123,
+     0.0124,
+     0.0122,
+     0.0117,
+     0.0114
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/21c5790c-0930-4d74-b3b0-84caf5af12ea",
+    "name_pl": "zarządzanie budżetem",
+    "name_en": "manage budgets",
+    "group": "management",
+    "share": 0.0112,
+    "change_pct": -8.9,
+    "series": [
+     0.0123,
+     0.0123,
+     0.0121,
+     0.0118,
+     0.0115,
+     0.0112
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/f929c89e-c363-4132-a918-e021d57b307c",
+    "name_pl": "zarządzanie łańcuchem dostaw",
+    "name_en": "supply chain management",
+    "group": "management",
+    "share": 0.011,
+    "change_pct": -7.6,
+    "series": [
+     0.0119,
+     0.0119,
+     0.0118,
+     0.0115,
+     0.0114,
+     0.011
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/8a4e99e0-f259-4931-888f-604cfdc15b31",
+    "name_pl": "konserwacja maszyn",
+    "name_en": "perform machine maintenance",
+    "group": "technical_trades",
+    "share": 0.01,
+    "change_pct": 2.0,
+    "series": [
+     0.0098,
+     0.0097,
+     0.0097,
+     0.0098,
+     0.0096,
+     0.01
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/15a33d76-4640-438d-ae64-fdc0c1d3eebc",
+    "name_pl": "obsługa klienta",
+    "name_en": "customer service",
+    "group": "customer_sales",
+    "share": 0.0099,
+    "change_pct": -9.2,
+    "series": [
+     0.0109,
+     0.0106,
+     0.0103,
+     0.0104,
+     0.0103,
+     0.0099
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+    "name_pl": "obsługa pakietu Microsoft Office",
+    "name_en": "use microsoft office",
+    "group": "digital",
+    "share": 0.0094,
+    "change_pct": 23.7,
+    "series": [
+     0.0076,
+     0.008,
+     0.0079,
+     0.0086,
+     0.0088,
+     0.0094
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/29a50780-f81b-429c-b410-7f23a492e19d",
+    "name_pl": "sprzedaż produktów",
+    "name_en": "sell products",
+    "group": "customer_sales",
+    "share": 0.0092,
+    "change_pct": 21.1,
+    "series": [
+     0.0076,
+     0.008,
+     0.0082,
+     0.0084,
+     0.0089,
+     0.0092
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/f7464f30-662b-4177-85a0-3df9693e9e58",
+    "name_pl": "pierwsza pomoc",
+    "name_en": "first aid",
+    "group": "healthcare",
+    "share": 0.0088,
+    "change_pct": -9.3,
+    "series": [
+     0.0097,
+     0.0093,
+     0.0093,
+     0.0092,
+     0.0089,
+     0.0088
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/261e740b-d32d-4356-94a8-3ea29128b70b",
+    "name_pl": "opieka nad osobami starszymi",
+    "name_en": "tend to elderly people",
+    "group": "healthcare",
+    "share": 0.0082,
+    "change_pct": 24.2,
+    "series": [
+     0.0066,
+     0.0067,
+     0.0071,
+     0.0073,
+     0.0075,
+     0.0082
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/e3e42d54-78bd-4337-aa87-bb31a7670c9a",
+    "name_pl": "wystawianie faktur",
+    "name_en": "issue sales invoices",
+    "group": "finance_admin",
+    "share": 0.0082,
+    "change_pct": -3.5,
+    "series": [
+     0.0085,
+     0.0084,
+     0.0084,
+     0.0082,
+     0.0082,
+     0.0082
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/92721092-fe7c-4689-96bd-4f02385bc0e7",
+    "name_pl": "zarządzanie umowami",
+    "name_en": "manage contracts",
+    "group": "finance_admin",
+    "share": 0.0074,
+    "change_pct": -3.9,
+    "series": [
+     0.0077,
+     0.0077,
+     0.0077,
+     0.0074,
+     0.0076,
+     0.0074
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/6f5850ea-5785-4e2c-b062-743066fd5bdb",
+    "name_pl": "prawo ochrony środowiska",
+    "name_en": "environmental legislation",
+    "group": "green",
+    "share": 0.0062,
+    "change_pct": 12.7,
+    "series": [
+     0.0055,
+     0.0057,
+     0.0059,
+     0.0062,
+     0.0062,
+     0.0062
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/6891bbce-20bf-4afc-bd5e-75bdf54c0165",
+    "name_pl": "język rosyjski",
+    "name_en": "Russian",
+    "group": "languages",
+    "share": 0.0059,
+    "change_pct": 7.3,
+    "series": [
+     0.0055,
+     0.0055,
+     0.0058,
+     0.0056,
+     0.006,
+     0.0059
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43",
+    "name_pl": "uczenie maszynowe",
+    "name_en": "machine learning",
+    "group": "data_ai",
+    "share": 0.0058,
+    "change_pct": 31.8,
+    "series": [
+     0.0044,
+     0.0046,
+     0.0048,
+     0.0051,
+     0.0054,
+     0.0058
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/97bd1c21-66b2-4b7e-ad0f-e3cda590e378",
+    "name_pl": "analityka danych",
+    "name_en": "data analytics",
+    "group": "data_ai",
+    "share": 0.0053,
+    "change_pct": 26.2,
+    "series": [
+     0.0042,
+     0.0045,
+     0.0046,
+     0.0047,
+     0.0051,
+     0.0053
+    ]
+   }
+  ]
+ }
+}

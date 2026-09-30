@@ -1,0 +1,2292 @@
+{
+ "country": {
+  "code": "DK",
+  "iso3": "DNK",
+  "numeric": 208,
+  "name_pl": "Dania",
+  "name_en": "Denmark",
+  "continent": "europe",
+  "currency": "DKK"
+ },
+ "generated_at": "2026-09-30T15:36:10+00:00",
+ "coverage": {
+  "first_month": "2026-01",
+  "last_month": "2026-08",
+  "collecting_since": "2026-08-01",
+  "complete_from": "2026-08",
+  "index_base_month": "2026-08",
+  "note_pl": "Zbieranie trwa od 01.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
+ },
+ "headline": {
+  "month": "2026-08",
+  "postings_new": 57006,
+  "postings_raw": 64153,
+  "mom_pct": null,
+  "yoy_pct": null,
+  "postings_active_end": 65932,
+  "salary_median": 35533,
+  "salary_currency": "DKK",
+  "salary_share": 0.029,
+  "remote_share": 0.009,
+  "sources": 3,
+  "top_source": {
+   "code": "careerjet.dk",
+   "service": "Careerjet",
+   "share": 0.411
+  }
+ },
+ "monthly": [
+  {
+   "period": "2026-01",
+   "partial": false,
+   "postings_new": 880,
+   "postings_raw": 900,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 1.5,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.001,
+    "currency": "DKK"
+   },
+   "remote_share": 0.024,
+   "employment": {
+    "full_time": 0.653,
+    "part_time": 0.023,
+    "contract": 0.078,
+    "other": 0.017,
+    "unknown": 0.229
+   },
+   "by_source": [
+    {
+     "code": "indeed.dk",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 796
+    },
+    {
+     "code": "jooble.dk",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 104
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Aarhus",
+     "n": 275,
+     "share": 0.306
+    },
+    {
+     "name": "København",
+     "n": 99,
+     "share": 0.11
+    },
+    {
+     "name": "Viborg",
+     "n": 94,
+     "share": 0.104
+    },
+    {
+     "name": "Herning",
+     "n": 68,
+     "share": 0.076
+    },
+    {
+     "name": "Horsens",
+     "n": 45,
+     "share": 0.05
+    },
+    {
+     "name": "Randers",
+     "n": 39,
+     "share": 0.043
+    },
+    {
+     "name": "Silkeborg",
+     "n": 16,
+     "share": 0.018
+    },
+    {
+     "name": "Hammel",
+     "n": 10,
+     "share": 0.011
+    },
+    {
+     "name": "Jylland",
+     "n": 9,
+     "share": 0.01
+    },
+    {
+     "name": "Aalborg",
+     "n": 7,
+     "share": 0.008
+    },
+    {
+     "name": "Glesborg",
+     "n": 7,
+     "share": 0.008
+    },
+    {
+     "name": "Rønde",
+     "n": 7,
+     "share": 0.008
+    },
+    {
+     "name": "Hornsyld",
+     "n": 6,
+     "share": 0.007
+    },
+    {
+     "name": "Århus",
+     "n": 6,
+     "share": 0.007
+    },
+    {
+     "name": "Brabrand",
+     "n": 5,
+     "share": 0.006
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-02",
+   "partial": false,
+   "postings_new": 660,
+   "postings_raw": 676,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 1.2,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.009,
+    "currency": "DKK"
+   },
+   "remote_share": 0.03,
+   "employment": {
+    "full_time": 0.175,
+    "part_time": 0.027,
+    "contract": 0.003,
+    "other": 0.083,
+    "unknown": 0.713
+   },
+   "by_source": [
+    {
+     "code": "indeed.dk",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 518
+    },
+    {
+     "code": "jooble.dk",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 158
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "København",
+     "n": 352,
+     "share": 0.521
+    },
+    {
+     "name": "Odense",
+     "n": 18,
+     "share": 0.027
+    },
+    {
+     "name": "Aarhus",
+     "n": 16,
+     "share": 0.024
+    },
+    {
+     "name": "Aalborg",
+     "n": 14,
+     "share": 0.021
+    },
+    {
+     "name": "Århus",
+     "n": 13,
+     "share": 0.019
+    },
+    {
+     "name": "Jylland",
+     "n": 12,
+     "share": 0.018
+    },
+    {
+     "name": "København V",
+     "n": 11,
+     "share": 0.016
+    },
+    {
+     "name": "Hvide Sande",
+     "n": 8,
+     "share": 0.012
+    },
+    {
+     "name": "9000 Aalborg",
+     "n": 7,
+     "share": 0.01
+    },
+    {
+     "name": "Kolding",
+     "n": 7,
+     "share": 0.01
+    },
+    {
+     "name": "arbejde hjemmefra",
+     "n": 6,
+     "share": 0.009
+    },
+    {
+     "name": "Fredericia",
+     "n": 6,
+     "share": 0.009
+    },
+    {
+     "name": "Sjælland",
+     "n": 6,
+     "share": 0.009
+    },
+    {
+     "name": "4534 Hørve",
+     "n": 5,
+     "share": 0.007
+    },
+    {
+     "name": "Skagen",
+     "n": 5,
+     "share": 0.007
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-03",
+   "partial": false,
+   "postings_new": 731,
+   "postings_raw": 747,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 1.3,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.008,
+    "currency": "DKK"
+   },
+   "remote_share": 0.079,
+   "employment": {
+    "full_time": 0.288,
+    "part_time": 0.058,
+    "contract": 0.007,
+    "other": 0.039,
+    "unknown": 0.609
+   },
+   "by_source": [
+    {
+     "code": "indeed.dk",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 512
+    },
+    {
+     "code": "jooble.dk",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 235
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "København",
+     "n": 155,
+     "share": 0.207
+    },
+    {
+     "name": "Aarhus",
+     "n": 27,
+     "share": 0.036
+    },
+    {
+     "name": "Odense",
+     "n": 22,
+     "share": 0.029
+    },
+    {
+     "name": "København V",
+     "n": 16,
+     "share": 0.021
+    },
+    {
+     "name": "Århus",
+     "n": 16,
+     "share": 0.021
+    },
+    {
+     "name": "Aalborg",
+     "n": 14,
+     "share": 0.019
+    },
+    {
+     "name": "Jylland",
+     "n": 13,
+     "share": 0.017
+    },
+    {
+     "name": "Vejle",
+     "n": 12,
+     "share": 0.016
+    },
+    {
+     "name": "Esbjerg",
+     "n": 11,
+     "share": 0.015
+    },
+    {
+     "name": "Fyn",
+     "n": 11,
+     "share": 0.015
+    },
+    {
+     "name": "9000 Aalborg",
+     "n": 9,
+     "share": 0.012
+    },
+    {
+     "name": "Kolding",
+     "n": 9,
+     "share": 0.012
+    },
+    {
+     "name": "Silkeborg",
+     "n": 8,
+     "share": 0.011
+    },
+    {
+     "name": "Udlandet",
+     "n": 8,
+     "share": 0.011
+    },
+    {
+     "name": "arbejde hjemmefra",
+     "n": 7,
+     "share": 0.009
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-04",
+   "partial": false,
+   "postings_new": 847,
+   "postings_raw": 868,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 1.5,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.001,
+    "currency": "DKK"
+   },
+   "remote_share": 0.048,
+   "employment": {
+    "full_time": 0.318,
+    "part_time": 0.071,
+    "contract": 0.01,
+    "other": 0.037,
+    "unknown": 0.563
+   },
+   "by_source": [
+    {
+     "code": "indeed.dk",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 643
+    },
+    {
+     "code": "jooble.dk",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 225
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "København",
+     "n": 193,
+     "share": 0.222
+    },
+    {
+     "name": "Aarhus",
+     "n": 43,
+     "share": 0.05
+    },
+    {
+     "name": "Jylland",
+     "n": 29,
+     "share": 0.033
+    },
+    {
+     "name": "Odense",
+     "n": 20,
+     "share": 0.023
+    },
+    {
+     "name": "Aalborg",
+     "n": 18,
+     "share": 0.021
+    },
+    {
+     "name": "Sjælland",
+     "n": 15,
+     "share": 0.017
+    },
+    {
+     "name": "Fredericia",
+     "n": 14,
+     "share": 0.016
+    },
+    {
+     "name": "Ballerup",
+     "n": 13,
+     "share": 0.015
+    },
+    {
+     "name": "Kolding",
+     "n": 11,
+     "share": 0.013
+    },
+    {
+     "name": "Frederiksberg",
+     "n": 10,
+     "share": 0.012
+    },
+    {
+     "name": "Horsens",
+     "n": 9,
+     "share": 0.01
+    },
+    {
+     "name": "Århus",
+     "n": 9,
+     "share": 0.01
+    },
+    {
+     "name": "arbejde hjemmefra",
+     "n": 8,
+     "share": 0.009
+    },
+    {
+     "name": "Esbjerg",
+     "n": 8,
+     "share": 0.009
+    },
+    {
+     "name": "Fyn",
+     "n": 7,
+     "share": 0.008
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-05",
+   "partial": false,
+   "postings_new": 2015,
+   "postings_raw": 2170,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 3.5,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 33109,
+    "p25": 26213,
+    "p75": 33550,
+    "mean": 30937,
+    "n": 11,
+    "share": 0.014,
+    "currency": "DKK"
+   },
+   "remote_share": 0.032,
+   "employment": {
+    "full_time": 0.28,
+    "part_time": 0.062,
+    "contract": 0.005,
+    "other": 0.026,
+    "unknown": 0.628
+   },
+   "by_source": [
+    {
+     "code": "indeed.dk",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 1320
+    },
+    {
+     "code": "jooble.dk",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 559
+    },
+    {
+     "code": "careerjet.dk",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 291
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "København",
+     "n": 460,
+     "share": 0.212
+    },
+    {
+     "name": "Aarhus",
+     "n": 92,
+     "share": 0.042
+    },
+    {
+     "name": "Jylland",
+     "n": 73,
+     "share": 0.034
+    },
+    {
+     "name": "Odense",
+     "n": 70,
+     "share": 0.032
+    },
+    {
+     "name": "Aalborg",
+     "n": 58,
+     "share": 0.027
+    },
+    {
+     "name": "Horsens",
+     "n": 46,
+     "share": 0.021
+    },
+    {
+     "name": "Ballerup",
+     "n": 36,
+     "share": 0.017
+    },
+    {
+     "name": "Esbjerg",
+     "n": 36,
+     "share": 0.017
+    },
+    {
+     "name": "Sjælland",
+     "n": 34,
+     "share": 0.016
+    },
+    {
+     "name": "Fyn",
+     "n": 33,
+     "share": 0.015
+    },
+    {
+     "name": "Randers",
+     "n": 30,
+     "share": 0.014
+    },
+    {
+     "name": "Fredericia",
+     "n": 29,
+     "share": 0.013
+    },
+    {
+     "name": "Silkeborg",
+     "n": 29,
+     "share": 0.013
+    },
+    {
+     "name": "Kolding",
+     "n": 28,
+     "share": 0.013
+    },
+    {
+     "name": "Vejle",
+     "n": 26,
+     "share": 0.012
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-06",
+   "partial": false,
+   "postings_new": 6657,
+   "postings_raw": 7143,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 11.7,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 33089,
+    "p25": 28035,
+    "p75": 40725,
+    "mean": 35270,
+    "n": 54,
+    "share": 0.014,
+    "currency": "DKK"
+   },
+   "remote_share": 0.015,
+   "employment": {
+    "full_time": 0.239,
+    "part_time": 0.048,
+    "contract": 0.007,
+    "other": 0.015,
+    "unknown": 0.691
+   },
+   "by_source": [
+    {
+     "code": "indeed.dk",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 3409
+    },
+    {
+     "code": "jooble.dk",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 2670
+    },
+    {
+     "code": "careerjet.dk",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 1064
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "København",
+     "n": 1318,
+     "share": 0.185
+    },
+    {
+     "name": "Jylland",
+     "n": 366,
+     "share": 0.051
+    },
+    {
+     "name": "Odense",
+     "n": 227,
+     "share": 0.032
+    },
+    {
+     "name": "Aarhus",
+     "n": 226,
+     "share": 0.032
+    },
+    {
+     "name": "Sjælland",
+     "n": 191,
+     "share": 0.027
+    },
+    {
+     "name": "Aalborg",
+     "n": 177,
+     "share": 0.025
+    },
+    {
+     "name": "Fyn",
+     "n": 117,
+     "share": 0.016
+    },
+    {
+     "name": "Esbjerg",
+     "n": 96,
+     "share": 0.013
+    },
+    {
+     "name": "Viborg",
+     "n": 90,
+     "share": 0.013
+    },
+    {
+     "name": "Kolding",
+     "n": 88,
+     "share": 0.012
+    },
+    {
+     "name": "Vejle",
+     "n": 88,
+     "share": 0.012
+    },
+    {
+     "name": "Herning",
+     "n": 87,
+     "share": 0.012
+    },
+    {
+     "name": "Roskilde",
+     "n": 83,
+     "share": 0.012
+    },
+    {
+     "name": "Kongens Lyngby",
+     "n": 75,
+     "share": 0.01
+    },
+    {
+     "name": "Silkeborg",
+     "n": 74,
+     "share": 0.01
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "barber — danmark",
+     "n": 21
+    },
+    {
+     "title": "barberer til de nordiske lande",
+     "n": 19
+    },
+    {
+     "title": "barber — denmark",
+     "n": 14
+    },
+    {
+     "title": "behandlingsskolerne",
+     "n": 13
+    },
+    {
+     "title": "barbers for the nordics",
+     "n": 12
+    },
+    {
+     "title": "product manager",
+     "n": 10
+    },
+    {
+     "title": "sygeplejerskeuddannelsen",
+     "n": 10
+    },
+    {
+     "title": "trafikplanlægger til rambøll danmark",
+     "n": 9
+    },
+    {
+     "title": "consultancy in neurology combined with a clinical professorship (chair) in neurology",
+     "n": 8
+    },
+    {
+     "title": "senior software engineer",
+     "n": 8
+    },
+    {
+     "title": "software engineer",
+     "n": 8
+    },
+    {
+     "title": "ungarbejder under 18 år - dagtimer",
+     "n": 8
+    },
+    {
+     "title": "danish speaking digital marketing conultant in barcelona w/relocation bonus",
+     "n": 7
+    },
+    {
+     "title": "danish-speaking game presenter in riga, latvia",
+     "n": 7
+    },
+    {
+     "title": "projektleder",
+     "n": 7
+    }
+   ],
+   "regions": []
+  },
+  {
+   "period": "2026-07",
+   "partial": false,
+   "postings_new": 26283,
+   "postings_raw": 28421,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 46.1,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 35000,
+    "p25": 28599,
+    "p75": 41139,
+    "mean": 37106,
+    "n": 518,
+    "share": 0.027,
+    "currency": "DKK"
+   },
+   "remote_share": 0.013,
+   "employment": {
+    "full_time": 0.158,
+    "part_time": 0.031,
+    "contract": 0.006,
+    "other": 0.006,
+    "unknown": 0.799
+   },
+   "by_source": [
+    {
+     "code": "jooble.dk",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 11708
+    },
+    {
+     "code": "indeed.dk",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 8361
+    },
+    {
+     "code": "careerjet.dk",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 8352
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "København",
+     "n": 5336,
+     "share": 0.188
+    },
+    {
+     "name": "Jylland",
+     "n": 1760,
+     "share": 0.062
+    },
+    {
+     "name": "Sjælland",
+     "n": 904,
+     "share": 0.032
+    },
+    {
+     "name": "Aarhus",
+     "n": 897,
+     "share": 0.032
+    },
+    {
+     "name": "Odense",
+     "n": 826,
+     "share": 0.029
+    },
+    {
+     "name": "Aalborg",
+     "n": 577,
+     "share": 0.02
+    },
+    {
+     "name": "Roskilde",
+     "n": 390,
+     "share": 0.014
+    },
+    {
+     "name": "Ballerup",
+     "n": 374,
+     "share": 0.013
+    },
+    {
+     "name": "Fyn",
+     "n": 326,
+     "share": 0.011
+    },
+    {
+     "name": "Vejle",
+     "n": 324,
+     "share": 0.011
+    },
+    {
+     "name": "Udlandet",
+     "n": 319,
+     "share": 0.011
+    },
+    {
+     "name": "Esbjerg",
+     "n": 302,
+     "share": 0.011
+    },
+    {
+     "name": "Kolding",
+     "n": 300,
+     "share": 0.011
+    },
+    {
+     "name": "Århus",
+     "n": 294,
+     "share": 0.01
+    },
+    {
+     "name": "Hillerød",
+     "n": 252,
+     "share": 0.009
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "pædagog",
+     "n": 28
+    },
+    {
+     "title": "souschef",
+     "n": 28
+    },
+    {
+     "title": "salgsassistentelev",
+     "n": 24
+    },
+    {
+     "title": "ungarbejder under 18 år - aften og weekend",
+     "n": 24
+    },
+    {
+     "title": "frisører til norge",
+     "n": 21
+    },
+    {
+     "title": "ungarbejder under 18 år - dagtimer",
+     "n": 21
+    },
+    {
+     "title": "pædagogmedhjælper",
+     "n": 17
+    },
+    {
+     "title": "sygeplejerskeuddannelsen",
+     "n": 17
+    },
+    {
+     "title": "salgsassistent til q8",
+     "n": 16
+    },
+    {
+     "title": "student assistant",
+     "n": 16
+    },
+    {
+     "title": "work in greece",
+     "n": 15
+    },
+    {
+     "title": "dansktalende kundeservicemedarbejder inden for finans - flyt til malta",
+     "n": 14
+    },
+    {
+     "title": "dansktalende live dealer - flyt til malta",
+     "n": 14
+    },
+    {
+     "title": "erfaren broingeniør/projektleder til projekter i aalborg, aarhus, vejle, sønderborg og odense",
+     "n": 14
+    },
+    {
+     "title": "medhjælper",
+     "n": 14
+    }
+   ],
+   "regions": []
+  },
+  {
+   "period": "2026-08",
+   "partial": false,
+   "postings_new": 57006,
+   "postings_raw": 64153,
+   "postings_active_end": 65932,
+   "postings_closed": 39385,
+   "index": 100.0,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 35533,
+    "p25": 29466,
+    "p75": 38999,
+    "mean": 36173,
+    "n": 1529,
+    "share": 0.029,
+    "currency": "DKK"
+   },
+   "remote_share": 0.009,
+   "employment": {
+    "full_time": 0.112,
+    "part_time": 0.026,
+    "contract": 0.006,
+    "other": 0.005,
+    "unknown": 0.851
+   },
+   "by_source": [
+    {
+     "code": "careerjet.dk",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 26374
+    },
+    {
+     "code": "jooble.dk",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 24403
+    },
+    {
+     "code": "indeed.dk",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 13376
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "København",
+     "n": 10906,
+     "share": 0.17
+    },
+    {
+     "name": "Jylland",
+     "n": 2238,
+     "share": 0.035
+    },
+    {
+     "name": "Aarhus",
+     "n": 1845,
+     "share": 0.029
+    },
+    {
+     "name": "Odense",
+     "n": 1565,
+     "share": 0.024
+    },
+    {
+     "name": "Sjælland",
+     "n": 1266,
+     "share": 0.02
+    },
+    {
+     "name": "Aalborg",
+     "n": 1122,
+     "share": 0.017
+    },
+    {
+     "name": "Danmark",
+     "n": 1050,
+     "share": 0.016
+    },
+    {
+     "name": "Århus",
+     "n": 979,
+     "share": 0.015
+    },
+    {
+     "name": "Roskilde",
+     "n": 616,
+     "share": 0.01
+    },
+    {
+     "name": "Kongens Lyngby",
+     "n": 610,
+     "share": 0.01
+    },
+    {
+     "name": "Vejle",
+     "n": 585,
+     "share": 0.009
+    },
+    {
+     "name": "Kolding",
+     "n": 537,
+     "share": 0.008
+    },
+    {
+     "name": "Ballerup",
+     "n": 517,
+     "share": 0.008
+    },
+    {
+     "name": "Udlandet",
+     "n": 490,
+     "share": 0.008
+    },
+    {
+     "name": "Herning",
+     "n": 487,
+     "share": 0.008
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "ungarbejder under 18 år - dagtimer",
+     "n": 72
+    },
+    {
+     "title": "pædagog",
+     "n": 66
+    },
+    {
+     "title": "ungarbejder under 18 år - aften og weekend",
+     "n": 65
+    },
+    {
+     "title": "salgsassistentelev",
+     "n": 57
+    },
+    {
+     "title": "souschef",
+     "n": 37
+    },
+    {
+     "title": "sygeplejerskeuddannelsen",
+     "n": 33
+    },
+    {
+     "title": "behandlingsskolerne",
+     "n": 32
+    },
+    {
+     "title": "student assistant",
+     "n": 29
+    },
+    {
+     "title": "project manager",
+     "n": 26
+    },
+    {
+     "title": "projektleder",
+     "n": 25
+    },
+    {
+     "title": "senior data engineer",
+     "n": 22
+    },
+    {
+     "title": "senior software engineer",
+     "n": 21
+    },
+    {
+     "title": "product manager",
+     "n": 20
+    },
+    {
+     "title": "butiksmedarbejder over 18 år - aften og weekend",
+     "n": 19
+    },
+    {
+     "title": "butiksmedarbejder over 18 år - dagtimer",
+     "n": 19
+    }
+   ],
+   "regions": []
+  }
+ ],
+ "quarterly": [
+  {
+   "period": "2026-Q1",
+   "partial": false,
+   "postings_new": 2271,
+   "postings_raw": 2323,
+   "qoq_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.006,
+    "currency": "DKK"
+   },
+   "remote_share": 0.043,
+   "employment": {
+    "full_time": 0.397,
+    "part_time": 0.035,
+    "contract": 0.033,
+    "other": 0.043,
+    "unknown": 0.492
+   },
+   "by_source": [
+    {
+     "code": "indeed.dk",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 1826
+    },
+    {
+     "code": "jooble.dk",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 497
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "København",
+     "n": 606,
+     "share": 0.261
+    },
+    {
+     "name": "Aarhus",
+     "n": 318,
+     "share": 0.137
+    },
+    {
+     "name": "Viborg",
+     "n": 94,
+     "share": 0.04
+    },
+    {
+     "name": "Herning",
+     "n": 68,
+     "share": 0.029
+    },
+    {
+     "name": "Horsens",
+     "n": 45,
+     "share": 0.019
+    },
+    {
+     "name": "Odense",
+     "n": 40,
+     "share": 0.017
+    },
+    {
+     "name": "Randers",
+     "n": 39,
+     "share": 0.017
+    },
+    {
+     "name": "Aalborg",
+     "n": 35,
+     "share": 0.015
+    },
+    {
+     "name": "Århus",
+     "n": 35,
+     "share": 0.015
+    },
+    {
+     "name": "Jylland",
+     "n": 34,
+     "share": 0.015
+    },
+    {
+     "name": "København V",
+     "n": 27,
+     "share": 0.012
+    },
+    {
+     "name": "Silkeborg",
+     "n": 24,
+     "share": 0.01
+    },
+    {
+     "name": "9000 Aalborg",
+     "n": 16,
+     "share": 0.007
+    },
+    {
+     "name": "Kolding",
+     "n": 16,
+     "share": 0.007
+    },
+    {
+     "name": "arbejde hjemmefra",
+     "n": 13,
+     "share": 0.006
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-Q2",
+   "partial": false,
+   "postings_new": 9519,
+   "postings_raw": 10181,
+   "qoq_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 33092,
+    "p25": 27727,
+    "p75": 39511,
+    "mean": 34537,
+    "n": 65,
+    "share": 0.013,
+    "currency": "DKK"
+   },
+   "remote_share": 0.021,
+   "employment": {
+    "full_time": 0.254,
+    "part_time": 0.053,
+    "contract": 0.007,
+    "other": 0.019,
+    "unknown": 0.667
+   },
+   "by_source": [
+    {
+     "code": "indeed.dk",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 5372
+    },
+    {
+     "code": "jooble.dk",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 3454
+    },
+    {
+     "code": "careerjet.dk",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 1355
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "København",
+     "n": 1971,
+     "share": 0.194
+    },
+    {
+     "name": "Jylland",
+     "n": 468,
+     "share": 0.046
+    },
+    {
+     "name": "Aarhus",
+     "n": 361,
+     "share": 0.035
+    },
+    {
+     "name": "Odense",
+     "n": 317,
+     "share": 0.031
+    },
+    {
+     "name": "Aalborg",
+     "n": 253,
+     "share": 0.025
+    },
+    {
+     "name": "Sjælland",
+     "n": 240,
+     "share": 0.024
+    },
+    {
+     "name": "Fyn",
+     "n": 157,
+     "share": 0.015
+    },
+    {
+     "name": "Esbjerg",
+     "n": 140,
+     "share": 0.014
+    },
+    {
+     "name": "Kolding",
+     "n": 127,
+     "share": 0.012
+    },
+    {
+     "name": "Vejle",
+     "n": 114,
+     "share": 0.011
+    },
+    {
+     "name": "Silkeborg",
+     "n": 103,
+     "share": 0.01
+    },
+    {
+     "name": "Viborg",
+     "n": 90,
+     "share": 0.009
+    },
+    {
+     "name": "Herning",
+     "n": 87,
+     "share": 0.009
+    },
+    {
+     "name": "Roskilde",
+     "n": 83,
+     "share": 0.008
+    },
+    {
+     "name": "Kongens Lyngby",
+     "n": 75,
+     "share": 0.007
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "barber — danmark",
+     "n": 21
+    },
+    {
+     "title": "barberer til de nordiske lande",
+     "n": 19
+    },
+    {
+     "title": "barber — denmark",
+     "n": 14
+    },
+    {
+     "title": "behandlingsskolerne",
+     "n": 13
+    },
+    {
+     "title": "barbers for the nordics",
+     "n": 12
+    },
+    {
+     "title": "product manager",
+     "n": 10
+    },
+    {
+     "title": "sygeplejerskeuddannelsen",
+     "n": 10
+    },
+    {
+     "title": "trafikplanlægger til rambøll danmark",
+     "n": 9
+    },
+    {
+     "title": "consultancy in neurology combined with a clinical professorship (chair) in neurology",
+     "n": 8
+    },
+    {
+     "title": "senior software engineer",
+     "n": 8
+    },
+    {
+     "title": "software engineer",
+     "n": 8
+    },
+    {
+     "title": "ungarbejder under 18 år - dagtimer",
+     "n": 8
+    },
+    {
+     "title": "danish speaking digital marketing conultant in barcelona w/relocation bonus",
+     "n": 7
+    },
+    {
+     "title": "danish-speaking game presenter in riga, latvia",
+     "n": 7
+    },
+    {
+     "title": "projektleder",
+     "n": 7
+    }
+   ],
+   "regions": []
+  },
+  {
+   "period": "2026-Q3",
+   "partial": true,
+   "postings_new": 83289,
+   "postings_raw": 92574,
+   "qoq_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 35398,
+    "p25": 29247,
+    "p75": 39541,
+    "mean": 36409,
+    "n": 2047,
+    "share": 0.028,
+    "currency": "DKK"
+   },
+   "remote_share": 0.01,
+   "employment": {
+    "full_time": 0.126,
+    "part_time": 0.028,
+    "contract": 0.006,
+    "other": 0.005,
+    "unknown": 0.835
+   },
+   "by_source": [
+    {
+     "code": "jooble.dk",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 36111
+    },
+    {
+     "code": "careerjet.dk",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 34726
+    },
+    {
+     "code": "indeed.dk",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 21737
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "København",
+     "n": 16242,
+     "share": 0.175
+    },
+    {
+     "name": "Jylland",
+     "n": 3998,
+     "share": 0.043
+    },
+    {
+     "name": "Aarhus",
+     "n": 2742,
+     "share": 0.03
+    },
+    {
+     "name": "Odense",
+     "n": 2391,
+     "share": 0.026
+    },
+    {
+     "name": "Sjælland",
+     "n": 2170,
+     "share": 0.023
+    },
+    {
+     "name": "Aalborg",
+     "n": 1699,
+     "share": 0.018
+    },
+    {
+     "name": "Århus",
+     "n": 1273,
+     "share": 0.014
+    },
+    {
+     "name": "Danmark",
+     "n": 1050,
+     "share": 0.011
+    },
+    {
+     "name": "Roskilde",
+     "n": 1006,
+     "share": 0.011
+    },
+    {
+     "name": "Vejle",
+     "n": 909,
+     "share": 0.01
+    },
+    {
+     "name": "Ballerup",
+     "n": 891,
+     "share": 0.01
+    },
+    {
+     "name": "Kolding",
+     "n": 837,
+     "share": 0.009
+    },
+    {
+     "name": "Udlandet",
+     "n": 809,
+     "share": 0.009
+    },
+    {
+     "name": "Kongens Lyngby",
+     "n": 610,
+     "share": 0.007
+    },
+    {
+     "name": "Herning",
+     "n": 487,
+     "share": 0.005
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "pædagog",
+     "n": 94
+    },
+    {
+     "title": "ungarbejder under 18 år - dagtimer",
+     "n": 93
+    },
+    {
+     "title": "ungarbejder under 18 år - aften og weekend",
+     "n": 89
+    },
+    {
+     "title": "salgsassistentelev",
+     "n": 81
+    },
+    {
+     "title": "souschef",
+     "n": 65
+    },
+    {
+     "title": "sygeplejerskeuddannelsen",
+     "n": 50
+    },
+    {
+     "title": "student assistant",
+     "n": 45
+    },
+    {
+     "title": "behandlingsskolerne",
+     "n": 32
+    },
+    {
+     "title": "project manager",
+     "n": 26
+    },
+    {
+     "title": "projektleder",
+     "n": 25
+    },
+    {
+     "title": "senior data engineer",
+     "n": 22
+    },
+    {
+     "title": "frisører til norge",
+     "n": 21
+    },
+    {
+     "title": "senior software engineer",
+     "n": 21
+    },
+    {
+     "title": "product manager",
+     "n": 20
+    },
+    {
+     "title": "butiksmedarbejder over 18 år - aften og weekend",
+     "n": 19
+    }
+   ],
+   "regions": []
+  }
+ ],
+ "sources": [
+  {
+   "code": "jooble.dk",
+   "service": "Jooble",
+   "kind": "aggregator",
+   "url": "https://dk.jooble.org",
+   "collecting_since": "2026-08-01",
+   "offers_total": 46994,
+   "share_latest": 0.38,
+   "salary_coverage": 0.015,
+   "description_coverage": 1.0
+  },
+  {
+   "code": "careerjet.dk",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "url": "https://www.careerjet.dk",
+   "collecting_since": "2026-08-03",
+   "offers_total": 43133,
+   "share_latest": 0.411,
+   "salary_coverage": 0.058,
+   "description_coverage": 1.0
+  },
+  {
+   "code": "indeed.dk",
+   "service": "Indeed",
+   "kind": "aggregator",
+   "url": "https://dk.indeed.com",
+   "collecting_since": "2026-08-06",
+   "offers_total": 34163,
+   "share_latest": 0.209,
+   "salary_coverage": 0.0,
+   "description_coverage": 1.0
+  }
+ ],
+ "quality": {
+  "field_coverage": {
+   "salary_any": 0.026,
+   "city": 0.964,
+   "company": 0.972,
+   "employment_type": 0.189,
+   "remote": 0.652,
+   "posted_at": 1.0
+  },
+  "dedup": {
+   "within_source_rule_pl": "Ta sama oferta w tym samym serwisie liczona raz (klucz: adres URL lub identyfikator ogłoszenia).",
+   "cross_source_estimate": 0.111,
+   "cross_source_note_pl": "Szacunkowy odsetek ogłoszeń widocznych w więcej niż jednym serwisie (ten sam tytuł, firma i miasto w tym samym miesiącu). Wskaźniki liczymy po zdjęciu tych powtórek."
+  }
+ },
+ "highlights": [
+  {
+   "id": "volume",
+   "icon": "trend",
+   "title_pl": "Sierpień: 57 006 ogłoszeń",
+   "text_pl": "57 006 nowych ogłoszeń - najwięcej od początku zbierania.",
+   "title_en": "August: 57,006 postings",
+   "text_en": "57,006 new postings - the most since collection began."
+  },
+  {
+   "id": "mover",
+   "icon": "city",
+   "title_pl": "Największa zmiana: Århus +233,0%",
+   "text_pl": "979 ogłoszeń wobec 294 miesiąc wcześniej.",
+   "title_en": "Biggest move: Århus +233.0%",
+   "text_en": "979 postings vs 294 a month earlier."
+  },
+  {
+   "id": "salary",
+   "icon": "salary",
+   "title_pl": "Mediana wynagrodzenia: 35 533 DKK",
+   "text_pl": "Połowa ofert z podaną stawką mieści się między 29 466 a 38 999 DKK miesięcznie; stawkę podaje 3% ogłoszeń.",
+   "title_en": "Median pay: 35,533 DKK",
+   "text_en": "Half of the postings with stated pay fall between 29,466 and 38,999 DKK per month; 3% of postings state pay."
+  },
+  {
+   "id": "remote",
+   "icon": "remote",
+   "title_pl": "Praca zdalna: 0,9% ogłoszeń",
+   "text_pl": "577 ogłoszeń oznaczonych jako praca zdalna (-0,4 pkt proc. m/m).",
+   "title_en": "Remote work: 0.9% of postings",
+   "text_en": "577 postings flagged as remote (-0.4 pp m/m)."
+  },
+  {
+   "id": "source",
+   "icon": "source",
+   "title_pl": "Największy serwis: Careerjet (41%)",
+   "text_pl": "Dane z 3 serwisów; Careerjet dostarcza 26 374 z 64 153 ogłoszeń przed zdjęciem powtórek.",
+   "title_en": "Largest source: Careerjet (41%)",
+   "text_en": "Data from 3 sources; Careerjet provides 26,374 of 64,153 postings before de-duplication."
+  },
+  {
+   "id": "cities",
+   "icon": "map",
+   "title_pl": "1 215 miast z ogłoszeniami",
+   "text_pl": "Najwięcej w: København (17%), Jylland (4%), Aarhus (3%).",
+   "title_en": "1,215 cities with postings",
+   "text_en": "Most in: København (17%), Jylland (4%), Aarhus (3%)."
+  }
+ ],
+ "commentary": null,
+ "skills_demo": {
+  "is_synthetic": true,
+  "note_pl": "Dane demonstracyjne: nazwy umiejętności pochodzą z taksonomii ESCO, wartości są wygenerowane. Docelowo - identyfikacja umiejętności w treści ogłoszeń.",
+  "months": [
+   "2026-03",
+   "2026-04",
+   "2026-05",
+   "2026-06",
+   "2026-07",
+   "2026-08"
+  ],
+  "groups": [
+   {
+    "id": "digital",
+    "name_pl": "Kompetencje cyfrowe",
+    "name_en": "Digital skills",
+    "share": 0.16,
+    "change_pct": 8.8
+   },
+   {
+    "id": "data_ai",
+    "name_pl": "Dane i sztuczna inteligencja",
+    "name_en": "Data & AI",
+    "share": 0.066,
+    "change_pct": 9.0
+   },
+   {
+    "id": "green",
+    "name_pl": "Zielone kompetencje",
+    "name_en": "Green skills",
+    "share": 0.066,
+    "change_pct": 9.6
+   },
+   {
+    "id": "management",
+    "name_pl": "Zarządzanie",
+    "name_en": "Management",
+    "share": 0.109,
+    "change_pct": -2.4
+   },
+   {
+    "id": "communication",
+    "name_pl": "Komunikacja i współpraca",
+    "name_en": "Communication & teamwork",
+    "share": 0.153,
+    "change_pct": -3.5
+   },
+   {
+    "id": "technical_trades",
+    "name_pl": "Zawody techniczne i produkcja",
+    "name_en": "Technical trades",
+    "share": 0.112,
+    "change_pct": -1.4
+   },
+   {
+    "id": "healthcare",
+    "name_pl": "Opieka zdrowotna",
+    "name_en": "Healthcare",
+    "share": 0.08,
+    "change_pct": 2.6
+   },
+   {
+    "id": "finance_admin",
+    "name_pl": "Finanse i administracja",
+    "name_en": "Finance & administration",
+    "share": 0.086,
+    "change_pct": -3.7
+   },
+   {
+    "id": "languages",
+    "name_pl": "Języki obce",
+    "name_en": "Languages",
+    "share": 0.063,
+    "change_pct": -5.9
+   },
+   {
+    "id": "customer_sales",
+    "name_pl": "Obsługa klienta i sprzedaż",
+    "name_en": "Customer service & sales",
+    "share": 0.106,
+    "change_pct": -7.9
+   }
+  ],
+  "skills": [
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/7ff2c668-0e86-418a-a962-4958262ee337",
+    "name_pl": "techniki komunikacji",
+    "name_en": "use communication techniques",
+    "group": "communication",
+    "share": 0.0197,
+    "change_pct": 3.1,
+    "series": [
+     0.0191,
+     0.0197,
+     0.0193,
+     0.0199,
+     0.0201,
+     0.0197
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/c55caed2-de9e-4a25-819e-a0b0e83fba1b",
+    "name_pl": "prowadzenie prezentacji",
+    "name_en": "give live presentation",
+    "group": "communication",
+    "share": 0.0186,
+    "change_pct": 12.0,
+    "series": [
+     0.0166,
+     0.017,
+     0.0173,
+     0.0177,
+     0.0187,
+     0.0186
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/f0de4973-0a70-4644-8fd4-3a97080476f4",
+    "name_pl": "DevOps",
+    "name_en": "DevOps",
+    "group": "digital",
+    "share": 0.017,
+    "change_pct": -4.0,
+    "series": [
+     0.0177,
+     0.0178,
+     0.0177,
+     0.0178,
+     0.0174,
+     0.017
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44",
+    "name_pl": "cyberbezpieczeństwo",
+    "name_en": "cyber security",
+    "group": "digital",
+    "share": 0.0153,
+    "change_pct": 24.4,
+    "series": [
+     0.0123,
+     0.0128,
+     0.0139,
+     0.0142,
+     0.0147,
+     0.0153
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+    "name_pl": "JavaScript",
+    "name_en": "JavaScript",
+    "group": "digital",
+    "share": 0.0146,
+    "change_pct": 15.9,
+    "series": [
+     0.0126,
+     0.0132,
+     0.0137,
+     0.0143,
+     0.0141,
+     0.0146
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/c96ab6ac-cf85-4c91-86b5-7ac5bb14eb28",
+    "name_pl": "obsługa dźwigów",
+    "name_en": "operate cranes",
+    "group": "technical_trades",
+    "share": 0.0142,
+    "change_pct": -7.2,
+    "series": [
+     0.0153,
+     0.0148,
+     0.0148,
+     0.0148,
+     0.0142,
+     0.0142
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/21c5790c-0930-4d74-b3b0-84caf5af12ea",
+    "name_pl": "zarządzanie budżetem",
+    "name_en": "manage budgets",
+    "group": "management",
+    "share": 0.013,
+    "change_pct": 0.8,
+    "series": [
+     0.0129,
+     0.0129,
+     0.013,
+     0.013,
+     0.0131,
+     0.013
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+    "name_pl": "obsługa pakietu Microsoft Office",
+    "name_en": "use microsoft office",
+    "group": "digital",
+    "share": 0.0123,
+    "change_pct": 13.9,
+    "series": [
+     0.0108,
+     0.011,
+     0.0116,
+     0.0119,
+     0.0121,
+     0.0123
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/918f5211-b99f-4b29-9a34-6e475583ef55",
+    "name_pl": "pisanie raportów",
+    "name_en": "write work-related reports",
+    "group": "communication",
+    "share": 0.0118,
+    "change_pct": 10.3,
+    "series": [
+     0.0107,
+     0.0112,
+     0.0111,
+     0.0112,
+     0.0117,
+     0.0118
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4",
+    "name_pl": "zwinne zarządzanie projektami (Agile)",
+    "name_en": "Agile project management",
+    "group": "management",
+    "share": 0.0115,
+    "change_pct": -2.5,
+    "series": [
+     0.0118,
+     0.0117,
+     0.0116,
+     0.0116,
+     0.0117,
+     0.0115
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/afd49651-9119-4327-91fc-844a6dda1254",
+    "name_pl": "zarządzanie konfliktem",
+    "name_en": "conflict management",
+    "group": "communication",
+    "share": 0.0113,
+    "change_pct": -0.9,
+    "series": [
+     0.0114,
+     0.0113,
+     0.0113,
+     0.0114,
+     0.0115,
+     0.0113
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0",
+    "name_pl": "język angielski",
+    "name_en": "English",
+    "group": "languages",
+    "share": 0.0111,
+    "change_pct": 11.0,
+    "series": [
+     0.01,
+     0.01,
+     0.0107,
+     0.0108,
+     0.0106,
+     0.0111
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/f4d1fce0-6d7f-4a5e-b317-2040b64758f2",
+    "name_pl": "fizjoterapia",
+    "name_en": "physiotherapy",
+    "group": "healthcare",
+    "share": 0.0109,
+    "change_pct": 17.2,
+    "series": [
+     0.0093,
+     0.0093,
+     0.0096,
+     0.0097,
+     0.0102,
+     0.0109
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/15a33d76-4640-438d-ae64-fdc0c1d3eebc",
+    "name_pl": "obsługa klienta",
+    "name_en": "customer service",
+    "group": "customer_sales",
+    "share": 0.0108,
+    "change_pct": -10.7,
+    "series": [
+     0.0121,
+     0.0123,
+     0.0118,
+     0.0113,
+     0.0111,
+     0.0108
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/dc9a236c-c640-43c3-812f-269403591edb",
+    "name_pl": "zarządzanie relacjami z klientami (CRM)",
+    "name_en": "customer relationship management",
+    "group": "customer_sales",
+    "share": 0.0106,
+    "change_pct": -5.4,
+    "series": [
+     0.0112,
+     0.0114,
+     0.011,
+     0.011,
+     0.0109,
+     0.0106
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/1f1d2ff8-c4c1-45cc-9812-6a7ee84a73cb",
+    "name_pl": "kierowanie zespołem",
+    "name_en": "lead a team",
+    "group": "management",
+    "share": 0.0101,
+    "change_pct": -3.8,
+    "series": [
+     0.0105,
+     0.0104,
+     0.0102,
+     0.0102,
+     0.0102,
+     0.0101
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/28d715e3-3e5b-4fb6-8dd2-4be4919c8587",
+    "name_pl": "obsługa reklamacji",
+    "name_en": "handle customer complaints",
+    "group": "customer_sales",
+    "share": 0.01,
+    "change_pct": 1.0,
+    "series": [
+     0.0099,
+     0.01,
+     0.01,
+     0.01,
+     0.0103,
+     0.01
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/2a82241a-216e-44d8-bb50-6b9a0ef82084",
+    "name_pl": "prowadzenie pojazdów",
+    "name_en": "drive vehicles",
+    "group": "technical_trades",
+    "share": 0.0099,
+    "change_pct": 1.0,
+    "series": [
+     0.0098,
+     0.0098,
+     0.0098,
+     0.01,
+     0.01,
+     0.0099
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/ecc18804-a466-40d9-98b4-fba5cd67dd4b",
+    "name_pl": "rachunkowość",
+    "name_en": "accounting",
+    "group": "finance_admin",
+    "share": 0.0097,
+    "change_pct": 11.5,
+    "series": [
+     0.0087,
+     0.0089,
+     0.0092,
+     0.0094,
+     0.0096,
+     0.0097
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/d15e92c4-c8dc-48cd-a1f6-94fe13347f87",
+    "name_pl": "schematy instalacji elektrycznych",
+    "name_en": "electrical wiring plans",
+    "group": "technical_trades",
+    "share": 0.0095,
+    "change_pct": 15.9,
+    "series": [
+     0.0082,
+     0.0083,
+     0.0087,
+     0.0089,
+     0.0093,
+     0.0095
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/92721092-fe7c-4689-96bd-4f02385bc0e7",
+    "name_pl": "zarządzanie umowami",
+    "name_en": "manage contracts",
+    "group": "finance_admin",
+    "share": 0.0094,
+    "change_pct": 13.3,
+    "series": [
+     0.0083,
+     0.0086,
+     0.0086,
+     0.0089,
+     0.0092,
+     0.0094
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/261e740b-d32d-4356-94a8-3ea29128b70b",
+    "name_pl": "opieka nad osobami starszymi",
+    "name_en": "tend to elderly people",
+    "group": "healthcare",
+    "share": 0.0082,
+    "change_pct": 9.3,
+    "series": [
+     0.0075,
+     0.0075,
+     0.0077,
+     0.0076,
+     0.0077,
+     0.0082
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/ecc4552a-92c5-4222-b18d-faf5ac841080",
+    "name_pl": "uczenie głębokie",
+    "name_en": "deep learning",
+    "group": "data_ai",
+    "share": 0.0078,
+    "change_pct": 4.0,
+    "series": [
+     0.0075,
+     0.008,
+     0.0077,
+     0.0076,
+     0.0078,
+     0.0078
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/05e5e14f-ffa6-4106-b311-c6335ccc2bd2",
+    "name_pl": "energia słoneczna",
+    "name_en": "solar energy",
+    "group": "green",
+    "share": 0.0076,
+    "change_pct": 26.7,
+    "series": [
+     0.006,
+     0.0064,
+     0.0065,
+     0.0071,
+     0.0073,
+     0.0076
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/fff0e2cd-d0bd-4b02-9daf-158b79d9688a",
+    "name_pl": "przetwarzanie języka naturalnego",
+    "name_en": "natural language processing",
+    "group": "data_ai",
+    "share": 0.0059,
+    "change_pct": 25.5,
+    "series": [
+     0.0047,
+     0.005,
+     0.0054,
+     0.0054,
+     0.0057,
+     0.0059
+    ]
+   }
+  ]
+ }
+}

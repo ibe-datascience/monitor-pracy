@@ -1,0 +1,850 @@
+{
+ "country": {
+  "code": "LY",
+  "iso3": "LBY",
+  "numeric": 434,
+  "name_pl": "Libia",
+  "name_en": "Libya",
+  "continent": "mena",
+  "currency": "LYD"
+ },
+ "generated_at": "2026-09-30T15:36:10+00:00",
+ "coverage": {
+  "first_month": "2026-08",
+  "last_month": "2026-08",
+  "collecting_since": "2026-08-04",
+  "complete_from": "2026-09",
+  "index_base_month": "2026-08",
+  "note_pl": "Zbieranie trwa od 04.08.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
+ },
+ "headline": {
+  "month": "2026-08",
+  "postings_new": 261,
+  "postings_raw": 287,
+  "mom_pct": null,
+  "yoy_pct": null,
+  "postings_active_end": null,
+  "salary_median": null,
+  "salary_currency": "LYD",
+  "salary_share": 0.111,
+  "remote_share": 0.024,
+  "sources": 1,
+  "top_source": {
+   "code": "tanqeeb.ly",
+   "service": "Tanqeeb",
+   "share": 1.0
+  }
+ },
+ "monthly": [
+  {
+   "period": "2026-08",
+   "partial": false,
+   "postings_new": 261,
+   "postings_raw": 287,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 100.0,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.111,
+    "currency": "LYD"
+   },
+   "remote_share": 0.024,
+   "employment": {
+    "full_time": 0.143,
+    "part_time": 0.0,
+    "contract": 0.021,
+    "other": 0.0,
+    "unknown": 0.836
+   },
+   "by_source": [
+    {
+     "code": "tanqeeb.ly",
+     "service": "Tanqeeb",
+     "kind": "aggregator",
+     "n": 287
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Libya",
+     "n": 224,
+     "share": 0.78
+    },
+    {
+     "name": "Tripoli",
+     "n": 40,
+     "share": 0.139
+    },
+    {
+     "name": "Benghazi",
+     "n": 12,
+     "share": 0.042
+    },
+    {
+     "name": "Misurata",
+     "n": 9,
+     "share": 0.031
+    },
+    {
+     "name": "Murqub",
+     "n": 1,
+     "share": 0.003
+    },
+    {
+     "name": "Zliten",
+     "n": 1,
+     "share": 0.003
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "registered nurse",
+     "n": 5
+    },
+    {
+     "title": "clinical nurse",
+     "n": 4
+    },
+    {
+     "title": "admin coordinator",
+     "n": 3
+    },
+    {
+     "title": "construction manager",
+     "n": 3
+    },
+    {
+     "title": "finance data entry assistant",
+     "n": 3
+    },
+    {
+     "title": "national consultant",
+     "n": 3
+    },
+    {
+     "title": "protection assistant",
+     "n": 3
+    },
+    {
+     "title": "registered dietitian ii",
+     "n": 3
+    },
+    {
+     "title": "accountant",
+     "n": 2
+    },
+    {
+     "title": "associate",
+     "n": 2
+    },
+    {
+     "title": "cardiothoracic surgery specialist",
+     "n": 2
+    },
+    {
+     "title": "cath lab technologist",
+     "n": 2
+    },
+    {
+     "title": "channel sales lead",
+     "n": 2
+    },
+    {
+     "title": "charge nurse",
+     "n": 2
+    },
+    {
+     "title": "chemistry teachers",
+     "n": 2
+    }
+   ],
+   "regions": []
+  }
+ ],
+ "quarterly": [
+  {
+   "period": "2026-Q3",
+   "partial": true,
+   "postings_new": 261,
+   "postings_raw": 287,
+   "qoq_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.111,
+    "currency": "LYD"
+   },
+   "remote_share": 0.024,
+   "employment": {
+    "full_time": 0.143,
+    "part_time": 0.0,
+    "contract": 0.021,
+    "other": 0.0,
+    "unknown": 0.836
+   },
+   "by_source": [
+    {
+     "code": "tanqeeb.ly",
+     "service": "Tanqeeb",
+     "kind": "aggregator",
+     "n": 287
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Libya",
+     "n": 224,
+     "share": 0.78
+    },
+    {
+     "name": "Tripoli",
+     "n": 40,
+     "share": 0.139
+    },
+    {
+     "name": "Benghazi",
+     "n": 12,
+     "share": 0.042
+    },
+    {
+     "name": "Misurata",
+     "n": 9,
+     "share": 0.031
+    },
+    {
+     "name": "Murqub",
+     "n": 1,
+     "share": 0.003
+    },
+    {
+     "name": "Zliten",
+     "n": 1,
+     "share": 0.003
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "registered nurse",
+     "n": 5
+    },
+    {
+     "title": "clinical nurse",
+     "n": 4
+    },
+    {
+     "title": "admin coordinator",
+     "n": 3
+    },
+    {
+     "title": "construction manager",
+     "n": 3
+    },
+    {
+     "title": "finance data entry assistant",
+     "n": 3
+    },
+    {
+     "title": "national consultant",
+     "n": 3
+    },
+    {
+     "title": "protection assistant",
+     "n": 3
+    },
+    {
+     "title": "registered dietitian ii",
+     "n": 3
+    },
+    {
+     "title": "accountant",
+     "n": 2
+    },
+    {
+     "title": "associate",
+     "n": 2
+    },
+    {
+     "title": "cardiothoracic surgery specialist",
+     "n": 2
+    },
+    {
+     "title": "cath lab technologist",
+     "n": 2
+    },
+    {
+     "title": "channel sales lead",
+     "n": 2
+    },
+    {
+     "title": "charge nurse",
+     "n": 2
+    },
+    {
+     "title": "chemistry teachers",
+     "n": 2
+    }
+   ],
+   "regions": []
+  }
+ ],
+ "sources": [
+  {
+   "code": "tanqeeb.ly",
+   "service": "Tanqeeb",
+   "kind": "aggregator",
+   "url": "https://libya.tanqeeb.com",
+   "collecting_since": "2026-08-04",
+   "offers_total": 305,
+   "share_latest": 1.0,
+   "salary_coverage": 0.105,
+   "description_coverage": 0.987
+  }
+ ],
+ "quality": {
+  "field_coverage": {
+   "salary_any": 0.105,
+   "city": 1.0,
+   "company": 1.0,
+   "employment_type": 0.154,
+   "remote": 1.0,
+   "posted_at": 0.193
+  },
+  "dedup": {
+   "within_source_rule_pl": "Ta sama oferta w tym samym serwisie liczona raz (klucz: adres URL lub identyfikator ogłoszenia).",
+   "cross_source_estimate": 0.091,
+   "cross_source_note_pl": "Szacunkowy odsetek ogłoszeń widocznych w więcej niż jednym serwisie (ten sam tytuł, firma i miasto w tym samym miesiącu). Wskaźniki liczymy po zdjęciu tych powtórek."
+  }
+ },
+ "highlights": [
+  {
+   "id": "volume",
+   "icon": "trend",
+   "title_pl": "Sierpień: 261 ogłoszeń",
+   "text_pl": "261 nowych ogłoszeń.",
+   "title_en": "August: 261 postings",
+   "text_en": "261 new postings."
+  },
+  {
+   "id": "remote",
+   "icon": "remote",
+   "title_pl": "Praca zdalna: 2,4% ogłoszeń",
+   "text_pl": "7 ogłoszeń oznaczonych jako praca zdalna.",
+   "title_en": "Remote work: 2.4% of postings",
+   "text_en": "7 postings flagged as remote."
+  },
+  {
+   "id": "source",
+   "icon": "source",
+   "title_pl": "Największy serwis: Tanqeeb (100%)",
+   "text_pl": "Dane z 1 serwisu; Tanqeeb dostarcza 287 z 287 ogłoszeń przed zdjęciem powtórek.",
+   "title_en": "Largest source: Tanqeeb (100%)",
+   "text_en": "Data from 1 source; Tanqeeb provides 287 of 287 postings before de-duplication."
+  },
+  {
+   "id": "cities",
+   "icon": "map",
+   "title_pl": "6 miast z ogłoszeniami",
+   "text_pl": "Najwięcej w: Libya (78%), Tripoli (14%), Benghazi (4%).",
+   "title_en": "6 cities with postings",
+   "text_en": "Most in: Libya (78%), Tripoli (14%), Benghazi (4%)."
+  }
+ ],
+ "commentary": null,
+ "skills_demo": {
+  "is_synthetic": true,
+  "note_pl": "Dane demonstracyjne: nazwy umiejętności pochodzą z taksonomii ESCO, wartości są wygenerowane. Docelowo - identyfikacja umiejętności w treści ogłoszeń.",
+  "months": [
+   "2026-03",
+   "2026-04",
+   "2026-05",
+   "2026-06",
+   "2026-07",
+   "2026-08"
+  ],
+  "groups": [
+   {
+    "id": "digital",
+    "name_pl": "Kompetencje cyfrowe",
+    "name_en": "Digital skills",
+    "share": 0.154,
+    "change_pct": 4.5
+   },
+   {
+    "id": "data_ai",
+    "name_pl": "Dane i sztuczna inteligencja",
+    "name_en": "Data & AI",
+    "share": 0.069,
+    "change_pct": 27.0
+   },
+   {
+    "id": "green",
+    "name_pl": "Zielone kompetencje",
+    "name_en": "Green skills",
+    "share": 0.037,
+    "change_pct": 8.0
+   },
+   {
+    "id": "management",
+    "name_pl": "Zarządzanie",
+    "name_en": "Management",
+    "share": 0.108,
+    "change_pct": -1.3
+   },
+   {
+    "id": "communication",
+    "name_pl": "Komunikacja i współpraca",
+    "name_en": "Communication & teamwork",
+    "share": 0.127,
+    "change_pct": -6.8
+   },
+   {
+    "id": "technical_trades",
+    "name_pl": "Zawody techniczne i produkcja",
+    "name_en": "Technical trades",
+    "share": 0.103,
+    "change_pct": -2.2
+   },
+   {
+    "id": "healthcare",
+    "name_pl": "Opieka zdrowotna",
+    "name_en": "Healthcare",
+    "share": 0.077,
+    "change_pct": 4.3
+   },
+   {
+    "id": "finance_admin",
+    "name_pl": "Finanse i administracja",
+    "name_en": "Finance & administration",
+    "share": 0.091,
+    "change_pct": -5.4
+   },
+   {
+    "id": "languages",
+    "name_pl": "Języki obce",
+    "name_en": "Languages",
+    "share": 0.11,
+    "change_pct": -4.7
+   },
+   {
+    "id": "customer_sales",
+    "name_pl": "Obsługa klienta i sprzedaż",
+    "name_en": "Customer service & sales",
+    "share": 0.124,
+    "change_pct": -2.9
+   }
+  ],
+  "skills": [
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/33859d93-987c-4caa-a0a9-6159ea7bbc2a",
+    "name_pl": "język arabski",
+    "name_en": "Arabic",
+    "group": "languages",
+    "share": 0.0181,
+    "change_pct": -10.0,
+    "series": [
+     0.0201,
+     0.0203,
+     0.0198,
+     0.0197,
+     0.0189,
+     0.0181
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/7ff2c668-0e86-418a-a962-4958262ee337",
+    "name_pl": "techniki komunikacji",
+    "name_en": "use communication techniques",
+    "group": "communication",
+    "share": 0.017,
+    "change_pct": -10.1,
+    "series": [
+     0.0189,
+     0.0187,
+     0.0181,
+     0.0175,
+     0.0176,
+     0.017
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/71152876-b629-4a99-b9ea-0f25a0d07e4e",
+    "name_pl": "negocjowanie umów sprzedaży",
+    "name_en": "negotiate sales contracts",
+    "group": "customer_sales",
+    "share": 0.0149,
+    "change_pct": -11.3,
+    "series": [
+     0.0168,
+     0.0165,
+     0.0155,
+     0.0158,
+     0.0157,
+     0.0149
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/28d715e3-3e5b-4fb6-8dd2-4be4919c8587",
+    "name_pl": "obsługa reklamacji",
+    "name_en": "handle customer complaints",
+    "group": "customer_sales",
+    "share": 0.0149,
+    "change_pct": 11.2,
+    "series": [
+     0.0134,
+     0.014,
+     0.0137,
+     0.0143,
+     0.0151,
+     0.0149
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389",
+    "name_pl": "Java (programowanie)",
+    "name_en": "Java (computer programming)",
+    "group": "digital",
+    "share": 0.0144,
+    "change_pct": 2.1,
+    "series": [
+     0.0141,
+     0.0142,
+     0.0141,
+     0.0139,
+     0.0139,
+     0.0144
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0",
+    "name_pl": "język angielski",
+    "name_en": "English",
+    "group": "languages",
+    "share": 0.0141,
+    "change_pct": -3.4,
+    "series": [
+     0.0146,
+     0.0147,
+     0.0144,
+     0.0149,
+     0.0144,
+     0.0141
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/918f5211-b99f-4b29-9a34-6e475583ef55",
+    "name_pl": "pisanie raportów",
+    "name_en": "write work-related reports",
+    "group": "communication",
+    "share": 0.0139,
+    "change_pct": -15.2,
+    "series": [
+     0.0164,
+     0.0159,
+     0.0157,
+     0.0154,
+     0.0144,
+     0.0139
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be",
+    "name_pl": "obsługa arkuszy kalkulacyjnych",
+    "name_en": "use spreadsheets software",
+    "group": "digital",
+    "share": 0.0129,
+    "change_pct": 26.5,
+    "series": [
+     0.0102,
+     0.0105,
+     0.0111,
+     0.0114,
+     0.0122,
+     0.0129
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+    "name_pl": "obsługa pakietu Microsoft Office",
+    "name_en": "use microsoft office",
+    "group": "digital",
+    "share": 0.0128,
+    "change_pct": -5.9,
+    "series": [
+     0.0136,
+     0.0133,
+     0.0134,
+     0.0126,
+     0.0127,
+     0.0128
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/f0de4973-0a70-4644-8fd4-3a97080476f4",
+    "name_pl": "DevOps",
+    "name_en": "DevOps",
+    "group": "digital",
+    "share": 0.0121,
+    "change_pct": 5.2,
+    "series": [
+     0.0115,
+     0.0116,
+     0.0117,
+     0.0114,
+     0.0117,
+     0.0121
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/dc9a236c-c640-43c3-812f-269403591edb",
+    "name_pl": "zarządzanie relacjami z klientami (CRM)",
+    "name_en": "customer relationship management",
+    "group": "customer_sales",
+    "share": 0.0119,
+    "change_pct": 20.2,
+    "series": [
+     0.0099,
+     0.0105,
+     0.0105,
+     0.0115,
+     0.0117,
+     0.0119
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/e747e77e-0ea1-4001-8b07-1d11946b5f1b",
+    "name_pl": "język francuski",
+    "name_en": "French",
+    "group": "languages",
+    "share": 0.0117,
+    "change_pct": 7.3,
+    "series": [
+     0.0109,
+     0.0112,
+     0.0112,
+     0.0119,
+     0.0117,
+     0.0117
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/afd49651-9119-4327-91fc-844a6dda1254",
+    "name_pl": "zarządzanie konfliktem",
+    "name_en": "conflict management",
+    "group": "communication",
+    "share": 0.0107,
+    "change_pct": 4.9,
+    "series": [
+     0.0102,
+     0.0104,
+     0.0105,
+     0.0107,
+     0.0109,
+     0.0107
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/1f1d2ff8-c4c1-45cc-9812-6a7ee84a73cb",
+    "name_pl": "kierowanie zespołem",
+    "name_en": "lead a team",
+    "group": "management",
+    "share": 0.0106,
+    "change_pct": 8.2,
+    "series": [
+     0.0098,
+     0.01,
+     0.01,
+     0.0103,
+     0.0105,
+     0.0106
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/c96ab6ac-cf85-4c91-86b5-7ac5bb14eb28",
+    "name_pl": "obsługa dźwigów",
+    "name_en": "operate cranes",
+    "group": "technical_trades",
+    "share": 0.0097,
+    "change_pct": 12.8,
+    "series": [
+     0.0086,
+     0.0086,
+     0.0089,
+     0.0092,
+     0.0091,
+     0.0097
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/8a4e99e0-f259-4931-888f-604cfdc15b31",
+    "name_pl": "konserwacja maszyn",
+    "name_en": "perform machine maintenance",
+    "group": "technical_trades",
+    "share": 0.0093,
+    "change_pct": -1.1,
+    "series": [
+     0.0094,
+     0.0092,
+     0.0092,
+     0.0092,
+     0.009,
+     0.0093
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/949ced5f-7536-4614-ac60-563ffc91a2f2",
+    "name_pl": "planowanie strategiczne",
+    "name_en": "strategic planning",
+    "group": "management",
+    "share": 0.0092,
+    "change_pct": 7.0,
+    "series": [
+     0.0086,
+     0.009,
+     0.0091,
+     0.0092,
+     0.0094,
+     0.0092
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+    "name_pl": "zarządzanie projektami",
+    "name_en": "perform project management",
+    "group": "management",
+    "share": 0.0087,
+    "change_pct": 6.1,
+    "series": [
+     0.0082,
+     0.0083,
+     0.0085,
+     0.0085,
+     0.0084,
+     0.0087
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/24f980ba-b44f-4739-b563-205104c3190d",
+    "name_pl": "podstawowa opieka nad pacjentem",
+    "name_en": "provide basic support to patients",
+    "group": "healthcare",
+    "share": 0.0087,
+    "change_pct": 4.8,
+    "series": [
+     0.0083,
+     0.0083,
+     0.0088,
+     0.0084,
+     0.0085,
+     0.0087
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/ecc18804-a466-40d9-98b4-fba5cd67dd4b",
+    "name_pl": "rachunkowość",
+    "name_en": "accounting",
+    "group": "finance_admin",
+    "share": 0.0087,
+    "change_pct": 17.6,
+    "series": [
+     0.0074,
+     0.0076,
+     0.0081,
+     0.0081,
+     0.0086,
+     0.0087
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/4a460161-eaea-4fe2-bd0e-164ccc635be1",
+    "name_pl": "sprawozdania finansowe",
+    "name_en": "financial statements",
+    "group": "finance_admin",
+    "share": 0.0087,
+    "change_pct": 2.4,
+    "series": [
+     0.0085,
+     0.0084,
+     0.0087,
+     0.0086,
+     0.0087,
+     0.0087
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/f4d1fce0-6d7f-4a5e-b317-2040b64758f2",
+    "name_pl": "fizjoterapia",
+    "name_en": "physiotherapy",
+    "group": "healthcare",
+    "share": 0.0081,
+    "change_pct": 28.6,
+    "series": [
+     0.0063,
+     0.0067,
+     0.0074,
+     0.0075,
+     0.0077,
+     0.0081
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/8755734c-2919-41a3-9ca6-1e3d1f169213",
+    "name_pl": "montaż instalacji hydraulicznych",
+    "name_en": "install plumbing systems",
+    "group": "technical_trades",
+    "share": 0.0074,
+    "change_pct": 7.2,
+    "series": [
+     0.0069,
+     0.0068,
+     0.0071,
+     0.007,
+     0.0071,
+     0.0074
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5",
+    "name_pl": "analiza dużych zbiorów danych",
+    "name_en": "analyse big data",
+    "group": "data_ai",
+    "share": 0.006,
+    "change_pct": 20.0,
+    "series": [
+     0.005,
+     0.0052,
+     0.0052,
+     0.0055,
+     0.0057,
+     0.006
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/18d3f89a-6ac5-4ca6-bf93-0baec4e13bcd",
+    "name_pl": "montaż instalacji fotowoltaicznych",
+    "name_en": "install photovoltaic systems",
+    "group": "green",
+    "share": 0.0043,
+    "change_pct": 4.9,
+    "series": [
+     0.0041,
+     0.0043,
+     0.0041,
+     0.0042,
+     0.0043,
+     0.0043
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,1811 @@
+{
+ "country": {
+  "code": "TR",
+  "iso3": "TUR",
+  "numeric": 792,
+  "name_pl": "Turcja",
+  "name_en": "Turkey",
+  "continent": "europe",
+  "currency": "TRY"
+ },
+ "generated_at": "2026-09-30T15:36:10+00:00",
+ "coverage": {
+  "first_month": "2026-04",
+  "last_month": "2026-08",
+  "collecting_since": "2026-07-31",
+  "complete_from": "2026-08",
+  "index_base_month": "2026-08",
+  "note_pl": "Zbieranie trwa od 31.07.2026; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
+ },
+ "headline": {
+  "month": "2026-08",
+  "postings_new": 51082,
+  "postings_raw": 55241,
+  "mom_pct": null,
+  "yoy_pct": null,
+  "postings_active_end": 64305,
+  "salary_median": 4000,
+  "salary_currency": "TRY",
+  "salary_share": 0.007,
+  "remote_share": 0.001,
+  "sources": 3,
+  "top_source": {
+   "code": "careerjet.tr",
+   "service": "Careerjet",
+   "share": 0.587
+  }
+ },
+ "monthly": [
+  {
+   "period": "2026-04",
+   "partial": false,
+   "postings_new": 1040,
+   "postings_raw": 1075,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 2.0,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": null,
+    "p25": null,
+    "p75": null,
+    "mean": null,
+    "n": null,
+    "share": 0.002,
+    "currency": "TRY"
+   },
+   "remote_share": 0.001,
+   "employment": {
+    "full_time": 0.616,
+    "part_time": 0.087,
+    "contract": 0.035,
+    "other": 0.012,
+    "unknown": 0.249
+   },
+   "by_source": [
+    {
+     "code": "indeed.tr",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 940
+    },
+    {
+     "code": "jooble.tr",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 135
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "İstanbul",
+     "n": 235,
+     "share": 0.219
+    },
+    {
+     "name": "Ankara",
+     "n": 105,
+     "share": 0.098
+    },
+    {
+     "name": "İzmir",
+     "n": 43,
+     "share": 0.04
+    },
+    {
+     "name": "İstanbul avrupa",
+     "n": 34,
+     "share": 0.032
+    },
+    {
+     "name": "Antalya",
+     "n": 30,
+     "share": 0.028
+    },
+    {
+     "name": "Şişli",
+     "n": 28,
+     "share": 0.026
+    },
+    {
+     "name": "Bodrum",
+     "n": 17,
+     "share": 0.016
+    },
+    {
+     "name": "İstanbul Anadolu",
+     "n": 16,
+     "share": 0.015
+    },
+    {
+     "name": "İstanbul avrupa yakası",
+     "n": 15,
+     "share": 0.014
+    },
+    {
+     "name": "Kadıköy",
+     "n": 15,
+     "share": 0.014
+    },
+    {
+     "name": "Ataşehir",
+     "n": 14,
+     "share": 0.013
+    },
+    {
+     "name": "Başakşehir",
+     "n": 14,
+     "share": 0.013
+    },
+    {
+     "name": "Maltepe",
+     "n": 13,
+     "share": 0.012
+    },
+    {
+     "name": "Çankaya",
+     "n": 12,
+     "share": 0.011
+    },
+    {
+     "name": "Kartal",
+     "n": 11,
+     "share": 0.01
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-05",
+   "partial": false,
+   "postings_new": 1483,
+   "postings_raw": 1522,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 2.9,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 8423,
+    "p25": 8423,
+    "p75": 8423,
+    "mean": 8423,
+    "n": 1,
+    "share": 0.001,
+    "currency": "TRY"
+   },
+   "remote_share": 0.001,
+   "employment": {
+    "full_time": 0.575,
+    "part_time": 0.102,
+    "contract": 0.037,
+    "other": 0.014,
+    "unknown": 0.271
+   },
+   "by_source": [
+    {
+     "code": "indeed.tr",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 1278
+    },
+    {
+     "code": "jooble.tr",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 172
+    },
+    {
+     "code": "careerjet.tr",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 72
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "İstanbul",
+     "n": 355,
+     "share": 0.233
+    },
+    {
+     "name": "Ankara",
+     "n": 108,
+     "share": 0.071
+    },
+    {
+     "name": "İzmir",
+     "n": 57,
+     "share": 0.037
+    },
+    {
+     "name": "Şişli",
+     "n": 37,
+     "share": 0.024
+    },
+    {
+     "name": "İstanbul avrupa",
+     "n": 32,
+     "share": 0.021
+    },
+    {
+     "name": "Antalya",
+     "n": 31,
+     "share": 0.02
+    },
+    {
+     "name": "Bursa",
+     "n": 31,
+     "share": 0.02
+    },
+    {
+     "name": "Sarıyer",
+     "n": 28,
+     "share": 0.018
+    },
+    {
+     "name": "Ataşehir",
+     "n": 26,
+     "share": 0.017
+    },
+    {
+     "name": "İstanbul Anadolu",
+     "n": 23,
+     "share": 0.015
+    },
+    {
+     "name": "Esenyurt",
+     "n": 16,
+     "share": 0.011
+    },
+    {
+     "name": "Eskişehir",
+     "n": 16,
+     "share": 0.011
+    },
+    {
+     "name": "Beylikdüzü",
+     "n": 15,
+     "share": 0.01
+    },
+    {
+     "name": "Kadıköy",
+     "n": 15,
+     "share": 0.01
+    },
+    {
+     "name": "Küçükçekmece",
+     "n": 15,
+     "share": 0.01
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-06",
+   "partial": false,
+   "postings_new": 3694,
+   "postings_raw": 3879,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 7.2,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 2167,
+    "p25": 2167,
+    "p75": 2167,
+    "mean": 2167,
+    "n": 1,
+    "share": 0.01,
+    "currency": "TRY"
+   },
+   "remote_share": 0.002,
+   "employment": {
+    "full_time": 0.402,
+    "part_time": 0.065,
+    "contract": 0.024,
+    "other": 0.009,
+    "unknown": 0.499
+   },
+   "by_source": [
+    {
+     "code": "indeed.tr",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 2458
+    },
+    {
+     "code": "jooble.tr",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 1190
+    },
+    {
+     "code": "careerjet.tr",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 231
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "İstanbul",
+     "n": 759,
+     "share": 0.196
+    },
+    {
+     "name": "Ankara",
+     "n": 289,
+     "share": 0.075
+    },
+    {
+     "name": "İzmir",
+     "n": 168,
+     "share": 0.043
+    },
+    {
+     "name": "İstanbul Anadolu",
+     "n": 139,
+     "share": 0.036
+    },
+    {
+     "name": "İstanbul Avrupa",
+     "n": 123,
+     "share": 0.032
+    },
+    {
+     "name": "Antalya",
+     "n": 82,
+     "share": 0.021
+    },
+    {
+     "name": "Bursa",
+     "n": 77,
+     "share": 0.02
+    },
+    {
+     "name": "Manisa",
+     "n": 49,
+     "share": 0.013
+    },
+    {
+     "name": "İzmit",
+     "n": 45,
+     "share": 0.012
+    },
+    {
+     "name": "Ankara, Çankaya",
+     "n": 41,
+     "share": 0.011
+    },
+    {
+     "name": "Adana",
+     "n": 36,
+     "share": 0.009
+    },
+    {
+     "name": "Ankara, Yenimahalle",
+     "n": 35,
+     "share": 0.009
+    },
+    {
+     "name": "Gebze",
+     "n": 30,
+     "share": 0.008
+    },
+    {
+     "name": "Muğla",
+     "n": 29,
+     "share": 0.007
+    },
+    {
+     "name": "Beylikdüzü",
+     "n": 28,
+     "share": 0.007
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "okul öncesi öğretmeni",
+     "n": 34
+    },
+    {
+     "title": "ingilizce öğretmeni",
+     "n": 33
+    },
+    {
+     "title": "anaokulu öğretmeni",
+     "n": 28
+    },
+    {
+     "title": "lisans mezunu çocuk gelişimci - okul öncesi öğretmeni - uzman öğretici",
+     "n": 25
+    },
+    {
+     "title": "müşteri hizmetleri temsilcisi",
+     "n": 23
+    },
+    {
+     "title": "temizlik personeli",
+     "n": 23
+    },
+    {
+     "title": "boya badana ustasi",
+     "n": 21
+    },
+    {
+     "title": "deneme sınıfı yöneticisi (tcm) | türkiye",
+     "n": 20
+    },
+    {
+     "title": "muhasebe elemanı",
+     "n": 20
+    },
+    {
+     "title": "python eğitmeni | türkiye",
+     "n": 20
+    },
+    {
+     "title": "resepsiyonist",
+     "n": 19
+    },
+    {
+     "title": "3 boyutlu modelleme eğitmeni | türkiye",
+     "n": 18
+    },
+    {
+     "title": "chef de partie",
+     "n": 18
+    },
+    {
+     "title": "fizyoterapist",
+     "n": 17
+    },
+    {
+     "title": "garson",
+     "n": 17
+    }
+   ],
+   "regions": []
+  },
+  {
+   "period": "2026-07",
+   "partial": false,
+   "postings_new": 21636,
+   "postings_raw": 22791,
+   "postings_active_end": null,
+   "postings_closed": null,
+   "index": 42.4,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 5000,
+    "p25": 2650,
+    "p75": 8125,
+    "mean": 5826,
+    "n": 60,
+    "share": 0.008,
+    "currency": "TRY"
+   },
+   "remote_share": 0.002,
+   "employment": {
+    "full_time": 0.195,
+    "part_time": 0.031,
+    "contract": 0.01,
+    "other": 0.004,
+    "unknown": 0.759
+   },
+   "by_source": [
+    {
+     "code": "indeed.tr",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 9415
+    },
+    {
+     "code": "careerjet.tr",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 7338
+    },
+    {
+     "code": "jooble.tr",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 6038
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "İstanbul",
+     "n": 1802,
+     "share": 0.079
+    },
+    {
+     "name": "Ankara",
+     "n": 801,
+     "share": 0.035
+    },
+    {
+     "name": "İzmir",
+     "n": 644,
+     "share": 0.028
+    },
+    {
+     "name": "İstanbul Avrupa",
+     "n": 593,
+     "share": 0.026
+    },
+    {
+     "name": "İstanbul Anadolu",
+     "n": 577,
+     "share": 0.025
+    },
+    {
+     "name": "Antalya",
+     "n": 506,
+     "share": 0.022
+    },
+    {
+     "name": "Gebze",
+     "n": 417,
+     "share": 0.018
+    },
+    {
+     "name": "Bursa",
+     "n": 286,
+     "share": 0.013
+    },
+    {
+     "name": "Çankaya",
+     "n": 273,
+     "share": 0.012
+    },
+    {
+     "name": "Yenimahalle",
+     "n": 229,
+     "share": 0.01
+    },
+    {
+     "name": "Nilüfer",
+     "n": 209,
+     "share": 0.009
+    },
+    {
+     "name": "Manisa",
+     "n": 208,
+     "share": 0.009
+    },
+    {
+     "name": "Şişli",
+     "n": 199,
+     "share": 0.009
+    },
+    {
+     "name": "Esenyurt",
+     "n": 193,
+     "share": 0.008
+    },
+    {
+     "name": "Ataşehir",
+     "n": 181,
+     "share": 0.008
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "ev yardımcısı arıyoruz",
+     "n": 202
+    },
+    {
+     "title": "temizlik görevlisi",
+     "n": 179
+    },
+    {
+     "title": "ingilizce öğretmeni",
+     "n": 158
+    },
+    {
+     "title": "aşçı",
+     "n": 136
+    },
+    {
+     "title": "temizlik personeli",
+     "n": 133
+    },
+    {
+     "title": "okul öncesi öğretmeni",
+     "n": 112
+    },
+    {
+     "title": "muhasebe elemanı",
+     "n": 109
+    },
+    {
+     "title": "ön muhasebe elemanı",
+     "n": 104
+    },
+    {
+     "title": "aşçı yardımcısı",
+     "n": 86
+    },
+    {
+     "title": "beden işçisi (genel)",
+     "n": 86
+    },
+    {
+     "title": "forklift operatörü",
+     "n": 84
+    },
+    {
+     "title": "garson",
+     "n": 81
+    },
+    {
+     "title": "ön muhasebeci",
+     "n": 81
+    },
+    {
+     "title": "şoför",
+     "n": 80
+    },
+    {
+     "title": "üretim elemanı",
+     "n": 78
+    }
+   ],
+   "regions": []
+  },
+  {
+   "period": "2026-08",
+   "partial": false,
+   "postings_new": 51082,
+   "postings_raw": 55241,
+   "postings_active_end": 64305,
+   "postings_closed": 21835,
+   "index": 100.0,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 4000,
+    "p25": 2167,
+    "p75": 8000,
+    "mean": 5714,
+    "n": 77,
+    "share": 0.007,
+    "currency": "TRY"
+   },
+   "remote_share": 0.001,
+   "employment": {
+    "full_time": 0.111,
+    "part_time": 0.021,
+    "contract": 0.006,
+    "other": 0.003,
+    "unknown": 0.859
+   },
+   "by_source": [
+    {
+     "code": "careerjet.tr",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 32445
+    },
+    {
+     "code": "indeed.tr",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 13410
+    },
+    {
+     "code": "jooble.tr",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 9386
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "İstanbul",
+     "n": 4613,
+     "share": 0.084
+    },
+    {
+     "name": "Ankara",
+     "n": 1601,
+     "share": 0.029
+    },
+    {
+     "name": "İstanbul Avrupa Yakası",
+     "n": 1302,
+     "share": 0.024
+    },
+    {
+     "name": "İzmir",
+     "n": 1043,
+     "share": 0.019
+    },
+    {
+     "name": "İstanbul Avrupa",
+     "n": 845,
+     "share": 0.015
+    },
+    {
+     "name": "İstanbul Anadolu",
+     "n": 836,
+     "share": 0.015
+    },
+    {
+     "name": "Çankaya",
+     "n": 740,
+     "share": 0.013
+    },
+    {
+     "name": "Gebze",
+     "n": 727,
+     "share": 0.013
+    },
+    {
+     "name": "Antalya",
+     "n": 706,
+     "share": 0.013
+    },
+    {
+     "name": "Tuzla",
+     "n": 686,
+     "share": 0.012
+    },
+    {
+     "name": "Esenyurt",
+     "n": 672,
+     "share": 0.012
+    },
+    {
+     "name": "Başakşehir",
+     "n": 636,
+     "share": 0.012
+    },
+    {
+     "name": "Ataşehir",
+     "n": 629,
+     "share": 0.011
+    },
+    {
+     "name": "İstanbul Anadolu Yakası",
+     "n": 609,
+     "share": 0.011
+    },
+    {
+     "name": "Ümraniye",
+     "n": 609,
+     "share": 0.011
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "temizlik görevlisi",
+     "n": 459
+    },
+    {
+     "title": "temizlik personeli",
+     "n": 358
+    },
+    {
+     "title": "aşçı",
+     "n": 352
+    },
+    {
+     "title": "ev yardımcısı arıyoruz",
+     "n": 318
+    },
+    {
+     "title": "beden işçisi (genel)",
+     "n": 293
+    },
+    {
+     "title": "muhasebe elemanı",
+     "n": 275
+    },
+    {
+     "title": "ingilizce öğretmeni",
+     "n": 248
+    },
+    {
+     "title": "kasiyer",
+     "n": 232
+    },
+    {
+     "title": "aşçı yardımcısı",
+     "n": 229
+    },
+    {
+     "title": "ön muhasebe elemanı",
+     "n": 218
+    },
+    {
+     "title": "garson",
+     "n": 217
+    },
+    {
+     "title": "ön muhasebeci",
+     "n": 204
+    },
+    {
+     "title": "forklift operatörü",
+     "n": 201
+    },
+    {
+     "title": "sekreter",
+     "n": 201
+    },
+    {
+     "title": "servis elemanı (garson)",
+     "n": 191
+    }
+   ],
+   "regions": []
+  }
+ ],
+ "quarterly": [
+  {
+   "period": "2026-Q2",
+   "partial": false,
+   "postings_new": 6217,
+   "postings_raw": 6476,
+   "qoq_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 5295,
+    "p25": 5295,
+    "p75": 5295,
+    "mean": 5295,
+    "n": 2,
+    "share": 0.007,
+    "currency": "TRY"
+   },
+   "remote_share": 0.002,
+   "employment": {
+    "full_time": 0.478,
+    "part_time": 0.077,
+    "contract": 0.029,
+    "other": 0.011,
+    "unknown": 0.404
+   },
+   "by_source": [
+    {
+     "code": "indeed.tr",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 4676
+    },
+    {
+     "code": "jooble.tr",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 1497
+    },
+    {
+     "code": "careerjet.tr",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 303
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "İstanbul",
+     "n": 1349,
+     "share": 0.208
+    },
+    {
+     "name": "Ankara",
+     "n": 502,
+     "share": 0.078
+    },
+    {
+     "name": "İzmir",
+     "n": 268,
+     "share": 0.041
+    },
+    {
+     "name": "İstanbul Anadolu",
+     "n": 178,
+     "share": 0.027
+    },
+    {
+     "name": "Antalya",
+     "n": 143,
+     "share": 0.022
+    },
+    {
+     "name": "İstanbul Avrupa",
+     "n": 123,
+     "share": 0.019
+    },
+    {
+     "name": "Bursa",
+     "n": 108,
+     "share": 0.017
+    },
+    {
+     "name": "İstanbul avrupa",
+     "n": 66,
+     "share": 0.01
+    },
+    {
+     "name": "Şişli",
+     "n": 65,
+     "share": 0.01
+    },
+    {
+     "name": "Manisa",
+     "n": 49,
+     "share": 0.008
+    },
+    {
+     "name": "İzmit",
+     "n": 45,
+     "share": 0.007
+    },
+    {
+     "name": "Beylikdüzü",
+     "n": 43,
+     "share": 0.007
+    },
+    {
+     "name": "Ankara, Çankaya",
+     "n": 41,
+     "share": 0.006
+    },
+    {
+     "name": "Ataşehir",
+     "n": 40,
+     "share": 0.006
+    },
+    {
+     "name": "Adana",
+     "n": 36,
+     "share": 0.006
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "okul öncesi öğretmeni",
+     "n": 34
+    },
+    {
+     "title": "ingilizce öğretmeni",
+     "n": 33
+    },
+    {
+     "title": "anaokulu öğretmeni",
+     "n": 28
+    },
+    {
+     "title": "lisans mezunu çocuk gelişimci - okul öncesi öğretmeni - uzman öğretici",
+     "n": 25
+    },
+    {
+     "title": "müşteri hizmetleri temsilcisi",
+     "n": 23
+    },
+    {
+     "title": "temizlik personeli",
+     "n": 23
+    },
+    {
+     "title": "boya badana ustasi",
+     "n": 21
+    },
+    {
+     "title": "deneme sınıfı yöneticisi (tcm) | türkiye",
+     "n": 20
+    },
+    {
+     "title": "muhasebe elemanı",
+     "n": 20
+    },
+    {
+     "title": "python eğitmeni | türkiye",
+     "n": 20
+    },
+    {
+     "title": "resepsiyonist",
+     "n": 19
+    },
+    {
+     "title": "3 boyutlu modelleme eğitmeni | türkiye",
+     "n": 18
+    },
+    {
+     "title": "chef de partie",
+     "n": 18
+    },
+    {
+     "title": "fizyoterapist",
+     "n": 17
+    },
+    {
+     "title": "garson",
+     "n": 17
+    }
+   ],
+   "regions": []
+  },
+  {
+   "period": "2026-Q3",
+   "partial": true,
+   "postings_new": 72718,
+   "postings_raw": 78032,
+   "qoq_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 4438,
+    "p25": 2379,
+    "p75": 8055,
+    "mean": 5763,
+    "n": 137,
+    "share": 0.007,
+    "currency": "TRY"
+   },
+   "remote_share": 0.001,
+   "employment": {
+    "full_time": 0.136,
+    "part_time": 0.024,
+    "contract": 0.007,
+    "other": 0.003,
+    "unknown": 0.83
+   },
+   "by_source": [
+    {
+     "code": "careerjet.tr",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 39783
+    },
+    {
+     "code": "indeed.tr",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 22825
+    },
+    {
+     "code": "jooble.tr",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 15424
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "İstanbul",
+     "n": 6415,
+     "share": 0.082
+    },
+    {
+     "name": "Ankara",
+     "n": 2402,
+     "share": 0.031
+    },
+    {
+     "name": "İzmir",
+     "n": 1687,
+     "share": 0.022
+    },
+    {
+     "name": "İstanbul Avrupa",
+     "n": 1438,
+     "share": 0.018
+    },
+    {
+     "name": "İstanbul Anadolu",
+     "n": 1413,
+     "share": 0.018
+    },
+    {
+     "name": "İstanbul Avrupa Yakası",
+     "n": 1302,
+     "share": 0.017
+    },
+    {
+     "name": "Antalya",
+     "n": 1212,
+     "share": 0.016
+    },
+    {
+     "name": "Gebze",
+     "n": 1144,
+     "share": 0.015
+    },
+    {
+     "name": "Çankaya",
+     "n": 1013,
+     "share": 0.013
+    },
+    {
+     "name": "Esenyurt",
+     "n": 865,
+     "share": 0.011
+    },
+    {
+     "name": "Ataşehir",
+     "n": 810,
+     "share": 0.01
+    },
+    {
+     "name": "Tuzla",
+     "n": 686,
+     "share": 0.009
+    },
+    {
+     "name": "Başakşehir",
+     "n": 636,
+     "share": 0.008
+    },
+    {
+     "name": "Ümraniye",
+     "n": 609,
+     "share": 0.008
+    },
+    {
+     "name": "İstanbul Anadolu Yakası",
+     "n": 609,
+     "share": 0.008
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "temizlik görevlisi",
+     "n": 638
+    },
+    {
+     "title": "ev yardımcısı arıyoruz",
+     "n": 520
+    },
+    {
+     "title": "temizlik personeli",
+     "n": 491
+    },
+    {
+     "title": "aşçı",
+     "n": 488
+    },
+    {
+     "title": "ingilizce öğretmeni",
+     "n": 406
+    },
+    {
+     "title": "muhasebe elemanı",
+     "n": 384
+    },
+    {
+     "title": "beden işçisi (genel)",
+     "n": 379
+    },
+    {
+     "title": "ön muhasebe elemanı",
+     "n": 322
+    },
+    {
+     "title": "aşçı yardımcısı",
+     "n": 315
+    },
+    {
+     "title": "garson",
+     "n": 298
+    },
+    {
+     "title": "forklift operatörü",
+     "n": 285
+    },
+    {
+     "title": "ön muhasebeci",
+     "n": 285
+    },
+    {
+     "title": "kasiyer",
+     "n": 232
+    },
+    {
+     "title": "sekreter",
+     "n": 201
+    },
+    {
+     "title": "servis elemanı (garson)",
+     "n": 191
+    }
+   ],
+   "regions": []
+  }
+ ],
+ "sources": [
+  {
+   "code": "careerjet.tr",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "url": "https://www.careerjet.com.tr",
+   "collecting_since": "2026-08-03",
+   "offers_total": 46015,
+   "share_latest": 0.587,
+   "salary_coverage": 0.004,
+   "description_coverage": 1.0
+  },
+  {
+   "code": "indeed.tr",
+   "service": "Indeed",
+   "kind": "aggregator",
+   "url": "https://tr.indeed.com",
+   "collecting_since": "2026-08-06",
+   "offers_total": 32968,
+   "share_latest": 0.243,
+   "salary_coverage": 0.0,
+   "description_coverage": 1.0
+  },
+  {
+   "code": "jooble.tr",
+   "service": "Jooble",
+   "kind": "aggregator",
+   "url": "https://tr.jooble.org",
+   "collecting_since": "2026-07-31",
+   "offers_total": 19559,
+   "share_latest": 0.17,
+   "salary_coverage": 0.028,
+   "description_coverage": 1.0
+  }
+ ],
+ "quality": {
+  "field_coverage": {
+   "salary_any": 0.007,
+   "city": 0.986,
+   "company": 0.614,
+   "employment_type": 0.204,
+   "remote": 0.531,
+   "posted_at": 1.0
+  },
+  "dedup": {
+   "within_source_rule_pl": "Ta sama oferta w tym samym serwisie liczona raz (klucz: adres URL lub identyfikator ogłoszenia).",
+   "cross_source_estimate": 0.075,
+   "cross_source_note_pl": "Szacunkowy odsetek ogłoszeń widocznych w więcej niż jednym serwisie (ten sam tytuł, firma i miasto w tym samym miesiącu). Wskaźniki liczymy po zdjęciu tych powtórek."
+  }
+ },
+ "highlights": [
+  {
+   "id": "volume",
+   "icon": "trend",
+   "title_pl": "Sierpień: 51 082 ogłoszeń",
+   "text_pl": "51 082 nowych ogłoszeń - najwięcej od początku zbierania.",
+   "title_en": "August: 51,082 postings",
+   "text_en": "51,082 new postings - the most since collection began."
+  },
+  {
+   "id": "mover",
+   "icon": "city",
+   "title_pl": "Największa zmiana: Çankaya +171,1%",
+   "text_pl": "740 ogłoszeń wobec 273 miesiąc wcześniej.",
+   "title_en": "Biggest move: Çankaya +171.1%",
+   "text_en": "740 postings vs 273 a month earlier."
+  },
+  {
+   "id": "salary",
+   "icon": "salary",
+   "title_pl": "Mediana wynagrodzenia: 4 000 TRY",
+   "text_pl": "Połowa ofert z podaną stawką mieści się między 2 167 a 8 000 TRY miesięcznie; stawkę podaje 1% ogłoszeń.",
+   "title_en": "Median pay: 4,000 TRY",
+   "text_en": "Half of the postings with stated pay fall between 2,167 and 8,000 TRY per month; 1% of postings state pay."
+  },
+  {
+   "id": "remote",
+   "icon": "remote",
+   "title_pl": "Praca zdalna: 0,1% ogłoszeń",
+   "text_pl": "55 ogłoszeń oznaczonych jako praca zdalna (-0,1 pkt proc. m/m).",
+   "title_en": "Remote work: 0.1% of postings",
+   "text_en": "55 postings flagged as remote (-0.1 pp m/m)."
+  },
+  {
+   "id": "source",
+   "icon": "source",
+   "title_pl": "Największy serwis: Careerjet (59%)",
+   "text_pl": "Dane z 3 serwisów; Careerjet dostarcza 32 445 z 55 241 ogłoszeń przed zdjęciem powtórek.",
+   "title_en": "Largest source: Careerjet (59%)",
+   "text_en": "Data from 3 sources; Careerjet provides 32,445 of 55,241 postings before de-duplication."
+  },
+  {
+   "id": "cities",
+   "icon": "map",
+   "title_pl": "1 552 miasta z ogłoszeniami",
+   "text_pl": "Najwięcej w: İstanbul (8%), Ankara (3%), İstanbul Avrupa Yakası (2%).",
+   "title_en": "1,552 cities with postings",
+   "text_en": "Most in: İstanbul (8%), Ankara (3%), İstanbul Avrupa Yakası (2%)."
+  }
+ ],
+ "commentary": null,
+ "skills_demo": {
+  "is_synthetic": true,
+  "note_pl": "Dane demonstracyjne: nazwy umiejętności pochodzą z taksonomii ESCO, wartości są wygenerowane. Docelowo - identyfikacja umiejętności w treści ogłoszeń.",
+  "months": [
+   "2026-03",
+   "2026-04",
+   "2026-05",
+   "2026-06",
+   "2026-07",
+   "2026-08"
+  ],
+  "groups": [
+   {
+    "id": "digital",
+    "name_pl": "Kompetencje cyfrowe",
+    "name_en": "Digital skills",
+    "share": 0.169,
+    "change_pct": 10.9
+   },
+   {
+    "id": "data_ai",
+    "name_pl": "Dane i sztuczna inteligencja",
+    "name_en": "Data & AI",
+    "share": 0.068,
+    "change_pct": 17.1
+   },
+   {
+    "id": "green",
+    "name_pl": "Zielone kompetencje",
+    "name_en": "Green skills",
+    "share": 0.054,
+    "change_pct": 6.4
+   },
+   {
+    "id": "management",
+    "name_pl": "Zarządzanie",
+    "name_en": "Management",
+    "share": 0.111,
+    "change_pct": -1.6
+   },
+   {
+    "id": "communication",
+    "name_pl": "Komunikacja i współpraca",
+    "name_en": "Communication & teamwork",
+    "share": 0.152,
+    "change_pct": -6.9
+   },
+   {
+    "id": "technical_trades",
+    "name_pl": "Zawody techniczne i produkcja",
+    "name_en": "Technical trades",
+    "share": 0.112,
+    "change_pct": -2.6
+   },
+   {
+    "id": "healthcare",
+    "name_pl": "Opieka zdrowotna",
+    "name_en": "Healthcare",
+    "share": 0.085,
+    "change_pct": -0.9
+   },
+   {
+    "id": "finance_admin",
+    "name_pl": "Finanse i administracja",
+    "name_en": "Finance & administration",
+    "share": 0.081,
+    "change_pct": -6.8
+   },
+   {
+    "id": "languages",
+    "name_pl": "Języki obce",
+    "name_en": "Languages",
+    "share": 0.074,
+    "change_pct": -1.6
+   },
+   {
+    "id": "customer_sales",
+    "name_pl": "Obsługa klienta i sprzedaż",
+    "name_en": "Customer service & sales",
+    "share": 0.095,
+    "change_pct": -5.8
+   }
+  ],
+  "skills": [
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/afd49651-9119-4327-91fc-844a6dda1254",
+    "name_pl": "zarządzanie konfliktem",
+    "name_en": "conflict management",
+    "group": "communication",
+    "share": 0.0204,
+    "change_pct": 14.0,
+    "series": [
+     0.0179,
+     0.0179,
+     0.0186,
+     0.0189,
+     0.0204,
+     0.0204
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/918f5211-b99f-4b29-9a34-6e475583ef55",
+    "name_pl": "pisanie raportów",
+    "name_en": "write work-related reports",
+    "group": "communication",
+    "share": 0.0179,
+    "change_pct": -5.8,
+    "series": [
+     0.019,
+     0.0185,
+     0.0185,
+     0.0183,
+     0.0188,
+     0.0179
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/f0de4973-0a70-4644-8fd4-3a97080476f4",
+    "name_pl": "DevOps",
+    "name_en": "DevOps",
+    "group": "digital",
+    "share": 0.0174,
+    "change_pct": 39.2,
+    "series": [
+     0.0125,
+     0.0134,
+     0.0142,
+     0.0154,
+     0.0164,
+     0.0174
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d",
+    "name_pl": "Python (programowanie)",
+    "name_en": "Python (computer programming)",
+    "group": "digital",
+    "share": 0.016,
+    "change_pct": 11.1,
+    "series": [
+     0.0144,
+     0.0148,
+     0.015,
+     0.0153,
+     0.0154,
+     0.016
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/c55caed2-de9e-4a25-819e-a0b0e83fba1b",
+    "name_pl": "prowadzenie prezentacji",
+    "name_en": "give live presentation",
+    "group": "communication",
+    "share": 0.0158,
+    "change_pct": -15.1,
+    "series": [
+     0.0186,
+     0.0171,
+     0.0171,
+     0.0165,
+     0.0169,
+     0.0158
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742",
+    "name_pl": "SQL",
+    "name_en": "SQL",
+    "group": "digital",
+    "share": 0.0141,
+    "change_pct": 2.2,
+    "series": [
+     0.0138,
+     0.0141,
+     0.0142,
+     0.0139,
+     0.0138,
+     0.0141
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0",
+    "name_pl": "technologie chmurowe",
+    "name_en": "cloud technologies",
+    "group": "digital",
+    "share": 0.0139,
+    "change_pct": 25.2,
+    "series": [
+     0.0111,
+     0.0119,
+     0.0121,
+     0.0131,
+     0.0136,
+     0.0139
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/a17286c5-238d-4f0b-bc24-29e9121345de",
+    "name_pl": "aktywne słuchanie",
+    "name_en": "listen actively",
+    "group": "communication",
+    "share": 0.013,
+    "change_pct": 14.0,
+    "series": [
+     0.0114,
+     0.0115,
+     0.0123,
+     0.0124,
+     0.0133,
+     0.013
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/f4d1fce0-6d7f-4a5e-b317-2040b64758f2",
+    "name_pl": "fizjoterapia",
+    "name_en": "physiotherapy",
+    "group": "healthcare",
+    "share": 0.0129,
+    "change_pct": -9.8,
+    "series": [
+     0.0143,
+     0.0141,
+     0.0139,
+     0.0136,
+     0.0132,
+     0.0129
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/f929c89e-c363-4132-a918-e021d57b307c",
+    "name_pl": "zarządzanie łańcuchem dostaw",
+    "name_en": "supply chain management",
+    "group": "management",
+    "share": 0.0128,
+    "change_pct": 11.3,
+    "series": [
+     0.0115,
+     0.0121,
+     0.012,
+     0.0123,
+     0.0124,
+     0.0128
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d",
+    "name_pl": "działania sprzedażowe",
+    "name_en": "sales activities",
+    "group": "customer_sales",
+    "share": 0.0127,
+    "change_pct": -14.2,
+    "series": [
+     0.0148,
+     0.0144,
+     0.0141,
+     0.0137,
+     0.0133,
+     0.0127
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/bf942c60-8539-4951-83ee-63f770da1cb8",
+    "name_pl": "programowanie sterowników CNC",
+    "name_en": "program a CNC controller",
+    "group": "technical_trades",
+    "share": 0.0118,
+    "change_pct": -4.1,
+    "series": [
+     0.0123,
+     0.0119,
+     0.0122,
+     0.0121,
+     0.0119,
+     0.0118
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/60c544c9-0815-479c-bcec-93c7891815ea",
+    "name_pl": "farmakologia",
+    "name_en": "pharmacology",
+    "group": "healthcare",
+    "share": 0.0116,
+    "change_pct": -4.1,
+    "series": [
+     0.0121,
+     0.0119,
+     0.0121,
+     0.0118,
+     0.0117,
+     0.0116
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/6eff134b-e34f-4d6e-a6e8-5e47cf2228d0",
+    "name_pl": "zarządzanie ryzykiem",
+    "name_en": "risk management",
+    "group": "management",
+    "share": 0.0109,
+    "change_pct": -11.4,
+    "series": [
+     0.0123,
+     0.0125,
+     0.0116,
+     0.0114,
+     0.0111,
+     0.0109
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/949ced5f-7536-4614-ac60-563ffc91a2f2",
+    "name_pl": "planowanie strategiczne",
+    "name_en": "strategic planning",
+    "group": "management",
+    "share": 0.0104,
+    "change_pct": 22.4,
+    "series": [
+     0.0085,
+     0.0092,
+     0.0095,
+     0.0099,
+     0.0101,
+     0.0104
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0",
+    "name_pl": "język angielski",
+    "name_en": "English",
+    "group": "languages",
+    "share": 0.009,
+    "change_pct": 13.9,
+    "series": [
+     0.0079,
+     0.0083,
+     0.0083,
+     0.0085,
+     0.0088,
+     0.009
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/8755734c-2919-41a3-9ca6-1e3d1f169213",
+    "name_pl": "montaż instalacji hydraulicznych",
+    "name_en": "install plumbing systems",
+    "group": "technical_trades",
+    "share": 0.0089,
+    "change_pct": 3.5,
+    "series": [
+     0.0086,
+     0.0086,
+     0.0087,
+     0.0087,
+     0.0084,
+     0.0089
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/9d916d7c-89b3-4084-a6d9-e2b0b3091404",
+    "name_pl": "obsługa płac",
+    "name_en": "manage payroll",
+    "group": "finance_admin",
+    "share": 0.0089,
+    "change_pct": -2.2,
+    "series": [
+     0.0091,
+     0.009,
+     0.0089,
+     0.0086,
+     0.0089,
+     0.0089
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/28cb374e-6261-4133-8371-f9a5470145da",
+    "name_pl": "obsługa wózka widłowego",
+    "name_en": "operate forklift",
+    "group": "technical_trades",
+    "share": 0.0088,
+    "change_pct": -5.4,
+    "series": [
+     0.0093,
+     0.0092,
+     0.009,
+     0.0089,
+     0.0087,
+     0.0088
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/0da516ee-e70e-4384-be13-f5ff80be8127",
+    "name_pl": "komunikacja z klientami",
+    "name_en": "communicate with customers",
+    "group": "customer_sales",
+    "share": 0.0088,
+    "change_pct": -12.0,
+    "series": [
+     0.01,
+     0.0096,
+     0.0097,
+     0.0095,
+     0.009,
+     0.0088
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/d669af41-756c-48d9-a286-1443253f54b1",
+    "name_pl": "prawo podatkowe",
+    "name_en": "tax legislation",
+    "group": "finance_admin",
+    "share": 0.0086,
+    "change_pct": 17.8,
+    "series": [
+     0.0073,
+     0.0075,
+     0.0078,
+     0.0081,
+     0.0079,
+     0.0086
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/97bd1c21-66b2-4b7e-ad0f-e3cda590e378",
+    "name_pl": "analityka danych",
+    "name_en": "data analytics",
+    "group": "data_ai",
+    "share": 0.0067,
+    "change_pct": 1.5,
+    "series": [
+     0.0066,
+     0.0062,
+     0.0066,
+     0.0066,
+     0.0068,
+     0.0067
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/6f5850ea-5785-4e2c-b062-743066fd5bdb",
+    "name_pl": "prawo ochrony środowiska",
+    "name_en": "environmental legislation",
+    "group": "green",
+    "share": 0.0066,
+    "change_pct": 32.0,
+    "series": [
+     0.005,
+     0.0053,
+     0.0055,
+     0.0059,
+     0.0063,
+     0.0066
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/33859d93-987c-4caa-a0a9-6159ea7bbc2a",
+    "name_pl": "język arabski",
+    "name_en": "Arabic",
+    "group": "languages",
+    "share": 0.0064,
+    "change_pct": 14.3,
+    "series": [
+     0.0056,
+     0.0059,
+     0.0059,
+     0.0058,
+     0.0061,
+     0.0064
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/ecc4552a-92c5-4222-b18d-faf5ac841080",
+    "name_pl": "uczenie głębokie",
+    "name_en": "deep learning",
+    "group": "data_ai",
+    "share": 0.0052,
+    "change_pct": 6.1,
+    "series": [
+     0.0049,
+     0.0048,
+     0.005,
+     0.0049,
+     0.0051,
+     0.0052
+    ]
+   }
+  ]
+ }
+}

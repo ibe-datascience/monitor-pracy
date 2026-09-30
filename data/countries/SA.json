@@ -1,0 +1,5351 @@
+{
+ "country": {
+  "code": "SA",
+  "iso3": "SAU",
+  "numeric": 682,
+  "name_pl": "Arabia Saudyjska",
+  "name_en": "Saudi Arabia",
+  "continent": "mena",
+  "currency": "SAR"
+ },
+ "generated_at": "2026-09-30T15:36:10+00:00",
+ "coverage": {
+  "first_month": "2025-04",
+  "last_month": "2026-08",
+  "collecting_since": "2023-01-01",
+  "complete_from": "2023-01",
+  "index_base_month": "2023-01",
+  "note_pl": "Zbieranie trwa od 01.01.2023; wcześniejsze miesiące pochodzą z dat publikacji ogłoszeń widocznych w serwisach i są niepełne. Dane do sierpnia 2026. Wrzesień 2026 pominięty: przerwa w zbieraniu ogłoszeń 8-30 września."
+ },
+ "headline": {
+  "month": "2026-08",
+  "postings_new": 86759,
+  "postings_raw": 106108,
+  "mom_pct": 138.4,
+  "yoy_pct": 2986.4,
+  "postings_active_end": 152830,
+  "salary_median": 5000,
+  "salary_currency": "SAR",
+  "salary_share": 0.164,
+  "remote_share": 0.014,
+  "sources": 15,
+  "top_source": {
+   "code": "tanqeeb.sa",
+   "service": "Tanqeeb",
+   "share": 0.393
+  }
+ },
+ "monthly": [
+  {
+   "period": "2025-04",
+   "partial": false,
+   "postings_new": 1447,
+   "postings_raw": 1509,
+   "postings_active_end": 36,
+   "postings_closed": 909,
+   "index": null,
+   "mom_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 12125,
+    "p25": 4500,
+    "p75": 25000,
+    "mean": 16755,
+    "n": 104,
+    "share": 0.074,
+    "currency": "SAR"
+   },
+   "remote_share": 0.002,
+   "employment": {
+    "full_time": 0.746,
+    "part_time": 0.004,
+    "contract": 0.009,
+    "other": 0.001,
+    "unknown": 0.241
+   },
+   "by_source": [
+    {
+     "code": "sa.gulftalent",
+     "service": "GulfTalent",
+     "kind": "portal",
+     "n": 853
+    },
+    {
+     "code": "sa.mejobs",
+     "service": "ME-Jobs",
+     "kind": "portal",
+     "n": 253
+    },
+    {
+     "code": "smartrecruiters.sa",
+     "service": "SmartRecruiters",
+     "kind": "aggregator",
+     "n": 127
+    },
+    {
+     "code": "indeed.sa",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 51
+    },
+    {
+     "code": "jooble.sa",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 49
+    },
+    {
+     "code": "sa.mihnati",
+     "service": "Mihnati",
+     "kind": "portal",
+     "n": 46
+    },
+    {
+     "code": "sa.sabbar",
+     "service": "Sabbar",
+     "kind": "portal",
+     "n": 43
+    },
+    {
+     "code": "sa.bayt",
+     "service": "Bayt.com",
+     "kind": "portal",
+     "n": 30
+    },
+    {
+     "code": "sa.arabjobs",
+     "service": "ArabJobs",
+     "kind": "portal",
+     "n": 23
+    },
+    {
+     "code": "sa.naukrigulf",
+     "service": "Naukrigulf",
+     "kind": "portal",
+     "n": 14
+    },
+    {
+     "code": "workable.sa",
+     "service": "Workable",
+     "kind": "aggregator",
+     "n": 13
+    },
+    {
+     "code": "sa.foundit",
+     "service": "Foundit Gulf",
+     "kind": "portal",
+     "n": 7
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Riyadh",
+     "n": 525,
+     "share": 0.348
+    },
+    {
+     "name": "Saudi Arabia",
+     "n": 304,
+     "share": 0.201
+    },
+    {
+     "name": "Jeddah",
+     "n": 114,
+     "share": 0.076
+    },
+    {
+     "name": "Jubail",
+     "n": 104,
+     "share": 0.069
+    },
+    {
+     "name": "Khobar",
+     "n": 68,
+     "share": 0.045
+    },
+    {
+     "name": "Gharb Al Dhahran - Dhahran",
+     "n": 60,
+     "share": 0.04
+    },
+    {
+     "name": "Riyadh, Saudi Arabia",
+     "n": 49,
+     "share": 0.032
+    },
+    {
+     "name": "الرياض",
+     "n": 43,
+     "share": 0.028
+    },
+    {
+     "name": "Dammam",
+     "n": 39,
+     "share": 0.026
+    },
+    {
+     "name": "Al Jubail",
+     "n": 34,
+     "share": 0.023
+    },
+    {
+     "name": "الخبر",
+     "n": 10,
+     "share": 0.007
+    },
+    {
+     "name": "Al Khobar",
+     "n": 7,
+     "share": 0.005
+    },
+    {
+     "name": "External Audit",
+     "n": 6,
+     "share": 0.004
+    },
+    {
+     "name": "SA",
+     "n": 6,
+     "share": 0.004
+    },
+    {
+     "name": "Eastern Province",
+     "n": 5,
+     "share": 0.003
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2025-05",
+   "partial": false,
+   "postings_new": 1318,
+   "postings_raw": 1351,
+   "postings_active_end": 41,
+   "postings_closed": 891,
+   "index": null,
+   "mom_pct": -8.9,
+   "yoy_pct": null,
+   "salary": {
+    "median": 17500,
+    "p25": 8666,
+    "p75": 32500,
+    "mean": 24256,
+    "n": 69,
+    "share": 0.073,
+    "currency": "SAR"
+   },
+   "remote_share": 0.001,
+   "employment": {
+    "full_time": 0.814,
+    "part_time": 0.003,
+    "contract": 0.007,
+    "other": 0.006,
+    "unknown": 0.17
+   },
+   "by_source": [
+    {
+     "code": "sa.gulftalent",
+     "service": "GulfTalent",
+     "kind": "portal",
+     "n": 872
+    },
+    {
+     "code": "sa.mejobs",
+     "service": "ME-Jobs",
+     "kind": "portal",
+     "n": 111
+    },
+    {
+     "code": "jooble.sa",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 91
+    },
+    {
+     "code": "indeed.sa",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 64
+    },
+    {
+     "code": "sa.mihnati",
+     "service": "Mihnati",
+     "kind": "portal",
+     "n": 54
+    },
+    {
+     "code": "sa.bayt",
+     "service": "Bayt.com",
+     "kind": "portal",
+     "n": 52
+    },
+    {
+     "code": "sa.foundit",
+     "service": "Foundit Gulf",
+     "kind": "portal",
+     "n": 51
+    },
+    {
+     "code": "sa.arabjobs",
+     "service": "ArabJobs",
+     "kind": "portal",
+     "n": 16
+    },
+    {
+     "code": "sa.sabbar",
+     "service": "Sabbar",
+     "kind": "portal",
+     "n": 12
+    },
+    {
+     "code": "sa.naukrigulf",
+     "service": "Naukrigulf",
+     "kind": "portal",
+     "n": 10
+    },
+    {
+     "code": "smartrecruiters.sa",
+     "service": "SmartRecruiters",
+     "kind": "aggregator",
+     "n": 9
+    },
+    {
+     "code": "workable.sa",
+     "service": "Workable",
+     "kind": "aggregator",
+     "n": 8
+    },
+    {
+     "code": "workday.sa",
+     "service": "Workday",
+     "kind": "aggregator",
+     "n": 1
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Riyadh",
+     "n": 464,
+     "share": 0.343
+    },
+    {
+     "name": "Saudi Arabia",
+     "n": 317,
+     "share": 0.235
+    },
+    {
+     "name": "Jeddah",
+     "n": 90,
+     "share": 0.067
+    },
+    {
+     "name": "Khobar",
+     "n": 85,
+     "share": 0.063
+    },
+    {
+     "name": "الرياض",
+     "n": 56,
+     "share": 0.041
+    },
+    {
+     "name": "Dammam",
+     "n": 52,
+     "share": 0.038
+    },
+    {
+     "name": "Jubail",
+     "n": 39,
+     "share": 0.029
+    },
+    {
+     "name": "Gharb Al Dhahran - Dhahran",
+     "n": 35,
+     "share": 0.026
+    },
+    {
+     "name": "Riyadh, Saudi Arabia",
+     "n": 22,
+     "share": 0.016
+    },
+    {
+     "name": "Mecca",
+     "n": 15,
+     "share": 0.011
+    },
+    {
+     "name": "Ta'if",
+     "n": 11,
+     "share": 0.008
+    },
+    {
+     "name": "الخبر",
+     "n": 11,
+     "share": 0.008
+    },
+    {
+     "name": "Abha",
+     "n": 6,
+     "share": 0.004
+    },
+    {
+     "name": "Eastern Province",
+     "n": 6,
+     "share": 0.004
+    },
+    {
+     "name": "Yanbu",
+     "n": 6,
+     "share": 0.004
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2025-06",
+   "partial": false,
+   "postings_new": 1756,
+   "postings_raw": 1812,
+   "postings_active_end": 53,
+   "postings_closed": 1061,
+   "index": null,
+   "mom_pct": 33.2,
+   "yoy_pct": null,
+   "salary": {
+    "median": 5000,
+    "p25": 4000,
+    "p75": 19000,
+    "mean": 14084,
+    "n": 183,
+    "share": 0.111,
+    "currency": "SAR"
+   },
+   "remote_share": 0.002,
+   "employment": {
+    "full_time": 0.773,
+    "part_time": 0.004,
+    "contract": 0.009,
+    "other": 0.003,
+    "unknown": 0.21
+   },
+   "by_source": [
+    {
+     "code": "sa.gulftalent",
+     "service": "GulfTalent",
+     "kind": "portal",
+     "n": 1023
+    },
+    {
+     "code": "sa.mejobs",
+     "service": "ME-Jobs",
+     "kind": "portal",
+     "n": 255
+    },
+    {
+     "code": "jooble.sa",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 209
+    },
+    {
+     "code": "sa.sabbar",
+     "service": "Sabbar",
+     "kind": "portal",
+     "n": 111
+    },
+    {
+     "code": "sa.bayt",
+     "service": "Bayt.com",
+     "kind": "portal",
+     "n": 62
+    },
+    {
+     "code": "indeed.sa",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 47
+    },
+    {
+     "code": "sa.mihnati",
+     "service": "Mihnati",
+     "kind": "portal",
+     "n": 45
+    },
+    {
+     "code": "sa.foundit",
+     "service": "Foundit Gulf",
+     "kind": "portal",
+     "n": 21
+    },
+    {
+     "code": "workable.sa",
+     "service": "Workable",
+     "kind": "aggregator",
+     "n": 16
+    },
+    {
+     "code": "sa.naukrigulf",
+     "service": "Naukrigulf",
+     "kind": "portal",
+     "n": 10
+    },
+    {
+     "code": "sa.arabjobs",
+     "service": "ArabJobs",
+     "kind": "portal",
+     "n": 9
+    },
+    {
+     "code": "smartrecruiters.sa",
+     "service": "SmartRecruiters",
+     "kind": "aggregator",
+     "n": 3
+    },
+    {
+     "code": "workday.sa",
+     "service": "Workday",
+     "kind": "aggregator",
+     "n": 1
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Riyadh",
+     "n": 774,
+     "share": 0.427
+    },
+    {
+     "name": "Saudi Arabia",
+     "n": 320,
+     "share": 0.177
+    },
+    {
+     "name": "Jeddah",
+     "n": 109,
+     "share": 0.06
+    },
+    {
+     "name": "Khobar",
+     "n": 108,
+     "share": 0.06
+    },
+    {
+     "name": "Dammam",
+     "n": 99,
+     "share": 0.055
+    },
+    {
+     "name": "Riyadh, Saudi Arabia",
+     "n": 35,
+     "share": 0.019
+    },
+    {
+     "name": "الرياض",
+     "n": 28,
+     "share": 0.015
+    },
+    {
+     "name": "Jubail",
+     "n": 27,
+     "share": 0.015
+    },
+    {
+     "name": "Gharb Al Dhahran - Dhahran",
+     "n": 21,
+     "share": 0.012
+    },
+    {
+     "name": "Mecca",
+     "n": 19,
+     "share": 0.01
+    },
+    {
+     "name": "Yanbu",
+     "n": 18,
+     "share": 0.01
+    },
+    {
+     "name": "جدة",
+     "n": 14,
+     "share": 0.008
+    },
+    {
+     "name": "Al Khobar",
+     "n": 11,
+     "share": 0.006
+    },
+    {
+     "name": "Dhahran",
+     "n": 11,
+     "share": 0.006
+    },
+    {
+     "name": "الهفوف",
+     "n": 8,
+     "share": 0.004
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2025-07",
+   "partial": false,
+   "postings_new": 2584,
+   "postings_raw": 2769,
+   "postings_active_end": 57,
+   "postings_closed": 686,
+   "index": null,
+   "mom_pct": 47.2,
+   "yoy_pct": null,
+   "salary": {
+    "median": 5000,
+    "p25": 5000,
+    "p75": 5000,
+    "mean": 5339,
+    "n": 1127,
+    "share": 0.418,
+    "currency": "SAR"
+   },
+   "remote_share": 0.002,
+   "employment": {
+    "full_time": 0.842,
+    "part_time": 0.02,
+    "contract": 0.006,
+    "other": 0.002,
+    "unknown": 0.13
+   },
+   "by_source": [
+    {
+     "code": "sa.sabbar",
+     "service": "Sabbar",
+     "kind": "portal",
+     "n": 1093
+    },
+    {
+     "code": "sa.gulftalent",
+     "service": "GulfTalent",
+     "kind": "portal",
+     "n": 978
+    },
+    {
+     "code": "jooble.sa",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 232
+    },
+    {
+     "code": "sa.mejobs",
+     "service": "ME-Jobs",
+     "kind": "portal",
+     "n": 211
+    },
+    {
+     "code": "indeed.sa",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 79
+    },
+    {
+     "code": "sa.mihnati",
+     "service": "Mihnati",
+     "kind": "portal",
+     "n": 71
+    },
+    {
+     "code": "sa.bayt",
+     "service": "Bayt.com",
+     "kind": "portal",
+     "n": 51
+    },
+    {
+     "code": "workable.sa",
+     "service": "Workable",
+     "kind": "aggregator",
+     "n": 28
+    },
+    {
+     "code": "sa.arabjobs",
+     "service": "ArabJobs",
+     "kind": "portal",
+     "n": 13
+    },
+    {
+     "code": "sa.naukrigulf",
+     "service": "Naukrigulf",
+     "kind": "portal",
+     "n": 10
+    },
+    {
+     "code": "smartrecruiters.sa",
+     "service": "SmartRecruiters",
+     "kind": "aggregator",
+     "n": 3
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Riyadh",
+     "n": 887,
+     "share": 0.32
+    },
+    {
+     "name": "Saudi Arabia",
+     "n": 496,
+     "share": 0.179
+    },
+    {
+     "name": "Jeddah",
+     "n": 228,
+     "share": 0.082
+    },
+    {
+     "name": "Dammam",
+     "n": 143,
+     "share": 0.052
+    },
+    {
+     "name": "Al Khobar",
+     "n": 110,
+     "share": 0.04
+    },
+    {
+     "name": "Makkah",
+     "n": 102,
+     "share": 0.037
+    },
+    {
+     "name": "Khobar",
+     "n": 52,
+     "share": 0.019
+    },
+    {
+     "name": "الرياض",
+     "n": 51,
+     "share": 0.018
+    },
+    {
+     "name": "Madinah",
+     "n": 44,
+     "share": 0.016
+    },
+    {
+     "name": "Tabuk",
+     "n": 32,
+     "share": 0.012
+    },
+    {
+     "name": "Riyadh, Saudi Arabia",
+     "n": 30,
+     "share": 0.011
+    },
+    {
+     "name": "Dhahran",
+     "n": 23,
+     "share": 0.008
+    },
+    {
+     "name": "جدة",
+     "n": 19,
+     "share": 0.007
+    },
+    {
+     "name": "Al Jubail",
+     "n": 18,
+     "share": 0.007
+    },
+    {
+     "name": "Al Olaya",
+     "n": 17,
+     "share": 0.006
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2025-08",
+   "partial": false,
+   "postings_new": 2811,
+   "postings_raw": 2986,
+   "postings_active_end": 64,
+   "postings_closed": 2030,
+   "index": null,
+   "mom_pct": 8.8,
+   "yoy_pct": null,
+   "salary": {
+    "median": 5000,
+    "p25": 4500,
+    "p75": 5000,
+    "mean": 4839,
+    "n": 1158,
+    "share": 0.401,
+    "currency": "SAR"
+   },
+   "remote_share": 0.006,
+   "employment": {
+    "full_time": 0.855,
+    "part_time": 0.021,
+    "contract": 0.004,
+    "other": 0.007,
+    "unknown": 0.113
+   },
+   "by_source": [
+    {
+     "code": "sa.sabbar",
+     "service": "Sabbar",
+     "kind": "portal",
+     "n": 1140
+    },
+    {
+     "code": "sa.gulftalent",
+     "service": "GulfTalent",
+     "kind": "portal",
+     "n": 1049
+    },
+    {
+     "code": "sa.mejobs",
+     "service": "ME-Jobs",
+     "kind": "portal",
+     "n": 220
+    },
+    {
+     "code": "jooble.sa",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 216
+    },
+    {
+     "code": "sa.bayt",
+     "service": "Bayt.com",
+     "kind": "portal",
+     "n": 156
+    },
+    {
+     "code": "indeed.sa",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 69
+    },
+    {
+     "code": "sa.arabjobs",
+     "service": "ArabJobs",
+     "kind": "portal",
+     "n": 37
+    },
+    {
+     "code": "sa.mihnati",
+     "service": "Mihnati",
+     "kind": "portal",
+     "n": 33
+    },
+    {
+     "code": "sa.foundit",
+     "service": "Foundit Gulf",
+     "kind": "portal",
+     "n": 25
+    },
+    {
+     "code": "workable.sa",
+     "service": "Workable",
+     "kind": "aggregator",
+     "n": 25
+    },
+    {
+     "code": "sa.naukrigulf",
+     "service": "Naukrigulf",
+     "kind": "portal",
+     "n": 7
+    },
+    {
+     "code": "smartrecruiters.sa",
+     "service": "SmartRecruiters",
+     "kind": "aggregator",
+     "n": 6
+    },
+    {
+     "code": "workday.sa",
+     "service": "Workday",
+     "kind": "aggregator",
+     "n": 3
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Riyadh",
+     "n": 1163,
+     "share": 0.389
+    },
+    {
+     "name": "Saudi Arabia",
+     "n": 383,
+     "share": 0.128
+    },
+    {
+     "name": "Jeddah",
+     "n": 270,
+     "share": 0.09
+    },
+    {
+     "name": "Dammam",
+     "n": 184,
+     "share": 0.062
+    },
+    {
+     "name": "Khobar",
+     "n": 102,
+     "share": 0.034
+    },
+    {
+     "name": "Makkah",
+     "n": 67,
+     "share": 0.022
+    },
+    {
+     "name": "Al Khobar",
+     "n": 54,
+     "share": 0.018
+    },
+    {
+     "name": "Riyadh, Saudi Arabia",
+     "n": 52,
+     "share": 0.017
+    },
+    {
+     "name": "Tabuk",
+     "n": 37,
+     "share": 0.012
+    },
+    {
+     "name": "الرياض",
+     "n": 36,
+     "share": 0.012
+    },
+    {
+     "name": "Madinah",
+     "n": 28,
+     "share": 0.009
+    },
+    {
+     "name": "Jubail",
+     "n": 25,
+     "share": 0.008
+    },
+    {
+     "name": "Al Olaya",
+     "n": 22,
+     "share": 0.007
+    },
+    {
+     "name": "Al Jubail",
+     "n": 17,
+     "share": 0.006
+    },
+    {
+     "name": "Dhahran",
+     "n": 15,
+     "share": 0.005
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2025-09",
+   "partial": false,
+   "postings_new": 3123,
+   "postings_raw": 3312,
+   "postings_active_end": 64,
+   "postings_closed": 2874,
+   "index": null,
+   "mom_pct": 11.1,
+   "yoy_pct": null,
+   "salary": {
+    "median": 5000,
+    "p25": 4000,
+    "p75": 5000,
+    "mean": 4695,
+    "n": 1569,
+    "share": 0.495,
+    "currency": "SAR"
+   },
+   "remote_share": 0.002,
+   "employment": {
+    "full_time": 0.861,
+    "part_time": 0.038,
+    "contract": 0.002,
+    "other": 0.0,
+    "unknown": 0.099
+   },
+   "by_source": [
+    {
+     "code": "sa.sabbar",
+     "service": "Sabbar",
+     "kind": "portal",
+     "n": 1575
+    },
+    {
+     "code": "sa.gulftalent",
+     "service": "GulfTalent",
+     "kind": "portal",
+     "n": 1035
+    },
+    {
+     "code": "sa.bayt",
+     "service": "Bayt.com",
+     "kind": "portal",
+     "n": 185
+    },
+    {
+     "code": "sa.mejobs",
+     "service": "ME-Jobs",
+     "kind": "portal",
+     "n": 150
+    },
+    {
+     "code": "indeed.sa",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 120
+    },
+    {
+     "code": "jooble.sa",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 71
+    },
+    {
+     "code": "workable.sa",
+     "service": "Workable",
+     "kind": "aggregator",
+     "n": 57
+    },
+    {
+     "code": "sa.foundit",
+     "service": "Foundit Gulf",
+     "kind": "portal",
+     "n": 55
+    },
+    {
+     "code": "sa.mihnati",
+     "service": "Mihnati",
+     "kind": "portal",
+     "n": 30
+    },
+    {
+     "code": "sa.naukrigulf",
+     "service": "Naukrigulf",
+     "kind": "portal",
+     "n": 14
+    },
+    {
+     "code": "sa.arabjobs",
+     "service": "ArabJobs",
+     "kind": "portal",
+     "n": 10
+    },
+    {
+     "code": "smartrecruiters.sa",
+     "service": "SmartRecruiters",
+     "kind": "aggregator",
+     "n": 8
+    },
+    {
+     "code": "workday.sa",
+     "service": "Workday",
+     "kind": "aggregator",
+     "n": 2
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Riyadh",
+     "n": 1051,
+     "share": 0.317
+    },
+    {
+     "name": "Saudi Arabia",
+     "n": 437,
+     "share": 0.132
+    },
+    {
+     "name": "Jeddah",
+     "n": 291,
+     "share": 0.088
+    },
+    {
+     "name": "Dammam",
+     "n": 177,
+     "share": 0.053
+    },
+    {
+     "name": "Makkah",
+     "n": 135,
+     "share": 0.041
+    },
+    {
+     "name": "Al Khobar",
+     "n": 101,
+     "share": 0.03
+    },
+    {
+     "name": "Khobar",
+     "n": 71,
+     "share": 0.021
+    },
+    {
+     "name": "Madinah",
+     "n": 60,
+     "share": 0.018
+    },
+    {
+     "name": "Riyadh, Saudi Arabia",
+     "n": 48,
+     "share": 0.014
+    },
+    {
+     "name": "الرياض",
+     "n": 47,
+     "share": 0.014
+    },
+    {
+     "name": "Tabuk",
+     "n": 36,
+     "share": 0.011
+    },
+    {
+     "name": "Al Jubail",
+     "n": 27,
+     "share": 0.008
+    },
+    {
+     "name": "Al Olaya",
+     "n": 27,
+     "share": 0.008
+    },
+    {
+     "name": "Buraydah",
+     "n": 25,
+     "share": 0.008
+    },
+    {
+     "name": "Mecca",
+     "n": 25,
+     "share": 0.008
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2025-10",
+   "partial": false,
+   "postings_new": 3311,
+   "postings_raw": 3417,
+   "postings_active_end": 76,
+   "postings_closed": 2965,
+   "index": null,
+   "mom_pct": 6.0,
+   "yoy_pct": null,
+   "salary": {
+    "median": 5000,
+    "p25": 5000,
+    "p75": 5000,
+    "mean": 5113,
+    "n": 1538,
+    "share": 0.473,
+    "currency": "SAR"
+   },
+   "remote_share": 0.004,
+   "employment": {
+    "full_time": 0.817,
+    "part_time": 0.03,
+    "contract": 0.005,
+    "other": 0.001,
+    "unknown": 0.148
+   },
+   "by_source": [
+    {
+     "code": "sa.sabbar",
+     "service": "Sabbar",
+     "kind": "portal",
+     "n": 1541
+    },
+    {
+     "code": "sa.gulftalent",
+     "service": "GulfTalent",
+     "kind": "portal",
+     "n": 978
+    },
+    {
+     "code": "sa.bayt",
+     "service": "Bayt.com",
+     "kind": "portal",
+     "n": 192
+    },
+    {
+     "code": "sa.mejobs",
+     "service": "ME-Jobs",
+     "kind": "portal",
+     "n": 169
+    },
+    {
+     "code": "indeed.sa",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 148
+    },
+    {
+     "code": "sa.foundit",
+     "service": "Foundit Gulf",
+     "kind": "portal",
+     "n": 122
+    },
+    {
+     "code": "workable.sa",
+     "service": "Workable",
+     "kind": "aggregator",
+     "n": 120
+    },
+    {
+     "code": "jooble.sa",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 41
+    },
+    {
+     "code": "sa.mihnati",
+     "service": "Mihnati",
+     "kind": "portal",
+     "n": 40
+    },
+    {
+     "code": "sa.arabjobs",
+     "service": "ArabJobs",
+     "kind": "portal",
+     "n": 23
+    },
+    {
+     "code": "workday.sa",
+     "service": "Workday",
+     "kind": "aggregator",
+     "n": 23
+    },
+    {
+     "code": "sa.naukrigulf",
+     "service": "Naukrigulf",
+     "kind": "portal",
+     "n": 20
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Riyadh",
+     "n": 1022,
+     "share": 0.299
+    },
+    {
+     "name": "Saudi Arabia",
+     "n": 377,
+     "share": 0.11
+    },
+    {
+     "name": "Jeddah",
+     "n": 303,
+     "share": 0.089
+    },
+    {
+     "name": "Dammam",
+     "n": 186,
+     "share": 0.054
+    },
+    {
+     "name": "Makkah",
+     "n": 127,
+     "share": 0.037
+    },
+    {
+     "name": "Al Khobar",
+     "n": 87,
+     "share": 0.025
+    },
+    {
+     "name": "Riyadh, Saudi Arabia",
+     "n": 86,
+     "share": 0.025
+    },
+    {
+     "name": "الرياض",
+     "n": 76,
+     "share": 0.022
+    },
+    {
+     "name": "Khobar",
+     "n": 46,
+     "share": 0.013
+    },
+    {
+     "name": "Al Jubail",
+     "n": 42,
+     "share": 0.012
+    },
+    {
+     "name": "Dhahran",
+     "n": 42,
+     "share": 0.012
+    },
+    {
+     "name": "Madinah",
+     "n": 31,
+     "share": 0.009
+    },
+    {
+     "name": "Mecca",
+     "n": 28,
+     "share": 0.008
+    },
+    {
+     "name": "جدة",
+     "n": 27,
+     "share": 0.008
+    },
+    {
+     "name": "Tabuk",
+     "n": 25,
+     "share": 0.007
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2025-11",
+   "partial": false,
+   "postings_new": 3036,
+   "postings_raw": 3210,
+   "postings_active_end": 293,
+   "postings_closed": 2407,
+   "index": null,
+   "mom_pct": -8.3,
+   "yoy_pct": null,
+   "salary": {
+    "median": 5000,
+    "p25": 5000,
+    "p75": 5000,
+    "mean": 4985,
+    "n": 1465,
+    "share": 0.478,
+    "currency": "SAR"
+   },
+   "remote_share": 0.014,
+   "employment": {
+    "full_time": 0.814,
+    "part_time": 0.031,
+    "contract": 0.007,
+    "other": 0.001,
+    "unknown": 0.147
+   },
+   "by_source": [
+    {
+     "code": "sa.sabbar",
+     "service": "Sabbar",
+     "kind": "portal",
+     "n": 1461
+    },
+    {
+     "code": "sa.gulftalent",
+     "service": "GulfTalent",
+     "kind": "portal",
+     "n": 774
+    },
+    {
+     "code": "sa.bayt",
+     "service": "Bayt.com",
+     "kind": "portal",
+     "n": 308
+    },
+    {
+     "code": "indeed.sa",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 194
+    },
+    {
+     "code": "workable.sa",
+     "service": "Workable",
+     "kind": "aggregator",
+     "n": 183
+    },
+    {
+     "code": "sa.mejobs",
+     "service": "ME-Jobs",
+     "kind": "portal",
+     "n": 142
+    },
+    {
+     "code": "sa.foundit",
+     "service": "Foundit Gulf",
+     "kind": "portal",
+     "n": 45
+    },
+    {
+     "code": "sa.arabjobs",
+     "service": "ArabJobs",
+     "kind": "portal",
+     "n": 26
+    },
+    {
+     "code": "sa.naukrigulf",
+     "service": "Naukrigulf",
+     "kind": "portal",
+     "n": 24
+    },
+    {
+     "code": "sa.mihnati",
+     "service": "Mihnati",
+     "kind": "portal",
+     "n": 20
+    },
+    {
+     "code": "jooble.sa",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 20
+    },
+    {
+     "code": "workday.sa",
+     "service": "Workday",
+     "kind": "aggregator",
+     "n": 10
+    },
+    {
+     "code": "smartrecruiters.sa",
+     "service": "SmartRecruiters",
+     "kind": "aggregator",
+     "n": 3
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Riyadh",
+     "n": 984,
+     "share": 0.307
+    },
+    {
+     "name": "Saudi Arabia",
+     "n": 355,
+     "share": 0.111
+    },
+    {
+     "name": "Jeddah",
+     "n": 318,
+     "share": 0.099
+    },
+    {
+     "name": "Dammam",
+     "n": 150,
+     "share": 0.047
+    },
+    {
+     "name": "Makkah",
+     "n": 144,
+     "share": 0.045
+    },
+    {
+     "name": "الرياض",
+     "n": 97,
+     "share": 0.03
+    },
+    {
+     "name": "Al Khobar",
+     "n": 92,
+     "share": 0.029
+    },
+    {
+     "name": "Madinah",
+     "n": 47,
+     "share": 0.015
+    },
+    {
+     "name": "Khobar",
+     "n": 37,
+     "share": 0.012
+    },
+    {
+     "name": "Al Jubail",
+     "n": 36,
+     "share": 0.011
+    },
+    {
+     "name": "Dhahran",
+     "n": 33,
+     "share": 0.01
+    },
+    {
+     "name": "Tabuk",
+     "n": 33,
+     "share": 0.01
+    },
+    {
+     "name": "Al Olaya",
+     "n": 26,
+     "share": 0.008
+    },
+    {
+     "name": "جدة",
+     "n": 25,
+     "share": 0.008
+    },
+    {
+     "name": "Yanbu",
+     "n": 23,
+     "share": 0.007
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2025-12",
+   "partial": false,
+   "postings_new": 2734,
+   "postings_raw": 2879,
+   "postings_active_end": 335,
+   "postings_closed": 2356,
+   "index": null,
+   "mom_pct": -9.9,
+   "yoy_pct": null,
+   "salary": {
+    "median": 5000,
+    "p25": 5000,
+    "p75": 5000,
+    "mean": 4900,
+    "n": 1100,
+    "share": 0.393,
+    "currency": "SAR"
+   },
+   "remote_share": 0.01,
+   "employment": {
+    "full_time": 0.828,
+    "part_time": 0.027,
+    "contract": 0.002,
+    "other": 0.001,
+    "unknown": 0.142
+   },
+   "by_source": [
+    {
+     "code": "sa.sabbar",
+     "service": "Sabbar",
+     "kind": "portal",
+     "n": 1110
+    },
+    {
+     "code": "sa.foundit",
+     "service": "Foundit Gulf",
+     "kind": "portal",
+     "n": 579
+    },
+    {
+     "code": "sa.bayt",
+     "service": "Bayt.com",
+     "kind": "portal",
+     "n": 423
+    },
+    {
+     "code": "indeed.sa",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 232
+    },
+    {
+     "code": "workable.sa",
+     "service": "Workable",
+     "kind": "aggregator",
+     "n": 167
+    },
+    {
+     "code": "sa.gulftalent",
+     "service": "GulfTalent",
+     "kind": "portal",
+     "n": 121
+    },
+    {
+     "code": "sa.mejobs",
+     "service": "ME-Jobs",
+     "kind": "portal",
+     "n": 105
+    },
+    {
+     "code": "jooble.sa",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 58
+    },
+    {
+     "code": "sa.naukrigulf",
+     "service": "Naukrigulf",
+     "kind": "portal",
+     "n": 36
+    },
+    {
+     "code": "sa.mihnati",
+     "service": "Mihnati",
+     "kind": "portal",
+     "n": 27
+    },
+    {
+     "code": "sa.arabjobs",
+     "service": "ArabJobs",
+     "kind": "portal",
+     "n": 13
+    },
+    {
+     "code": "workday.sa",
+     "service": "Workday",
+     "kind": "aggregator",
+     "n": 5
+    },
+    {
+     "code": "smartrecruiters.sa",
+     "service": "SmartRecruiters",
+     "kind": "aggregator",
+     "n": 3
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Riyadh",
+     "n": 849,
+     "share": 0.295
+    },
+    {
+     "name": "Saudi Arabia",
+     "n": 383,
+     "share": 0.133
+    },
+    {
+     "name": "Jeddah",
+     "n": 257,
+     "share": 0.089
+    },
+    {
+     "name": "Dammam",
+     "n": 162,
+     "share": 0.056
+    },
+    {
+     "name": "Makkah",
+     "n": 112,
+     "share": 0.039
+    },
+    {
+     "name": "Al Khobar",
+     "n": 87,
+     "share": 0.03
+    },
+    {
+     "name": "الرياض",
+     "n": 81,
+     "share": 0.028
+    },
+    {
+     "name": "Madinah",
+     "n": 42,
+     "share": 0.015
+    },
+    {
+     "name": "Al Jubail",
+     "n": 37,
+     "share": 0.013
+    },
+    {
+     "name": "Khobar",
+     "n": 36,
+     "share": 0.013
+    },
+    {
+     "name": "جدة",
+     "n": 25,
+     "share": 0.009
+    },
+    {
+     "name": "Dhahran",
+     "n": 20,
+     "share": 0.007
+    },
+    {
+     "name": "Yanbu",
+     "n": 20,
+     "share": 0.007
+    },
+    {
+     "name": "Al Olaya",
+     "n": 15,
+     "share": 0.005
+    },
+    {
+     "name": "Buraydah",
+     "n": 15,
+     "share": 0.005
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-01",
+   "partial": false,
+   "postings_new": 4232,
+   "postings_raw": 4453,
+   "postings_active_end": 375,
+   "postings_closed": 2834,
+   "index": null,
+   "mom_pct": 54.8,
+   "yoy_pct": null,
+   "salary": {
+    "median": 5000,
+    "p25": 5000,
+    "p75": 5000,
+    "mean": 5146,
+    "n": 985,
+    "share": 0.266,
+    "currency": "SAR"
+   },
+   "remote_share": 0.008,
+   "employment": {
+    "full_time": 0.813,
+    "part_time": 0.017,
+    "contract": 0.002,
+    "other": 0.0,
+    "unknown": 0.168
+   },
+   "by_source": [
+    {
+     "code": "sa.foundit",
+     "service": "Foundit Gulf",
+     "kind": "portal",
+     "n": 1758
+    },
+    {
+     "code": "sa.sabbar",
+     "service": "Sabbar",
+     "kind": "portal",
+     "n": 987
+    },
+    {
+     "code": "sa.bayt",
+     "service": "Bayt.com",
+     "kind": "portal",
+     "n": 517
+    },
+    {
+     "code": "indeed.sa",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 394
+    },
+    {
+     "code": "workable.sa",
+     "service": "Workable",
+     "kind": "aggregator",
+     "n": 253
+    },
+    {
+     "code": "sa.gulftalent",
+     "service": "GulfTalent",
+     "kind": "portal",
+     "n": 239
+    },
+    {
+     "code": "sa.mejobs",
+     "service": "ME-Jobs",
+     "kind": "portal",
+     "n": 111
+    },
+    {
+     "code": "jooble.sa",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 86
+    },
+    {
+     "code": "sa.naukrigulf",
+     "service": "Naukrigulf",
+     "kind": "portal",
+     "n": 60
+    },
+    {
+     "code": "workday.sa",
+     "service": "Workday",
+     "kind": "aggregator",
+     "n": 17
+    },
+    {
+     "code": "smartrecruiters.sa",
+     "service": "SmartRecruiters",
+     "kind": "aggregator",
+     "n": 17
+    },
+    {
+     "code": "sa.arabjobs",
+     "service": "ArabJobs",
+     "kind": "portal",
+     "n": 13
+    },
+    {
+     "code": "sa.mihnati",
+     "service": "Mihnati",
+     "kind": "portal",
+     "n": 1
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Riyadh",
+     "n": 1741,
+     "share": 0.391
+    },
+    {
+     "name": "Saudi Arabia",
+     "n": 636,
+     "share": 0.143
+    },
+    {
+     "name": "Jeddah",
+     "n": 325,
+     "share": 0.073
+    },
+    {
+     "name": "Dammam",
+     "n": 219,
+     "share": 0.049
+    },
+    {
+     "name": "الرياض",
+     "n": 155,
+     "share": 0.035
+    },
+    {
+     "name": "Makkah",
+     "n": 88,
+     "share": 0.02
+    },
+    {
+     "name": "Al Khobar",
+     "n": 68,
+     "share": 0.015
+    },
+    {
+     "name": "Khobar",
+     "n": 59,
+     "share": 0.013
+    },
+    {
+     "name": "Dhahran",
+     "n": 41,
+     "share": 0.009
+    },
+    {
+     "name": "Mecca",
+     "n": 36,
+     "share": 0.008
+    },
+    {
+     "name": "جدة",
+     "n": 33,
+     "share": 0.007
+    },
+    {
+     "name": "Madinah",
+     "n": 30,
+     "share": 0.007
+    },
+    {
+     "name": "Jubail",
+     "n": 27,
+     "share": 0.006
+    },
+    {
+     "name": "Tabuk",
+     "n": 27,
+     "share": 0.006
+    },
+    {
+     "name": "Al Jubail",
+     "n": 25,
+     "share": 0.006
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-02",
+   "partial": false,
+   "postings_new": 3739,
+   "postings_raw": 3912,
+   "postings_active_end": 628,
+   "postings_closed": 725,
+   "index": null,
+   "mom_pct": -11.6,
+   "yoy_pct": null,
+   "salary": {
+    "median": 5000,
+    "p25": 5000,
+    "p75": 5000,
+    "mean": 5138,
+    "n": 538,
+    "share": 0.167,
+    "currency": "SAR"
+   },
+   "remote_share": 0.011,
+   "employment": {
+    "full_time": 0.661,
+    "part_time": 0.009,
+    "contract": 0.012,
+    "other": 0.001,
+    "unknown": 0.316
+   },
+   "by_source": [
+    {
+     "code": "sa.foundit",
+     "service": "Foundit Gulf",
+     "kind": "portal",
+     "n": 1394
+    },
+    {
+     "code": "sa.sabbar",
+     "service": "Sabbar",
+     "kind": "portal",
+     "n": 520
+    },
+    {
+     "code": "sa.bayt",
+     "service": "Bayt.com",
+     "kind": "portal",
+     "n": 453
+    },
+    {
+     "code": "indeed.sa",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 411
+    },
+    {
+     "code": "jooble.sa",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 349
+    },
+    {
+     "code": "sa.naukrigulf",
+     "service": "Naukrigulf",
+     "kind": "portal",
+     "n": 273
+    },
+    {
+     "code": "sa.gulftalent",
+     "service": "GulfTalent",
+     "kind": "portal",
+     "n": 211
+    },
+    {
+     "code": "sa.mejobs",
+     "service": "ME-Jobs",
+     "kind": "portal",
+     "n": 147
+    },
+    {
+     "code": "workable.sa",
+     "service": "Workable",
+     "kind": "aggregator",
+     "n": 128
+    },
+    {
+     "code": "sa.arabjobs",
+     "service": "ArabJobs",
+     "kind": "portal",
+     "n": 12
+    },
+    {
+     "code": "smartrecruiters.sa",
+     "service": "SmartRecruiters",
+     "kind": "aggregator",
+     "n": 12
+    },
+    {
+     "code": "workday.sa",
+     "service": "Workday",
+     "kind": "aggregator",
+     "n": 2
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Riyadh",
+     "n": 1517,
+     "share": 0.388
+    },
+    {
+     "name": "Saudi Arabia",
+     "n": 558,
+     "share": 0.143
+    },
+    {
+     "name": "Jeddah",
+     "n": 222,
+     "share": 0.057
+    },
+    {
+     "name": "الرياض",
+     "n": 186,
+     "share": 0.048
+    },
+    {
+     "name": "Dammam",
+     "n": 165,
+     "share": 0.042
+    },
+    {
+     "name": "Jubail",
+     "n": 76,
+     "share": 0.019
+    },
+    {
+     "name": "Mecca",
+     "n": 69,
+     "share": 0.018
+    },
+    {
+     "name": "Khobar",
+     "n": 57,
+     "share": 0.015
+    },
+    {
+     "name": "Al Khobar",
+     "n": 43,
+     "share": 0.011
+    },
+    {
+     "name": "Makkah",
+     "n": 41,
+     "share": 0.01
+    },
+    {
+     "name": "Eastern Province",
+     "n": 40,
+     "share": 0.01
+    },
+    {
+     "name": "Dhahran",
+     "n": 34,
+     "share": 0.009
+    },
+    {
+     "name": "جدة",
+     "n": 33,
+     "share": 0.008
+    },
+    {
+     "name": "Sulaymaniyah - Riyadh",
+     "n": 22,
+     "share": 0.006
+    },
+    {
+     "name": "الجبيل",
+     "n": 17,
+     "share": 0.004
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-03",
+   "partial": false,
+   "postings_new": 2575,
+   "postings_raw": 2721,
+   "postings_active_end": 674,
+   "postings_closed": 1029,
+   "index": null,
+   "mom_pct": -31.1,
+   "yoy_pct": null,
+   "salary": {
+    "median": 5000,
+    "p25": 5000,
+    "p75": 5000,
+    "mean": 4823,
+    "n": 400,
+    "share": 0.151,
+    "currency": "SAR"
+   },
+   "remote_share": 0.004,
+   "employment": {
+    "full_time": 0.494,
+    "part_time": 0.014,
+    "contract": 0.01,
+    "other": 0.0,
+    "unknown": 0.482
+   },
+   "by_source": [
+    {
+     "code": "indeed.sa",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 457
+    },
+    {
+     "code": "sa.foundit",
+     "service": "Foundit Gulf",
+     "kind": "portal",
+     "n": 413
+    },
+    {
+     "code": "sa.bayt",
+     "service": "Bayt.com",
+     "kind": "portal",
+     "n": 400
+    },
+    {
+     "code": "sa.sabbar",
+     "service": "Sabbar",
+     "kind": "portal",
+     "n": 396
+    },
+    {
+     "code": "sa.naukrigulf",
+     "service": "Naukrigulf",
+     "kind": "portal",
+     "n": 382
+    },
+    {
+     "code": "jooble.sa",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 367
+    },
+    {
+     "code": "sa.mejobs",
+     "service": "ME-Jobs",
+     "kind": "portal",
+     "n": 122
+    },
+    {
+     "code": "workable.sa",
+     "service": "Workable",
+     "kind": "aggregator",
+     "n": 99
+    },
+    {
+     "code": "sa.gulftalent",
+     "service": "GulfTalent",
+     "kind": "portal",
+     "n": 52
+    },
+    {
+     "code": "sa.arabjobs",
+     "service": "ArabJobs",
+     "kind": "portal",
+     "n": 17
+    },
+    {
+     "code": "smartrecruiters.sa",
+     "service": "SmartRecruiters",
+     "kind": "aggregator",
+     "n": 10
+    },
+    {
+     "code": "workday.sa",
+     "service": "Workday",
+     "kind": "aggregator",
+     "n": 6
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Riyadh",
+     "n": 873,
+     "share": 0.321
+    },
+    {
+     "name": "Saudi Arabia",
+     "n": 427,
+     "share": 0.157
+    },
+    {
+     "name": "الرياض",
+     "n": 228,
+     "share": 0.084
+    },
+    {
+     "name": "Jeddah",
+     "n": 142,
+     "share": 0.052
+    },
+    {
+     "name": "Dammam",
+     "n": 96,
+     "share": 0.035
+    },
+    {
+     "name": "Other - Saudi Arabia, Saudi Arabia",
+     "n": 69,
+     "share": 0.025
+    },
+    {
+     "name": "الدمام",
+     "n": 45,
+     "share": 0.017
+    },
+    {
+     "name": "جدة",
+     "n": 38,
+     "share": 0.014
+    },
+    {
+     "name": "Jubail",
+     "n": 37,
+     "share": 0.014
+    },
+    {
+     "name": "Khobar",
+     "n": 36,
+     "share": 0.013
+    },
+    {
+     "name": "Eastern Province",
+     "n": 30,
+     "share": 0.011
+    },
+    {
+     "name": "Makkah",
+     "n": 30,
+     "share": 0.011
+    },
+    {
+     "name": "Al Khobar",
+     "n": 18,
+     "share": 0.007
+    },
+    {
+     "name": "Yanbu",
+     "n": 16,
+     "share": 0.006
+    },
+    {
+     "name": "Al Jubail",
+     "n": 14,
+     "share": 0.005
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-04",
+   "partial": false,
+   "postings_new": 5027,
+   "postings_raw": 5307,
+   "postings_active_end": 710,
+   "postings_closed": 1022,
+   "index": null,
+   "mom_pct": 95.2,
+   "yoy_pct": 247.4,
+   "salary": {
+    "median": 5000,
+    "p25": 5000,
+    "p75": 5000,
+    "mean": 4825,
+    "n": 642,
+    "share": 0.125,
+    "currency": "SAR"
+   },
+   "remote_share": 0.013,
+   "employment": {
+    "full_time": 0.643,
+    "part_time": 0.008,
+    "contract": 0.009,
+    "other": 0.001,
+    "unknown": 0.339
+   },
+   "by_source": [
+    {
+     "code": "sa.foundit",
+     "service": "Foundit Gulf",
+     "kind": "portal",
+     "n": 1185
+    },
+    {
+     "code": "indeed.sa",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 1075
+    },
+    {
+     "code": "sa.bayt",
+     "service": "Bayt.com",
+     "kind": "portal",
+     "n": 849
+    },
+    {
+     "code": "sa.sabbar",
+     "service": "Sabbar",
+     "kind": "portal",
+     "n": 648
+    },
+    {
+     "code": "sa.naukrigulf",
+     "service": "Naukrigulf",
+     "kind": "portal",
+     "n": 624
+    },
+    {
+     "code": "jooble.sa",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 431
+    },
+    {
+     "code": "workable.sa",
+     "service": "Workable",
+     "kind": "aggregator",
+     "n": 240
+    },
+    {
+     "code": "sa.mejobs",
+     "service": "ME-Jobs",
+     "kind": "portal",
+     "n": 109
+    },
+    {
+     "code": "sa.arabjobs",
+     "service": "ArabJobs",
+     "kind": "portal",
+     "n": 55
+    },
+    {
+     "code": "sa.gulftalent",
+     "service": "GulfTalent",
+     "kind": "portal",
+     "n": 41
+    },
+    {
+     "code": "workday.sa",
+     "service": "Workday",
+     "kind": "aggregator",
+     "n": 31
+    },
+    {
+     "code": "smartrecruiters.sa",
+     "service": "SmartRecruiters",
+     "kind": "aggregator",
+     "n": 19
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Riyadh",
+     "n": 1688,
+     "share": 0.318
+    },
+    {
+     "name": "Saudi Arabia",
+     "n": 746,
+     "share": 0.141
+    },
+    {
+     "name": "الرياض",
+     "n": 498,
+     "share": 0.094
+    },
+    {
+     "name": "Jeddah",
+     "n": 282,
+     "share": 0.053
+    },
+    {
+     "name": "Dammam",
+     "n": 180,
+     "share": 0.034
+    },
+    {
+     "name": "Eastern Province",
+     "n": 96,
+     "share": 0.018
+    },
+    {
+     "name": "الجبيل",
+     "n": 92,
+     "share": 0.017
+    },
+    {
+     "name": "Makkah",
+     "n": 86,
+     "share": 0.016
+    },
+    {
+     "name": "جدة",
+     "n": 79,
+     "share": 0.015
+    },
+    {
+     "name": "الدمام",
+     "n": 72,
+     "share": 0.014
+    },
+    {
+     "name": "Jubail",
+     "n": 70,
+     "share": 0.013
+    },
+    {
+     "name": "Al Jubail",
+     "n": 64,
+     "share": 0.012
+    },
+    {
+     "name": "Khobar",
+     "n": 57,
+     "share": 0.011
+    },
+    {
+     "name": "Dhahran",
+     "n": 34,
+     "share": 0.006
+    },
+    {
+     "name": "الخبر",
+     "n": 31,
+     "share": 0.006
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-05",
+   "partial": false,
+   "postings_new": 8100,
+   "postings_raw": 8639,
+   "postings_active_end": 746,
+   "postings_closed": 711,
+   "index": null,
+   "mom_pct": 61.1,
+   "yoy_pct": 514.6,
+   "salary": {
+    "median": 5000,
+    "p25": 5000,
+    "p75": 5000,
+    "mean": 6543,
+    "n": 326,
+    "share": 0.04,
+    "currency": "SAR"
+   },
+   "remote_share": 0.004,
+   "employment": {
+    "full_time": 0.594,
+    "part_time": 0.003,
+    "contract": 0.009,
+    "other": 0.001,
+    "unknown": 0.393
+   },
+   "by_source": [
+    {
+     "code": "sa.gulftalent",
+     "service": "GulfTalent",
+     "kind": "portal",
+     "n": 1745
+    },
+    {
+     "code": "jooble.sa",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 1723
+    },
+    {
+     "code": "sa.foundit",
+     "service": "Foundit Gulf",
+     "kind": "portal",
+     "n": 1522
+    },
+    {
+     "code": "indeed.sa",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 1132
+    },
+    {
+     "code": "sa.naukrigulf",
+     "service": "Naukrigulf",
+     "kind": "portal",
+     "n": 913
+    },
+    {
+     "code": "sa.bayt",
+     "service": "Bayt.com",
+     "kind": "portal",
+     "n": 747
+    },
+    {
+     "code": "sa.sabbar",
+     "service": "Sabbar",
+     "kind": "portal",
+     "n": 259
+    },
+    {
+     "code": "careerjet.sa",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 242
+    },
+    {
+     "code": "workable.sa",
+     "service": "Workable",
+     "kind": "aggregator",
+     "n": 195
+    },
+    {
+     "code": "sa.mejobs",
+     "service": "ME-Jobs",
+     "kind": "portal",
+     "n": 101
+    },
+    {
+     "code": "workday.sa",
+     "service": "Workday",
+     "kind": "aggregator",
+     "n": 32
+    },
+    {
+     "code": "smartrecruiters.sa",
+     "service": "SmartRecruiters",
+     "kind": "aggregator",
+     "n": 21
+    },
+    {
+     "code": "sa.arabjobs",
+     "service": "ArabJobs",
+     "kind": "portal",
+     "n": 7
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Riyadh",
+     "n": 3690,
+     "share": 0.427
+    },
+    {
+     "name": "Saudi Arabia",
+     "n": 979,
+     "share": 0.113
+    },
+    {
+     "name": "الرياض",
+     "n": 647,
+     "share": 0.075
+    },
+    {
+     "name": "Jeddah",
+     "n": 629,
+     "share": 0.073
+    },
+    {
+     "name": "Dammam",
+     "n": 331,
+     "share": 0.038
+    },
+    {
+     "name": "Khobar",
+     "n": 185,
+     "share": 0.021
+    },
+    {
+     "name": "Mecca",
+     "n": 154,
+     "share": 0.018
+    },
+    {
+     "name": "Jubail",
+     "n": 145,
+     "share": 0.017
+    },
+    {
+     "name": "جدة",
+     "n": 109,
+     "share": 0.013
+    },
+    {
+     "name": "الدمام",
+     "n": 88,
+     "share": 0.01
+    },
+    {
+     "name": "Gharb Al Dhahran - Dhahran",
+     "n": 82,
+     "share": 0.009
+    },
+    {
+     "name": "Dhahran",
+     "n": 68,
+     "share": 0.008
+    },
+    {
+     "name": "Eastern Province",
+     "n": 60,
+     "share": 0.007
+    },
+    {
+     "name": "الخبر",
+     "n": 50,
+     "share": 0.006
+    },
+    {
+     "name": "Tabuk",
+     "n": 43,
+     "share": 0.005
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-06",
+   "partial": false,
+   "postings_new": 15706,
+   "postings_raw": 17219,
+   "postings_active_end": 755,
+   "postings_closed": 101,
+   "index": null,
+   "mom_pct": 93.9,
+   "yoy_pct": 794.4,
+   "salary": {
+    "median": 5400,
+    "p25": 4000,
+    "p75": 9000,
+    "mean": 9336,
+    "n": 310,
+    "share": 0.032,
+    "currency": "SAR"
+   },
+   "remote_share": 0.006,
+   "employment": {
+    "full_time": 0.48,
+    "part_time": 0.001,
+    "contract": 0.009,
+    "other": 0.001,
+    "unknown": 0.509
+   },
+   "by_source": [
+    {
+     "code": "careerjet.sa",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 3159
+    },
+    {
+     "code": "jooble.sa",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 2928
+    },
+    {
+     "code": "indeed.sa",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 2541
+    },
+    {
+     "code": "sa.naukrigulf",
+     "service": "Naukrigulf",
+     "kind": "portal",
+     "n": 2130
+    },
+    {
+     "code": "sa.foundit",
+     "service": "Foundit Gulf",
+     "kind": "portal",
+     "n": 2055
+    },
+    {
+     "code": "sa.gulftalent",
+     "service": "GulfTalent",
+     "kind": "portal",
+     "n": 2007
+    },
+    {
+     "code": "sa.bayt",
+     "service": "Bayt.com",
+     "kind": "portal",
+     "n": 1734
+    },
+    {
+     "code": "workable.sa",
+     "service": "Workable",
+     "kind": "aggregator",
+     "n": 342
+    },
+    {
+     "code": "sa.mejobs",
+     "service": "ME-Jobs",
+     "kind": "portal",
+     "n": 113
+    },
+    {
+     "code": "smartrecruiters.sa",
+     "service": "SmartRecruiters",
+     "kind": "aggregator",
+     "n": 91
+    },
+    {
+     "code": "workday.sa",
+     "service": "Workday",
+     "kind": "aggregator",
+     "n": 88
+    },
+    {
+     "code": "sa.arabjobs",
+     "service": "ArabJobs",
+     "kind": "portal",
+     "n": 18
+    },
+    {
+     "code": "sa.sabbar",
+     "service": "Sabbar",
+     "kind": "portal",
+     "n": 13
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Riyadh",
+     "n": 5425,
+     "share": 0.315
+    },
+    {
+     "name": "Saudi Arabia",
+     "n": 1290,
+     "share": 0.075
+    },
+    {
+     "name": "الرياض",
+     "n": 1230,
+     "share": 0.071
+    },
+    {
+     "name": "Jeddah",
+     "n": 1122,
+     "share": 0.065
+    },
+    {
+     "name": "Dammam",
+     "n": 686,
+     "share": 0.04
+    },
+    {
+     "name": "Khobar",
+     "n": 373,
+     "share": 0.022
+    },
+    {
+     "name": "Makkah",
+     "n": 341,
+     "share": 0.02
+    },
+    {
+     "name": "Tabuk",
+     "n": 328,
+     "share": 0.019
+    },
+    {
+     "name": "Al Madinah",
+     "n": 288,
+     "share": 0.017
+    },
+    {
+     "name": "Mecca",
+     "n": 272,
+     "share": 0.016
+    },
+    {
+     "name": "Asir",
+     "n": 224,
+     "share": 0.013
+    },
+    {
+     "name": "Eastern Province",
+     "n": 220,
+     "share": 0.013
+    },
+    {
+     "name": "Jubail",
+     "n": 218,
+     "share": 0.013
+    },
+    {
+     "name": "جدة",
+     "n": 217,
+     "share": 0.013
+    },
+    {
+     "name": "المدينة",
+     "n": 215,
+     "share": 0.012
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "business development manager",
+     "n": 54
+    },
+    {
+     "title": "project manager",
+     "n": 49
+    },
+    {
+     "title": "sales manager",
+     "n": 47
+    },
+    {
+     "title": "sales executive",
+     "n": 42
+    },
+    {
+     "title": "executive chef",
+     "n": 38
+    },
+    {
+     "title": "sales representative",
+     "n": 37
+    },
+    {
+     "title": "graphic designer",
+     "n": 34
+    },
+    {
+     "title": "finance manager",
+     "n": 33
+    },
+    {
+     "title": "accountant",
+     "n": 32
+    },
+    {
+     "title": "chef de partie",
+     "n": 30
+    },
+    {
+     "title": "electrical technician",
+     "n": 28
+    },
+    {
+     "title": "bartender",
+     "n": 27
+    },
+    {
+     "title": "executive assistant",
+     "n": 27
+    },
+    {
+     "title": "mechanical engineer",
+     "n": 26
+    },
+    {
+     "title": "electrical engineer",
+     "n": 25
+    }
+   ],
+   "regions": []
+  },
+  {
+   "period": "2026-07",
+   "partial": false,
+   "postings_new": 36387,
+   "postings_raw": 40026,
+   "postings_active_end": 24230,
+   "postings_closed": null,
+   "index": null,
+   "mom_pct": 131.7,
+   "yoy_pct": 1308.2,
+   "salary": {
+    "median": 6000,
+    "p25": 4500,
+    "p75": 13500,
+    "mean": 10442,
+    "n": 516,
+    "share": 0.027,
+    "currency": "SAR"
+   },
+   "remote_share": 0.004,
+   "employment": {
+    "full_time": 0.299,
+    "part_time": 0.001,
+    "contract": 0.008,
+    "other": 0.001,
+    "unknown": 0.691
+   },
+   "by_source": [
+    {
+     "code": "jooble.sa",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 17890
+    },
+    {
+     "code": "careerjet.sa",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 5595
+    },
+    {
+     "code": "indeed.sa",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 3895
+    },
+    {
+     "code": "sa.naukrigulf",
+     "service": "Naukrigulf",
+     "kind": "portal",
+     "n": 3474
+    },
+    {
+     "code": "sa.bayt",
+     "service": "Bayt.com",
+     "kind": "portal",
+     "n": 3438
+    },
+    {
+     "code": "sa.foundit",
+     "service": "Foundit Gulf",
+     "kind": "portal",
+     "n": 2746
+    },
+    {
+     "code": "sa.gulftalent",
+     "service": "GulfTalent",
+     "kind": "portal",
+     "n": 2165
+    },
+    {
+     "code": "workable.sa",
+     "service": "Workable",
+     "kind": "aggregator",
+     "n": 448
+    },
+    {
+     "code": "workday.sa",
+     "service": "Workday",
+     "kind": "aggregator",
+     "n": 134
+    },
+    {
+     "code": "smartrecruiters.sa",
+     "service": "SmartRecruiters",
+     "kind": "aggregator",
+     "n": 130
+    },
+    {
+     "code": "sa.mejobs",
+     "service": "ME-Jobs",
+     "kind": "portal",
+     "n": 97
+    },
+    {
+     "code": "sa.arabjobs",
+     "service": "ArabJobs",
+     "kind": "portal",
+     "n": 9
+    },
+    {
+     "code": "sa.mihnati",
+     "service": "Mihnati",
+     "kind": "portal",
+     "n": 5
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Riyadh",
+     "n": 15216,
+     "share": 0.38
+    },
+    {
+     "name": "Jeddah",
+     "n": 3377,
+     "share": 0.084
+    },
+    {
+     "name": "Saudi Arabia",
+     "n": 3319,
+     "share": 0.083
+    },
+    {
+     "name": "Dammam",
+     "n": 2186,
+     "share": 0.055
+    },
+    {
+     "name": "الرياض",
+     "n": 2138,
+     "share": 0.053
+    },
+    {
+     "name": "Khobar",
+     "n": 1206,
+     "share": 0.03
+    },
+    {
+     "name": "Mecca",
+     "n": 714,
+     "share": 0.018
+    },
+    {
+     "name": "Eastern Province",
+     "n": 604,
+     "share": 0.015
+    },
+    {
+     "name": "Jubail",
+     "n": 581,
+     "share": 0.015
+    },
+    {
+     "name": "Al Dhahran",
+     "n": 458,
+     "share": 0.011
+    },
+    {
+     "name": "Medina",
+     "n": 447,
+     "share": 0.011
+    },
+    {
+     "name": "Makkah",
+     "n": 414,
+     "share": 0.01
+    },
+    {
+     "name": "جدة",
+     "n": 400,
+     "share": 0.01
+    },
+    {
+     "name": "Al Madinah",
+     "n": 349,
+     "share": 0.009
+    },
+    {
+     "name": "Tabuk",
+     "n": 310,
+     "share": 0.008
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "sales representative",
+     "n": 222
+    },
+    {
+     "title": "sales manager",
+     "n": 108
+    },
+    {
+     "title": "project manager",
+     "n": 107
+    },
+    {
+     "title": "sales executive",
+     "n": 74
+    },
+    {
+     "title": "accountant",
+     "n": 70
+    },
+    {
+     "title": "chef de partie",
+     "n": 67
+    },
+    {
+     "title": "demi chef de partie",
+     "n": 61
+    },
+    {
+     "title": "civil engineer",
+     "n": 60
+    },
+    {
+     "title": "mechanical engineer",
+     "n": 60
+    },
+    {
+     "title": "electrical engineer",
+     "n": 59
+    },
+    {
+     "title": "guest experience expert",
+     "n": 48
+    },
+    {
+     "title": "document controller",
+     "n": 46
+    },
+    {
+     "title": "full time",
+     "n": 43
+    },
+    {
+     "title": "construction manager",
+     "n": 42
+    },
+    {
+     "title": "cook i",
+     "n": 42
+    }
+   ],
+   "regions": []
+  },
+  {
+   "period": "2026-08",
+   "partial": false,
+   "postings_new": 86759,
+   "postings_raw": 106108,
+   "postings_active_end": 152830,
+   "postings_closed": 46160,
+   "index": null,
+   "mom_pct": 138.4,
+   "yoy_pct": 2986.4,
+   "salary": {
+    "median": 5000,
+    "p25": 4000,
+    "p75": 7000,
+    "mean": 6582,
+    "n": 4183,
+    "share": 0.164,
+    "currency": "SAR"
+   },
+   "remote_share": 0.014,
+   "employment": {
+    "full_time": 0.4,
+    "part_time": 0.007,
+    "contract": 0.012,
+    "other": 0.004,
+    "unknown": 0.579
+   },
+   "by_source": [
+    {
+     "code": "tanqeeb.sa",
+     "service": "Tanqeeb",
+     "kind": "aggregator",
+     "n": 41682
+    },
+    {
+     "code": "careerjet.sa",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 19767
+    },
+    {
+     "code": "jooble.sa",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 10163
+    },
+    {
+     "code": "sa.sabbar",
+     "service": "Sabbar",
+     "kind": "portal",
+     "n": 9503
+    },
+    {
+     "code": "sa.foundit",
+     "service": "Foundit Gulf",
+     "kind": "portal",
+     "n": 8043
+    },
+    {
+     "code": "indeed.sa",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 5400
+    },
+    {
+     "code": "sa.bayt",
+     "service": "Bayt.com",
+     "kind": "portal",
+     "n": 4477
+    },
+    {
+     "code": "sa.naukrigulf",
+     "service": "Naukrigulf",
+     "kind": "portal",
+     "n": 3737
+    },
+    {
+     "code": "sa.gulftalent",
+     "service": "GulfTalent",
+     "kind": "portal",
+     "n": 2112
+    },
+    {
+     "code": "workable.sa",
+     "service": "Workable",
+     "kind": "aggregator",
+     "n": 572
+    },
+    {
+     "code": "workday.sa",
+     "service": "Workday",
+     "kind": "aggregator",
+     "n": 353
+    },
+    {
+     "code": "smartrecruiters.sa",
+     "service": "SmartRecruiters",
+     "kind": "aggregator",
+     "n": 189
+    },
+    {
+     "code": "sa.mejobs",
+     "service": "ME-Jobs",
+     "kind": "portal",
+     "n": 81
+    },
+    {
+     "code": "sa.arabjobs",
+     "service": "ArabJobs",
+     "kind": "portal",
+     "n": 16
+    },
+    {
+     "code": "sa.mihnati",
+     "service": "Mihnati",
+     "kind": "portal",
+     "n": 13
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Riyadh",
+     "n": 32157,
+     "share": 0.303
+    },
+    {
+     "name": "Jeddah",
+     "n": 17272,
+     "share": 0.163
+    },
+    {
+     "name": "Saudi Arabia",
+     "n": 7640,
+     "share": 0.072
+    },
+    {
+     "name": "Dubai",
+     "n": 7487,
+     "share": 0.071
+    },
+    {
+     "name": "Saudi",
+     "n": 6784,
+     "share": 0.064
+    },
+    {
+     "name": "Huntsville",
+     "n": 3859,
+     "share": 0.036
+    },
+    {
+     "name": "الرياض",
+     "n": 2966,
+     "share": 0.028
+    },
+    {
+     "name": "Eastern Province",
+     "n": 2503,
+     "share": 0.024
+    },
+    {
+     "name": "Dammam",
+     "n": 2247,
+     "share": 0.021
+    },
+    {
+     "name": "Makkah",
+     "n": 2090,
+     "share": 0.02
+    },
+    {
+     "name": "Al Damam",
+     "n": 1284,
+     "share": 0.012
+    },
+    {
+     "name": "Khobar",
+     "n": 1020,
+     "share": 0.01
+    },
+    {
+     "name": "Eastern",
+     "n": 935,
+     "share": 0.009
+    },
+    {
+     "name": "Jubail",
+     "n": 781,
+     "share": 0.007
+    },
+    {
+     "name": "Dhahran",
+     "n": 732,
+     "share": 0.007
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "sales representative",
+     "n": 602
+    },
+    {
+     "title": "project manager",
+     "n": 446
+    },
+    {
+     "title": "sales specialist",
+     "n": 428
+    },
+    {
+     "title": "sales manager",
+     "n": 401
+    },
+    {
+     "title": "accountant",
+     "n": 384
+    },
+    {
+     "title": "receptionist",
+     "n": 372
+    },
+    {
+     "title": "sales executive",
+     "n": 353
+    },
+    {
+     "title": "electrical engineer",
+     "n": 333
+    },
+    {
+     "title": "marketing specialist",
+     "n": 331
+    },
+    {
+     "title": "business development manager",
+     "n": 310
+    },
+    {
+     "title": "mechanical engineer",
+     "n": 295
+    },
+    {
+     "title": "civil engineer",
+     "n": 260
+    },
+    {
+     "title": "administrative assistant",
+     "n": 255
+    },
+    {
+     "title": "محاسب",
+     "n": 253
+    },
+    {
+     "title": "graphic designer",
+     "n": 237
+    }
+   ],
+   "regions": []
+  }
+ ],
+ "quarterly": [
+  {
+   "period": "2025-Q2",
+   "partial": false,
+   "postings_new": 4521,
+   "postings_raw": 4672,
+   "qoq_pct": null,
+   "yoy_pct": null,
+   "salary": {
+    "median": 9504,
+    "p25": 5050,
+    "p75": 23369,
+    "mean": 16836,
+    "n": 356,
+    "share": 0.088,
+    "currency": "SAR"
+   },
+   "remote_share": 0.002,
+   "employment": {
+    "full_time": 0.776,
+    "part_time": 0.004,
+    "contract": 0.008,
+    "other": 0.003,
+    "unknown": 0.208
+   },
+   "by_source": [
+    {
+     "code": "sa.gulftalent",
+     "service": "GulfTalent",
+     "kind": "portal",
+     "n": 2748
+    },
+    {
+     "code": "sa.mejobs",
+     "service": "ME-Jobs",
+     "kind": "portal",
+     "n": 619
+    },
+    {
+     "code": "jooble.sa",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 349
+    },
+    {
+     "code": "sa.sabbar",
+     "service": "Sabbar",
+     "kind": "portal",
+     "n": 166
+    },
+    {
+     "code": "indeed.sa",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 162
+    },
+    {
+     "code": "sa.mihnati",
+     "service": "Mihnati",
+     "kind": "portal",
+     "n": 145
+    },
+    {
+     "code": "sa.bayt",
+     "service": "Bayt.com",
+     "kind": "portal",
+     "n": 144
+    },
+    {
+     "code": "smartrecruiters.sa",
+     "service": "SmartRecruiters",
+     "kind": "aggregator",
+     "n": 139
+    },
+    {
+     "code": "sa.foundit",
+     "service": "Foundit Gulf",
+     "kind": "portal",
+     "n": 79
+    },
+    {
+     "code": "sa.arabjobs",
+     "service": "ArabJobs",
+     "kind": "portal",
+     "n": 48
+    },
+    {
+     "code": "workable.sa",
+     "service": "Workable",
+     "kind": "aggregator",
+     "n": 37
+    },
+    {
+     "code": "sa.naukrigulf",
+     "service": "Naukrigulf",
+     "kind": "portal",
+     "n": 34
+    },
+    {
+     "code": "workday.sa",
+     "service": "Workday",
+     "kind": "aggregator",
+     "n": 2
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Riyadh",
+     "n": 1763,
+     "share": 0.377
+    },
+    {
+     "name": "Saudi Arabia",
+     "n": 941,
+     "share": 0.201
+    },
+    {
+     "name": "Jeddah",
+     "n": 313,
+     "share": 0.067
+    },
+    {
+     "name": "Khobar",
+     "n": 261,
+     "share": 0.056
+    },
+    {
+     "name": "Dammam",
+     "n": 190,
+     "share": 0.041
+    },
+    {
+     "name": "Jubail",
+     "n": 170,
+     "share": 0.036
+    },
+    {
+     "name": "الرياض",
+     "n": 127,
+     "share": 0.027
+    },
+    {
+     "name": "Gharb Al Dhahran - Dhahran",
+     "n": 116,
+     "share": 0.025
+    },
+    {
+     "name": "Riyadh, Saudi Arabia",
+     "n": 106,
+     "share": 0.023
+    },
+    {
+     "name": "Al Jubail",
+     "n": 34,
+     "share": 0.007
+    },
+    {
+     "name": "Mecca",
+     "n": 34,
+     "share": 0.007
+    },
+    {
+     "name": "Yanbu",
+     "n": 24,
+     "share": 0.005
+    },
+    {
+     "name": "الخبر",
+     "n": 21,
+     "share": 0.004
+    },
+    {
+     "name": "Al Khobar",
+     "n": 18,
+     "share": 0.004
+    },
+    {
+     "name": "جدة",
+     "n": 14,
+     "share": 0.003
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2025-Q3",
+   "partial": false,
+   "postings_new": 8518,
+   "postings_raw": 9067,
+   "qoq_pct": 88.4,
+   "yoy_pct": null,
+   "salary": {
+    "median": 5000,
+    "p25": 4443,
+    "p75": 5000,
+    "mean": 4927,
+    "n": 3854,
+    "share": 0.441,
+    "currency": "SAR"
+   },
+   "remote_share": 0.003,
+   "employment": {
+    "full_time": 0.853,
+    "part_time": 0.027,
+    "contract": 0.004,
+    "other": 0.003,
+    "unknown": 0.113
+   },
+   "by_source": [
+    {
+     "code": "sa.sabbar",
+     "service": "Sabbar",
+     "kind": "portal",
+     "n": 3808
+    },
+    {
+     "code": "sa.gulftalent",
+     "service": "GulfTalent",
+     "kind": "portal",
+     "n": 3062
+    },
+    {
+     "code": "sa.mejobs",
+     "service": "ME-Jobs",
+     "kind": "portal",
+     "n": 581
+    },
+    {
+     "code": "jooble.sa",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 519
+    },
+    {
+     "code": "sa.bayt",
+     "service": "Bayt.com",
+     "kind": "portal",
+     "n": 392
+    },
+    {
+     "code": "indeed.sa",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 268
+    },
+    {
+     "code": "sa.mihnati",
+     "service": "Mihnati",
+     "kind": "portal",
+     "n": 134
+    },
+    {
+     "code": "workable.sa",
+     "service": "Workable",
+     "kind": "aggregator",
+     "n": 110
+    },
+    {
+     "code": "sa.foundit",
+     "service": "Foundit Gulf",
+     "kind": "portal",
+     "n": 80
+    },
+    {
+     "code": "sa.arabjobs",
+     "service": "ArabJobs",
+     "kind": "portal",
+     "n": 60
+    },
+    {
+     "code": "sa.naukrigulf",
+     "service": "Naukrigulf",
+     "kind": "portal",
+     "n": 31
+    },
+    {
+     "code": "smartrecruiters.sa",
+     "service": "SmartRecruiters",
+     "kind": "aggregator",
+     "n": 17
+    },
+    {
+     "code": "workday.sa",
+     "service": "Workday",
+     "kind": "aggregator",
+     "n": 5
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Riyadh",
+     "n": 3101,
+     "share": 0.342
+    },
+    {
+     "name": "Saudi Arabia",
+     "n": 1316,
+     "share": 0.145
+    },
+    {
+     "name": "Jeddah",
+     "n": 789,
+     "share": 0.087
+    },
+    {
+     "name": "Dammam",
+     "n": 504,
+     "share": 0.056
+    },
+    {
+     "name": "Makkah",
+     "n": 304,
+     "share": 0.034
+    },
+    {
+     "name": "Al Khobar",
+     "n": 265,
+     "share": 0.029
+    },
+    {
+     "name": "Khobar",
+     "n": 225,
+     "share": 0.025
+    },
+    {
+     "name": "الرياض",
+     "n": 134,
+     "share": 0.015
+    },
+    {
+     "name": "Madinah",
+     "n": 132,
+     "share": 0.015
+    },
+    {
+     "name": "Riyadh, Saudi Arabia",
+     "n": 130,
+     "share": 0.014
+    },
+    {
+     "name": "Tabuk",
+     "n": 105,
+     "share": 0.012
+    },
+    {
+     "name": "Al Olaya",
+     "n": 66,
+     "share": 0.007
+    },
+    {
+     "name": "Al Jubail",
+     "n": 62,
+     "share": 0.007
+    },
+    {
+     "name": "Dhahran",
+     "n": 38,
+     "share": 0.004
+    },
+    {
+     "name": "Buraydah",
+     "n": 25,
+     "share": 0.003
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2025-Q4",
+   "partial": false,
+   "postings_new": 9081,
+   "postings_raw": 9506,
+   "qoq_pct": 6.6,
+   "yoy_pct": null,
+   "salary": {
+    "median": 5000,
+    "p25": 5000,
+    "p75": 5000,
+    "mean": 5010,
+    "n": 4103,
+    "share": 0.45,
+    "currency": "SAR"
+   },
+   "remote_share": 0.009,
+   "employment": {
+    "full_time": 0.819,
+    "part_time": 0.029,
+    "contract": 0.005,
+    "other": 0.001,
+    "unknown": 0.146
+   },
+   "by_source": [
+    {
+     "code": "sa.sabbar",
+     "service": "Sabbar",
+     "kind": "portal",
+     "n": 4112
+    },
+    {
+     "code": "sa.gulftalent",
+     "service": "GulfTalent",
+     "kind": "portal",
+     "n": 1873
+    },
+    {
+     "code": "sa.bayt",
+     "service": "Bayt.com",
+     "kind": "portal",
+     "n": 923
+    },
+    {
+     "code": "sa.foundit",
+     "service": "Foundit Gulf",
+     "kind": "portal",
+     "n": 746
+    },
+    {
+     "code": "indeed.sa",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 574
+    },
+    {
+     "code": "workable.sa",
+     "service": "Workable",
+     "kind": "aggregator",
+     "n": 470
+    },
+    {
+     "code": "sa.mejobs",
+     "service": "ME-Jobs",
+     "kind": "portal",
+     "n": 416
+    },
+    {
+     "code": "jooble.sa",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 119
+    },
+    {
+     "code": "sa.mihnati",
+     "service": "Mihnati",
+     "kind": "portal",
+     "n": 87
+    },
+    {
+     "code": "sa.naukrigulf",
+     "service": "Naukrigulf",
+     "kind": "portal",
+     "n": 80
+    },
+    {
+     "code": "sa.arabjobs",
+     "service": "ArabJobs",
+     "kind": "portal",
+     "n": 62
+    },
+    {
+     "code": "workday.sa",
+     "service": "Workday",
+     "kind": "aggregator",
+     "n": 38
+    },
+    {
+     "code": "smartrecruiters.sa",
+     "service": "SmartRecruiters",
+     "kind": "aggregator",
+     "n": 6
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Riyadh",
+     "n": 2855,
+     "share": 0.3
+    },
+    {
+     "name": "Saudi Arabia",
+     "n": 1115,
+     "share": 0.117
+    },
+    {
+     "name": "Jeddah",
+     "n": 878,
+     "share": 0.092
+    },
+    {
+     "name": "Dammam",
+     "n": 498,
+     "share": 0.052
+    },
+    {
+     "name": "Makkah",
+     "n": 383,
+     "share": 0.04
+    },
+    {
+     "name": "Al Khobar",
+     "n": 266,
+     "share": 0.028
+    },
+    {
+     "name": "الرياض",
+     "n": 254,
+     "share": 0.027
+    },
+    {
+     "name": "Madinah",
+     "n": 120,
+     "share": 0.013
+    },
+    {
+     "name": "Khobar",
+     "n": 119,
+     "share": 0.013
+    },
+    {
+     "name": "Al Jubail",
+     "n": 115,
+     "share": 0.012
+    },
+    {
+     "name": "Dhahran",
+     "n": 95,
+     "share": 0.01
+    },
+    {
+     "name": "Riyadh, Saudi Arabia",
+     "n": 86,
+     "share": 0.009
+    },
+    {
+     "name": "جدة",
+     "n": 77,
+     "share": 0.008
+    },
+    {
+     "name": "Tabuk",
+     "n": 58,
+     "share": 0.006
+    },
+    {
+     "name": "Yanbu",
+     "n": 43,
+     "share": 0.005
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-Q1",
+   "partial": false,
+   "postings_new": 10546,
+   "postings_raw": 11086,
+   "qoq_pct": 16.1,
+   "yoy_pct": null,
+   "salary": {
+    "median": 5000,
+    "p25": 5000,
+    "p75": 5000,
+    "mean": 5077,
+    "n": 1923,
+    "share": 0.203,
+    "currency": "SAR"
+   },
+   "remote_share": 0.008,
+   "employment": {
+    "full_time": 0.681,
+    "part_time": 0.013,
+    "contract": 0.007,
+    "other": 0.0,
+    "unknown": 0.297
+   },
+   "by_source": [
+    {
+     "code": "sa.foundit",
+     "service": "Foundit Gulf",
+     "kind": "portal",
+     "n": 3565
+    },
+    {
+     "code": "sa.sabbar",
+     "service": "Sabbar",
+     "kind": "portal",
+     "n": 1903
+    },
+    {
+     "code": "sa.bayt",
+     "service": "Bayt.com",
+     "kind": "portal",
+     "n": 1370
+    },
+    {
+     "code": "indeed.sa",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 1262
+    },
+    {
+     "code": "jooble.sa",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 802
+    },
+    {
+     "code": "sa.naukrigulf",
+     "service": "Naukrigulf",
+     "kind": "portal",
+     "n": 715
+    },
+    {
+     "code": "sa.gulftalent",
+     "service": "GulfTalent",
+     "kind": "portal",
+     "n": 502
+    },
+    {
+     "code": "workable.sa",
+     "service": "Workable",
+     "kind": "aggregator",
+     "n": 480
+    },
+    {
+     "code": "sa.mejobs",
+     "service": "ME-Jobs",
+     "kind": "portal",
+     "n": 380
+    },
+    {
+     "code": "sa.arabjobs",
+     "service": "ArabJobs",
+     "kind": "portal",
+     "n": 42
+    },
+    {
+     "code": "smartrecruiters.sa",
+     "service": "SmartRecruiters",
+     "kind": "aggregator",
+     "n": 39
+    },
+    {
+     "code": "workday.sa",
+     "service": "Workday",
+     "kind": "aggregator",
+     "n": 25
+    },
+    {
+     "code": "sa.mihnati",
+     "service": "Mihnati",
+     "kind": "portal",
+     "n": 1
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Riyadh",
+     "n": 4131,
+     "share": 0.373
+    },
+    {
+     "name": "Saudi Arabia",
+     "n": 1621,
+     "share": 0.146
+    },
+    {
+     "name": "Jeddah",
+     "n": 689,
+     "share": 0.062
+    },
+    {
+     "name": "الرياض",
+     "n": 569,
+     "share": 0.051
+    },
+    {
+     "name": "Dammam",
+     "n": 480,
+     "share": 0.043
+    },
+    {
+     "name": "Makkah",
+     "n": 159,
+     "share": 0.014
+    },
+    {
+     "name": "Khobar",
+     "n": 152,
+     "share": 0.014
+    },
+    {
+     "name": "Jubail",
+     "n": 140,
+     "share": 0.013
+    },
+    {
+     "name": "Al Khobar",
+     "n": 129,
+     "share": 0.012
+    },
+    {
+     "name": "Mecca",
+     "n": 105,
+     "share": 0.009
+    },
+    {
+     "name": "جدة",
+     "n": 104,
+     "share": 0.009
+    },
+    {
+     "name": "Dhahran",
+     "n": 75,
+     "share": 0.007
+    },
+    {
+     "name": "Eastern Province",
+     "n": 70,
+     "share": 0.006
+    },
+    {
+     "name": "Other - Saudi Arabia, Saudi Arabia",
+     "n": 69,
+     "share": 0.006
+    },
+    {
+     "name": "الدمام",
+     "n": 45,
+     "share": 0.004
+    }
+   ],
+   "top_titles": [],
+   "regions": []
+  },
+  {
+   "period": "2026-Q2",
+   "partial": false,
+   "postings_new": 28833,
+   "postings_raw": 31165,
+   "qoq_pct": 173.4,
+   "yoy_pct": 537.8,
+   "salary": {
+    "median": 5097,
+    "p25": 4757,
+    "p75": 5970,
+    "mean": 6357,
+    "n": 1278,
+    "share": 0.05,
+    "currency": "SAR"
+   },
+   "remote_share": 0.007,
+   "employment": {
+    "full_time": 0.539,
+    "part_time": 0.003,
+    "contract": 0.009,
+    "other": 0.001,
+    "unknown": 0.448
+   },
+   "by_source": [
+    {
+     "code": "jooble.sa",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 5082
+    },
+    {
+     "code": "sa.foundit",
+     "service": "Foundit Gulf",
+     "kind": "portal",
+     "n": 4762
+    },
+    {
+     "code": "indeed.sa",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 4748
+    },
+    {
+     "code": "sa.gulftalent",
+     "service": "GulfTalent",
+     "kind": "portal",
+     "n": 3793
+    },
+    {
+     "code": "sa.naukrigulf",
+     "service": "Naukrigulf",
+     "kind": "portal",
+     "n": 3667
+    },
+    {
+     "code": "careerjet.sa",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 3401
+    },
+    {
+     "code": "sa.bayt",
+     "service": "Bayt.com",
+     "kind": "portal",
+     "n": 3330
+    },
+    {
+     "code": "sa.sabbar",
+     "service": "Sabbar",
+     "kind": "portal",
+     "n": 920
+    },
+    {
+     "code": "workable.sa",
+     "service": "Workable",
+     "kind": "aggregator",
+     "n": 777
+    },
+    {
+     "code": "sa.mejobs",
+     "service": "ME-Jobs",
+     "kind": "portal",
+     "n": 323
+    },
+    {
+     "code": "workday.sa",
+     "service": "Workday",
+     "kind": "aggregator",
+     "n": 151
+    },
+    {
+     "code": "smartrecruiters.sa",
+     "service": "SmartRecruiters",
+     "kind": "aggregator",
+     "n": 131
+    },
+    {
+     "code": "sa.arabjobs",
+     "service": "ArabJobs",
+     "kind": "portal",
+     "n": 80
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Riyadh",
+     "n": 10803,
+     "share": 0.347
+    },
+    {
+     "name": "Saudi Arabia",
+     "n": 3015,
+     "share": 0.097
+    },
+    {
+     "name": "الرياض",
+     "n": 2375,
+     "share": 0.076
+    },
+    {
+     "name": "Jeddah",
+     "n": 2033,
+     "share": 0.065
+    },
+    {
+     "name": "Dammam",
+     "n": 1197,
+     "share": 0.038
+    },
+    {
+     "name": "Khobar",
+     "n": 615,
+     "share": 0.02
+    },
+    {
+     "name": "Jubail",
+     "n": 433,
+     "share": 0.014
+    },
+    {
+     "name": "Makkah",
+     "n": 427,
+     "share": 0.014
+    },
+    {
+     "name": "Mecca",
+     "n": 426,
+     "share": 0.014
+    },
+    {
+     "name": "جدة",
+     "n": 405,
+     "share": 0.013
+    },
+    {
+     "name": "Eastern Province",
+     "n": 376,
+     "share": 0.012
+    },
+    {
+     "name": "Tabuk",
+     "n": 371,
+     "share": 0.012
+    },
+    {
+     "name": "Al Madinah",
+     "n": 288,
+     "share": 0.009
+    },
+    {
+     "name": "Asir",
+     "n": 224,
+     "share": 0.007
+    },
+    {
+     "name": "المدينة",
+     "n": 215,
+     "share": 0.007
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "business development manager",
+     "n": 54
+    },
+    {
+     "title": "project manager",
+     "n": 49
+    },
+    {
+     "title": "sales manager",
+     "n": 47
+    },
+    {
+     "title": "sales executive",
+     "n": 42
+    },
+    {
+     "title": "executive chef",
+     "n": 38
+    },
+    {
+     "title": "sales representative",
+     "n": 37
+    },
+    {
+     "title": "graphic designer",
+     "n": 34
+    },
+    {
+     "title": "finance manager",
+     "n": 33
+    },
+    {
+     "title": "accountant",
+     "n": 32
+    },
+    {
+     "title": "chef de partie",
+     "n": 30
+    },
+    {
+     "title": "electrical technician",
+     "n": 28
+    },
+    {
+     "title": "bartender",
+     "n": 27
+    },
+    {
+     "title": "executive assistant",
+     "n": 27
+    },
+    {
+     "title": "mechanical engineer",
+     "n": 26
+    },
+    {
+     "title": "electrical engineer",
+     "n": 25
+    }
+   ],
+   "regions": []
+  },
+  {
+   "period": "2026-Q3",
+   "partial": true,
+   "postings_new": 123146,
+   "postings_raw": 146134,
+   "qoq_pct": 327.1,
+   "yoy_pct": 1345.7,
+   "salary": {
+    "median": 5110,
+    "p25": 4055,
+    "p75": 7714,
+    "mean": 7006,
+    "n": 4699,
+    "share": 0.126,
+    "currency": "SAR"
+   },
+   "remote_share": 0.011,
+   "employment": {
+    "full_time": 0.372,
+    "part_time": 0.005,
+    "contract": 0.011,
+    "other": 0.003,
+    "unknown": 0.61
+   },
+   "by_source": [
+    {
+     "code": "tanqeeb.sa",
+     "service": "Tanqeeb",
+     "kind": "aggregator",
+     "n": 41682
+    },
+    {
+     "code": "jooble.sa",
+     "service": "Jooble",
+     "kind": "aggregator",
+     "n": 28053
+    },
+    {
+     "code": "careerjet.sa",
+     "service": "Careerjet",
+     "kind": "aggregator",
+     "n": 25362
+    },
+    {
+     "code": "sa.foundit",
+     "service": "Foundit Gulf",
+     "kind": "portal",
+     "n": 10789
+    },
+    {
+     "code": "sa.sabbar",
+     "service": "Sabbar",
+     "kind": "portal",
+     "n": 9503
+    },
+    {
+     "code": "indeed.sa",
+     "service": "Indeed",
+     "kind": "aggregator",
+     "n": 9295
+    },
+    {
+     "code": "sa.bayt",
+     "service": "Bayt.com",
+     "kind": "portal",
+     "n": 7915
+    },
+    {
+     "code": "sa.naukrigulf",
+     "service": "Naukrigulf",
+     "kind": "portal",
+     "n": 7211
+    },
+    {
+     "code": "sa.gulftalent",
+     "service": "GulfTalent",
+     "kind": "portal",
+     "n": 4277
+    },
+    {
+     "code": "workable.sa",
+     "service": "Workable",
+     "kind": "aggregator",
+     "n": 1020
+    },
+    {
+     "code": "workday.sa",
+     "service": "Workday",
+     "kind": "aggregator",
+     "n": 487
+    },
+    {
+     "code": "smartrecruiters.sa",
+     "service": "SmartRecruiters",
+     "kind": "aggregator",
+     "n": 319
+    },
+    {
+     "code": "sa.mejobs",
+     "service": "ME-Jobs",
+     "kind": "portal",
+     "n": 178
+    },
+    {
+     "code": "sa.arabjobs",
+     "service": "ArabJobs",
+     "kind": "portal",
+     "n": 25
+    },
+    {
+     "code": "sa.mihnati",
+     "service": "Mihnati",
+     "kind": "portal",
+     "n": 18
+    }
+   ],
+   "top_cities": [
+    {
+     "name": "Riyadh",
+     "n": 47373,
+     "share": 0.324
+    },
+    {
+     "name": "Jeddah",
+     "n": 20649,
+     "share": 0.141
+    },
+    {
+     "name": "Saudi Arabia",
+     "n": 10959,
+     "share": 0.075
+    },
+    {
+     "name": "Dubai",
+     "n": 7487,
+     "share": 0.051
+    },
+    {
+     "name": "Saudi",
+     "n": 6784,
+     "share": 0.046
+    },
+    {
+     "name": "الرياض",
+     "n": 5104,
+     "share": 0.035
+    },
+    {
+     "name": "Dammam",
+     "n": 4433,
+     "share": 0.03
+    },
+    {
+     "name": "Huntsville",
+     "n": 3859,
+     "share": 0.026
+    },
+    {
+     "name": "Eastern Province",
+     "n": 3107,
+     "share": 0.021
+    },
+    {
+     "name": "Makkah",
+     "n": 2504,
+     "share": 0.017
+    },
+    {
+     "name": "Khobar",
+     "n": 2226,
+     "share": 0.015
+    },
+    {
+     "name": "Jubail",
+     "n": 1362,
+     "share": 0.009
+    },
+    {
+     "name": "Al Damam",
+     "n": 1284,
+     "share": 0.009
+    },
+    {
+     "name": "Eastern",
+     "n": 935,
+     "share": 0.006
+    },
+    {
+     "name": "Dhahran",
+     "n": 732,
+     "share": 0.005
+    }
+   ],
+   "top_titles": [
+    {
+     "title": "sales representative",
+     "n": 824
+    },
+    {
+     "title": "project manager",
+     "n": 553
+    },
+    {
+     "title": "sales manager",
+     "n": 509
+    },
+    {
+     "title": "accountant",
+     "n": 454
+    },
+    {
+     "title": "sales specialist",
+     "n": 428
+    },
+    {
+     "title": "sales executive",
+     "n": 427
+    },
+    {
+     "title": "electrical engineer",
+     "n": 392
+    },
+    {
+     "title": "receptionist",
+     "n": 372
+    },
+    {
+     "title": "mechanical engineer",
+     "n": 355
+    },
+    {
+     "title": "marketing specialist",
+     "n": 331
+    },
+    {
+     "title": "civil engineer",
+     "n": 320
+    },
+    {
+     "title": "business development manager",
+     "n": 310
+    },
+    {
+     "title": "administrative assistant",
+     "n": 255
+    },
+    {
+     "title": "محاسب",
+     "n": 253
+    },
+    {
+     "title": "graphic designer",
+     "n": 237
+    }
+   ],
+   "regions": []
+  }
+ ],
+ "sources": [
+  {
+   "code": "tanqeeb.sa",
+   "service": "Tanqeeb",
+   "kind": "aggregator",
+   "url": "https://saudi.tanqeeb.com",
+   "collecting_since": "2026-08-04",
+   "offers_total": 48147,
+   "share_latest": 0.393,
+   "salary_coverage": 0.265,
+   "description_coverage": 0.998
+  },
+  {
+   "code": "jooble.sa",
+   "service": "Jooble",
+   "kind": "aggregator",
+   "url": "https://sa.jooble.org",
+   "collecting_since": "2025-06-16",
+   "offers_total": 35768,
+   "share_latest": 0.096,
+   "salary_coverage": 0.024,
+   "description_coverage": 1.0
+  },
+  {
+   "code": "careerjet.sa",
+   "service": "Careerjet",
+   "kind": "aggregator",
+   "url": "https://www.careerjet.com.sa",
+   "collecting_since": "2023-03-07",
+   "offers_total": 33243,
+   "share_latest": 0.186,
+   "salary_coverage": 0.113,
+   "description_coverage": 1.0
+  },
+  {
+   "code": "sa.foundit",
+   "service": "Foundit Gulf",
+   "kind": "portal",
+   "url": "https://www.founditgulf.com",
+   "collecting_since": "2023-01-28",
+   "offers_total": 23715,
+   "share_latest": 0.076,
+   "salary_coverage": 0.025,
+   "description_coverage": 0.084
+  },
+  {
+   "code": "sa.sabbar",
+   "service": "Sabbar",
+   "kind": "portal",
+   "url": "https://sabbar.com",
+   "collecting_since": "2024-02-20",
+   "offers_total": 23018,
+   "share_latest": 0.09,
+   "salary_coverage": 0.702,
+   "description_coverage": 1.0
+  },
+  {
+   "code": "sa.gulftalent",
+   "service": "GulfTalent",
+   "kind": "portal",
+   "url": "https://www.gulftalent.com",
+   "collecting_since": "2023-01-16",
+   "offers_total": 22258,
+   "share_latest": 0.02,
+   "salary_coverage": 0.043,
+   "description_coverage": 1.0
+  },
+  {
+   "code": "sa.bayt",
+   "service": "Bayt.com",
+   "kind": "portal",
+   "url": "https://www.bayt.com",
+   "collecting_since": "2023-01-01",
+   "offers_total": 18404,
+   "share_latest": 0.042,
+   "salary_coverage": 0.062,
+   "description_coverage": 0.996
+  },
+  {
+   "code": "indeed.sa",
+   "service": "Indeed",
+   "kind": "aggregator",
+   "url": "https://sa.indeed.com",
+   "collecting_since": "2023-01-15",
+   "offers_total": 18375,
+   "share_latest": 0.051,
+   "salary_coverage": 0.001,
+   "description_coverage": 1.0
+  },
+  {
+   "code": "sa.naukrigulf",
+   "service": "Naukrigulf",
+   "kind": "portal",
+   "url": "https://www.naukrigulf.com",
+   "collecting_since": "2026-07-31",
+   "offers_total": 12949,
+   "share_latest": 0.035,
+   "salary_coverage": 0.0,
+   "description_coverage": 1.0
+  },
+  {
+   "code": "sa.arabjobs",
+   "service": "ArabJobs",
+   "kind": "portal",
+   "url": "https://www.arabjobs.com",
+   "collecting_since": "2023-01-28",
+   "offers_total": 10937,
+   "share_latest": 0.0,
+   "salary_coverage": 0.0,
+   "description_coverage": 1.0
+  },
+  {
+   "code": "workable.sa",
+   "service": "Workable",
+   "kind": "aggregator",
+   "url": "https://jobs.workable.com",
+   "collecting_since": "2026-08-21",
+   "offers_total": 3060,
+   "share_latest": 0.005,
+   "salary_coverage": 0.0,
+   "description_coverage": 1.0
+  },
+  {
+   "code": "sa.mejobs",
+   "service": "ME-Jobs",
+   "kind": "portal",
+   "url": "https://www.me-jobs.com",
+   "collecting_since": "2026-08-21",
+   "offers_total": 2964,
+   "share_latest": 0.001,
+   "salary_coverage": 0.0,
+   "description_coverage": 1.0
+  },
+  {
+   "code": "sa.mihnati",
+   "service": "Mihnati",
+   "kind": "portal",
+   "url": "https://www.mihnati.com",
+   "collecting_since": "2023-01-29",
+   "offers_total": 1708,
+   "share_latest": 0.0,
+   "salary_coverage": 0.011,
+   "description_coverage": 1.0
+  },
+  {
+   "code": "workday.sa",
+   "service": "Workday",
+   "kind": "aggregator",
+   "url": "https://www.myworkdayjobs.com",
+   "collecting_since": "2026-08-21",
+   "offers_total": 723,
+   "share_latest": 0.003,
+   "salary_coverage": 0.0,
+   "description_coverage": 1.0
+  },
+  {
+   "code": "smartrecruiters.sa",
+   "service": "SmartRecruiters",
+   "kind": "aggregator",
+   "url": "https://jobs.smartrecruiters.com",
+   "collecting_since": "2026-08-21",
+   "offers_total": 700,
+   "share_latest": 0.002,
+   "salary_coverage": 0.0,
+   "description_coverage": 0.996
+  }
+ ],
+ "quality": {
+  "field_coverage": {
+   "salary_any": 0.15,
+   "city": 0.943,
+   "company": 0.96,
+   "employment_type": 0.497,
+   "remote": 0.52,
+   "posted_at": 0.808
+  },
+  "dedup": {
+   "within_source_rule_pl": "Ta sama oferta w tym samym serwisie liczona raz (klucz: adres URL lub identyfikator ogłoszenia).",
+   "cross_source_estimate": 0.128,
+   "cross_source_note_pl": "Szacunkowy odsetek ogłoszeń widocznych w więcej niż jednym serwisie (ten sam tytuł, firma i miasto w tym samym miesiącu). Wskaźniki liczymy po zdjęciu tych powtórek."
+  }
+ },
+ "highlights": [
+  {
+   "id": "volume",
+   "icon": "trend",
+   "title_pl": "Sierpień: +138,4% m/m",
+   "text_pl": "86 759 nowych ogłoszeń - najwięcej od początku zbierania.",
+   "title_en": "August: +138.4% m/m",
+   "text_en": "86,759 new postings - the most since collection began."
+  },
+  {
+   "id": "mover",
+   "icon": "city",
+   "title_pl": "Największa zmiana: Jeddah +411,5%",
+   "text_pl": "17 272 ogłoszeń wobec 3 377 miesiąc wcześniej.",
+   "title_en": "Biggest move: Jeddah +411.5%",
+   "text_en": "17,272 postings vs 3,377 a month earlier."
+  },
+  {
+   "id": "salary",
+   "icon": "salary",
+   "title_pl": "Mediana wynagrodzenia: 5 000 SAR",
+   "text_pl": "Połowa ofert z podaną stawką mieści się między 4 000 a 7 000 SAR miesięcznie; stawkę podaje 16% ogłoszeń.",
+   "title_en": "Median pay: 5,000 SAR",
+   "text_en": "Half of the postings with stated pay fall between 4,000 and 7,000 SAR per month; 16% of postings state pay."
+  },
+  {
+   "id": "remote",
+   "icon": "remote",
+   "title_pl": "Praca zdalna: 1,4% ogłoszeń",
+   "text_pl": "1 486 ogłoszeń oznaczonych jako praca zdalna (+1,0 pkt proc. m/m).",
+   "title_en": "Remote work: 1.4% of postings",
+   "text_en": "1,486 postings flagged as remote (+1.0 pp m/m)."
+  },
+  {
+   "id": "source",
+   "icon": "source",
+   "title_pl": "Największy serwis: Tanqeeb (39%)",
+   "text_pl": "Dane z 15 serwisów; Tanqeeb dostarcza 41 682 z 106 108 ogłoszeń przed zdjęciem powtórek.",
+   "title_en": "Largest source: Tanqeeb (39%)",
+   "text_en": "Data from 15 sources; Tanqeeb provides 41,682 of 106,108 postings before de-duplication."
+  },
+  {
+   "id": "cities",
+   "icon": "map",
+   "title_pl": "691 miast z ogłoszeniami",
+   "text_pl": "Najwięcej w: Riyadh (30%), Jeddah (16%), Saudi Arabia (7%).",
+   "title_en": "691 cities with postings",
+   "text_en": "Most in: Riyadh (30%), Jeddah (16%), Saudi Arabia (7%)."
+  }
+ ],
+ "commentary": {
+  "month": "2026-08",
+  "generated_at": "2026-09-30T15:38:19+00:00",
+  "model": "claude-opus-5-5",
+  "is_ai": true,
+  "lead_pl": "W sierpniu 2026 r. w Arabii Saudyjskiej pojawiło się 86 759 nowych internetowych ogłoszeń o pracę, o 138,4% więcej niż w lipcu.",
+  "body_pl": "W sierpniu 2026 r. serwisy internetowe opublikowały w Arabii Saudyjskiej 86 759 nowych ogłoszeń o pracę. W lipcu było ich 36 387, więc wzrost wyniósł 138,4% m/m. Rok do roku liczba ogłoszeń wzrosła o 2986,4%. Na koniec miesiąca aktywnych było 152 830 ogłoszeń, wobec 24 230 na koniec lipca. Przed zdjęciem powtórek zebrano 106 108 ogłoszeń. Szacunkowo 12,8% z nich pojawiało się w więcej niż jednym serwisie.\n\nLiczba nowych ogłoszeń rośnie od kwietnia: 5 027, 8 100, 15 706, 36 387 i 86 759. Hipoteza: tak szybki wzrost może w dużej części wynikać z poszerzenia zasięgu zbierania danych, a nie tylko ze zmian na rynku. Dane pochodzą z 15 serwisów, a przeważają agregatory: Tanqeeb (41 682 ogłoszeń, 39,3%), Careerjet (19 767) i Jooble (10 163).\n\nNajwięcej ogłoszeń dotyczyło Rijadu (32 157, 30,3%) i Dżuddy (17 272, 16,3%). W Dżuddzie liczba ogłoszeń wzrosła o 411,5%, z 3 377 w lipcu. Wśród pięciu najczęstszych lokalizacji są też ogólne oznaczenia „Saudi Arabia” (7,2%) i „Saudi” (6,4%). Jest tam również Dubaj (7 487 ogłoszeń, 7,1%), czyli miasto spoza kraju.\n\nMediana wynagrodzenia wyniosła 5 000 SAR miesięcznie. Dotyczy ona tylko ogłoszeń z podaną kwotą, czyli 16,4% (4 183 ogłoszeń). Połowa tych ofert mieściła się między 4 000 a 7 000 SAR. W lipcu mediana wynosiła 6 000 SAR, ale kwotę podawało wtedy 2,7% ogłoszeń, więc obu wartości nie należy porównywać wprost. Pracę zdalną oferowało 1,4% ogłoszeń. W 57,9% ogłoszeń nie podano rodzaju zatrudnienia, a 40,0% dotyczyło pełnego etatu.",
+  "bullets_pl": [
+   "86 759 nowych ogłoszeń, +138,4% m/m",
+   "Rijad: 32 157 ogłoszeń (30,3%), Dżudda: 17 272 (+411,5% m/m)",
+   "Mediana 5 000 SAR w 16,4% ogłoszeń z podaną kwotą"
+  ],
+  "caveats_pl": "Wskaźniki opisują tylko ogłoszenia publikowane w internecie, historia miesięczna jest krótka i silnie zależy od zmian w liczbie i zasięgu źródeł, wynagrodzenie podaje tylko 16,4% ogłoszeń, a wrzesień 2026 nie zostanie ujęty z powodu przerwy w zbieraniu danych.",
+  "lead_en": "In August 2026, 86,759 new online job postings appeared in Saudi Arabia, 138.4% more than in July.",
+  "body_en": "In August 2026, online job boards published 86,759 new job postings in Saudi Arabia. July had 36,387, so the increase was 138.4% month on month. Year on year, the number of postings rose by 2986.4%. At the end of the month, 152,830 postings were active, compared with 24,230 at the end of July. Before duplicates were removed, 106,108 postings were collected. An estimated 12.8% of them appeared on more than one site.\n\nThe number of new postings has been rising since April: 5,027, 8,100, 15,706, 36,387 and 86,759. Hypothesis: such rapid growth may largely reflect wider data collection coverage rather than only changes in the market. The data come from 15 sites, and aggregators dominate: Tanqeeb (41,682 postings, 39.3%), Careerjet (19,767) and Jooble (10,163).\n\nMost postings were for Riyadh (32,157, 30.3%) and Jeddah (17,272, 16.3%). In Jeddah, the number of postings rose by 411.5%, from 3,377 in July. The five most common locations also include the generic labels \"Saudi Arabia\" (7.2%) and \"Saudi\" (6.4%). Dubai also appears (7,487 postings, 7.1%), a city outside the country.\n\nThe median salary was SAR 5,000 per month. It covers only postings that stated an amount, which was 16.4% (4,183 postings). Half of those offers fell between SAR 4,000 and SAR 7,000. In July the median was SAR 6,000, but only 2.7% of postings stated an amount then, so the two figures should not be compared directly. Remote work was offered in 1.4% of postings. The employment type was not specified in 57.9% of postings, and 40.0% were for full-time jobs.",
+  "bullets_en": [
+   "86,759 new postings, +138.4% m/m",
+   "Riyadh: 32,157 postings (30.3%), Jeddah: 17,272 (+411.5% m/m)",
+   "Median SAR 5,000 in the 16.4% of postings stating an amount"
+  ]
+ },
+ "skills_demo": {
+  "is_synthetic": true,
+  "note_pl": "Dane demonstracyjne: nazwy umiejętności pochodzą z taksonomii ESCO, wartości są wygenerowane. Docelowo - identyfikacja umiejętności w treści ogłoszeń.",
+  "months": [
+   "2026-03",
+   "2026-04",
+   "2026-05",
+   "2026-06",
+   "2026-07",
+   "2026-08"
+  ],
+  "groups": [
+   {
+    "id": "digital",
+    "name_pl": "Kompetencje cyfrowe",
+    "name_en": "Digital skills",
+    "share": 0.156,
+    "change_pct": 8.9
+   },
+   {
+    "id": "data_ai",
+    "name_pl": "Dane i sztuczna inteligencja",
+    "name_en": "Data & AI",
+    "share": 0.067,
+    "change_pct": 17.9
+   },
+   {
+    "id": "green",
+    "name_pl": "Zielone kompetencje",
+    "name_en": "Green skills",
+    "share": 0.037,
+    "change_pct": 13.4
+   },
+   {
+    "id": "management",
+    "name_pl": "Zarządzanie",
+    "name_en": "Management",
+    "share": 0.118,
+    "change_pct": -0.4
+   },
+   {
+    "id": "communication",
+    "name_pl": "Komunikacja i współpraca",
+    "name_en": "Communication & teamwork",
+    "share": 0.132,
+    "change_pct": -1.5
+   },
+   {
+    "id": "technical_trades",
+    "name_pl": "Zawody techniczne i produkcja",
+    "name_en": "Technical trades",
+    "share": 0.094,
+    "change_pct": -6.8
+   },
+   {
+    "id": "healthcare",
+    "name_pl": "Opieka zdrowotna",
+    "name_en": "Healthcare",
+    "share": 0.076,
+    "change_pct": 4.8
+   },
+   {
+    "id": "finance_admin",
+    "name_pl": "Finanse i administracja",
+    "name_en": "Finance & administration",
+    "share": 0.089,
+    "change_pct": -9.5
+   },
+   {
+    "id": "languages",
+    "name_pl": "Języki obce",
+    "name_en": "Languages",
+    "share": 0.102,
+    "change_pct": -4.3
+   },
+   {
+    "id": "customer_sales",
+    "name_pl": "Obsługa klienta i sprzedaż",
+    "name_en": "Customer service & sales",
+    "share": 0.13,
+    "change_pct": -5.5
+   }
+  ],
+  "skills": [
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/33859d93-987c-4caa-a0a9-6159ea7bbc2a",
+    "name_pl": "język arabski",
+    "name_en": "Arabic",
+    "group": "languages",
+    "share": 0.0221,
+    "change_pct": -10.5,
+    "series": [
+     0.0247,
+     0.0237,
+     0.0234,
+     0.0226,
+     0.0227,
+     0.0221
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/7ff2c668-0e86-418a-a962-4958262ee337",
+    "name_pl": "techniki komunikacji",
+    "name_en": "use communication techniques",
+    "group": "communication",
+    "share": 0.0164,
+    "change_pct": 18.0,
+    "series": [
+     0.0139,
+     0.0147,
+     0.0152,
+     0.0156,
+     0.0161,
+     0.0164
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+    "name_pl": "obsługa pakietu Microsoft Office",
+    "name_en": "use microsoft office",
+    "group": "digital",
+    "share": 0.0155,
+    "change_pct": -4.9,
+    "series": [
+     0.0163,
+     0.0161,
+     0.0162,
+     0.0164,
+     0.0158,
+     0.0155
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/c55caed2-de9e-4a25-819e-a0b0e83fba1b",
+    "name_pl": "prowadzenie prezentacji",
+    "name_en": "give live presentation",
+    "group": "communication",
+    "share": 0.0153,
+    "change_pct": 2.7,
+    "series": [
+     0.0149,
+     0.0151,
+     0.0153,
+     0.0153,
+     0.0154,
+     0.0153
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/0da516ee-e70e-4384-be13-f5ff80be8127",
+    "name_pl": "komunikacja z klientami",
+    "name_en": "communicate with customers",
+    "group": "customer_sales",
+    "share": 0.0151,
+    "change_pct": 9.4,
+    "series": [
+     0.0138,
+     0.0141,
+     0.0142,
+     0.0143,
+     0.0146,
+     0.0151
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/15a33d76-4640-438d-ae64-fdc0c1d3eebc",
+    "name_pl": "obsługa klienta",
+    "name_en": "customer service",
+    "group": "customer_sales",
+    "share": 0.0143,
+    "change_pct": -7.7,
+    "series": [
+     0.0155,
+     0.0149,
+     0.0145,
+     0.0144,
+     0.0142,
+     0.0143
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+    "name_pl": "JavaScript",
+    "name_en": "JavaScript",
+    "group": "digital",
+    "share": 0.0136,
+    "change_pct": 12.4,
+    "series": [
+     0.0121,
+     0.0124,
+     0.0127,
+     0.013,
+     0.0133,
+     0.0136
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/29a50780-f81b-429c-b410-7f23a492e19d",
+    "name_pl": "sprzedaż produktów",
+    "name_en": "sell products",
+    "group": "customer_sales",
+    "share": 0.0133,
+    "change_pct": -13.1,
+    "series": [
+     0.0153,
+     0.0145,
+     0.014,
+     0.0139,
+     0.0137,
+     0.0133
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/6eff134b-e34f-4d6e-a6e8-5e47cf2228d0",
+    "name_pl": "zarządzanie ryzykiem",
+    "name_en": "risk management",
+    "group": "management",
+    "share": 0.012,
+    "change_pct": 14.3,
+    "series": [
+     0.0105,
+     0.0114,
+     0.0115,
+     0.0116,
+     0.0119,
+     0.012
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/f0de4973-0a70-4644-8fd4-3a97080476f4",
+    "name_pl": "DevOps",
+    "name_en": "DevOps",
+    "group": "digital",
+    "share": 0.0119,
+    "change_pct": -1.7,
+    "series": [
+     0.0121,
+     0.0121,
+     0.0119,
+     0.0122,
+     0.0118,
+     0.0119
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/a17286c5-238d-4f0b-bc24-29e9121345de",
+    "name_pl": "aktywne słuchanie",
+    "name_en": "listen actively",
+    "group": "communication",
+    "share": 0.0116,
+    "change_pct": 1.8,
+    "series": [
+     0.0114,
+     0.0117,
+     0.0116,
+     0.0116,
+     0.0117,
+     0.0116
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/2a82241a-216e-44d8-bb50-6b9a0ef82084",
+    "name_pl": "prowadzenie pojazdów",
+    "name_en": "drive vehicles",
+    "group": "technical_trades",
+    "share": 0.0112,
+    "change_pct": -6.7,
+    "series": [
+     0.012,
+     0.0114,
+     0.0114,
+     0.0116,
+     0.0114,
+     0.0112
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44",
+    "name_pl": "cyberbezpieczeństwo",
+    "name_en": "cyber security",
+    "group": "digital",
+    "share": 0.011,
+    "change_pct": 31.0,
+    "series": [
+     0.0084,
+     0.009,
+     0.0094,
+     0.01,
+     0.0104,
+     0.011
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+    "name_pl": "zarządzanie projektami",
+    "name_en": "perform project management",
+    "group": "management",
+    "share": 0.011,
+    "change_pct": 5.8,
+    "series": [
+     0.0104,
+     0.0112,
+     0.0112,
+     0.011,
+     0.0113,
+     0.011
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/949ced5f-7536-4614-ac60-563ffc91a2f2",
+    "name_pl": "planowanie strategiczne",
+    "name_en": "strategic planning",
+    "group": "management",
+    "share": 0.011,
+    "change_pct": 8.9,
+    "series": [
+     0.0101,
+     0.0109,
+     0.0111,
+     0.0107,
+     0.0108,
+     0.011
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/28cb374e-6261-4133-8371-f9a5470145da",
+    "name_pl": "obsługa wózka widłowego",
+    "name_en": "operate forklift",
+    "group": "technical_trades",
+    "share": 0.0109,
+    "change_pct": -15.5,
+    "series": [
+     0.0129,
+     0.012,
+     0.0117,
+     0.0115,
+     0.0117,
+     0.0109
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/e3e42d54-78bd-4337-aa87-bb31a7670c9a",
+    "name_pl": "wystawianie faktur",
+    "name_en": "issue sales invoices",
+    "group": "finance_admin",
+    "share": 0.0102,
+    "change_pct": -10.5,
+    "series": [
+     0.0114,
+     0.0111,
+     0.0105,
+     0.0107,
+     0.0105,
+     0.0102
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0",
+    "name_pl": "język angielski",
+    "name_en": "English",
+    "group": "languages",
+    "share": 0.0102,
+    "change_pct": -8.9,
+    "series": [
+     0.0112,
+     0.0108,
+     0.0111,
+     0.0106,
+     0.0105,
+     0.0102
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/4812a4ea-dc55-4dc6-b9b0-4a59bba2c647",
+    "name_pl": "język niemiecki",
+    "name_en": "German",
+    "group": "languages",
+    "share": 0.0099,
+    "change_pct": 7.6,
+    "series": [
+     0.0092,
+     0.0091,
+     0.0097,
+     0.0093,
+     0.0098,
+     0.0099
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/8b3aefd2-5021-418f-b069-828fb7abc598",
+    "name_pl": "podstawy pielęgniarstwa",
+    "name_en": "nursing principles",
+    "group": "healthcare",
+    "share": 0.009,
+    "change_pct": 25.0,
+    "series": [
+     0.0072,
+     0.0074,
+     0.0078,
+     0.0083,
+     0.0084,
+     0.009
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/0450eaee-1a00-4622-8f4e-5356fce816d2",
+    "name_pl": "higiena w placówkach ochrony zdrowia",
+    "name_en": "hygiene in a health care setting",
+    "group": "healthcare",
+    "share": 0.0086,
+    "change_pct": 24.6,
+    "series": [
+     0.0069,
+     0.0073,
+     0.0073,
+     0.008,
+     0.008,
+     0.0086
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/e437eba1-3e22-41f2-8703-741e94785cba",
+    "name_pl": "zarządzanie zasobami ludzkimi",
+    "name_en": "human resource management",
+    "group": "finance_admin",
+    "share": 0.0086,
+    "change_pct": -10.4,
+    "series": [
+     0.0096,
+     0.0095,
+     0.0089,
+     0.009,
+     0.0087,
+     0.0086
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/fff0e2cd-d0bd-4b02-9daf-158b79d9688a",
+    "name_pl": "przetwarzanie języka naturalnego",
+    "name_en": "natural language processing",
+    "group": "data_ai",
+    "share": 0.0078,
+    "change_pct": 13.0,
+    "series": [
+     0.0069,
+     0.007,
+     0.0072,
+     0.0072,
+     0.0076,
+     0.0078
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/25f0ea33-b4a2-4f31-b7b4-7d20e827b180",
+    "name_pl": "eksploracja danych",
+    "name_en": "data mining",
+    "group": "data_ai",
+    "share": 0.0065,
+    "change_pct": 10.2,
+    "series": [
+     0.0059,
+     0.0061,
+     0.0062,
+     0.0063,
+     0.0065,
+     0.0065
+    ]
+   },
+   {
+    "esco_uri": "http://data.europa.eu/esco/skill/05e5e14f-ffa6-4106-b311-c6335ccc2bd2",
+    "name_pl": "energia słoneczna",
+    "name_en": "solar energy",
+    "group": "green",
+    "share": 0.0044,
+    "change_pct": 18.9,
+    "series": [
+     0.0037,
+     0.0039,
+     0.0039,
+     0.004,
+     0.0041,
+     0.0044
+    ]
+   }
+  ]
+ }
+}
