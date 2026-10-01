@@ -3,4 +3,4 @@
 Statyczna publikacja portalu (GitHub Pages).
 Kod źródłowy i metodologia: repozytorium `ibe-datascience/jobads`, `docs/monitor.md`.
 
-Ostatnia publikacja: 2026-09-30T21:09:18Z
+Ostatnia publikacja: 2026-10-01T01:35:19Z
